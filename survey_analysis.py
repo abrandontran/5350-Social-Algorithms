@@ -1,5 +1,5 @@
 ### Brandon Tran (bat53)
-### S&DS 5360 | Social Algorithms
+### S&DS 5350 | Social Algorithms
 ### Assignment 1, Part 1, Step 1
 
 
