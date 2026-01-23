@@ -17,13 +17,20 @@ import seaborn as sns
 df = pd.read_csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/comma-survey/comma-survey.csv")
 
 substantive_rename_dict = {
-    'In your opinion, which sentence is more gramatically correct?': 'preference',
-    'Prior to reading about it above, had you heard of the serial (or Oxford) comma?': 'prior',
-    'How much, if at all, do you care about the use (or lack thereof) of the serial (or Oxford) comma in grammar?': 'comma_care',
-    'How would you write the following sentence?': 'sentence_example',
-    'When faced with using the word "data", have you ever spent time considering if the word was a singular or plural noun?': 'data',
-    'How much, if at all, do you care about the debate over the use of the word "data" as a singluar or plural noun?': 'data_care',
-    'In your opinion, how important or unimportant is proper use of grammar?': 'grammar_importance',
+    'In your opinion, which sentence is more gramatically correct?':
+        'preference',
+    'Prior to reading about it above, had you heard of the serial (or Oxford) comma?':
+        'prior',
+    'How much, if at all, do you care about the use (or lack thereof) of the serial (or Oxford) comma in grammar?':
+        'comma_care',
+    'How would you write the following sentence?':
+        'sentence_example',
+    'When faced with using the word "data", have you ever spent time considering if the word was a singular or plural noun?':
+        'data',
+    'How much, if at all, do you care about the debate over the use of the word "data" as a singluar or plural noun?':
+        'data_care',
+    'In your opinion, how important or unimportant is proper use of grammar?':
+    'grammar_importance',
 }
 
 demographic_rename_dict = {
