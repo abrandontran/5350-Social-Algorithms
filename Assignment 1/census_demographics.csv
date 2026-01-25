@@ -1,0 +1,1801 @@
+Gender,Age,Household Income,Education,Location (Census Region),count
+Male,18-29,"$0 - $24,999",Less than high school degree,New England,8844
+Female,18-29,"$0 - $24,999",Less than high school degree,New England,8064
+Male,30-44,"$0 - $24,999",Less than high school degree,New England,12592
+Female,30-44,"$0 - $24,999",Less than high school degree,New England,12132
+Male,45-60,"$0 - $24,999",Less than high school degree,New England,16367
+Female,45-60,"$0 - $24,999",Less than high school degree,New England,17824
+Male,> 60,"$0 - $24,999",Less than high school degree,New England,38718
+Female,> 60,"$0 - $24,999",Less than high school degree,New England,64922
+Male,18-29,"$25,000 - $49,999",Less than high school degree,New England,13295
+Female,18-29,"$25,000 - $49,999",Less than high school degree,New England,9514
+Male,30-44,"$25,000 - $49,999",Less than high school degree,New England,16113
+Female,30-44,"$25,000 - $49,999",Less than high school degree,New England,16293
+Male,45-60,"$25,000 - $49,999",Less than high school degree,New England,16311
+Female,45-60,"$25,000 - $49,999",Less than high school degree,New England,16050
+Male,> 60,"$25,000 - $49,999",Less than high school degree,New England,37820
+Female,> 60,"$25,000 - $49,999",Less than high school degree,New England,33144
+Male,18-29,"$50,000 - $99,999",Less than high school degree,New England,28536
+Female,18-29,"$50,000 - $99,999",Less than high school degree,New England,19477
+Male,30-44,"$50,000 - $99,999",Less than high school degree,New England,37151
+Female,30-44,"$50,000 - $99,999",Less than high school degree,New England,20701
+Male,45-60,"$50,000 - $99,999",Less than high school degree,New England,38890
+Female,45-60,"$50,000 - $99,999",Less than high school degree,New England,26065
+Male,> 60,"$50,000 - $99,999",Less than high school degree,New England,45498
+Female,> 60,"$50,000 - $99,999",Less than high school degree,New England,36598
+Male,18-29,"$100,000 - $149,999",Less than high school degree,New England,15893
+Female,18-29,"$100,000 - $149,999",Less than high school degree,New England,10649
+Male,30-44,"$100,000 - $149,999",Less than high school degree,New England,21836
+Female,30-44,"$100,000 - $149,999",Less than high school degree,New England,14997
+Male,45-60,"$100,000 - $149,999",Less than high school degree,New England,26596
+Female,45-60,"$100,000 - $149,999",Less than high school degree,New England,18204
+Male,> 60,"$100,000 - $149,999",Less than high school degree,New England,19096
+Female,> 60,"$100,000 - $149,999",Less than high school degree,New England,21027
+Male,18-29,"$150,000+",Less than high school degree,New England,29527
+Female,18-29,"$150,000+",Less than high school degree,New England,23911
+Male,30-44,"$150,000+",Less than high school degree,New England,25797
+Female,30-44,"$150,000+",Less than high school degree,New England,14265
+Male,45-60,"$150,000+",Less than high school degree,New England,26568
+Female,45-60,"$150,000+",Less than high school degree,New England,18025
+Male,> 60,"$150,000+",Less than high school degree,New England,19936
+Female,> 60,"$150,000+",Less than high school degree,New England,26246
+Male,18-29,"$0 - $24,999",High school degree,New England,21563
+Female,18-29,"$0 - $24,999",High school degree,New England,26114
+Male,30-44,"$0 - $24,999",High school degree,New England,22393
+Female,30-44,"$0 - $24,999",High school degree,New England,32416
+Male,45-60,"$0 - $24,999",High school degree,New England,26069
+Female,45-60,"$0 - $24,999",High school degree,New England,34670
+Male,> 60,"$0 - $24,999",High school degree,New England,59904
+Female,> 60,"$0 - $24,999",High school degree,New England,112216
+Male,18-29,"$25,000 - $49,999",High school degree,New England,41544
+Female,18-29,"$25,000 - $49,999",High school degree,New England,32391
+Male,30-44,"$25,000 - $49,999",High school degree,New England,40019
+Female,30-44,"$25,000 - $49,999",High school degree,New England,41276
+Male,45-60,"$25,000 - $49,999",High school degree,New England,42595
+Female,45-60,"$25,000 - $49,999",High school degree,New England,45395
+Male,> 60,"$25,000 - $49,999",High school degree,New England,88360
+Female,> 60,"$25,000 - $49,999",High school degree,New England,124185
+Male,18-29,"$50,000 - $99,999",High school degree,New England,105905
+Female,18-29,"$50,000 - $99,999",High school degree,New England,72259
+Male,30-44,"$50,000 - $99,999",High school degree,New England,109739
+Female,30-44,"$50,000 - $99,999",High school degree,New England,80866
+Male,45-60,"$50,000 - $99,999",High school degree,New England,111003
+Female,45-60,"$50,000 - $99,999",High school degree,New England,86604
+Male,> 60,"$50,000 - $99,999",High school degree,New England,152163
+Female,> 60,"$50,000 - $99,999",High school degree,New England,166320
+Male,18-29,"$100,000 - $149,999",High school degree,New England,78399
+Female,18-29,"$100,000 - $149,999",High school degree,New England,61875
+Male,30-44,"$100,000 - $149,999",High school degree,New England,94717
+Female,30-44,"$100,000 - $149,999",High school degree,New England,54686
+Male,45-60,"$100,000 - $149,999",High school degree,New England,86083
+Female,45-60,"$100,000 - $149,999",High school degree,New England,69459
+Male,> 60,"$100,000 - $149,999",High school degree,New England,86500
+Female,> 60,"$100,000 - $149,999",High school degree,New England,81052
+Male,18-29,"$150,000+",High school degree,New England,128847
+Female,18-29,"$150,000+",High school degree,New England,81795
+Male,30-44,"$150,000+",High school degree,New England,99095
+Female,30-44,"$150,000+",High school degree,New England,48053
+Male,45-60,"$150,000+",High school degree,New England,118667
+Female,45-60,"$150,000+",High school degree,New England,89147
+Male,> 60,"$150,000+",High school degree,New England,87908
+Female,> 60,"$150,000+",High school degree,New England,80151
+Male,18-29,"$0 - $24,999",Some college or Associate degree,New England,14170
+Female,18-29,"$0 - $24,999",Some college or Associate degree,New England,18848
+Male,30-44,"$0 - $24,999",Some college or Associate degree,New England,13665
+Female,30-44,"$0 - $24,999",Some college or Associate degree,New England,26828
+Male,45-60,"$0 - $24,999",Some college or Associate degree,New England,15864
+Female,45-60,"$0 - $24,999",Some college or Associate degree,New England,26146
+Male,> 60,"$0 - $24,999",Some college or Associate degree,New England,36707
+Female,> 60,"$0 - $24,999",Some college or Associate degree,New England,81825
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,New England,21476
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,New England,35311
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,New England,25210
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,New England,45964
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,New England,24110
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,New England,33668
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,New England,63552
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,New England,106536
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,New England,63922
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,New England,71243
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,New England,93957
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,New England,99366
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,New England,72630
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,New England,93323
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,New England,119691
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,New England,154790
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,New England,64053
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,New England,59100
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,New England,89691
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,New England,78609
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,New England,81895
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,New England,82154
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,New England,79426
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,New England,96062
+Male,18-29,"$150,000+",Some college or Associate degree,New England,109706
+Female,18-29,"$150,000+",Some college or Associate degree,New England,83533
+Male,30-44,"$150,000+",Some college or Associate degree,New England,115423
+Female,30-44,"$150,000+",Some college or Associate degree,New England,86371
+Male,45-60,"$150,000+",Some college or Associate degree,New England,132495
+Female,45-60,"$150,000+",Some college or Associate degree,New England,126793
+Male,> 60,"$150,000+",Some college or Associate degree,New England,89475
+Female,> 60,"$150,000+",Some college or Associate degree,New England,104206
+Male,18-29,"$0 - $24,999",Bachelor degree,New England,7840
+Female,18-29,"$0 - $24,999",Bachelor degree,New England,12047
+Male,30-44,"$0 - $24,999",Bachelor degree,New England,6734
+Female,30-44,"$0 - $24,999",Bachelor degree,New England,8826
+Male,45-60,"$0 - $24,999",Bachelor degree,New England,7861
+Female,45-60,"$0 - $24,999",Bachelor degree,New England,14363
+Male,> 60,"$0 - $24,999",Bachelor degree,New England,19435
+Female,> 60,"$0 - $24,999",Bachelor degree,New England,32656
+Male,18-29,"$25,000 - $49,999",Bachelor degree,New England,14125
+Female,18-29,"$25,000 - $49,999",Bachelor degree,New England,20872
+Male,30-44,"$25,000 - $49,999",Bachelor degree,New England,15971
+Female,30-44,"$25,000 - $49,999",Bachelor degree,New England,22906
+Male,45-60,"$25,000 - $49,999",Bachelor degree,New England,14411
+Female,45-60,"$25,000 - $49,999",Bachelor degree,New England,20915
+Male,> 60,"$25,000 - $49,999",Bachelor degree,New England,33891
+Female,> 60,"$25,000 - $49,999",Bachelor degree,New England,50314
+Male,18-29,"$50,000 - $99,999",Bachelor degree,New England,51302
+Female,18-29,"$50,000 - $99,999",Bachelor degree,New England,61916
+Male,30-44,"$50,000 - $99,999",Bachelor degree,New England,63076
+Female,30-44,"$50,000 - $99,999",Bachelor degree,New England,81656
+Male,45-60,"$50,000 - $99,999",Bachelor degree,New England,38506
+Female,45-60,"$50,000 - $99,999",Bachelor degree,New England,60660
+Male,> 60,"$50,000 - $99,999",Bachelor degree,New England,93394
+Female,> 60,"$50,000 - $99,999",Bachelor degree,New England,113216
+Male,18-29,"$100,000 - $149,999",Bachelor degree,New England,57652
+Female,18-29,"$100,000 - $149,999",Bachelor degree,New England,72674
+Male,30-44,"$100,000 - $149,999",Bachelor degree,New England,93794
+Female,30-44,"$100,000 - $149,999",Bachelor degree,New England,97228
+Male,45-60,"$100,000 - $149,999",Bachelor degree,New England,52860
+Female,45-60,"$100,000 - $149,999",Bachelor degree,New England,70638
+Male,> 60,"$100,000 - $149,999",Bachelor degree,New England,77744
+Female,> 60,"$100,000 - $149,999",Bachelor degree,New England,77918
+Male,18-29,"$150,000+",Bachelor degree,New England,132857
+Female,18-29,"$150,000+",Bachelor degree,New England,142265
+Male,30-44,"$150,000+",Bachelor degree,New England,234917
+Female,30-44,"$150,000+",Bachelor degree,New England,214393
+Male,45-60,"$150,000+",Bachelor degree,New England,220340
+Female,45-60,"$150,000+",Bachelor degree,New England,213310
+Male,> 60,"$150,000+",Bachelor degree,New England,143097
+Female,> 60,"$150,000+",Bachelor degree,New England,130332
+Male,18-29,"$0 - $24,999",Graduate degree,New England,3031
+Female,18-29,"$0 - $24,999",Graduate degree,New England,3658
+Male,30-44,"$0 - $24,999",Graduate degree,New England,4974
+Female,30-44,"$0 - $24,999",Graduate degree,New England,7798
+Male,45-60,"$0 - $24,999",Graduate degree,New England,3993
+Female,45-60,"$0 - $24,999",Graduate degree,New England,8213
+Male,> 60,"$0 - $24,999",Graduate degree,New England,13925
+Female,> 60,"$0 - $24,999",Graduate degree,New England,21232
+Male,18-29,"$25,000 - $49,999",Graduate degree,New England,4827
+Female,18-29,"$25,000 - $49,999",Graduate degree,New England,5184
+Male,30-44,"$25,000 - $49,999",Graduate degree,New England,7905
+Female,30-44,"$25,000 - $49,999",Graduate degree,New England,9398
+Male,45-60,"$25,000 - $49,999",Graduate degree,New England,6146
+Female,45-60,"$25,000 - $49,999",Graduate degree,New England,7823
+Male,> 60,"$25,000 - $49,999",Graduate degree,New England,22521
+Female,> 60,"$25,000 - $49,999",Graduate degree,New England,31344
+Male,18-29,"$50,000 - $99,999",Graduate degree,New England,13399
+Female,18-29,"$50,000 - $99,999",Graduate degree,New England,23737
+Male,30-44,"$50,000 - $99,999",Graduate degree,New England,36116
+Female,30-44,"$50,000 - $99,999",Graduate degree,New England,61326
+Male,45-60,"$50,000 - $99,999",Graduate degree,New England,18100
+Female,45-60,"$50,000 - $99,999",Graduate degree,New England,42134
+Male,> 60,"$50,000 - $99,999",Graduate degree,New England,72167
+Female,> 60,"$50,000 - $99,999",Graduate degree,New England,86769
+Male,18-29,"$100,000 - $149,999",Graduate degree,New England,17149
+Female,18-29,"$100,000 - $149,999",Graduate degree,New England,29336
+Male,30-44,"$100,000 - $149,999",Graduate degree,New England,47366
+Female,30-44,"$100,000 - $149,999",Graduate degree,New England,77175
+Male,45-60,"$100,000 - $149,999",Graduate degree,New England,34080
+Female,45-60,"$100,000 - $149,999",Graduate degree,New England,58861
+Male,> 60,"$100,000 - $149,999",Graduate degree,New England,69772
+Female,> 60,"$100,000 - $149,999",Graduate degree,New England,70870
+Male,18-29,"$150,000+",Graduate degree,New England,31789
+Female,18-29,"$150,000+",Graduate degree,New England,48778
+Male,30-44,"$150,000+",Graduate degree,New England,185477
+Female,30-44,"$150,000+",Graduate degree,New England,259990
+Male,45-60,"$150,000+",Graduate degree,New England,215658
+Female,45-60,"$150,000+",Graduate degree,New England,238086
+Male,> 60,"$150,000+",Graduate degree,New England,167941
+Female,> 60,"$150,000+",Graduate degree,New England,142123
+Male,18-29,"$0 - $24,999",Less than high school degree,Middle Atlantic,32940
+Female,18-29,"$0 - $24,999",Less than high school degree,Middle Atlantic,30869
+Male,30-44,"$0 - $24,999",Less than high school degree,Middle Atlantic,41852
+Female,30-44,"$0 - $24,999",Less than high school degree,Middle Atlantic,55186
+Male,45-60,"$0 - $24,999",Less than high school degree,Middle Atlantic,57573
+Female,45-60,"$0 - $24,999",Less than high school degree,Middle Atlantic,67273
+Male,> 60,"$0 - $24,999",Less than high school degree,Middle Atlantic,135205
+Female,> 60,"$0 - $24,999",Less than high school degree,Middle Atlantic,223404
+Male,18-29,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,49999
+Female,18-29,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,39066
+Male,30-44,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,69696
+Female,30-44,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,64408
+Male,45-60,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,75094
+Female,45-60,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,76996
+Male,> 60,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,111037
+Female,> 60,"$25,000 - $49,999",Less than high school degree,Middle Atlantic,132154
+Male,18-29,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,81323
+Female,18-29,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,62578
+Male,30-44,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,114301
+Female,30-44,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,85077
+Male,45-60,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,131845
+Female,45-60,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,112627
+Male,> 60,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,138826
+Female,> 60,"$50,000 - $99,999",Less than high school degree,Middle Atlantic,142417
+Male,18-29,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,48618
+Female,18-29,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,37468
+Male,30-44,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,58467
+Female,30-44,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,41177
+Male,45-60,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,81989
+Female,45-60,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,61052
+Male,> 60,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,64875
+Female,> 60,"$100,000 - $149,999",Less than high school degree,Middle Atlantic,73578
+Male,18-29,"$150,000+",Less than high school degree,Middle Atlantic,78116
+Female,18-29,"$150,000+",Less than high school degree,Middle Atlantic,52296
+Male,30-44,"$150,000+",Less than high school degree,Middle Atlantic,68747
+Female,30-44,"$150,000+",Less than high school degree,Middle Atlantic,40939
+Male,45-60,"$150,000+",Less than high school degree,Middle Atlantic,95788
+Female,45-60,"$150,000+",Less than high school degree,Middle Atlantic,65930
+Male,> 60,"$150,000+",Less than high school degree,Middle Atlantic,77426
+Female,> 60,"$150,000+",Less than high school degree,Middle Atlantic,89237
+Male,18-29,"$0 - $24,999",High school degree,Middle Atlantic,73056
+Female,18-29,"$0 - $24,999",High school degree,Middle Atlantic,85129
+Male,30-44,"$0 - $24,999",High school degree,Middle Atlantic,76359
+Female,30-44,"$0 - $24,999",High school degree,Middle Atlantic,101290
+Male,45-60,"$0 - $24,999",High school degree,Middle Atlantic,98826
+Female,45-60,"$0 - $24,999",High school degree,Middle Atlantic,117244
+Male,> 60,"$0 - $24,999",High school degree,Middle Atlantic,210217
+Female,> 60,"$0 - $24,999",High school degree,Middle Atlantic,371738
+Male,18-29,"$25,000 - $49,999",High school degree,Middle Atlantic,128915
+Female,18-29,"$25,000 - $49,999",High school degree,Middle Atlantic,118228
+Male,30-44,"$25,000 - $49,999",High school degree,Middle Atlantic,149848
+Female,30-44,"$25,000 - $49,999",High school degree,Middle Atlantic,144398
+Male,45-60,"$25,000 - $49,999",High school degree,Middle Atlantic,140286
+Female,45-60,"$25,000 - $49,999",High school degree,Middle Atlantic,155582
+Male,> 60,"$25,000 - $49,999",High school degree,Middle Atlantic,289877
+Female,> 60,"$25,000 - $49,999",High school degree,Middle Atlantic,407728
+Male,18-29,"$50,000 - $99,999",High school degree,Middle Atlantic,283787
+Female,18-29,"$50,000 - $99,999",High school degree,Middle Atlantic,228034
+Male,30-44,"$50,000 - $99,999",High school degree,Middle Atlantic,340168
+Female,30-44,"$50,000 - $99,999",High school degree,Middle Atlantic,234105
+Male,45-60,"$50,000 - $99,999",High school degree,Middle Atlantic,343017
+Female,45-60,"$50,000 - $99,999",High school degree,Middle Atlantic,301661
+Male,> 60,"$50,000 - $99,999",High school degree,Middle Atlantic,467870
+Female,> 60,"$50,000 - $99,999",High school degree,Middle Atlantic,529520
+Male,18-29,"$100,000 - $149,999",High school degree,Middle Atlantic,199657
+Female,18-29,"$100,000 - $149,999",High school degree,Middle Atlantic,139918
+Male,30-44,"$100,000 - $149,999",High school degree,Middle Atlantic,234334
+Female,30-44,"$100,000 - $149,999",High school degree,Middle Atlantic,145736
+Male,45-60,"$100,000 - $149,999",High school degree,Middle Atlantic,263882
+Female,45-60,"$100,000 - $149,999",High school degree,Middle Atlantic,199466
+Male,> 60,"$100,000 - $149,999",High school degree,Middle Atlantic,234713
+Female,> 60,"$100,000 - $149,999",High school degree,Middle Atlantic,237944
+Male,18-29,"$150,000+",High school degree,Middle Atlantic,277029
+Female,18-29,"$150,000+",High school degree,Middle Atlantic,195235
+Male,30-44,"$150,000+",High school degree,Middle Atlantic,203153
+Female,30-44,"$150,000+",High school degree,Middle Atlantic,121717
+Male,45-60,"$150,000+",High school degree,Middle Atlantic,283123
+Female,45-60,"$150,000+",High school degree,Middle Atlantic,214145
+Male,> 60,"$150,000+",High school degree,Middle Atlantic,200656
+Female,> 60,"$150,000+",High school degree,Middle Atlantic,239399
+Male,18-29,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,56373
+Female,18-29,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,71923
+Male,30-44,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,51548
+Female,30-44,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,80609
+Male,45-60,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,48441
+Female,45-60,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,81251
+Male,> 60,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,109569
+Female,> 60,"$0 - $24,999",Some college or Associate degree,Middle Atlantic,200576
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,86057
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,115837
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,96475
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,132423
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,76850
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,127578
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,155911
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,Middle Atlantic,256281
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,216984
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,224981
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,266737
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,280488
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,214014
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,258824
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,339578
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,Middle Atlantic,398138
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,160330
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,155009
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,234808
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,204068
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,216230
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,227568
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,195044
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,Middle Atlantic,213162
+Male,18-29,"$150,000+",Some college or Associate degree,Middle Atlantic,273068
+Female,18-29,"$150,000+",Some college or Associate degree,Middle Atlantic,212857
+Male,30-44,"$150,000+",Some college or Associate degree,Middle Atlantic,274970
+Female,30-44,"$150,000+",Some college or Associate degree,Middle Atlantic,202864
+Male,45-60,"$150,000+",Some college or Associate degree,Middle Atlantic,344893
+Female,45-60,"$150,000+",Some college or Associate degree,Middle Atlantic,320550
+Male,> 60,"$150,000+",Some college or Associate degree,Middle Atlantic,219440
+Female,> 60,"$150,000+",Some college or Associate degree,Middle Atlantic,233085
+Male,18-29,"$0 - $24,999",Bachelor degree,Middle Atlantic,33190
+Female,18-29,"$0 - $24,999",Bachelor degree,Middle Atlantic,39939
+Male,30-44,"$0 - $24,999",Bachelor degree,Middle Atlantic,26334
+Female,30-44,"$0 - $24,999",Bachelor degree,Middle Atlantic,40959
+Male,45-60,"$0 - $24,999",Bachelor degree,Middle Atlantic,27054
+Female,45-60,"$0 - $24,999",Bachelor degree,Middle Atlantic,36788
+Male,> 60,"$0 - $24,999",Bachelor degree,Middle Atlantic,51345
+Female,> 60,"$0 - $24,999",Bachelor degree,Middle Atlantic,87726
+Male,18-29,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,46897
+Female,18-29,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,63626
+Male,30-44,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,47795
+Female,30-44,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,80649
+Male,45-60,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,42432
+Female,45-60,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,52747
+Male,> 60,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,84816
+Female,> 60,"$25,000 - $49,999",Bachelor degree,Middle Atlantic,120466
+Male,18-29,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,146718
+Female,18-29,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,188217
+Male,30-44,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,185784
+Female,30-44,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,238856
+Male,45-60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,119411
+Female,45-60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,162981
+Male,> 60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,220294
+Female,> 60,"$50,000 - $99,999",Bachelor degree,Middle Atlantic,248110
+Male,18-29,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,146899
+Female,18-29,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,178823
+Male,30-44,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,250358
+Female,30-44,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,268083
+Male,45-60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,155074
+Female,45-60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,194241
+Male,> 60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,172715
+Female,> 60,"$100,000 - $149,999",Bachelor degree,Middle Atlantic,159495
+Male,18-29,"$150,000+",Bachelor degree,Middle Atlantic,341833
+Female,18-29,"$150,000+",Bachelor degree,Middle Atlantic,365036
+Male,30-44,"$150,000+",Bachelor degree,Middle Atlantic,630232
+Female,30-44,"$150,000+",Bachelor degree,Middle Atlantic,578099
+Male,45-60,"$150,000+",Bachelor degree,Middle Atlantic,518568
+Female,45-60,"$150,000+",Bachelor degree,Middle Atlantic,511025
+Male,> 60,"$150,000+",Bachelor degree,Middle Atlantic,305774
+Female,> 60,"$150,000+",Bachelor degree,Middle Atlantic,287632
+Male,18-29,"$0 - $24,999",Graduate degree,Middle Atlantic,6851
+Female,18-29,"$0 - $24,999",Graduate degree,Middle Atlantic,12965
+Male,30-44,"$0 - $24,999",Graduate degree,Middle Atlantic,13938
+Female,30-44,"$0 - $24,999",Graduate degree,Middle Atlantic,22326
+Male,45-60,"$0 - $24,999",Graduate degree,Middle Atlantic,14763
+Female,45-60,"$0 - $24,999",Graduate degree,Middle Atlantic,19827
+Male,> 60,"$0 - $24,999",Graduate degree,Middle Atlantic,35819
+Female,> 60,"$0 - $24,999",Graduate degree,Middle Atlantic,47395
+Male,18-29,"$25,000 - $49,999",Graduate degree,Middle Atlantic,9679
+Female,18-29,"$25,000 - $49,999",Graduate degree,Middle Atlantic,17948
+Male,30-44,"$25,000 - $49,999",Graduate degree,Middle Atlantic,20002
+Female,30-44,"$25,000 - $49,999",Graduate degree,Middle Atlantic,31376
+Male,45-60,"$25,000 - $49,999",Graduate degree,Middle Atlantic,14565
+Female,45-60,"$25,000 - $49,999",Graduate degree,Middle Atlantic,25364
+Male,> 60,"$25,000 - $49,999",Graduate degree,Middle Atlantic,50317
+Female,> 60,"$25,000 - $49,999",Graduate degree,Middle Atlantic,75001
+Male,18-29,"$50,000 - $99,999",Graduate degree,Middle Atlantic,36324
+Female,18-29,"$50,000 - $99,999",Graduate degree,Middle Atlantic,60808
+Male,30-44,"$50,000 - $99,999",Graduate degree,Middle Atlantic,102411
+Female,30-44,"$50,000 - $99,999",Graduate degree,Middle Atlantic,154624
+Male,45-60,"$50,000 - $99,999",Graduate degree,Middle Atlantic,67944
+Female,45-60,"$50,000 - $99,999",Graduate degree,Middle Atlantic,108129
+Male,> 60,"$50,000 - $99,999",Graduate degree,Middle Atlantic,138429
+Female,> 60,"$50,000 - $99,999",Graduate degree,Middle Atlantic,190269
+Male,18-29,"$100,000 - $149,999",Graduate degree,Middle Atlantic,36585
+Female,18-29,"$100,000 - $149,999",Graduate degree,Middle Atlantic,73848
+Male,30-44,"$100,000 - $149,999",Graduate degree,Middle Atlantic,138741
+Female,30-44,"$100,000 - $149,999",Graduate degree,Middle Atlantic,209797
+Male,45-60,"$100,000 - $149,999",Graduate degree,Middle Atlantic,90752
+Female,45-60,"$100,000 - $149,999",Graduate degree,Middle Atlantic,139471
+Male,> 60,"$100,000 - $149,999",Graduate degree,Middle Atlantic,143300
+Female,> 60,"$100,000 - $149,999",Graduate degree,Middle Atlantic,160880
+Male,18-29,"$150,000+",Graduate degree,Middle Atlantic,80669
+Female,18-29,"$150,000+",Graduate degree,Middle Atlantic,129138
+Male,30-44,"$150,000+",Graduate degree,Middle Atlantic,459782
+Female,30-44,"$150,000+",Graduate degree,Middle Atlantic,621755
+Male,45-60,"$150,000+",Graduate degree,Middle Atlantic,454969
+Female,45-60,"$150,000+",Graduate degree,Middle Atlantic,516166
+Male,> 60,"$150,000+",Graduate degree,Middle Atlantic,374867
+Female,> 60,"$150,000+",Graduate degree,Middle Atlantic,300845
+Male,18-29,"$0 - $24,999",Less than high school degree,East North Central,38037
+Female,18-29,"$0 - $24,999",Less than high school degree,East North Central,43806
+Male,30-44,"$0 - $24,999",Less than high school degree,East North Central,43091
+Female,30-44,"$0 - $24,999",Less than high school degree,East North Central,57560
+Male,45-60,"$0 - $24,999",Less than high school degree,East North Central,54421
+Female,45-60,"$0 - $24,999",Less than high school degree,East North Central,55786
+Male,> 60,"$0 - $24,999",Less than high school degree,East North Central,118048
+Female,> 60,"$0 - $24,999",Less than high school degree,East North Central,157884
+Male,18-29,"$25,000 - $49,999",Less than high school degree,East North Central,64204
+Female,18-29,"$25,000 - $49,999",Less than high school degree,East North Central,56478
+Male,30-44,"$25,000 - $49,999",Less than high school degree,East North Central,76788
+Female,30-44,"$25,000 - $49,999",Less than high school degree,East North Central,75693
+Male,45-60,"$25,000 - $49,999",Less than high school degree,East North Central,74919
+Female,45-60,"$25,000 - $49,999",Less than high school degree,East North Central,68338
+Male,> 60,"$25,000 - $49,999",Less than high school degree,East North Central,118965
+Female,> 60,"$25,000 - $49,999",Less than high school degree,East North Central,123077
+Male,18-29,"$50,000 - $99,999",Less than high school degree,East North Central,121145
+Female,18-29,"$50,000 - $99,999",Less than high school degree,East North Central,86903
+Male,30-44,"$50,000 - $99,999",Less than high school degree,East North Central,134779
+Female,30-44,"$50,000 - $99,999",Less than high school degree,East North Central,100840
+Male,45-60,"$50,000 - $99,999",Less than high school degree,East North Central,127408
+Female,45-60,"$50,000 - $99,999",Less than high school degree,East North Central,102557
+Male,> 60,"$50,000 - $99,999",Less than high school degree,East North Central,131833
+Female,> 60,"$50,000 - $99,999",Less than high school degree,East North Central,126069
+Male,18-29,"$100,000 - $149,999",Less than high school degree,East North Central,64322
+Female,18-29,"$100,000 - $149,999",Less than high school degree,East North Central,50958
+Male,30-44,"$100,000 - $149,999",Less than high school degree,East North Central,56859
+Female,30-44,"$100,000 - $149,999",Less than high school degree,East North Central,40724
+Male,45-60,"$100,000 - $149,999",Less than high school degree,East North Central,76464
+Female,45-60,"$100,000 - $149,999",Less than high school degree,East North Central,60210
+Male,> 60,"$100,000 - $149,999",Less than high school degree,East North Central,56479
+Female,> 60,"$100,000 - $149,999",Less than high school degree,East North Central,53155
+Male,18-29,"$150,000+",Less than high school degree,East North Central,83847
+Female,18-29,"$150,000+",Less than high school degree,East North Central,55387
+Male,30-44,"$150,000+",Less than high school degree,East North Central,43877
+Female,30-44,"$150,000+",Less than high school degree,East North Central,31054
+Male,45-60,"$150,000+",Less than high school degree,East North Central,61370
+Female,45-60,"$150,000+",Less than high school degree,East North Central,46247
+Male,> 60,"$150,000+",Less than high school degree,East North Central,39871
+Female,> 60,"$150,000+",Less than high school degree,East North Central,41304
+Male,18-29,"$0 - $24,999",High school degree,East North Central,106174
+Female,18-29,"$0 - $24,999",High school degree,East North Central,126029
+Male,30-44,"$0 - $24,999",High school degree,East North Central,103463
+Female,30-44,"$0 - $24,999",High school degree,East North Central,111196
+Male,45-60,"$0 - $24,999",High school degree,East North Central,114101
+Female,45-60,"$0 - $24,999",High school degree,East North Central,134411
+Male,> 60,"$0 - $24,999",High school degree,East North Central,238109
+Female,> 60,"$0 - $24,999",High school degree,East North Central,421913
+Male,18-29,"$25,000 - $49,999",High school degree,East North Central,201381
+Female,18-29,"$25,000 - $49,999",High school degree,East North Central,187652
+Male,30-44,"$25,000 - $49,999",High school degree,East North Central,185184
+Female,30-44,"$25,000 - $49,999",High school degree,East North Central,169175
+Male,45-60,"$25,000 - $49,999",High school degree,East North Central,196715
+Female,45-60,"$25,000 - $49,999",High school degree,East North Central,175310
+Male,> 60,"$25,000 - $49,999",High school degree,East North Central,393697
+Female,> 60,"$25,000 - $49,999",High school degree,East North Central,573118
+Male,18-29,"$50,000 - $99,999",High school degree,East North Central,444249
+Female,18-29,"$50,000 - $99,999",High school degree,East North Central,320796
+Male,30-44,"$50,000 - $99,999",High school degree,East North Central,459748
+Female,30-44,"$50,000 - $99,999",High school degree,East North Central,298464
+Male,45-60,"$50,000 - $99,999",High school degree,East North Central,436424
+Female,45-60,"$50,000 - $99,999",High school degree,East North Central,337357
+Male,> 60,"$50,000 - $99,999",High school degree,East North Central,642897
+Female,> 60,"$50,000 - $99,999",High school degree,East North Central,685328
+Male,18-29,"$100,000 - $149,999",High school degree,East North Central,294989
+Female,18-29,"$100,000 - $149,999",High school degree,East North Central,191585
+Male,30-44,"$100,000 - $149,999",High school degree,East North Central,295540
+Female,30-44,"$100,000 - $149,999",High school degree,East North Central,171295
+Male,45-60,"$100,000 - $149,999",High school degree,East North Central,310267
+Female,45-60,"$100,000 - $149,999",High school degree,East North Central,223584
+Male,> 60,"$100,000 - $149,999",High school degree,East North Central,241079
+Female,> 60,"$100,000 - $149,999",High school degree,East North Central,239781
+Male,18-29,"$150,000+",High school degree,East North Central,288631
+Female,18-29,"$150,000+",High school degree,East North Central,180739
+Male,30-44,"$150,000+",High school degree,East North Central,172088
+Female,30-44,"$150,000+",High school degree,East North Central,106342
+Male,45-60,"$150,000+",High school degree,East North Central,252350
+Female,45-60,"$150,000+",High school degree,East North Central,168860
+Male,> 60,"$150,000+",High school degree,East North Central,157997
+Female,> 60,"$150,000+",High school degree,East North Central,166629
+Male,18-29,"$0 - $24,999",Some college or Associate degree,East North Central,86049
+Female,18-29,"$0 - $24,999",Some college or Associate degree,East North Central,120421
+Male,30-44,"$0 - $24,999",Some college or Associate degree,East North Central,61905
+Female,30-44,"$0 - $24,999",Some college or Associate degree,East North Central,118819
+Male,45-60,"$0 - $24,999",Some college or Associate degree,East North Central,78957
+Female,45-60,"$0 - $24,999",Some college or Associate degree,East North Central,120585
+Male,> 60,"$0 - $24,999",Some college or Associate degree,East North Central,156402
+Female,> 60,"$0 - $24,999",Some college or Associate degree,East North Central,281761
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,East North Central,131243
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,East North Central,194330
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,East North Central,152638
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,East North Central,227570
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,East North Central,121146
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,East North Central,183119
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,East North Central,268589
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,East North Central,407472
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,East North Central,304981
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,East North Central,350800
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East North Central,440624
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,East North Central,449251
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,East North Central,337458
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,East North Central,405356
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,East North Central,530616
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,East North Central,607609
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,East North Central,231792
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,East North Central,223934
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,East North Central,366435
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,East North Central,338748
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,East North Central,326382
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,East North Central,329157
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,East North Central,264391
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,East North Central,266037
+Male,18-29,"$150,000+",Some college or Associate degree,East North Central,260518
+Female,18-29,"$150,000+",Some college or Associate degree,East North Central,201862
+Male,30-44,"$150,000+",Some college or Associate degree,East North Central,278260
+Female,30-44,"$150,000+",Some college or Associate degree,East North Central,227959
+Male,45-60,"$150,000+",Some college or Associate degree,East North Central,377489
+Female,45-60,"$150,000+",Some college or Associate degree,East North Central,360207
+Male,> 60,"$150,000+",Some college or Associate degree,East North Central,199142
+Female,> 60,"$150,000+",Some college or Associate degree,East North Central,211430
+Male,18-29,"$0 - $24,999",Bachelor degree,East North Central,41216
+Female,18-29,"$0 - $24,999",Bachelor degree,East North Central,47653
+Male,30-44,"$0 - $24,999",Bachelor degree,East North Central,24713
+Female,30-44,"$0 - $24,999",Bachelor degree,East North Central,28862
+Male,45-60,"$0 - $24,999",Bachelor degree,East North Central,27050
+Female,45-60,"$0 - $24,999",Bachelor degree,East North Central,37123
+Male,> 60,"$0 - $24,999",Bachelor degree,East North Central,62517
+Female,> 60,"$0 - $24,999",Bachelor degree,East North Central,82454
+Male,18-29,"$25,000 - $49,999",Bachelor degree,East North Central,59256
+Female,18-29,"$25,000 - $49,999",Bachelor degree,East North Central,88809
+Male,30-44,"$25,000 - $49,999",Bachelor degree,East North Central,62509
+Female,30-44,"$25,000 - $49,999",Bachelor degree,East North Central,81369
+Male,45-60,"$25,000 - $49,999",Bachelor degree,East North Central,41487
+Female,45-60,"$25,000 - $49,999",Bachelor degree,East North Central,56894
+Male,> 60,"$25,000 - $49,999",Bachelor degree,East North Central,99996
+Female,> 60,"$25,000 - $49,999",Bachelor degree,East North Central,136640
+Male,18-29,"$50,000 - $99,999",Bachelor degree,East North Central,187901
+Female,18-29,"$50,000 - $99,999",Bachelor degree,East North Central,223668
+Male,30-44,"$50,000 - $99,999",Bachelor degree,East North Central,244363
+Female,30-44,"$50,000 - $99,999",Bachelor degree,East North Central,291624
+Male,45-60,"$50,000 - $99,999",Bachelor degree,East North Central,141775
+Female,45-60,"$50,000 - $99,999",Bachelor degree,East North Central,202466
+Male,> 60,"$50,000 - $99,999",Bachelor degree,East North Central,271804
+Female,> 60,"$50,000 - $99,999",Bachelor degree,East North Central,283440
+Male,18-29,"$100,000 - $149,999",Bachelor degree,East North Central,161278
+Female,18-29,"$100,000 - $149,999",Bachelor degree,East North Central,208493
+Male,30-44,"$100,000 - $149,999",Bachelor degree,East North Central,291988
+Female,30-44,"$100,000 - $149,999",Bachelor degree,East North Central,347850
+Male,45-60,"$100,000 - $149,999",Bachelor degree,East North Central,193318
+Female,45-60,"$100,000 - $149,999",Bachelor degree,East North Central,240326
+Male,> 60,"$100,000 - $149,999",Bachelor degree,East North Central,185231
+Female,> 60,"$100,000 - $149,999",Bachelor degree,East North Central,174689
+Male,18-29,"$150,000+",Bachelor degree,East North Central,211633
+Female,18-29,"$150,000+",Bachelor degree,East North Central,215499
+Male,30-44,"$150,000+",Bachelor degree,East North Central,476771
+Female,30-44,"$150,000+",Bachelor degree,East North Central,481382
+Male,45-60,"$150,000+",Bachelor degree,East North Central,477544
+Female,45-60,"$150,000+",Bachelor degree,East North Central,485680
+Male,> 60,"$150,000+",Bachelor degree,East North Central,250247
+Female,> 60,"$150,000+",Bachelor degree,East North Central,224319
+Male,18-29,"$0 - $24,999",Graduate degree,East North Central,8274
+Female,18-29,"$0 - $24,999",Graduate degree,East North Central,15128
+Male,30-44,"$0 - $24,999",Graduate degree,East North Central,13857
+Female,30-44,"$0 - $24,999",Graduate degree,East North Central,14522
+Male,45-60,"$0 - $24,999",Graduate degree,East North Central,12549
+Female,45-60,"$0 - $24,999",Graduate degree,East North Central,17914
+Male,> 60,"$0 - $24,999",Graduate degree,East North Central,30968
+Female,> 60,"$0 - $24,999",Graduate degree,East North Central,44346
+Male,18-29,"$25,000 - $49,999",Graduate degree,East North Central,16453
+Female,18-29,"$25,000 - $49,999",Graduate degree,East North Central,25772
+Male,30-44,"$25,000 - $49,999",Graduate degree,East North Central,20390
+Female,30-44,"$25,000 - $49,999",Graduate degree,East North Central,30128
+Male,45-60,"$25,000 - $49,999",Graduate degree,East North Central,17643
+Female,45-60,"$25,000 - $49,999",Graduate degree,East North Central,22261
+Male,> 60,"$25,000 - $49,999",Graduate degree,East North Central,54494
+Female,> 60,"$25,000 - $49,999",Graduate degree,East North Central,80376
+Male,18-29,"$50,000 - $99,999",Graduate degree,East North Central,37486
+Female,18-29,"$50,000 - $99,999",Graduate degree,East North Central,54064
+Male,30-44,"$50,000 - $99,999",Graduate degree,East North Central,105485
+Female,30-44,"$50,000 - $99,999",Graduate degree,East North Central,167935
+Male,45-60,"$50,000 - $99,999",Graduate degree,East North Central,65255
+Female,45-60,"$50,000 - $99,999",Graduate degree,East North Central,104873
+Male,> 60,"$50,000 - $99,999",Graduate degree,East North Central,167765
+Female,> 60,"$50,000 - $99,999",Graduate degree,East North Central,199908
+Male,18-29,"$100,000 - $149,999",Graduate degree,East North Central,32483
+Female,18-29,"$100,000 - $149,999",Graduate degree,East North Central,57820
+Male,30-44,"$100,000 - $149,999",Graduate degree,East North Central,127260
+Female,30-44,"$100,000 - $149,999",Graduate degree,East North Central,182095
+Male,45-60,"$100,000 - $149,999",Graduate degree,East North Central,101945
+Female,45-60,"$100,000 - $149,999",Graduate degree,East North Central,147030
+Male,> 60,"$100,000 - $149,999",Graduate degree,East North Central,144631
+Female,> 60,"$100,000 - $149,999",Graduate degree,East North Central,143570
+Male,18-29,"$150,000+",Graduate degree,East North Central,40405
+Female,18-29,"$150,000+",Graduate degree,East North Central,65973
+Male,30-44,"$150,000+",Graduate degree,East North Central,323240
+Female,30-44,"$150,000+",Graduate degree,East North Central,445827
+Male,45-60,"$150,000+",Graduate degree,East North Central,379908
+Female,45-60,"$150,000+",Graduate degree,East North Central,410178
+Male,> 60,"$150,000+",Graduate degree,East North Central,268579
+Female,> 60,"$150,000+",Graduate degree,East North Central,203039
+Male,18-29,"$0 - $24,999",Less than high school degree,West North Central,21048
+Female,18-29,"$0 - $24,999",Less than high school degree,West North Central,14823
+Male,30-44,"$0 - $24,999",Less than high school degree,West North Central,14374
+Female,30-44,"$0 - $24,999",Less than high school degree,West North Central,24788
+Male,45-60,"$0 - $24,999",Less than high school degree,West North Central,23276
+Female,45-60,"$0 - $24,999",Less than high school degree,West North Central,20469
+Male,> 60,"$0 - $24,999",Less than high school degree,West North Central,37491
+Female,> 60,"$0 - $24,999",Less than high school degree,West North Central,62901
+Male,18-29,"$25,000 - $49,999",Less than high school degree,West North Central,24187
+Female,18-29,"$25,000 - $49,999",Less than high school degree,West North Central,26329
+Male,30-44,"$25,000 - $49,999",Less than high school degree,West North Central,30873
+Female,30-44,"$25,000 - $49,999",Less than high school degree,West North Central,27877
+Male,45-60,"$25,000 - $49,999",Less than high school degree,West North Central,27532
+Female,45-60,"$25,000 - $49,999",Less than high school degree,West North Central,25319
+Male,> 60,"$25,000 - $49,999",Less than high school degree,West North Central,38487
+Female,> 60,"$25,000 - $49,999",Less than high school degree,West North Central,45039
+Male,18-29,"$50,000 - $99,999",Less than high school degree,West North Central,59227
+Female,18-29,"$50,000 - $99,999",Less than high school degree,West North Central,28466
+Male,30-44,"$50,000 - $99,999",Less than high school degree,West North Central,63993
+Female,30-44,"$50,000 - $99,999",Less than high school degree,West North Central,40522
+Male,45-60,"$50,000 - $99,999",Less than high school degree,West North Central,47111
+Female,45-60,"$50,000 - $99,999",Less than high school degree,West North Central,40787
+Male,> 60,"$50,000 - $99,999",Less than high school degree,West North Central,56222
+Female,> 60,"$50,000 - $99,999",Less than high school degree,West North Central,41041
+Male,18-29,"$100,000 - $149,999",Less than high school degree,West North Central,33740
+Female,18-29,"$100,000 - $149,999",Less than high school degree,West North Central,24432
+Male,30-44,"$100,000 - $149,999",Less than high school degree,West North Central,30059
+Female,30-44,"$100,000 - $149,999",Less than high school degree,West North Central,20496
+Male,45-60,"$100,000 - $149,999",Less than high school degree,West North Central,32839
+Female,45-60,"$100,000 - $149,999",Less than high school degree,West North Central,23292
+Male,> 60,"$100,000 - $149,999",Less than high school degree,West North Central,19611
+Female,> 60,"$100,000 - $149,999",Less than high school degree,West North Central,16147
+Male,18-29,"$150,000+",Less than high school degree,West North Central,38567
+Female,18-29,"$150,000+",Less than high school degree,West North Central,23688
+Male,30-44,"$150,000+",Less than high school degree,West North Central,18912
+Female,30-44,"$150,000+",Less than high school degree,West North Central,14722
+Male,45-60,"$150,000+",Less than high school degree,West North Central,20100
+Female,45-60,"$150,000+",Less than high school degree,West North Central,17423
+Male,> 60,"$150,000+",Less than high school degree,West North Central,10272
+Female,> 60,"$150,000+",Less than high school degree,West North Central,14921
+Male,18-29,"$0 - $24,999",High school degree,West North Central,45703
+Female,18-29,"$0 - $24,999",High school degree,West North Central,55997
+Male,30-44,"$0 - $24,999",High school degree,West North Central,36421
+Female,30-44,"$0 - $24,999",High school degree,West North Central,35562
+Male,45-60,"$0 - $24,999",High school degree,West North Central,46910
+Female,45-60,"$0 - $24,999",High school degree,West North Central,49946
+Male,> 60,"$0 - $24,999",High school degree,West North Central,107079
+Female,> 60,"$0 - $24,999",High school degree,West North Central,178206
+Male,18-29,"$25,000 - $49,999",High school degree,West North Central,96481
+Female,18-29,"$25,000 - $49,999",High school degree,West North Central,88667
+Male,30-44,"$25,000 - $49,999",High school degree,West North Central,85245
+Female,30-44,"$25,000 - $49,999",High school degree,West North Central,70072
+Male,45-60,"$25,000 - $49,999",High school degree,West North Central,71226
+Female,45-60,"$25,000 - $49,999",High school degree,West North Central,70844
+Male,> 60,"$25,000 - $49,999",High school degree,West North Central,176499
+Female,> 60,"$25,000 - $49,999",High school degree,West North Central,231912
+Male,18-29,"$50,000 - $99,999",High school degree,West North Central,189227
+Female,18-29,"$50,000 - $99,999",High school degree,West North Central,143889
+Male,30-44,"$50,000 - $99,999",High school degree,West North Central,198484
+Female,30-44,"$50,000 - $99,999",High school degree,West North Central,131743
+Male,45-60,"$50,000 - $99,999",High school degree,West North Central,172132
+Female,45-60,"$50,000 - $99,999",High school degree,West North Central,122059
+Male,> 60,"$50,000 - $99,999",High school degree,West North Central,284136
+Female,> 60,"$50,000 - $99,999",High school degree,West North Central,276941
+Male,18-29,"$100,000 - $149,999",High school degree,West North Central,126574
+Female,18-29,"$100,000 - $149,999",High school degree,West North Central,75969
+Male,30-44,"$100,000 - $149,999",High school degree,West North Central,128684
+Female,30-44,"$100,000 - $149,999",High school degree,West North Central,71376
+Male,45-60,"$100,000 - $149,999",High school degree,West North Central,123952
+Female,45-60,"$100,000 - $149,999",High school degree,West North Central,83622
+Male,> 60,"$100,000 - $149,999",High school degree,West North Central,111470
+Female,> 60,"$100,000 - $149,999",High school degree,West North Central,103464
+Male,18-29,"$150,000+",High school degree,West North Central,127185
+Female,18-29,"$150,000+",High school degree,West North Central,74194
+Male,30-44,"$150,000+",High school degree,West North Central,72024
+Female,30-44,"$150,000+",High school degree,West North Central,43907
+Male,45-60,"$150,000+",High school degree,West North Central,111322
+Female,45-60,"$150,000+",High school degree,West North Central,71352
+Male,> 60,"$150,000+",High school degree,West North Central,69971
+Female,> 60,"$150,000+",High school degree,West North Central,78296
+Male,18-29,"$0 - $24,999",Some college or Associate degree,West North Central,46356
+Female,18-29,"$0 - $24,999",Some college or Associate degree,West North Central,60137
+Male,30-44,"$0 - $24,999",Some college or Associate degree,West North Central,27865
+Female,30-44,"$0 - $24,999",Some college or Associate degree,West North Central,47973
+Male,45-60,"$0 - $24,999",Some college or Associate degree,West North Central,31185
+Female,45-60,"$0 - $24,999",Some college or Associate degree,West North Central,48253
+Male,> 60,"$0 - $24,999",Some college or Associate degree,West North Central,66560
+Female,> 60,"$0 - $24,999",Some college or Associate degree,West North Central,134583
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,West North Central,80759
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,West North Central,99957
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,West North Central,68620
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,West North Central,86127
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,West North Central,53097
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,West North Central,75072
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,West North Central,127337
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,West North Central,188256
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,West North Central,178610
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,West North Central,176964
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,West North Central,239455
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,West North Central,232471
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,West North Central,169114
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,West North Central,185394
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,West North Central,258100
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,West North Central,300826
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,West North Central,114938
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,West North Central,104963
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,West North Central,193582
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,West North Central,178832
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,West North Central,162136
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,West North Central,157841
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,West North Central,133926
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,West North Central,130744
+Male,18-29,"$150,000+",Some college or Associate degree,West North Central,109425
+Female,18-29,"$150,000+",Some college or Associate degree,West North Central,87847
+Male,30-44,"$150,000+",Some college or Associate degree,West North Central,138841
+Female,30-44,"$150,000+",Some college or Associate degree,West North Central,121462
+Male,45-60,"$150,000+",Some college or Associate degree,West North Central,192108
+Female,45-60,"$150,000+",Some college or Associate degree,West North Central,158914
+Male,> 60,"$150,000+",Some college or Associate degree,West North Central,98036
+Female,> 60,"$150,000+",Some college or Associate degree,West North Central,98750
+Male,18-29,"$0 - $24,999",Bachelor degree,West North Central,15125
+Female,18-29,"$0 - $24,999",Bachelor degree,West North Central,24813
+Male,30-44,"$0 - $24,999",Bachelor degree,West North Central,12101
+Female,30-44,"$0 - $24,999",Bachelor degree,West North Central,9903
+Male,45-60,"$0 - $24,999",Bachelor degree,West North Central,9104
+Female,45-60,"$0 - $24,999",Bachelor degree,West North Central,15680
+Male,> 60,"$0 - $24,999",Bachelor degree,West North Central,28696
+Female,> 60,"$0 - $24,999",Bachelor degree,West North Central,40938
+Male,18-29,"$25,000 - $49,999",Bachelor degree,West North Central,33929
+Female,18-29,"$25,000 - $49,999",Bachelor degree,West North Central,41523
+Male,30-44,"$25,000 - $49,999",Bachelor degree,West North Central,27799
+Female,30-44,"$25,000 - $49,999",Bachelor degree,West North Central,36662
+Male,45-60,"$25,000 - $49,999",Bachelor degree,West North Central,15367
+Female,45-60,"$25,000 - $49,999",Bachelor degree,West North Central,28741
+Male,> 60,"$25,000 - $49,999",Bachelor degree,West North Central,50227
+Female,> 60,"$25,000 - $49,999",Bachelor degree,West North Central,73190
+Male,18-29,"$50,000 - $99,999",Bachelor degree,West North Central,98953
+Female,18-29,"$50,000 - $99,999",Bachelor degree,West North Central,125491
+Male,30-44,"$50,000 - $99,999",Bachelor degree,West North Central,112462
+Female,30-44,"$50,000 - $99,999",Bachelor degree,West North Central,139331
+Male,45-60,"$50,000 - $99,999",Bachelor degree,West North Central,76444
+Female,45-60,"$50,000 - $99,999",Bachelor degree,West North Central,105389
+Male,> 60,"$50,000 - $99,999",Bachelor degree,West North Central,142853
+Female,> 60,"$50,000 - $99,999",Bachelor degree,West North Central,151679
+Male,18-29,"$100,000 - $149,999",Bachelor degree,West North Central,73566
+Female,18-29,"$100,000 - $149,999",Bachelor degree,West North Central,99965
+Male,30-44,"$100,000 - $149,999",Bachelor degree,West North Central,153028
+Female,30-44,"$100,000 - $149,999",Bachelor degree,West North Central,169875
+Male,45-60,"$100,000 - $149,999",Bachelor degree,West North Central,91988
+Female,45-60,"$100,000 - $149,999",Bachelor degree,West North Central,107888
+Male,> 60,"$100,000 - $149,999",Bachelor degree,West North Central,94215
+Female,> 60,"$100,000 - $149,999",Bachelor degree,West North Central,91521
+Male,18-29,"$150,000+",Bachelor degree,West North Central,77277
+Female,18-29,"$150,000+",Bachelor degree,West North Central,80635
+Male,30-44,"$150,000+",Bachelor degree,West North Central,216753
+Female,30-44,"$150,000+",Bachelor degree,West North Central,231250
+Male,45-60,"$150,000+",Bachelor degree,West North Central,235352
+Female,45-60,"$150,000+",Bachelor degree,West North Central,220594
+Male,> 60,"$150,000+",Bachelor degree,West North Central,115332
+Female,> 60,"$150,000+",Bachelor degree,West North Central,103869
+Male,18-29,"$0 - $24,999",Graduate degree,West North Central,7831
+Female,18-29,"$0 - $24,999",Graduate degree,West North Central,5312
+Male,30-44,"$0 - $24,999",Graduate degree,West North Central,3939
+Female,30-44,"$0 - $24,999",Graduate degree,West North Central,5697
+Male,45-60,"$0 - $24,999",Graduate degree,West North Central,4198
+Female,45-60,"$0 - $24,999",Graduate degree,West North Central,6269
+Male,> 60,"$0 - $24,999",Graduate degree,West North Central,13588
+Female,> 60,"$0 - $24,999",Graduate degree,West North Central,20111
+Male,18-29,"$25,000 - $49,999",Graduate degree,West North Central,5826
+Female,18-29,"$25,000 - $49,999",Graduate degree,West North Central,9874
+Male,30-44,"$25,000 - $49,999",Graduate degree,West North Central,12822
+Female,30-44,"$25,000 - $49,999",Graduate degree,West North Central,12786
+Male,45-60,"$25,000 - $49,999",Graduate degree,West North Central,8082
+Female,45-60,"$25,000 - $49,999",Graduate degree,West North Central,11820
+Male,> 60,"$25,000 - $49,999",Graduate degree,West North Central,27401
+Female,> 60,"$25,000 - $49,999",Graduate degree,West North Central,38223
+Male,18-29,"$50,000 - $99,999",Graduate degree,West North Central,16419
+Female,18-29,"$50,000 - $99,999",Graduate degree,West North Central,20920
+Male,30-44,"$50,000 - $99,999",Graduate degree,West North Central,47948
+Female,30-44,"$50,000 - $99,999",Graduate degree,West North Central,70979
+Male,45-60,"$50,000 - $99,999",Graduate degree,West North Central,31445
+Female,45-60,"$50,000 - $99,999",Graduate degree,West North Central,51720
+Male,> 60,"$50,000 - $99,999",Graduate degree,West North Central,81884
+Female,> 60,"$50,000 - $99,999",Graduate degree,West North Central,87073
+Male,18-29,"$100,000 - $149,999",Graduate degree,West North Central,10975
+Female,18-29,"$100,000 - $149,999",Graduate degree,West North Central,25655
+Male,30-44,"$100,000 - $149,999",Graduate degree,West North Central,60667
+Female,30-44,"$100,000 - $149,999",Graduate degree,West North Central,101003
+Male,45-60,"$100,000 - $149,999",Graduate degree,West North Central,47627
+Female,45-60,"$100,000 - $149,999",Graduate degree,West North Central,71398
+Male,> 60,"$100,000 - $149,999",Graduate degree,West North Central,64677
+Female,> 60,"$100,000 - $149,999",Graduate degree,West North Central,62801
+Male,18-29,"$150,000+",Graduate degree,West North Central,13796
+Female,18-29,"$150,000+",Graduate degree,West North Central,26811
+Male,30-44,"$150,000+",Graduate degree,West North Central,142381
+Female,30-44,"$150,000+",Graduate degree,West North Central,199197
+Male,45-60,"$150,000+",Graduate degree,West North Central,150853
+Female,45-60,"$150,000+",Graduate degree,West North Central,178611
+Male,> 60,"$150,000+",Graduate degree,West North Central,111557
+Female,> 60,"$150,000+",Graduate degree,West North Central,73308
+Male,18-29,"$0 - $24,999",Less than high school degree,South Atlantic,61436
+Female,18-29,"$0 - $24,999",Less than high school degree,South Atlantic,52580
+Male,30-44,"$0 - $24,999",Less than high school degree,South Atlantic,70296
+Female,30-44,"$0 - $24,999",Less than high school degree,South Atlantic,92035
+Male,45-60,"$0 - $24,999",Less than high school degree,South Atlantic,80237
+Female,45-60,"$0 - $24,999",Less than high school degree,South Atlantic,92848
+Male,> 60,"$0 - $24,999",Less than high school degree,South Atlantic,198700
+Female,> 60,"$0 - $24,999",Less than high school degree,South Atlantic,281255
+Male,18-29,"$25,000 - $49,999",Less than high school degree,South Atlantic,96574
+Female,18-29,"$25,000 - $49,999",Less than high school degree,South Atlantic,71941
+Male,30-44,"$25,000 - $49,999",Less than high school degree,South Atlantic,144988
+Female,30-44,"$25,000 - $49,999",Less than high school degree,South Atlantic,105943
+Male,45-60,"$25,000 - $49,999",Less than high school degree,South Atlantic,120886
+Female,45-60,"$25,000 - $49,999",Less than high school degree,South Atlantic,107671
+Male,> 60,"$25,000 - $49,999",Less than high school degree,South Atlantic,192772
+Female,> 60,"$25,000 - $49,999",Less than high school degree,South Atlantic,206960
+Male,18-29,"$50,000 - $99,999",Less than high school degree,South Atlantic,185076
+Female,18-29,"$50,000 - $99,999",Less than high school degree,South Atlantic,131655
+Male,30-44,"$50,000 - $99,999",Less than high school degree,South Atlantic,221223
+Female,30-44,"$50,000 - $99,999",Less than high school degree,South Atlantic,149489
+Male,45-60,"$50,000 - $99,999",Less than high school degree,South Atlantic,232219
+Female,45-60,"$50,000 - $99,999",Less than high school degree,South Atlantic,177072
+Male,> 60,"$50,000 - $99,999",Less than high school degree,South Atlantic,215478
+Female,> 60,"$50,000 - $99,999",Less than high school degree,South Atlantic,221595
+Male,18-29,"$100,000 - $149,999",Less than high school degree,South Atlantic,114795
+Female,18-29,"$100,000 - $149,999",Less than high school degree,South Atlantic,72451
+Male,30-44,"$100,000 - $149,999",Less than high school degree,South Atlantic,109162
+Female,30-44,"$100,000 - $149,999",Less than high school degree,South Atlantic,69080
+Male,45-60,"$100,000 - $149,999",Less than high school degree,South Atlantic,128168
+Female,45-60,"$100,000 - $149,999",Less than high school degree,South Atlantic,90133
+Male,> 60,"$100,000 - $149,999",Less than high school degree,South Atlantic,90979
+Female,> 60,"$100,000 - $149,999",Less than high school degree,South Atlantic,91239
+Male,18-29,"$150,000+",Less than high school degree,South Atlantic,124145
+Female,18-29,"$150,000+",Less than high school degree,South Atlantic,90936
+Male,30-44,"$150,000+",Less than high school degree,South Atlantic,85809
+Female,30-44,"$150,000+",Less than high school degree,South Atlantic,56029
+Male,45-60,"$150,000+",Less than high school degree,South Atlantic,103866
+Female,45-60,"$150,000+",Less than high school degree,South Atlantic,73243
+Male,> 60,"$150,000+",Less than high school degree,South Atlantic,75936
+Female,> 60,"$150,000+",Less than high school degree,South Atlantic,88691
+Male,18-29,"$0 - $24,999",High school degree,South Atlantic,126363
+Female,18-29,"$0 - $24,999",High school degree,South Atlantic,149299
+Male,30-44,"$0 - $24,999",High school degree,South Atlantic,128257
+Female,30-44,"$0 - $24,999",High school degree,South Atlantic,149807
+Male,45-60,"$0 - $24,999",High school degree,South Atlantic,141604
+Female,45-60,"$0 - $24,999",High school degree,South Atlantic,177050
+Male,> 60,"$0 - $24,999",High school degree,South Atlantic,300677
+Female,> 60,"$0 - $24,999",High school degree,South Atlantic,544690
+Male,18-29,"$25,000 - $49,999",High school degree,South Atlantic,257082
+Female,18-29,"$25,000 - $49,999",High school degree,South Atlantic,230187
+Male,30-44,"$25,000 - $49,999",High school degree,South Atlantic,286232
+Female,30-44,"$25,000 - $49,999",High school degree,South Atlantic,279437
+Male,45-60,"$25,000 - $49,999",High school degree,South Atlantic,254916
+Female,45-60,"$25,000 - $49,999",High school degree,South Atlantic,264507
+Male,> 60,"$25,000 - $49,999",High school degree,South Atlantic,453352
+Female,> 60,"$25,000 - $49,999",High school degree,South Atlantic,645359
+Male,18-29,"$50,000 - $99,999",High school degree,South Atlantic,578046
+Female,18-29,"$50,000 - $99,999",High school degree,South Atlantic,441675
+Male,30-44,"$50,000 - $99,999",High school degree,South Atlantic,643213
+Female,30-44,"$50,000 - $99,999",High school degree,South Atlantic,451073
+Male,45-60,"$50,000 - $99,999",High school degree,South Atlantic,587553
+Female,45-60,"$50,000 - $99,999",High school degree,South Atlantic,493533
+Male,> 60,"$50,000 - $99,999",High school degree,South Atlantic,703272
+Female,> 60,"$50,000 - $99,999",High school degree,South Atlantic,805567
+Male,18-29,"$100,000 - $149,999",High school degree,South Atlantic,411490
+Female,18-29,"$100,000 - $149,999",High school degree,South Atlantic,273839
+Male,30-44,"$100,000 - $149,999",High school degree,South Atlantic,391589
+Female,30-44,"$100,000 - $149,999",High school degree,South Atlantic,253482
+Male,45-60,"$100,000 - $149,999",High school degree,South Atlantic,397725
+Female,45-60,"$100,000 - $149,999",High school degree,South Atlantic,320383
+Male,> 60,"$100,000 - $149,999",High school degree,South Atlantic,307559
+Female,> 60,"$100,000 - $149,999",High school degree,South Atlantic,337658
+Male,18-29,"$150,000+",High school degree,South Atlantic,413899
+Female,18-29,"$150,000+",High school degree,South Atlantic,274163
+Male,30-44,"$150,000+",High school degree,South Atlantic,299161
+Female,30-44,"$150,000+",High school degree,South Atlantic,189184
+Male,45-60,"$150,000+",High school degree,South Atlantic,376469
+Female,45-60,"$150,000+",High school degree,South Atlantic,281680
+Male,> 60,"$150,000+",High school degree,South Atlantic,239245
+Female,> 60,"$150,000+",High school degree,South Atlantic,301147
+Male,18-29,"$0 - $24,999",Some college or Associate degree,South Atlantic,110348
+Female,18-29,"$0 - $24,999",Some college or Associate degree,South Atlantic,158151
+Male,30-44,"$0 - $24,999",Some college or Associate degree,South Atlantic,75923
+Female,30-44,"$0 - $24,999",Some college or Associate degree,South Atlantic,152366
+Male,45-60,"$0 - $24,999",Some college or Associate degree,South Atlantic,90954
+Female,45-60,"$0 - $24,999",Some college or Associate degree,South Atlantic,154528
+Male,> 60,"$0 - $24,999",Some college or Associate degree,South Atlantic,205578
+Female,> 60,"$0 - $24,999",Some college or Associate degree,South Atlantic,419586
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,189479
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,241430
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,186682
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,318285
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,162832
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,269146
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,332530
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,South Atlantic,540160
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,432686
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,495298
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,581238
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,651460
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,457794
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,584022
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,678946
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,South Atlantic,852999
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,301506
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,304145
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,458774
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,439279
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,401988
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,436758
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,367934
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,South Atlantic,404076
+Male,18-29,"$150,000+",Some college or Associate degree,South Atlantic,386783
+Female,18-29,"$150,000+",Some college or Associate degree,South Atlantic,337256
+Male,30-44,"$150,000+",Some college or Associate degree,South Atlantic,427393
+Female,30-44,"$150,000+",Some college or Associate degree,South Atlantic,364177
+Male,45-60,"$150,000+",Some college or Associate degree,South Atlantic,530341
+Female,45-60,"$150,000+",Some college or Associate degree,South Atlantic,525004
+Male,> 60,"$150,000+",Some college or Associate degree,South Atlantic,345046
+Female,> 60,"$150,000+",Some college or Associate degree,South Atlantic,400373
+Male,18-29,"$0 - $24,999",Bachelor degree,South Atlantic,49897
+Female,18-29,"$0 - $24,999",Bachelor degree,South Atlantic,64137
+Male,30-44,"$0 - $24,999",Bachelor degree,South Atlantic,40710
+Female,30-44,"$0 - $24,999",Bachelor degree,South Atlantic,56349
+Male,45-60,"$0 - $24,999",Bachelor degree,South Atlantic,35296
+Female,45-60,"$0 - $24,999",Bachelor degree,South Atlantic,52483
+Male,> 60,"$0 - $24,999",Bachelor degree,South Atlantic,96484
+Female,> 60,"$0 - $24,999",Bachelor degree,South Atlantic,141577
+Male,18-29,"$25,000 - $49,999",Bachelor degree,South Atlantic,66842
+Female,18-29,"$25,000 - $49,999",Bachelor degree,South Atlantic,123838
+Male,30-44,"$25,000 - $49,999",Bachelor degree,South Atlantic,87861
+Female,30-44,"$25,000 - $49,999",Bachelor degree,South Atlantic,135471
+Male,45-60,"$25,000 - $49,999",Bachelor degree,South Atlantic,76633
+Female,45-60,"$25,000 - $49,999",Bachelor degree,South Atlantic,106234
+Male,> 60,"$25,000 - $49,999",Bachelor degree,South Atlantic,160690
+Female,> 60,"$25,000 - $49,999",Bachelor degree,South Atlantic,232467
+Male,18-29,"$50,000 - $99,999",Bachelor degree,South Atlantic,241880
+Female,18-29,"$50,000 - $99,999",Bachelor degree,South Atlantic,330487
+Male,30-44,"$50,000 - $99,999",Bachelor degree,South Atlantic,357897
+Female,30-44,"$50,000 - $99,999",Bachelor degree,South Atlantic,483285
+Male,45-60,"$50,000 - $99,999",Bachelor degree,South Atlantic,232794
+Female,45-60,"$50,000 - $99,999",Bachelor degree,South Atlantic,354081
+Male,> 60,"$50,000 - $99,999",Bachelor degree,South Atlantic,421197
+Female,> 60,"$50,000 - $99,999",Bachelor degree,South Atlantic,467269
+Male,18-29,"$100,000 - $149,999",Bachelor degree,South Atlantic,209257
+Female,18-29,"$100,000 - $149,999",Bachelor degree,South Atlantic,266337
+Male,30-44,"$100,000 - $149,999",Bachelor degree,South Atlantic,405715
+Female,30-44,"$100,000 - $149,999",Bachelor degree,South Atlantic,444825
+Male,45-60,"$100,000 - $149,999",Bachelor degree,South Atlantic,283309
+Female,45-60,"$100,000 - $149,999",Bachelor degree,South Atlantic,332428
+Male,> 60,"$100,000 - $149,999",Bachelor degree,South Atlantic,307971
+Female,> 60,"$100,000 - $149,999",Bachelor degree,South Atlantic,310126
+Male,18-29,"$150,000+",Bachelor degree,South Atlantic,310439
+Female,18-29,"$150,000+",Bachelor degree,South Atlantic,331878
+Male,30-44,"$150,000+",Bachelor degree,South Atlantic,708844
+Female,30-44,"$150,000+",Bachelor degree,South Atlantic,745581
+Male,45-60,"$150,000+",Bachelor degree,South Atlantic,737235
+Female,45-60,"$150,000+",Bachelor degree,South Atlantic,754207
+Male,> 60,"$150,000+",Bachelor degree,South Atlantic,496224
+Female,> 60,"$150,000+",Bachelor degree,South Atlantic,457259
+Male,18-29,"$0 - $24,999",Graduate degree,South Atlantic,8720
+Female,18-29,"$0 - $24,999",Graduate degree,South Atlantic,15789
+Male,30-44,"$0 - $24,999",Graduate degree,South Atlantic,18980
+Female,30-44,"$0 - $24,999",Graduate degree,South Atlantic,29368
+Male,45-60,"$0 - $24,999",Graduate degree,South Atlantic,19850
+Female,45-60,"$0 - $24,999",Graduate degree,South Atlantic,28975
+Male,> 60,"$0 - $24,999",Graduate degree,South Atlantic,62952
+Female,> 60,"$0 - $24,999",Graduate degree,South Atlantic,86866
+Male,18-29,"$25,000 - $49,999",Graduate degree,South Atlantic,15541
+Female,18-29,"$25,000 - $49,999",Graduate degree,South Atlantic,23932
+Male,30-44,"$25,000 - $49,999",Graduate degree,South Atlantic,33406
+Female,30-44,"$25,000 - $49,999",Graduate degree,South Atlantic,49643
+Male,45-60,"$25,000 - $49,999",Graduate degree,South Atlantic,32865
+Female,45-60,"$25,000 - $49,999",Graduate degree,South Atlantic,53712
+Male,> 60,"$25,000 - $49,999",Graduate degree,South Atlantic,96109
+Female,> 60,"$25,000 - $49,999",Graduate degree,South Atlantic,122373
+Male,18-29,"$50,000 - $99,999",Graduate degree,South Atlantic,46854
+Female,18-29,"$50,000 - $99,999",Graduate degree,South Atlantic,82014
+Male,30-44,"$50,000 - $99,999",Graduate degree,South Atlantic,160357
+Female,30-44,"$50,000 - $99,999",Graduate degree,South Atlantic,261057
+Male,45-60,"$50,000 - $99,999",Graduate degree,South Atlantic,124745
+Female,45-60,"$50,000 - $99,999",Graduate degree,South Atlantic,221170
+Male,> 60,"$50,000 - $99,999",Graduate degree,South Atlantic,274928
+Female,> 60,"$50,000 - $99,999",Graduate degree,South Atlantic,325291
+Male,18-29,"$100,000 - $149,999",Graduate degree,South Atlantic,51257
+Female,18-29,"$100,000 - $149,999",Graduate degree,South Atlantic,87077
+Male,30-44,"$100,000 - $149,999",Graduate degree,South Atlantic,209763
+Female,30-44,"$100,000 - $149,999",Graduate degree,South Atlantic,314290
+Male,45-60,"$100,000 - $149,999",Graduate degree,South Atlantic,154866
+Female,45-60,"$100,000 - $149,999",Graduate degree,South Atlantic,241502
+Male,> 60,"$100,000 - $149,999",Graduate degree,South Atlantic,265280
+Female,> 60,"$100,000 - $149,999",Graduate degree,South Atlantic,243201
+Male,18-29,"$150,000+",Graduate degree,South Atlantic,67028
+Female,18-29,"$150,000+",Graduate degree,South Atlantic,110858
+Male,30-44,"$150,000+",Graduate degree,South Atlantic,580406
+Female,30-44,"$150,000+",Graduate degree,South Atlantic,743733
+Male,45-60,"$150,000+",Graduate degree,South Atlantic,678233
+Female,45-60,"$150,000+",Graduate degree,South Atlantic,703894
+Male,> 60,"$150,000+",Graduate degree,South Atlantic,581759
+Female,> 60,"$150,000+",Graduate degree,South Atlantic,405600
+Male,18-29,"$0 - $24,999",Less than high school degree,East South Central,26465
+Female,18-29,"$0 - $24,999",Less than high school degree,East South Central,19940
+Male,30-44,"$0 - $24,999",Less than high school degree,East South Central,24866
+Female,30-44,"$0 - $24,999",Less than high school degree,East South Central,35824
+Male,45-60,"$0 - $24,999",Less than high school degree,East South Central,44337
+Female,45-60,"$0 - $24,999",Less than high school degree,East South Central,50423
+Male,> 60,"$0 - $24,999",Less than high school degree,East South Central,90396
+Female,> 60,"$0 - $24,999",Less than high school degree,East South Central,102409
+Male,18-29,"$25,000 - $49,999",Less than high school degree,East South Central,31658
+Female,18-29,"$25,000 - $49,999",Less than high school degree,East South Central,29390
+Male,30-44,"$25,000 - $49,999",Less than high school degree,East South Central,43647
+Female,30-44,"$25,000 - $49,999",Less than high school degree,East South Central,32712
+Male,45-60,"$25,000 - $49,999",Less than high school degree,East South Central,47512
+Female,45-60,"$25,000 - $49,999",Less than high school degree,East South Central,39871
+Male,> 60,"$25,000 - $49,999",Less than high school degree,East South Central,85421
+Female,> 60,"$25,000 - $49,999",Less than high school degree,East South Central,76417
+Male,18-29,"$50,000 - $99,999",Less than high school degree,East South Central,49834
+Female,18-29,"$50,000 - $99,999",Less than high school degree,East South Central,32866
+Male,30-44,"$50,000 - $99,999",Less than high school degree,East South Central,60563
+Female,30-44,"$50,000 - $99,999",Less than high school degree,East South Central,41872
+Male,45-60,"$50,000 - $99,999",Less than high school degree,East South Central,69927
+Female,45-60,"$50,000 - $99,999",Less than high school degree,East South Central,50584
+Male,> 60,"$50,000 - $99,999",Less than high school degree,East South Central,60770
+Female,> 60,"$50,000 - $99,999",Less than high school degree,East South Central,59186
+Male,18-29,"$100,000 - $149,999",Less than high school degree,East South Central,25492
+Female,18-29,"$100,000 - $149,999",Less than high school degree,East South Central,16607
+Male,30-44,"$100,000 - $149,999",Less than high school degree,East South Central,22499
+Female,30-44,"$100,000 - $149,999",Less than high school degree,East South Central,17854
+Male,45-60,"$100,000 - $149,999",Less than high school degree,East South Central,28960
+Female,45-60,"$100,000 - $149,999",Less than high school degree,East South Central,21189
+Male,> 60,"$100,000 - $149,999",Less than high school degree,East South Central,19909
+Female,> 60,"$100,000 - $149,999",Less than high school degree,East South Central,16872
+Male,18-29,"$150,000+",Less than high school degree,East South Central,33470
+Female,18-29,"$150,000+",Less than high school degree,East South Central,16806
+Male,30-44,"$150,000+",Less than high school degree,East South Central,17976
+Female,30-44,"$150,000+",Less than high school degree,East South Central,8814
+Male,45-60,"$150,000+",Less than high school degree,East South Central,20745
+Female,45-60,"$150,000+",Less than high school degree,East South Central,13012
+Male,> 60,"$150,000+",Less than high school degree,East South Central,16744
+Female,> 60,"$150,000+",Less than high school degree,East South Central,16153
+Male,18-29,"$0 - $24,999",High school degree,East South Central,58006
+Female,18-29,"$0 - $24,999",High school degree,East South Central,76228
+Male,30-44,"$0 - $24,999",High school degree,East South Central,51430
+Female,30-44,"$0 - $24,999",High school degree,East South Central,71837
+Male,45-60,"$0 - $24,999",High school degree,East South Central,66517
+Female,45-60,"$0 - $24,999",High school degree,East South Central,85631
+Male,> 60,"$0 - $24,999",High school degree,East South Central,112134
+Female,> 60,"$0 - $24,999",High school degree,East South Central,202476
+Male,18-29,"$25,000 - $49,999",High school degree,East South Central,104012
+Female,18-29,"$25,000 - $49,999",High school degree,East South Central,88269
+Male,30-44,"$25,000 - $49,999",High school degree,East South Central,96329
+Female,30-44,"$25,000 - $49,999",High school degree,East South Central,95164
+Male,45-60,"$25,000 - $49,999",High school degree,East South Central,100378
+Female,45-60,"$25,000 - $49,999",High school degree,East South Central,100608
+Male,> 60,"$25,000 - $49,999",High school degree,East South Central,179355
+Female,> 60,"$25,000 - $49,999",High school degree,East South Central,231578
+Male,18-29,"$50,000 - $99,999",High school degree,East South Central,211771
+Female,18-29,"$50,000 - $99,999",High school degree,East South Central,144766
+Male,30-44,"$50,000 - $99,999",High school degree,East South Central,229051
+Female,30-44,"$50,000 - $99,999",High school degree,East South Central,153859
+Male,45-60,"$50,000 - $99,999",High school degree,East South Central,199211
+Female,45-60,"$50,000 - $99,999",High school degree,East South Central,172394
+Male,> 60,"$50,000 - $99,999",High school degree,East South Central,236809
+Female,> 60,"$50,000 - $99,999",High school degree,East South Central,261976
+Male,18-29,"$100,000 - $149,999",High school degree,East South Central,117313
+Female,18-29,"$100,000 - $149,999",High school degree,East South Central,72164
+Male,30-44,"$100,000 - $149,999",High school degree,East South Central,111627
+Female,30-44,"$100,000 - $149,999",High school degree,East South Central,78306
+Male,45-60,"$100,000 - $149,999",High school degree,East South Central,124475
+Female,45-60,"$100,000 - $149,999",High school degree,East South Central,91676
+Male,> 60,"$100,000 - $149,999",High school degree,East South Central,84407
+Female,> 60,"$100,000 - $149,999",High school degree,East South Central,87712
+Male,18-29,"$150,000+",High school degree,East South Central,98669
+Female,18-29,"$150,000+",High school degree,East South Central,59201
+Male,30-44,"$150,000+",High school degree,East South Central,67271
+Female,30-44,"$150,000+",High school degree,East South Central,40666
+Male,45-60,"$150,000+",High school degree,East South Central,99431
+Female,45-60,"$150,000+",High school degree,East South Central,64300
+Male,> 60,"$150,000+",High school degree,East South Central,57059
+Female,> 60,"$150,000+",High school degree,East South Central,64142
+Male,18-29,"$0 - $24,999",Some college or Associate degree,East South Central,39744
+Female,18-29,"$0 - $24,999",Some college or Associate degree,East South Central,69473
+Male,30-44,"$0 - $24,999",Some college or Associate degree,East South Central,31377
+Female,30-44,"$0 - $24,999",Some college or Associate degree,East South Central,64264
+Male,45-60,"$0 - $24,999",Some college or Associate degree,East South Central,33637
+Female,45-60,"$0 - $24,999",Some college or Associate degree,East South Central,64621
+Male,> 60,"$0 - $24,999",Some college or Associate degree,East South Central,58925
+Female,> 60,"$0 - $24,999",Some college or Associate degree,East South Central,131126
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,East South Central,62234
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,East South Central,88984
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,East South Central,68920
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,East South Central,118153
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,East South Central,53319
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,East South Central,91377
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,East South Central,103287
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,East South Central,168124
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,East South Central,154625
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,East South Central,155429
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,East South Central,196680
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,East South Central,215000
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,East South Central,158333
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,East South Central,189886
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,East South Central,196249
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,East South Central,239567
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,East South Central,87128
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,East South Central,88587
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,East South Central,135303
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,East South Central,132115
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,East South Central,135070
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,East South Central,130155
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,East South Central,90648
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,East South Central,95702
+Male,18-29,"$150,000+",Some college or Associate degree,East South Central,87188
+Female,18-29,"$150,000+",Some college or Associate degree,East South Central,73173
+Male,30-44,"$150,000+",Some college or Associate degree,East South Central,100078
+Female,30-44,"$150,000+",Some college or Associate degree,East South Central,92516
+Male,45-60,"$150,000+",Some college or Associate degree,East South Central,132282
+Female,45-60,"$150,000+",Some college or Associate degree,East South Central,130680
+Male,> 60,"$150,000+",Some college or Associate degree,East South Central,72736
+Female,> 60,"$150,000+",Some college or Associate degree,East South Central,83793
+Male,18-29,"$0 - $24,999",Bachelor degree,East South Central,18307
+Female,18-29,"$0 - $24,999",Bachelor degree,East South Central,22448
+Male,30-44,"$0 - $24,999",Bachelor degree,East South Central,8225
+Female,30-44,"$0 - $24,999",Bachelor degree,East South Central,14599
+Male,45-60,"$0 - $24,999",Bachelor degree,East South Central,11328
+Female,45-60,"$0 - $24,999",Bachelor degree,East South Central,15219
+Male,> 60,"$0 - $24,999",Bachelor degree,East South Central,20425
+Female,> 60,"$0 - $24,999",Bachelor degree,East South Central,35227
+Male,18-29,"$25,000 - $49,999",Bachelor degree,East South Central,24166
+Female,18-29,"$25,000 - $49,999",Bachelor degree,East South Central,39251
+Male,30-44,"$25,000 - $49,999",Bachelor degree,East South Central,20472
+Female,30-44,"$25,000 - $49,999",Bachelor degree,East South Central,29221
+Male,45-60,"$25,000 - $49,999",Bachelor degree,East South Central,21841
+Female,45-60,"$25,000 - $49,999",Bachelor degree,East South Central,30714
+Male,> 60,"$25,000 - $49,999",Bachelor degree,East South Central,41702
+Female,> 60,"$25,000 - $49,999",Bachelor degree,East South Central,58198
+Male,18-29,"$50,000 - $99,999",Bachelor degree,East South Central,73402
+Female,18-29,"$50,000 - $99,999",Bachelor degree,East South Central,96144
+Male,30-44,"$50,000 - $99,999",Bachelor degree,East South Central,92692
+Female,30-44,"$50,000 - $99,999",Bachelor degree,East South Central,125887
+Male,45-60,"$50,000 - $99,999",Bachelor degree,East South Central,61059
+Female,45-60,"$50,000 - $99,999",Bachelor degree,East South Central,83291
+Male,> 60,"$50,000 - $99,999",Bachelor degree,East South Central,104873
+Female,> 60,"$50,000 - $99,999",Bachelor degree,East South Central,108982
+Male,18-29,"$100,000 - $149,999",Bachelor degree,East South Central,56798
+Female,18-29,"$100,000 - $149,999",Bachelor degree,East South Central,64234
+Male,30-44,"$100,000 - $149,999",Bachelor degree,East South Central,104731
+Female,30-44,"$100,000 - $149,999",Bachelor degree,East South Central,119069
+Male,45-60,"$100,000 - $149,999",Bachelor degree,East South Central,70626
+Female,45-60,"$100,000 - $149,999",Bachelor degree,East South Central,86199
+Male,> 60,"$100,000 - $149,999",Bachelor degree,East South Central,67390
+Female,> 60,"$100,000 - $149,999",Bachelor degree,East South Central,62661
+Male,18-29,"$150,000+",Bachelor degree,East South Central,47728
+Female,18-29,"$150,000+",Bachelor degree,East South Central,51095
+Male,30-44,"$150,000+",Bachelor degree,East South Central,138200
+Female,30-44,"$150,000+",Bachelor degree,East South Central,145152
+Male,45-60,"$150,000+",Bachelor degree,East South Central,155642
+Female,45-60,"$150,000+",Bachelor degree,East South Central,149959
+Male,> 60,"$150,000+",Bachelor degree,East South Central,89283
+Female,> 60,"$150,000+",Bachelor degree,East South Central,73309
+Male,18-29,"$0 - $24,999",Graduate degree,East South Central,2229
+Female,18-29,"$0 - $24,999",Graduate degree,East South Central,4605
+Male,30-44,"$0 - $24,999",Graduate degree,East South Central,8701
+Female,30-44,"$0 - $24,999",Graduate degree,East South Central,5907
+Male,45-60,"$0 - $24,999",Graduate degree,East South Central,4488
+Female,45-60,"$0 - $24,999",Graduate degree,East South Central,8668
+Male,> 60,"$0 - $24,999",Graduate degree,East South Central,8297
+Female,> 60,"$0 - $24,999",Graduate degree,East South Central,17307
+Male,18-29,"$25,000 - $49,999",Graduate degree,East South Central,6220
+Female,18-29,"$25,000 - $49,999",Graduate degree,East South Central,9413
+Male,30-44,"$25,000 - $49,999",Graduate degree,East South Central,11321
+Female,30-44,"$25,000 - $49,999",Graduate degree,East South Central,16044
+Male,45-60,"$25,000 - $49,999",Graduate degree,East South Central,6290
+Female,45-60,"$25,000 - $49,999",Graduate degree,East South Central,13429
+Male,> 60,"$25,000 - $49,999",Graduate degree,East South Central,20214
+Female,> 60,"$25,000 - $49,999",Graduate degree,East South Central,32003
+Male,18-29,"$50,000 - $99,999",Graduate degree,East South Central,13883
+Female,18-29,"$50,000 - $99,999",Graduate degree,East South Central,25505
+Male,30-44,"$50,000 - $99,999",Graduate degree,East South Central,42308
+Female,30-44,"$50,000 - $99,999",Graduate degree,East South Central,66525
+Male,45-60,"$50,000 - $99,999",Graduate degree,East South Central,30946
+Female,45-60,"$50,000 - $99,999",Graduate degree,East South Central,57985
+Male,> 60,"$50,000 - $99,999",Graduate degree,East South Central,62849
+Female,> 60,"$50,000 - $99,999",Graduate degree,East South Central,82130
+Male,18-29,"$100,000 - $149,999",Graduate degree,East South Central,12330
+Female,18-29,"$100,000 - $149,999",Graduate degree,East South Central,28094
+Male,30-44,"$100,000 - $149,999",Graduate degree,East South Central,54588
+Female,30-44,"$100,000 - $149,999",Graduate degree,East South Central,88749
+Male,45-60,"$100,000 - $149,999",Graduate degree,East South Central,45424
+Female,45-60,"$100,000 - $149,999",Graduate degree,East South Central,67728
+Male,> 60,"$100,000 - $149,999",Graduate degree,East South Central,49140
+Female,> 60,"$100,000 - $149,999",Graduate degree,East South Central,51788
+Male,18-29,"$150,000+",Graduate degree,East South Central,12076
+Female,18-29,"$150,000+",Graduate degree,East South Central,18057
+Male,30-44,"$150,000+",Graduate degree,East South Central,91870
+Female,30-44,"$150,000+",Graduate degree,East South Central,143254
+Male,45-60,"$150,000+",Graduate degree,East South Central,113477
+Female,45-60,"$150,000+",Graduate degree,East South Central,137778
+Male,> 60,"$150,000+",Graduate degree,East South Central,89737
+Female,> 60,"$150,000+",Graduate degree,East South Central,66696
+Male,18-29,"$0 - $24,999",Less than high school degree,West South Central,60309
+Female,18-29,"$0 - $24,999",Less than high school degree,West South Central,62424
+Male,30-44,"$0 - $24,999",Less than high school degree,West South Central,65874
+Female,30-44,"$0 - $24,999",Less than high school degree,West South Central,83064
+Male,45-60,"$0 - $24,999",Less than high school degree,West South Central,83927
+Female,45-60,"$0 - $24,999",Less than high school degree,West South Central,99053
+Male,> 60,"$0 - $24,999",Less than high school degree,West South Central,154002
+Female,> 60,"$0 - $24,999",Less than high school degree,West South Central,214813
+Male,18-29,"$25,000 - $49,999",Less than high school degree,West South Central,88342
+Female,18-29,"$25,000 - $49,999",Less than high school degree,West South Central,76833
+Male,30-44,"$25,000 - $49,999",Less than high school degree,West South Central,130022
+Female,30-44,"$25,000 - $49,999",Less than high school degree,West South Central,106400
+Male,45-60,"$25,000 - $49,999",Less than high school degree,West South Central,115351
+Female,45-60,"$25,000 - $49,999",Less than high school degree,West South Central,111475
+Male,> 60,"$25,000 - $49,999",Less than high school degree,West South Central,146611
+Female,> 60,"$25,000 - $49,999",Less than high school degree,West South Central,145666
+Male,18-29,"$50,000 - $99,999",Less than high school degree,West South Central,146882
+Female,18-29,"$50,000 - $99,999",Less than high school degree,West South Central,82463
+Male,30-44,"$50,000 - $99,999",Less than high school degree,West South Central,169726
+Female,30-44,"$50,000 - $99,999",Less than high school degree,West South Central,131837
+Male,45-60,"$50,000 - $99,999",Less than high school degree,West South Central,209320
+Female,45-60,"$50,000 - $99,999",Less than high school degree,West South Central,161910
+Male,> 60,"$50,000 - $99,999",Less than high school degree,West South Central,141052
+Female,> 60,"$50,000 - $99,999",Less than high school degree,West South Central,157021
+Male,18-29,"$100,000 - $149,999",Less than high school degree,West South Central,71281
+Female,18-29,"$100,000 - $149,999",Less than high school degree,West South Central,47730
+Male,30-44,"$100,000 - $149,999",Less than high school degree,West South Central,75510
+Female,30-44,"$100,000 - $149,999",Less than high school degree,West South Central,49200
+Male,45-60,"$100,000 - $149,999",Less than high school degree,West South Central,99136
+Female,45-60,"$100,000 - $149,999",Less than high school degree,West South Central,83463
+Male,> 60,"$100,000 - $149,999",Less than high school degree,West South Central,58348
+Female,> 60,"$100,000 - $149,999",Less than high school degree,West South Central,68514
+Male,18-29,"$150,000+",Less than high school degree,West South Central,65086
+Female,18-29,"$150,000+",Less than high school degree,West South Central,52039
+Male,30-44,"$150,000+",Less than high school degree,West South Central,46476
+Female,30-44,"$150,000+",Less than high school degree,West South Central,31725
+Male,45-60,"$150,000+",Less than high school degree,West South Central,73232
+Female,45-60,"$150,000+",Less than high school degree,West South Central,64986
+Male,> 60,"$150,000+",Less than high school degree,West South Central,50404
+Female,> 60,"$150,000+",Less than high school degree,West South Central,57165
+Male,18-29,"$0 - $24,999",High school degree,West South Central,109846
+Female,18-29,"$0 - $24,999",High school degree,West South Central,126160
+Male,30-44,"$0 - $24,999",High school degree,West South Central,98722
+Female,30-44,"$0 - $24,999",High school degree,West South Central,124783
+Male,45-60,"$0 - $24,999",High school degree,West South Central,104815
+Female,45-60,"$0 - $24,999",High school degree,West South Central,120755
+Male,> 60,"$0 - $24,999",High school degree,West South Central,163363
+Female,> 60,"$0 - $24,999",High school degree,West South Central,283605
+Male,18-29,"$25,000 - $49,999",High school degree,West South Central,223835
+Female,18-29,"$25,000 - $49,999",High school degree,West South Central,198833
+Male,30-44,"$25,000 - $49,999",High school degree,West South Central,211255
+Female,30-44,"$25,000 - $49,999",High school degree,West South Central,193160
+Male,45-60,"$25,000 - $49,999",High school degree,West South Central,142904
+Female,45-60,"$25,000 - $49,999",High school degree,West South Central,165841
+Male,> 60,"$25,000 - $49,999",High school degree,West South Central,217665
+Female,> 60,"$25,000 - $49,999",High school degree,West South Central,322487
+Male,18-29,"$50,000 - $99,999",High school degree,West South Central,460291
+Female,18-29,"$50,000 - $99,999",High school degree,West South Central,349062
+Male,30-44,"$50,000 - $99,999",High school degree,West South Central,448922
+Female,30-44,"$50,000 - $99,999",High school degree,West South Central,331551
+Male,45-60,"$50,000 - $99,999",High school degree,West South Central,346722
+Female,45-60,"$50,000 - $99,999",High school degree,West South Central,297044
+Male,> 60,"$50,000 - $99,999",High school degree,West South Central,328799
+Female,> 60,"$50,000 - $99,999",High school degree,West South Central,382749
+Male,18-29,"$100,000 - $149,999",High school degree,West South Central,259090
+Female,18-29,"$100,000 - $149,999",High school degree,West South Central,171590
+Male,30-44,"$100,000 - $149,999",High school degree,West South Central,268936
+Female,30-44,"$100,000 - $149,999",High school degree,West South Central,177650
+Male,45-60,"$100,000 - $149,999",High school degree,West South Central,224076
+Female,45-60,"$100,000 - $149,999",High school degree,West South Central,182283
+Male,> 60,"$100,000 - $149,999",High school degree,West South Central,143955
+Female,> 60,"$100,000 - $149,999",High school degree,West South Central,155182
+Male,18-29,"$150,000+",High school degree,West South Central,249782
+Female,18-29,"$150,000+",High school degree,West South Central,168069
+Male,30-44,"$150,000+",High school degree,West South Central,196535
+Female,30-44,"$150,000+",High school degree,West South Central,122654
+Male,45-60,"$150,000+",High school degree,West South Central,193277
+Female,45-60,"$150,000+",High school degree,West South Central,162457
+Male,> 60,"$150,000+",High school degree,West South Central,121490
+Female,> 60,"$150,000+",High school degree,West South Central,147034
+Male,18-29,"$0 - $24,999",Some college or Associate degree,West South Central,97795
+Female,18-29,"$0 - $24,999",Some college or Associate degree,West South Central,125787
+Male,30-44,"$0 - $24,999",Some college or Associate degree,West South Central,60952
+Female,30-44,"$0 - $24,999",Some college or Associate degree,West South Central,120142
+Male,45-60,"$0 - $24,999",Some college or Associate degree,West South Central,62531
+Female,45-60,"$0 - $24,999",Some college or Associate degree,West South Central,92809
+Male,> 60,"$0 - $24,999",Some college or Associate degree,West South Central,119123
+Female,> 60,"$0 - $24,999",Some college or Associate degree,West South Central,216609
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,West South Central,165555
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,West South Central,204058
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,West South Central,138336
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,West South Central,209554
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,West South Central,105058
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,West South Central,159389
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,West South Central,176543
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,West South Central,271782
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,West South Central,343801
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,West South Central,362403
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,West South Central,405783
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,West South Central,419896
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,West South Central,260752
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,West South Central,322255
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,West South Central,342433
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,West South Central,394000
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,West South Central,202025
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,West South Central,210328
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,West South Central,303857
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,West South Central,283773
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,West South Central,248986
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,West South Central,244558
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,West South Central,188378
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,West South Central,193790
+Male,18-29,"$150,000+",Some college or Associate degree,West South Central,224485
+Female,18-29,"$150,000+",Some college or Associate degree,West South Central,193096
+Male,30-44,"$150,000+",Some college or Associate degree,West South Central,286805
+Female,30-44,"$150,000+",Some college or Associate degree,West South Central,248540
+Male,45-60,"$150,000+",Some college or Associate degree,West South Central,318026
+Female,45-60,"$150,000+",Some college or Associate degree,West South Central,280801
+Male,> 60,"$150,000+",Some college or Associate degree,West South Central,167797
+Female,> 60,"$150,000+",Some college or Associate degree,West South Central,186855
+Male,18-29,"$0 - $24,999",Bachelor degree,West South Central,32806
+Female,18-29,"$0 - $24,999",Bachelor degree,West South Central,48334
+Male,30-44,"$0 - $24,999",Bachelor degree,West South Central,24205
+Female,30-44,"$0 - $24,999",Bachelor degree,West South Central,32933
+Male,45-60,"$0 - $24,999",Bachelor degree,West South Central,24092
+Female,45-60,"$0 - $24,999",Bachelor degree,West South Central,35169
+Male,> 60,"$0 - $24,999",Bachelor degree,West South Central,46584
+Female,> 60,"$0 - $24,999",Bachelor degree,West South Central,59099
+Male,18-29,"$25,000 - $49,999",Bachelor degree,West South Central,49851
+Female,18-29,"$25,000 - $49,999",Bachelor degree,West South Central,78173
+Male,30-44,"$25,000 - $49,999",Bachelor degree,West South Central,58215
+Female,30-44,"$25,000 - $49,999",Bachelor degree,West South Central,82290
+Male,45-60,"$25,000 - $49,999",Bachelor degree,West South Central,40125
+Female,45-60,"$25,000 - $49,999",Bachelor degree,West South Central,59443
+Male,> 60,"$25,000 - $49,999",Bachelor degree,West South Central,81317
+Female,> 60,"$25,000 - $49,999",Bachelor degree,West South Central,109052
+Male,18-29,"$50,000 - $99,999",Bachelor degree,West South Central,150358
+Female,18-29,"$50,000 - $99,999",Bachelor degree,West South Central,200062
+Male,30-44,"$50,000 - $99,999",Bachelor degree,West South Central,220653
+Female,30-44,"$50,000 - $99,999",Bachelor degree,West South Central,306221
+Male,45-60,"$50,000 - $99,999",Bachelor degree,West South Central,129632
+Female,45-60,"$50,000 - $99,999",Bachelor degree,West South Central,192024
+Male,> 60,"$50,000 - $99,999",Bachelor degree,West South Central,197443
+Female,> 60,"$50,000 - $99,999",Bachelor degree,West South Central,234512
+Male,18-29,"$100,000 - $149,999",Bachelor degree,West South Central,113785
+Female,18-29,"$100,000 - $149,999",Bachelor degree,West South Central,145192
+Male,30-44,"$100,000 - $149,999",Bachelor degree,West South Central,235344
+Female,30-44,"$100,000 - $149,999",Bachelor degree,West South Central,267572
+Male,45-60,"$100,000 - $149,999",Bachelor degree,West South Central,162614
+Female,45-60,"$100,000 - $149,999",Bachelor degree,West South Central,172578
+Male,> 60,"$100,000 - $149,999",Bachelor degree,West South Central,143751
+Female,> 60,"$100,000 - $149,999",Bachelor degree,West South Central,141425
+Male,18-29,"$150,000+",Bachelor degree,West South Central,159927
+Female,18-29,"$150,000+",Bachelor degree,West South Central,180845
+Male,30-44,"$150,000+",Bachelor degree,West South Central,423969
+Female,30-44,"$150,000+",Bachelor degree,West South Central,442028
+Male,45-60,"$150,000+",Bachelor degree,West South Central,398874
+Female,45-60,"$150,000+",Bachelor degree,West South Central,399471
+Male,> 60,"$150,000+",Bachelor degree,West South Central,228010
+Female,> 60,"$150,000+",Bachelor degree,West South Central,200140
+Male,18-29,"$0 - $24,999",Graduate degree,West South Central,6456
+Female,18-29,"$0 - $24,999",Graduate degree,West South Central,13103
+Male,30-44,"$0 - $24,999",Graduate degree,West South Central,11369
+Female,30-44,"$0 - $24,999",Graduate degree,West South Central,15714
+Male,45-60,"$0 - $24,999",Graduate degree,West South Central,12371
+Female,45-60,"$0 - $24,999",Graduate degree,West South Central,14270
+Male,> 60,"$0 - $24,999",Graduate degree,West South Central,25162
+Female,> 60,"$0 - $24,999",Graduate degree,West South Central,33709
+Male,18-29,"$25,000 - $49,999",Graduate degree,West South Central,11796
+Female,18-29,"$25,000 - $49,999",Graduate degree,West South Central,17608
+Male,30-44,"$25,000 - $49,999",Graduate degree,West South Central,21601
+Female,30-44,"$25,000 - $49,999",Graduate degree,West South Central,30080
+Male,45-60,"$25,000 - $49,999",Graduate degree,West South Central,17745
+Female,45-60,"$25,000 - $49,999",Graduate degree,West South Central,21128
+Male,> 60,"$25,000 - $49,999",Graduate degree,West South Central,42497
+Female,> 60,"$25,000 - $49,999",Graduate degree,West South Central,56535
+Male,18-29,"$50,000 - $99,999",Graduate degree,West South Central,29276
+Female,18-29,"$50,000 - $99,999",Graduate degree,West South Central,46258
+Male,30-44,"$50,000 - $99,999",Graduate degree,West South Central,95941
+Female,30-44,"$50,000 - $99,999",Graduate degree,West South Central,138531
+Male,45-60,"$50,000 - $99,999",Graduate degree,West South Central,61351
+Female,45-60,"$50,000 - $99,999",Graduate degree,West South Central,96619
+Male,> 60,"$50,000 - $99,999",Graduate degree,West South Central,119700
+Female,> 60,"$50,000 - $99,999",Graduate degree,West South Central,133525
+Male,18-29,"$100,000 - $149,999",Graduate degree,West South Central,25397
+Female,18-29,"$100,000 - $149,999",Graduate degree,West South Central,40559
+Male,30-44,"$100,000 - $149,999",Graduate degree,West South Central,125035
+Female,30-44,"$100,000 - $149,999",Graduate degree,West South Central,156977
+Male,45-60,"$100,000 - $149,999",Graduate degree,West South Central,78820
+Female,45-60,"$100,000 - $149,999",Graduate degree,West South Central,108642
+Male,> 60,"$100,000 - $149,999",Graduate degree,West South Central,104183
+Female,> 60,"$100,000 - $149,999",Graduate degree,West South Central,91821
+Male,18-29,"$150,000+",Graduate degree,West South Central,39716
+Female,18-29,"$150,000+",Graduate degree,West South Central,52954
+Male,30-44,"$150,000+",Graduate degree,West South Central,304997
+Female,30-44,"$150,000+",Graduate degree,West South Central,363464
+Male,45-60,"$150,000+",Graduate degree,West South Central,316240
+Female,45-60,"$150,000+",Graduate degree,West South Central,299970
+Male,> 60,"$150,000+",Graduate degree,West South Central,206172
+Female,> 60,"$150,000+",Graduate degree,West South Central,138743
+Male,18-29,"$0 - $24,999",Less than high school degree,Mountain,22551
+Female,18-29,"$0 - $24,999",Less than high school degree,Mountain,18461
+Male,30-44,"$0 - $24,999",Less than high school degree,Mountain,26065
+Female,30-44,"$0 - $24,999",Less than high school degree,Mountain,24470
+Male,45-60,"$0 - $24,999",Less than high school degree,Mountain,23228
+Female,45-60,"$0 - $24,999",Less than high school degree,Mountain,26236
+Male,> 60,"$0 - $24,999",Less than high school degree,Mountain,52849
+Female,> 60,"$0 - $24,999",Less than high school degree,Mountain,67166
+Male,18-29,"$25,000 - $49,999",Less than high school degree,Mountain,40477
+Female,18-29,"$25,000 - $49,999",Less than high school degree,Mountain,29721
+Male,30-44,"$25,000 - $49,999",Less than high school degree,Mountain,43516
+Female,30-44,"$25,000 - $49,999",Less than high school degree,Mountain,39165
+Male,45-60,"$25,000 - $49,999",Less than high school degree,Mountain,41258
+Female,45-60,"$25,000 - $49,999",Less than high school degree,Mountain,40150
+Male,> 60,"$25,000 - $49,999",Less than high school degree,Mountain,49338
+Female,> 60,"$25,000 - $49,999",Less than high school degree,Mountain,54266
+Male,18-29,"$50,000 - $99,999",Less than high school degree,Mountain,85524
+Female,18-29,"$50,000 - $99,999",Less than high school degree,Mountain,58034
+Male,30-44,"$50,000 - $99,999",Less than high school degree,Mountain,92912
+Female,30-44,"$50,000 - $99,999",Less than high school degree,Mountain,65574
+Male,45-60,"$50,000 - $99,999",Less than high school degree,Mountain,88832
+Female,45-60,"$50,000 - $99,999",Less than high school degree,Mountain,69030
+Male,> 60,"$50,000 - $99,999",Less than high school degree,Mountain,67956
+Female,> 60,"$50,000 - $99,999",Less than high school degree,Mountain,69748
+Male,18-29,"$100,000 - $149,999",Less than high school degree,Mountain,54417
+Female,18-29,"$100,000 - $149,999",Less than high school degree,Mountain,31949
+Male,30-44,"$100,000 - $149,999",Less than high school degree,Mountain,48988
+Female,30-44,"$100,000 - $149,999",Less than high school degree,Mountain,27305
+Male,45-60,"$100,000 - $149,999",Less than high school degree,Mountain,54017
+Female,45-60,"$100,000 - $149,999",Less than high school degree,Mountain,43097
+Male,> 60,"$100,000 - $149,999",Less than high school degree,Mountain,28046
+Female,> 60,"$100,000 - $149,999",Less than high school degree,Mountain,32320
+Male,18-29,"$150,000+",Less than high school degree,Mountain,61322
+Female,18-29,"$150,000+",Less than high school degree,Mountain,35012
+Male,30-44,"$150,000+",Less than high school degree,Mountain,38436
+Female,30-44,"$150,000+",Less than high school degree,Mountain,21302
+Male,45-60,"$150,000+",Less than high school degree,Mountain,45896
+Female,45-60,"$150,000+",Less than high school degree,Mountain,39253
+Male,> 60,"$150,000+",Less than high school degree,Mountain,26655
+Female,> 60,"$150,000+",Less than high school degree,Mountain,29751
+Male,18-29,"$0 - $24,999",High school degree,Mountain,45428
+Female,18-29,"$0 - $24,999",High school degree,Mountain,48120
+Male,30-44,"$0 - $24,999",High school degree,Mountain,38156
+Female,30-44,"$0 - $24,999",High school degree,Mountain,42440
+Male,45-60,"$0 - $24,999",High school degree,Mountain,38478
+Female,45-60,"$0 - $24,999",High school degree,Mountain,44200
+Male,> 60,"$0 - $24,999",High school degree,Mountain,94959
+Female,> 60,"$0 - $24,999",High school degree,Mountain,145100
+Male,18-29,"$25,000 - $49,999",High school degree,Mountain,96229
+Female,18-29,"$25,000 - $49,999",High school degree,Mountain,92966
+Male,30-44,"$25,000 - $49,999",High school degree,Mountain,92363
+Female,30-44,"$25,000 - $49,999",High school degree,Mountain,86761
+Male,45-60,"$25,000 - $49,999",High school degree,Mountain,66359
+Female,45-60,"$25,000 - $49,999",High school degree,Mountain,72328
+Male,> 60,"$25,000 - $49,999",High school degree,Mountain,132995
+Female,> 60,"$25,000 - $49,999",High school degree,Mountain,171608
+Male,18-29,"$50,000 - $99,999",High school degree,Mountain,246767
+Female,18-29,"$50,000 - $99,999",High school degree,Mountain,198311
+Male,30-44,"$50,000 - $99,999",High school degree,Mountain,233386
+Female,30-44,"$50,000 - $99,999",High school degree,Mountain,167684
+Male,45-60,"$50,000 - $99,999",High school degree,Mountain,155753
+Female,45-60,"$50,000 - $99,999",High school degree,Mountain,149616
+Male,> 60,"$50,000 - $99,999",High school degree,Mountain,212245
+Female,> 60,"$50,000 - $99,999",High school degree,Mountain,252659
+Male,18-29,"$100,000 - $149,999",High school degree,Mountain,173764
+Female,18-29,"$100,000 - $149,999",High school degree,Mountain,131501
+Male,30-44,"$100,000 - $149,999",High school degree,Mountain,168826
+Female,30-44,"$100,000 - $149,999",High school degree,Mountain,125838
+Male,45-60,"$100,000 - $149,999",High school degree,Mountain,128950
+Female,45-60,"$100,000 - $149,999",High school degree,Mountain,108485
+Male,> 60,"$100,000 - $149,999",High school degree,Mountain,93678
+Female,> 60,"$100,000 - $149,999",High school degree,Mountain,109188
+Male,18-29,"$150,000+",High school degree,Mountain,199499
+Female,18-29,"$150,000+",High school degree,Mountain,125928
+Male,30-44,"$150,000+",High school degree,Mountain,138148
+Female,30-44,"$150,000+",High school degree,Mountain,93833
+Male,45-60,"$150,000+",High school degree,Mountain,138608
+Female,45-60,"$150,000+",High school degree,Mountain,114563
+Male,> 60,"$150,000+",High school degree,Mountain,81391
+Female,> 60,"$150,000+",High school degree,Mountain,98646
+Male,18-29,"$0 - $24,999",Some college or Associate degree,Mountain,56981
+Female,18-29,"$0 - $24,999",Some college or Associate degree,Mountain,63265
+Male,30-44,"$0 - $24,999",Some college or Associate degree,Mountain,36096
+Female,30-44,"$0 - $24,999",Some college or Associate degree,Mountain,47507
+Male,45-60,"$0 - $24,999",Some college or Associate degree,Mountain,38123
+Female,45-60,"$0 - $24,999",Some college or Associate degree,Mountain,52370
+Male,> 60,"$0 - $24,999",Some college or Associate degree,Mountain,92534
+Female,> 60,"$0 - $24,999",Some college or Associate degree,Mountain,142459
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,Mountain,89703
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,Mountain,100578
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,Mountain,80414
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,Mountain,101520
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,Mountain,57226
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,Mountain,76703
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,Mountain,148896
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,Mountain,220356
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,Mountain,209004
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,Mountain,223449
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,Mountain,262303
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,Mountain,249124
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Mountain,170974
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Mountain,194203
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,Mountain,296262
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,Mountain,332435
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,Mountain,137128
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,Mountain,138770
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,Mountain,210566
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,Mountain,193190
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,Mountain,167001
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,Mountain,158919
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,Mountain,154204
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,Mountain,162407
+Male,18-29,"$150,000+",Some college or Associate degree,Mountain,171259
+Female,18-29,"$150,000+",Some college or Associate degree,Mountain,150579
+Male,30-44,"$150,000+",Some college or Associate degree,Mountain,210054
+Female,30-44,"$150,000+",Some college or Associate degree,Mountain,179418
+Male,45-60,"$150,000+",Some college or Associate degree,Mountain,230141
+Female,45-60,"$150,000+",Some college or Associate degree,Mountain,224006
+Male,> 60,"$150,000+",Some college or Associate degree,Mountain,144738
+Female,> 60,"$150,000+",Some college or Associate degree,Mountain,163269
+Male,18-29,"$0 - $24,999",Bachelor degree,Mountain,15327
+Female,18-29,"$0 - $24,999",Bachelor degree,Mountain,22330
+Male,30-44,"$0 - $24,999",Bachelor degree,Mountain,19461
+Female,30-44,"$0 - $24,999",Bachelor degree,Mountain,19375
+Male,45-60,"$0 - $24,999",Bachelor degree,Mountain,15374
+Female,45-60,"$0 - $24,999",Bachelor degree,Mountain,21764
+Male,> 60,"$0 - $24,999",Bachelor degree,Mountain,40777
+Female,> 60,"$0 - $24,999",Bachelor degree,Mountain,51643
+Male,18-29,"$25,000 - $49,999",Bachelor degree,Mountain,29963
+Female,18-29,"$25,000 - $49,999",Bachelor degree,Mountain,42883
+Male,30-44,"$25,000 - $49,999",Bachelor degree,Mountain,31896
+Female,30-44,"$25,000 - $49,999",Bachelor degree,Mountain,41759
+Male,45-60,"$25,000 - $49,999",Bachelor degree,Mountain,25894
+Female,45-60,"$25,000 - $49,999",Bachelor degree,Mountain,33793
+Male,> 60,"$25,000 - $49,999",Bachelor degree,Mountain,65330
+Female,> 60,"$25,000 - $49,999",Bachelor degree,Mountain,87567
+Male,18-29,"$50,000 - $99,999",Bachelor degree,Mountain,98753
+Female,18-29,"$50,000 - $99,999",Bachelor degree,Mountain,122843
+Male,30-44,"$50,000 - $99,999",Bachelor degree,Mountain,143750
+Female,30-44,"$50,000 - $99,999",Bachelor degree,Mountain,170824
+Male,45-60,"$50,000 - $99,999",Bachelor degree,Mountain,87056
+Female,45-60,"$50,000 - $99,999",Bachelor degree,Mountain,104552
+Male,> 60,"$50,000 - $99,999",Bachelor degree,Mountain,171781
+Female,> 60,"$50,000 - $99,999",Bachelor degree,Mountain,172260
+Male,18-29,"$100,000 - $149,999",Bachelor degree,Mountain,82846
+Female,18-29,"$100,000 - $149,999",Bachelor degree,Mountain,102658
+Male,30-44,"$100,000 - $149,999",Bachelor degree,Mountain,175176
+Female,30-44,"$100,000 - $149,999",Bachelor degree,Mountain,187131
+Male,45-60,"$100,000 - $149,999",Bachelor degree,Mountain,113788
+Female,45-60,"$100,000 - $149,999",Bachelor degree,Mountain,124026
+Male,> 60,"$100,000 - $149,999",Bachelor degree,Mountain,117271
+Female,> 60,"$100,000 - $149,999",Bachelor degree,Mountain,114333
+Male,18-29,"$150,000+",Bachelor degree,Mountain,114531
+Female,18-29,"$150,000+",Bachelor degree,Mountain,121828
+Male,30-44,"$150,000+",Bachelor degree,Mountain,293893
+Female,30-44,"$150,000+",Bachelor degree,Mountain,302363
+Male,45-60,"$150,000+",Bachelor degree,Mountain,283109
+Female,45-60,"$150,000+",Bachelor degree,Mountain,265216
+Male,> 60,"$150,000+",Bachelor degree,Mountain,161172
+Female,> 60,"$150,000+",Bachelor degree,Mountain,142237
+Male,18-29,"$0 - $24,999",Graduate degree,Mountain,2240
+Female,18-29,"$0 - $24,999",Graduate degree,Mountain,3276
+Male,30-44,"$0 - $24,999",Graduate degree,Mountain,6946
+Female,30-44,"$0 - $24,999",Graduate degree,Mountain,9788
+Male,45-60,"$0 - $24,999",Graduate degree,Mountain,7384
+Female,45-60,"$0 - $24,999",Graduate degree,Mountain,10336
+Male,> 60,"$0 - $24,999",Graduate degree,Mountain,24286
+Female,> 60,"$0 - $24,999",Graduate degree,Mountain,26118
+Male,18-29,"$25,000 - $49,999",Graduate degree,Mountain,6231
+Female,18-29,"$25,000 - $49,999",Graduate degree,Mountain,9971
+Male,30-44,"$25,000 - $49,999",Graduate degree,Mountain,13285
+Female,30-44,"$25,000 - $49,999",Graduate degree,Mountain,16907
+Male,45-60,"$25,000 - $49,999",Graduate degree,Mountain,8044
+Female,45-60,"$25,000 - $49,999",Graduate degree,Mountain,15859
+Male,> 60,"$25,000 - $49,999",Graduate degree,Mountain,38130
+Female,> 60,"$25,000 - $49,999",Graduate degree,Mountain,44700
+Male,18-29,"$50,000 - $99,999",Graduate degree,Mountain,17821
+Female,18-29,"$50,000 - $99,999",Graduate degree,Mountain,28820
+Male,30-44,"$50,000 - $99,999",Graduate degree,Mountain,56709
+Female,30-44,"$50,000 - $99,999",Graduate degree,Mountain,84519
+Male,45-60,"$50,000 - $99,999",Graduate degree,Mountain,43339
+Female,45-60,"$50,000 - $99,999",Graduate degree,Mountain,63804
+Male,> 60,"$50,000 - $99,999",Graduate degree,Mountain,115686
+Female,> 60,"$50,000 - $99,999",Graduate degree,Mountain,114339
+Male,18-29,"$100,000 - $149,999",Graduate degree,Mountain,18331
+Female,18-29,"$100,000 - $149,999",Graduate degree,Mountain,29794
+Male,30-44,"$100,000 - $149,999",Graduate degree,Mountain,79751
+Female,30-44,"$100,000 - $149,999",Graduate degree,Mountain,98437
+Male,45-60,"$100,000 - $149,999",Graduate degree,Mountain,60917
+Female,45-60,"$100,000 - $149,999",Graduate degree,Mountain,74951
+Male,> 60,"$100,000 - $149,999",Graduate degree,Mountain,99701
+Female,> 60,"$100,000 - $149,999",Graduate degree,Mountain,83320
+Male,18-29,"$150,000+",Graduate degree,Mountain,20434
+Female,18-29,"$150,000+",Graduate degree,Mountain,33284
+Male,30-44,"$150,000+",Graduate degree,Mountain,205274
+Female,30-44,"$150,000+",Graduate degree,Mountain,232021
+Male,45-60,"$150,000+",Graduate degree,Mountain,227542
+Female,45-60,"$150,000+",Graduate degree,Mountain,212152
+Male,> 60,"$150,000+",Graduate degree,Mountain,181262
+Female,> 60,"$150,000+",Graduate degree,Mountain,123222
+Male,18-29,"$0 - $24,999",Less than high school degree,Pacific,32403
+Female,18-29,"$0 - $24,999",Less than high school degree,Pacific,32350
+Male,30-44,"$0 - $24,999",Less than high school degree,Pacific,58972
+Female,30-44,"$0 - $24,999",Less than high school degree,Pacific,56745
+Male,45-60,"$0 - $24,999",Less than high school degree,Pacific,69382
+Female,45-60,"$0 - $24,999",Less than high school degree,Pacific,86208
+Male,> 60,"$0 - $24,999",Less than high school degree,Pacific,138926
+Female,> 60,"$0 - $24,999",Less than high school degree,Pacific,211604
+Male,18-29,"$25,000 - $49,999",Less than high school degree,Pacific,66384
+Female,18-29,"$25,000 - $49,999",Less than high school degree,Pacific,45802
+Male,30-44,"$25,000 - $49,999",Less than high school degree,Pacific,114946
+Female,30-44,"$25,000 - $49,999",Less than high school degree,Pacific,109520
+Male,45-60,"$25,000 - $49,999",Less than high school degree,Pacific,131992
+Female,45-60,"$25,000 - $49,999",Less than high school degree,Pacific,129271
+Male,> 60,"$25,000 - $49,999",Less than high school degree,Pacific,140088
+Female,> 60,"$25,000 - $49,999",Less than high school degree,Pacific,164816
+Male,18-29,"$50,000 - $99,999",Less than high school degree,Pacific,118515
+Female,18-29,"$50,000 - $99,999",Less than high school degree,Pacific,86587
+Male,30-44,"$50,000 - $99,999",Less than high school degree,Pacific,218320
+Female,30-44,"$50,000 - $99,999",Less than high school degree,Pacific,159020
+Male,45-60,"$50,000 - $99,999",Less than high school degree,Pacific,277594
+Female,45-60,"$50,000 - $99,999",Less than high school degree,Pacific,245101
+Male,> 60,"$50,000 - $99,999",Less than high school degree,Pacific,215135
+Female,> 60,"$50,000 - $99,999",Less than high school degree,Pacific,249170
+Male,18-29,"$100,000 - $149,999",Less than high school degree,Pacific,87045
+Female,18-29,"$100,000 - $149,999",Less than high school degree,Pacific,53941
+Male,30-44,"$100,000 - $149,999",Less than high school degree,Pacific,125102
+Female,30-44,"$100,000 - $149,999",Less than high school degree,Pacific,84823
+Male,45-60,"$100,000 - $149,999",Less than high school degree,Pacific,179279
+Female,45-60,"$100,000 - $149,999",Less than high school degree,Pacific,152195
+Male,> 60,"$100,000 - $149,999",Less than high school degree,Pacific,125690
+Female,> 60,"$100,000 - $149,999",Less than high school degree,Pacific,141184
+Male,18-29,"$150,000+",Less than high school degree,Pacific,111480
+Female,18-29,"$150,000+",Less than high school degree,Pacific,74792
+Male,30-44,"$150,000+",Less than high school degree,Pacific,117487
+Female,30-44,"$150,000+",Less than high school degree,Pacific,67174
+Male,45-60,"$150,000+",Less than high school degree,Pacific,178411
+Female,45-60,"$150,000+",Less than high school degree,Pacific,152770
+Male,> 60,"$150,000+",Less than high school degree,Pacific,146075
+Female,> 60,"$150,000+",Less than high school degree,Pacific,184769
+Male,18-29,"$0 - $24,999",High school degree,Pacific,83598
+Female,18-29,"$0 - $24,999",High school degree,Pacific,88175
+Male,30-44,"$0 - $24,999",High school degree,Pacific,75332
+Female,30-44,"$0 - $24,999",High school degree,Pacific,81972
+Male,45-60,"$0 - $24,999",High school degree,Pacific,75078
+Female,45-60,"$0 - $24,999",High school degree,Pacific,70417
+Male,> 60,"$0 - $24,999",High school degree,Pacific,140566
+Female,> 60,"$0 - $24,999",High school degree,Pacific,224853
+Male,18-29,"$25,000 - $49,999",High school degree,Pacific,160827
+Female,18-29,"$25,000 - $49,999",High school degree,Pacific,136536
+Male,30-44,"$25,000 - $49,999",High school degree,Pacific,149603
+Female,30-44,"$25,000 - $49,999",High school degree,Pacific,145232
+Male,45-60,"$25,000 - $49,999",High school degree,Pacific,112822
+Female,45-60,"$25,000 - $49,999",High school degree,Pacific,118728
+Male,> 60,"$25,000 - $49,999",High school degree,Pacific,183279
+Female,> 60,"$25,000 - $49,999",High school degree,Pacific,247473
+Male,18-29,"$50,000 - $99,999",High school degree,Pacific,416936
+Female,18-29,"$50,000 - $99,999",High school degree,Pacific,318964
+Male,30-44,"$50,000 - $99,999",High school degree,Pacific,406728
+Female,30-44,"$50,000 - $99,999",High school degree,Pacific,321185
+Male,45-60,"$50,000 - $99,999",High school degree,Pacific,308419
+Female,45-60,"$50,000 - $99,999",High school degree,Pacific,262328
+Male,> 60,"$50,000 - $99,999",High school degree,Pacific,319230
+Female,> 60,"$50,000 - $99,999",High school degree,Pacific,384602
+Male,18-29,"$100,000 - $149,999",High school degree,Pacific,318295
+Female,18-29,"$100,000 - $149,999",High school degree,Pacific,230657
+Male,30-44,"$100,000 - $149,999",High school degree,Pacific,302342
+Female,30-44,"$100,000 - $149,999",High school degree,Pacific,221460
+Male,45-60,"$100,000 - $149,999",High school degree,Pacific,247093
+Female,45-60,"$100,000 - $149,999",High school degree,Pacific,209022
+Male,> 60,"$100,000 - $149,999",High school degree,Pacific,185733
+Female,> 60,"$100,000 - $149,999",High school degree,Pacific,206978
+Male,18-29,"$150,000+",High school degree,Pacific,452941
+Female,18-29,"$150,000+",High school degree,Pacific,300201
+Male,30-44,"$150,000+",High school degree,Pacific,376641
+Female,30-44,"$150,000+",High school degree,Pacific,236456
+Male,45-60,"$150,000+",High school degree,Pacific,336578
+Female,45-60,"$150,000+",High school degree,Pacific,267408
+Male,> 60,"$150,000+",High school degree,Pacific,222139
+Female,> 60,"$150,000+",High school degree,Pacific,246607
+Male,18-29,"$0 - $24,999",Some college or Associate degree,Pacific,83279
+Female,18-29,"$0 - $24,999",Some college or Associate degree,Pacific,111457
+Male,30-44,"$0 - $24,999",Some college or Associate degree,Pacific,64117
+Female,30-44,"$0 - $24,999",Some college or Associate degree,Pacific,97760
+Male,45-60,"$0 - $24,999",Some college or Associate degree,Pacific,69111
+Female,45-60,"$0 - $24,999",Some college or Associate degree,Pacific,101515
+Male,> 60,"$0 - $24,999",Some college or Associate degree,Pacific,154458
+Female,> 60,"$0 - $24,999",Some college or Associate degree,Pacific,257941
+Male,18-29,"$25,000 - $49,999",Some college or Associate degree,Pacific,145466
+Female,18-29,"$25,000 - $49,999",Some college or Associate degree,Pacific,179416
+Male,30-44,"$25,000 - $49,999",Some college or Associate degree,Pacific,128252
+Female,30-44,"$25,000 - $49,999",Some college or Associate degree,Pacific,167610
+Male,45-60,"$25,000 - $49,999",Some college or Associate degree,Pacific,96404
+Female,45-60,"$25,000 - $49,999",Some college or Associate degree,Pacific,136996
+Male,> 60,"$25,000 - $49,999",Some college or Associate degree,Pacific,218188
+Female,> 60,"$25,000 - $49,999",Some college or Associate degree,Pacific,334977
+Male,18-29,"$50,000 - $99,999",Some college or Associate degree,Pacific,339733
+Female,18-29,"$50,000 - $99,999",Some college or Associate degree,Pacific,381817
+Male,30-44,"$50,000 - $99,999",Some college or Associate degree,Pacific,419191
+Female,30-44,"$50,000 - $99,999",Some college or Associate degree,Pacific,438430
+Male,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,281170
+Female,45-60,"$50,000 - $99,999",Some college or Associate degree,Pacific,345934
+Male,> 60,"$50,000 - $99,999",Some college or Associate degree,Pacific,443262
+Female,> 60,"$50,000 - $99,999",Some college or Associate degree,Pacific,547903
+Male,18-29,"$100,000 - $149,999",Some college or Associate degree,Pacific,288603
+Female,18-29,"$100,000 - $149,999",Some college or Associate degree,Pacific,300028
+Male,30-44,"$100,000 - $149,999",Some college or Associate degree,Pacific,395232
+Female,30-44,"$100,000 - $149,999",Some college or Associate degree,Pacific,362215
+Male,45-60,"$100,000 - $149,999",Some college or Associate degree,Pacific,292453
+Female,45-60,"$100,000 - $149,999",Some college or Associate degree,Pacific,291626
+Male,> 60,"$100,000 - $149,999",Some college or Associate degree,Pacific,286053
+Female,> 60,"$100,000 - $149,999",Some college or Associate degree,Pacific,321107
+Male,18-29,"$150,000+",Some college or Associate degree,Pacific,453040
+Female,18-29,"$150,000+",Some college or Associate degree,Pacific,380807
+Male,30-44,"$150,000+",Some college or Associate degree,Pacific,523157
+Female,30-44,"$150,000+",Some college or Associate degree,Pacific,432132
+Male,45-60,"$150,000+",Some college or Associate degree,Pacific,548331
+Female,45-60,"$150,000+",Some college or Associate degree,Pacific,508512
+Male,> 60,"$150,000+",Some college or Associate degree,Pacific,351612
+Female,> 60,"$150,000+",Some college or Associate degree,Pacific,405071
+Male,18-29,"$0 - $24,999",Bachelor degree,Pacific,27969
+Female,18-29,"$0 - $24,999",Bachelor degree,Pacific,39958
+Male,30-44,"$0 - $24,999",Bachelor degree,Pacific,37823
+Female,30-44,"$0 - $24,999",Bachelor degree,Pacific,44484
+Male,45-60,"$0 - $24,999",Bachelor degree,Pacific,35950
+Female,45-60,"$0 - $24,999",Bachelor degree,Pacific,46085
+Male,> 60,"$0 - $24,999",Bachelor degree,Pacific,79964
+Female,> 60,"$0 - $24,999",Bachelor degree,Pacific,102973
+Male,18-29,"$25,000 - $49,999",Bachelor degree,Pacific,45987
+Female,18-29,"$25,000 - $49,999",Bachelor degree,Pacific,69790
+Male,30-44,"$25,000 - $49,999",Bachelor degree,Pacific,62908
+Female,30-44,"$25,000 - $49,999",Bachelor degree,Pacific,76319
+Male,45-60,"$25,000 - $49,999",Bachelor degree,Pacific,48924
+Female,45-60,"$25,000 - $49,999",Bachelor degree,Pacific,54583
+Male,> 60,"$25,000 - $49,999",Bachelor degree,Pacific,112971
+Female,> 60,"$25,000 - $49,999",Bachelor degree,Pacific,128410
+Male,18-29,"$50,000 - $99,999",Bachelor degree,Pacific,145482
+Female,18-29,"$50,000 - $99,999",Bachelor degree,Pacific,210281
+Male,30-44,"$50,000 - $99,999",Bachelor degree,Pacific,227468
+Female,30-44,"$50,000 - $99,999",Bachelor degree,Pacific,275532
+Male,45-60,"$50,000 - $99,999",Bachelor degree,Pacific,140688
+Female,45-60,"$50,000 - $99,999",Bachelor degree,Pacific,187292
+Male,> 60,"$50,000 - $99,999",Bachelor degree,Pacific,253325
+Female,> 60,"$50,000 - $99,999",Bachelor degree,Pacific,288885
+Male,18-29,"$100,000 - $149,999",Bachelor degree,Pacific,154173
+Female,18-29,"$100,000 - $149,999",Bachelor degree,Pacific,210754
+Male,30-44,"$100,000 - $149,999",Bachelor degree,Pacific,296419
+Female,30-44,"$100,000 - $149,999",Bachelor degree,Pacific,330782
+Male,45-60,"$100,000 - $149,999",Bachelor degree,Pacific,178160
+Female,45-60,"$100,000 - $149,999",Bachelor degree,Pacific,220278
+Male,> 60,"$100,000 - $149,999",Bachelor degree,Pacific,217939
+Female,> 60,"$100,000 - $149,999",Bachelor degree,Pacific,227934
+Male,18-29,"$150,000+",Bachelor degree,Pacific,364562
+Female,18-29,"$150,000+",Bachelor degree,Pacific,401340
+Male,30-44,"$150,000+",Bachelor degree,Pacific,849283
+Female,30-44,"$150,000+",Bachelor degree,Pacific,859497
+Male,45-60,"$150,000+",Bachelor degree,Pacific,665909
+Female,45-60,"$150,000+",Bachelor degree,Pacific,665752
+Male,> 60,"$150,000+",Bachelor degree,Pacific,429769
+Female,> 60,"$150,000+",Bachelor degree,Pacific,414393
+Male,18-29,"$0 - $24,999",Graduate degree,Pacific,6456
+Female,18-29,"$0 - $24,999",Graduate degree,Pacific,9473
+Male,30-44,"$0 - $24,999",Graduate degree,Pacific,15399
+Female,30-44,"$0 - $24,999",Graduate degree,Pacific,22641
+Male,45-60,"$0 - $24,999",Graduate degree,Pacific,17118
+Female,45-60,"$0 - $24,999",Graduate degree,Pacific,22156
+Male,> 60,"$0 - $24,999",Graduate degree,Pacific,44159
+Female,> 60,"$0 - $24,999",Graduate degree,Pacific,54585
+Male,18-29,"$25,000 - $49,999",Graduate degree,Pacific,11624
+Female,18-29,"$25,000 - $49,999",Graduate degree,Pacific,12101
+Male,30-44,"$25,000 - $49,999",Graduate degree,Pacific,21068
+Female,30-44,"$25,000 - $49,999",Graduate degree,Pacific,30069
+Male,45-60,"$25,000 - $49,999",Graduate degree,Pacific,18680
+Female,45-60,"$25,000 - $49,999",Graduate degree,Pacific,26502
+Male,> 60,"$25,000 - $49,999",Graduate degree,Pacific,62076
+Female,> 60,"$25,000 - $49,999",Graduate degree,Pacific,72134
+Male,18-29,"$50,000 - $99,999",Graduate degree,Pacific,30050
+Female,18-29,"$50,000 - $99,999",Graduate degree,Pacific,49932
+Male,30-44,"$50,000 - $99,999",Graduate degree,Pacific,90392
+Female,30-44,"$50,000 - $99,999",Graduate degree,Pacific,132352
+Male,45-60,"$50,000 - $99,999",Graduate degree,Pacific,61575
+Female,45-60,"$50,000 - $99,999",Graduate degree,Pacific,86877
+Male,> 60,"$50,000 - $99,999",Graduate degree,Pacific,157406
+Female,> 60,"$50,000 - $99,999",Graduate degree,Pacific,178775
+Male,18-29,"$100,000 - $149,999",Graduate degree,Pacific,30918
+Female,18-29,"$100,000 - $149,999",Graduate degree,Pacific,51902
+Male,30-44,"$100,000 - $149,999",Graduate degree,Pacific,133172
+Female,30-44,"$100,000 - $149,999",Graduate degree,Pacific,180997
+Male,45-60,"$100,000 - $149,999",Graduate degree,Pacific,103893
+Female,45-60,"$100,000 - $149,999",Graduate degree,Pacific,137413
+Male,> 60,"$100,000 - $149,999",Graduate degree,Pacific,165186
+Female,> 60,"$100,000 - $149,999",Graduate degree,Pacific,151873
+Male,18-29,"$150,000+",Graduate degree,Pacific,92910
+Female,18-29,"$150,000+",Graduate degree,Pacific,128969
+Male,30-44,"$150,000+",Graduate degree,Pacific,646957
+Female,30-44,"$150,000+",Graduate degree,Pacific,735738
+Male,45-60,"$150,000+",Graduate degree,Pacific,564997
+Female,45-60,"$150,000+",Graduate degree,Pacific,566831
+Male,> 60,"$150,000+",Graduate degree,Pacific,449275
+Female,> 60,"$150,000+",Graduate degree,Pacific,328329
