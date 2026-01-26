@@ -1,0 +1,16 @@
+,"In your opinion, which sentence is more gramatically correct?","Prior to reading about it above, had you heard of the serial (or Oxford) comma?","How much, if at all, do you care about the use (or lack thereof) of the serial (or Oxford) comma in grammar?",How would you write the following sentence?,"When faced with using the word ""data"", have you ever spent time considering if the word was a singular or plural noun?","How much, if at all, do you care about the debate over the use of the word ""data"" as a singluar or plural noun?","In your opinion, how important or unimportant is proper use of grammar?"
+"It's important for a person to be honest, kind and loyal.",0.4672884209171612,,,,,,
+"It's important for a person to be honest, kind, and loyal.",0.5327115790828388,,,,,,
+No,,0.4739799096997602,,,0.5553509837225565,,
+Yes,,0.5260200903002398,,,0.44464901627744335,,
+A lot,,,0.26390345311901586,,,0.11271107353668322,
+Not at all,,,0.12694593272317856,,,0.2220470423857954,
+Not much,,,0.25925613923047297,,,0.36697466346895996,
+Some,,,0.3498944749273337,,,0.2982672206085605,
+"Some experts say it's important to drink milk, but the data are inconclusive.",,,,0.17636208847412138,,,
+"Some experts say it's important to drink milk, but the data is inconclusive.",,,,0.8236379115258786,,,
+Neither important nor unimportant (neutral),,,,,,,0.03755873772716316
+Somewhat important,,,,,,,0.3056567162941794
+Somewhat unimportant,,,,,,,0.006346799489942392
+Very important,,,,,,,0.6468054029645893
+Very unimportant,,,,,,,0.0036323435241267443

@@ -103,6 +103,7 @@ axes[2,0].set_title('Distribution of Education')
 axes[2,1].axis('off')
 plt.tight_layout()
 plt.show()
+plt.savefig('Assignment 1/step1_demographics.png')
 
 
 ## Plot Substantive Responses -------------------------------------------------
@@ -117,3 +118,4 @@ for i, (q,k) in enumerate(substantive_rename_dict.items()):
 
 plt.tight_layout()
 plt.show()
+plt.savefig('Assignment 1/step1_responses.png')
