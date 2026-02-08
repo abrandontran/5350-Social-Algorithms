@@ -1,0 +1,11 @@
+{
+  "senator_info": {
+    "name": "John Fetterman",
+    "handle": "fetterman.senate.gov",
+    "party": "D",
+    "state": "PA",
+    "gender": "M"
+  },
+  "follows": [],
+  "feed": []
+}

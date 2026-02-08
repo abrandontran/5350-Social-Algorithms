@@ -1,0 +1,35 @@
+{
+  "senator_info": {
+    "name": "Maggie Hassan",
+    "handle": "hassan.senate.gov",
+    "party": "D",
+    "state": "NH",
+    "gender": "F"
+  },
+  "follows": [
+    {
+      "did": "did:plc:z72i7hdynmk6r22z27h6tvur",
+      "handle": "bsky.app",
+      "displayName": "Bluesky",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreihwihm6kpd6zuwhhlro75p5qks5qtrcu55jp3gddbfjsieiv7wuka@jpeg",
+      "associated": {
+        "chat": {
+          "allowIncoming": "none"
+        },
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-04-12T04:53:57.057Z",
+      "verification": {
+        "verifications": [],
+        "verifiedStatus": "none",
+        "trustedVerifierStatus": "valid"
+      },
+      "description": "official Bluesky account (check username\ud83d\udc46)\n\nBugs, feature requests, feedback: support@bsky.app",
+      "indexedAt": "2025-10-27T21:05:26.152Z"
+    }
+  ],
+  "feed": []
+}

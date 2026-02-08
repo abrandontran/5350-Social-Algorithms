@@ -1,0 +1,11 @@
+{
+  "senator_info": {
+    "name": "Bernie Sanders",
+    "handle": "sanders.senate.gov",
+    "party": "I",
+    "state": "VT",
+    "gender": "M"
+  },
+  "follows": [],
+  "feed": []
+}

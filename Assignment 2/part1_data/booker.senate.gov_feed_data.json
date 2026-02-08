@@ -1,0 +1,3140 @@
+{
+  "senator_info": {
+    "name": "Cory Booker",
+    "handle": "booker.senate.gov",
+    "party": "D",
+    "state": "NJ",
+    "gender": "M"
+  },
+  "follows": [
+    {
+      "did": "did:plc:uk62jqyggwt4hyhrnzka34wm",
+      "handle": "duckworth.senate.gov",
+      "displayName": "Tammy Duckworth",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uk62jqyggwt4hyhrnzka34wm/bafkreibfjn76xroibuc47jbeq6dceefkufl5purw5a6egt5eegzcoef3hy@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-16T20:33:51.870Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6omf3526",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:15:58.877Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Mom. Combat Veteran. Blackhawk pilot. U.S. Senator. Illinoisan.",
+      "indexedAt": "2025-10-22T17:20:39.951Z"
+    },
+    {
+      "did": "did:plc:hy4kwkakey4eawsw6jjzoc3j",
+      "handle": "amyklobuchar.com",
+      "displayName": "Amy Klobuchar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hy4kwkakey4eawsw6jjzoc3j/bafkreihb7tn3yv74disucfrxfnnrvkrdwdoi2neq4sfkqmiyz2zjbxppfa@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-12-02T15:50:16.544Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lvrakyxddi2t",
+            "isValid": true,
+            "createdAt": "2025-08-06T22:12:11.692Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator from Minnesota. Candidate for Governor.",
+      "indexedAt": "2026-01-30T04:52:56.646Z"
+    },
+    {
+      "did": "did:plc:lx462v3tzpydnob3qpgarbcj",
+      "handle": "ossoff.senate.gov",
+      "displayName": "Ossoff's Office",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lx462v3tzpydnob3qpgarbcj/bafkreiexiozlzvf4dwktf273u2ssbobpybhxeopuqoauy7bazy3nbnoijm@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-21T15:36:10.270Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7antyc2m",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:16:17.806Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Official updates from Georgia U.S. Senator Jon Ossoff's office",
+      "indexedAt": "2024-11-21T16:23:11.969Z"
+    },
+    {
+      "did": "did:plc:gyl2gdob6lyckqwi5dwaehef",
+      "handle": "kaine.senate.gov",
+      "displayName": "Senator Tim Kaine",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gyl2gdob6lyckqwi5dwaehef/bafkreihcieee6uocc6o3bxjvhpq3wkallggh6adhygid5rsv7lgjp3tzau@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-27T16:58:13.244Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydjo56t2z",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:18:41.407Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Official account of U.S. Senator Tim Kaine.",
+      "indexedAt": "2026-02-02T19:47:31.845Z"
+    },
+    {
+      "did": "did:plc:vt3xvbw22imzxfegz45wq7y5",
+      "handle": "gallego.senate.gov",
+      "displayName": "Senator Ruben Gallego",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vt3xvbw22imzxfegz45wq7y5/bafkreic6wnmj5zs2vdnkxrnstjknf6bkf2braqthptln5mkhsvgaduft4e@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-17T20:48:29.346Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydik6av2x",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:18:40.231Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator for Arizona.\nHusband. Dad. Veteran.",
+      "indexedAt": "2025-01-29T10:54:32.546Z"
+    },
+    {
+      "did": "did:plc:ornpixmpy5ts36lh7hmi7wkp",
+      "handle": "warren.senate.gov",
+      "displayName": "Elizabeth Warren",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ornpixmpy5ts36lh7hmi7wkp/bafkreih2fodb55nu2ewj6aucqxucr2f3l4twpqrdpbju4yncnmr4magyry@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-13T19:26:18.373Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndyb6f4aq2i",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:17:22.473Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator, Massachusetts. She/her/hers. Official Senate account.\n\nhttps://substack.com/@senatorwarren",
+      "indexedAt": "2025-09-25T14:45:54.645Z"
+    },
+    {
+      "did": "did:plc:ux632osoaqigjkgvuei3m6no",
+      "handle": "schiff.senate.gov",
+      "displayName": "Sen. Adam Schiff",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ux632osoaqigjkgvuei3m6no/bafkreicqvwdsmoe6mge4lyjuytbdaz5gd52lviakmeplawquvrxn4zz7jy@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-12-20T19:30:11.144Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7rojtx2f",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:16:35.644Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Husband. Father. U.S. Senator for California. Fighting for an economy that works for everyone and for our democracy.",
+      "indexedAt": "2024-12-20T19:33:31.144Z"
+    },
+    {
+      "did": "did:plc:ukdzucjim5kavwysh3adv6rl",
+      "handle": "jeff-merkley.bsky.social",
+      "displayName": "Jeff Merkley",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ukdzucjim5kavwysh3adv6rl/bafkreiclkpij7uolrgyrf7p5osiv3fe2i753mfjf6cfnvrwk62nyrzzqvm@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-12-02T23:49:18.548Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mbzjblfn5h2w",
+            "isValid": true,
+            "createdAt": "2026-01-09T22:11:36.603Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Husband. Dad. Garage tinkerer. Thorn in the side of the privileged and powerful. U.S. Senator from Oregon. Official campaign account. Fighting for YOU. He/Him. \n\njeffmerkley.com",
+      "indexedAt": "2024-12-02T23:55:42.848Z"
+    },
+    {
+      "did": "did:plc:fvwtf55iqiihc7ct543i2p6u",
+      "handle": "blumenthal.senate.gov",
+      "displayName": "Richard Blumenthal",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fvwtf55iqiihc7ct543i2p6u/bafkreiglkgctulugof74xzmabnhp4oasirjglmkhfmqsurs6s76staqwri@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-21T16:00:54.069Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydmywyx2f",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:18:44.897Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Official account of U.S. Senator Richard Blumenthal, proudly working for the people of Connecticut.\n\nwww.blumenthal.senate.gov",
+      "indexedAt": "2025-02-28T19:26:58.946Z"
+    },
+    {
+      "did": "did:plc:3krwmyznkpuss7ldiiy62pjy",
+      "handle": "peters.senate.gov",
+      "displayName": "U.S. Senator Gary Peters ",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3krwmyznkpuss7ldiiy62pjy/bafkreia4aox4llzozn24impidxc7ple77sfrx2unit752nvvruqtpdcfhu@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-02-18T14:25:58.245Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybx6avi2e",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:17:48.458Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator proudly representing the State of Michigan. \ud83c\udfcd\ufe0f",
+      "indexedAt": "2025-02-21T02:33:49.945Z"
+    },
+    {
+      "did": "did:plc:esz5zxtwgwbgkkvg7tw7zani",
+      "handle": "reed.senate.gov",
+      "displayName": "U.S. Senator Jack Reed",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esz5zxtwgwbgkkvg7tw7zani/bafkreicvzzl25ckn23pdwne24xlhv43qksq2cllfwitsepduuqc44wzkte@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-12-05T19:46:32.743Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7bwqmo2e",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:16:19.147Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Official feed of Rhode Island\u2019s U.S. Senator Jack Reed. Ranking Member of the Senate Armed Services Committee.",
+      "indexedAt": "2025-01-03T16:00:24.843Z"
+    },
+    {
+      "did": "did:plc:zlgotdjaxzuhw4nefvkxxvxa",
+      "handle": "schumer.senate.gov",
+      "displayName": "Chuck Schumer",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zlgotdjaxzuhw4nefvkxxvxa/bafkreiemhvqwhehlw3wxmlggvxgwho7akrvgdw6ajjhziz7dnmjfbwc74a@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-22T19:19:22.854Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy75lg3o2l",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:16:14.545Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Official Account of Senator Chuck Schumer, New York\u2019s Senator and the Senate Democratic Leader.\n\nschumer.senate.gov",
+      "indexedAt": "2025-11-30T16:30:20.125Z"
+    },
+    {
+      "did": "did:plc:egu4ffq43hudoiwpfttx2eif",
+      "handle": "lujan.senate.gov",
+      "displayName": "Senator Ben Ray Luj\u00e1n",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:egu4ffq43hudoiwpfttx2eif/bafkreicvdxnbdz5ctskiefeyokdd2cxdypu3asz7glf7uwysbqnxhuo5te@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-12-03T15:24:07.645Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6nk4li2f",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:15:57.761Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator for New Mexico. Born & raised in Namb\u00e9. Proud son of a union family. Farmer, mountain biker, delivering for the place we call home.",
+      "indexedAt": "2025-07-22T21:36:21.232Z"
+    },
+    {
+      "did": "did:plc:y77n77kdqzhbg647blkfypyr",
+      "handle": "chrismurphyct.bsky.social",
+      "displayName": "Chris Murphy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y77n77kdqzhbg647blkfypyr/bafkreicytlijcszuoppa4qoydfcrdt7a2jwfod43vv53m657pwfwjrcwci@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-02T19:49:05.442Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mc4oddoxxy2k",
+            "isValid": true,
+            "createdAt": "2026-01-11T04:20:03.537Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator from Connecticut.",
+      "indexedAt": "2025-01-07T18:16:07.044Z"
+    },
+    {
+      "did": "did:plc:upw5n2uwhzubjajdtqaufsek",
+      "handle": "sanders.senate.gov",
+      "displayName": "Senator Bernie Sanders",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:upw5n2uwhzubjajdtqaufsek/bafkreifmgzlvh3kntajq37dht3jxifypustrnpu7wsiuxz3inu2jfojp7m@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-18T18:18:42.545Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndycx6nkq2d",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:18:22.017Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Sen. Sanders of Vermont, Ranking Member of the U.S. Senate Committee on Health, Education, Labor & Pensions, is the longest-serving independent in congressional history.",
+      "indexedAt": "2025-07-23T22:46:53.233Z"
+    },
+    {
+      "did": "did:plc:ht3ruh74w6krts2fz4ir27pa",
+      "handle": "vanhollen.senate.gov",
+      "displayName": "Senator Chris Van Hollen",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ht3ruh74w6krts2fz4ir27pa/bafkreido6tkptn3icyswjx4ug5erg2jnulby54unucpbvmfh6yjn24y5dq@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-21T17:25:20.772Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydr4g6t2z",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:18:49.216Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator for Maryland\n\nvanhollen.senate.gov",
+      "indexedAt": "2025-04-18T01:56:13.674Z"
+    },
+    {
+      "did": "did:plc:hne455ahhpnxi5vnm7a5dquz",
+      "handle": "baldwin.senate.gov",
+      "displayName": "Senator Tammy Baldwin",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hne455ahhpnxi5vnm7a5dquz/bafkreighmvdaz2szwg76wsbrwq7ul65wise2tv4hsc3wlh7s7clvcduljq@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-02-05T22:38:36.045Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6mbu5y2d",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:15:56.422Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Official Bluesky account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+      "indexedAt": "2025-02-05T22:41:37.544Z"
+    },
+    {
+      "did": "did:plc:5pgzf6g5p56phoxm4rk7tzjl",
+      "handle": "bluntrochester.senate.gov",
+      "displayName": "Senator Lisa Blunt Rochester",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5pgzf6g5p56phoxm4rk7tzjl/bafkreiei7kn6rhvswszbuajo35g5hy2i2xxacccb24ej57qp23kw6fqqta@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-10T19:55:35.644Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndyc6ak4h2u",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:17:55.871Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Official Bluesky Account for Senator Lisa Blunt Rochester (D-DE).",
+      "indexedAt": "2025-09-15T14:20:16.898Z"
+    },
+    {
+      "did": "did:plc:e3ap6sjaftiof33z6xjt54aa",
+      "handle": "cantwell.senate.gov",
+      "displayName": "Sen. Maria Cantwell",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e3ap6sjaftiof33z6xjt54aa/bafkreiavvmyiq56izjv5k3hcah3a3yzgz5mfdelg6gya6fyfdmkjlbhdqe@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-26T17:48:16.845Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndya6csxq2f",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:16:48.901Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator from Washington State | Ranking Member @commerce.senate.gov | RS\u2260endorsement",
+      "indexedAt": "2025-01-09T17:01:06.243Z"
+    },
+    {
+      "did": "did:plc:zlekb26g7abqatkw442bq635",
+      "handle": "schatz.bsky.social",
+      "displayName": "Brian Schatz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zlekb26g7abqatkw442bq635/bafkreigewpo4sforcn4ehpdqba3opfckbke3wij2iylirtnf7yta3w5ywq@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-04-30T17:16:49.525Z",
+      "description": "United States Senator for Hawaii. Climate hawk. Chief Deputy Whip. ",
+      "indexedAt": "2025-04-07T18:20:59.894Z"
+    },
+    {
+      "did": "did:plc:d6k7ua7n7kdg5vgkiagpdpi2",
+      "handle": "senatebudget.bsky.social",
+      "displayName": "Senate Budget Committee",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d6k7ua7n7kdg5vgkiagpdpi2/bafkreiewtfmx426ua4p2mkohimxroz4j544fntk36mkgy6nkz7v5ky54we@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-01-08T16:09:16.980Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3luh6tvjdb227",
+            "isValid": true,
+            "createdAt": "2025-07-21T04:49:33.648Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Fighting for an economy that puts workers and families first. The latest news from Ranking Member Sen. Jeff Merkley and Senate Budget Committee Dems.",
+      "indexedAt": "2025-10-14T13:19:52.513Z"
+    },
+    {
+      "did": "did:plc:t4c5rtvmoxneuvwo5wzpcus5",
+      "handle": "commerce.senate.gov",
+      "displayName": "Senate Commerce Dems",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:t4c5rtvmoxneuvwo5wzpcus5/bafkreiezoffzxr6ba7vtjltcqykdkxg77m7ina2dzy2uiukgmxtc3u2ifi@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-19T17:54:28.580Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydd4lth2u",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:18:34.541Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Follow for official news from the U.S. Senate Commerce, Science, and Transportation Committee Democratic members. \n\u2708\ufe0f\ud83d\ude82\ud83c\udf0a\ud83d\ude80\ud83d\udcf1\u2699\ufe0f\n\nLed by U.S. Senator Maria Cantwell of Washington State @cantwell.senate.gov",
+      "indexedAt": "2025-01-24T02:51:45.342Z"
+    },
+    {
+      "did": "did:plc:4pypwgwx2rnmefnktrjimznx",
+      "handle": "klobuchar.senate.gov",
+      "displayName": "Senator Amy Klobuchar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreidg3zezurwz42nbdea6uo76zip7qllgb7clczppm3n2n3or2iucku@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-02-07T19:01:52.144Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndya52km62l",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:16:47.579Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Senior U.S. Senator from MN | Snow enthusiast \u2744\ufe0f",
+      "indexedAt": "2025-02-07T19:05:38.144Z"
+    },
+    {
+      "did": "did:plc:dvg2f2abnjz3igabhwm45q7p",
+      "handle": "shaheen.senate.gov",
+      "displayName": "U.S. Senator Jeanne Shaheen",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dvg2f2abnjz3igabhwm45q7p/bafkreicuard2tdhbrvnr4ijhqmrzwjvtnzd4fplivyjlxhoctfmspg7vwi@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-17T18:20:42.745Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy5lx7dc2m",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:15:22.534Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Proud Granite Stater serving New Hampshire in the U.S. Senate. Former Governor. Mother & Grandmother. Pats & Red Sox Fan. Outdoor enthusiast.",
+      "indexedAt": "2025-02-19T16:09:14.546Z"
+    },
+    {
+      "did": "did:plc:rmbfqraibpzbhjghsxrvksyr",
+      "handle": "kim.senate.gov",
+      "displayName": "Senator Andy Kim",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rmbfqraibpzbhjghsxrvksyr/bafkreiavz5kcofars67ifzoaql6pwj7usfji3lfr6fv5aald7fgojgw66y@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-17T00:17:13.236Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndyajjrtd2z",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:17:00.667Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Husband to my college sweetheart. Father to two troublemaking baby boys. U.S. Senator for New Jersey.\n\nAccount run by staff. Posts from Senator Kim signed \u2013AK",
+      "indexedAt": "2026-01-14T13:21:56.624Z"
+    },
+    {
+      "did": "did:plc:wfovpxilrfvxvyecoguoza3y",
+      "handle": "bennet.senate.gov",
+      "displayName": "Michael Bennet",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wfovpxilrfvxvyecoguoza3y/bafkreib3oc4jpflq3ky4ncbngf2ftiihyq7af5w637hzytpgasmz37kvjy@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-12T19:28:54.019Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndyb7n5za2f",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:17:23.780Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator for Colorado",
+      "indexedAt": "2024-12-04T20:42:05.247Z"
+    },
+    {
+      "did": "did:plc:qqixzm5pwprzdnkbh2hglpax",
+      "handle": "whitehouse.senate.gov",
+      "displayName": "Senator Sheldon Whitehouse",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qqixzm5pwprzdnkbh2hglpax/bafkreifiivniqxkrqfmbgflrue54jmakys2uifwvr7hwga7lcf5d6xz5c4@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-08T16:39:50.282Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydq2we52x",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:18:48.107Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator from Rhode Island, the Ocean State. \n\nhttps://linktr.ee/senwhitehouse",
+      "indexedAt": "2025-07-10T18:55:47.133Z"
+    },
+    {
+      "did": "did:plc:dqj6ug6nsm7giy3xd4dpuhmx",
+      "handle": "smith.senate.gov",
+      "displayName": "Tina Smith",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dqj6ug6nsm7giy3xd4dpuhmx/bafkreiazeyf7o3emrs6m6yfujuea7akh3tjq3a2n64faq6wpl2o5agfspi@jpeg",
+      "associated": {
+        "chat": {
+          "allowIncoming": "all"
+        },
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-07-05T18:06:08.076Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy5zpg5r2i",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:15:36.964Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Mom, wife, daughter, and loving but distracted friend. U.S. Senator for Minnesota. Prefers window seats, donuts and MN beer (all together when possible) \u2708\ufe0f \ud83c\udf69\ud83c\udf7a",
+      "indexedAt": "2026-01-15T16:15:56.825Z"
+    },
+    {
+      "did": "did:plc:a23utge5gk6ckgm3ypx3weyr",
+      "handle": "murray.senate.gov",
+      "displayName": "Senator Patty Murray",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a23utge5gk6ckgm3ypx3weyr/bafkreidemk242dcwi6z6ezb7iqkqwmemhdmvsxbykj2xturbx3kglitohi@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-18T15:39:53.048Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6bqmcm2l",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:15:45.389Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator, Washington state | Senate Appropriations Vice Chair | Working every day to help people and solve problems",
+      "indexedAt": "2025-01-04T15:48:04.445Z"
+    },
+    {
+      "did": "did:plc:mnni4exuqf2rvvsvxc5q4pb2",
+      "handle": "padilla.senate.gov",
+      "displayName": "Senator Alex Padilla",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnni4exuqf2rvvsvxc5q4pb2/bafkreieg5bohtvrawn7cy7rfh647bguvauxkteemmhsnmmwp5kiwbqevpu@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-14T16:47:21.031Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndycc6diq2e",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:17:59.993Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator for California. Devoted husband and proud dad. Dodgers diehard. EngiNERD. ",
+      "indexedAt": "2024-11-14T16:48:56.326Z"
+    },
+    {
+      "did": "did:plc:67vugavgzxuc64jxpv4cqwbi",
+      "handle": "heinrich.senate.gov",
+      "displayName": "Senator Martin Heinrich",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:67vugavgzxuc64jxpv4cqwbi/bafkreibhimrx5h3wwnwtu76x7rqnsqkhz7bbmpp5j4kzidzx4xai2msosu@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-07-25T17:41:58.272Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lstnlsxlab25",
+            "isValid": true,
+            "createdAt": "2025-06-30T16:55:02.220Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator for NM. Husband, dad, hunter. Former Engineer/Current energy nerd. Respects hard work, NM values, & anyone w/a freezer full of wild game.",
+      "indexedAt": "2025-03-14T20:20:30.841Z"
+    },
+    {
+      "did": "did:plc:hmy4bopsymtjikfq5i5mekn6",
+      "handle": "fetterman.senate.gov",
+      "displayName": "U.S. Senator John Fetterman",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hmy4bopsymtjikfq5i5mekn6/bafkreifwcwityj5oxgdz3x3wc2mxjet7sdgvmp2inzcnh6pywjwhfugoiq@jpeg",
+      "associated": {
+        "chat": {
+          "allowIncoming": "none"
+        },
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-12T03:00:26.204Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7wln6x2f",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:16:40.793Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "United States Senator fighting for the people of the Commonwealth of Pennsylvania.\nwww.fetterman.senate.gov",
+      "indexedAt": "2025-01-09T13:31:11.243Z"
+    },
+    {
+      "did": "did:plc:ydtsvzzsl6nlfkmnuooeqcmc",
+      "handle": "wyden.senate.gov",
+      "displayName": "Senator Ron Wyden",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ydtsvzzsl6nlfkmnuooeqcmc/bafkreiaowfsrnaqxawsjzgf2nkkpfzyy3hibcwzxmvfmfb3bypp46ukkt4@jpeg",
+      "associated": {
+        "chat": {
+          "allowIncoming": "all"
+        },
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-05-01T19:16:55.354Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy4oamsy2d",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:14:51.384Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator for Oregon. Rotisserie chicken enthusiast. Senate\u2019s resident privacy hawk.\n\nsenatefinance.bsky.social\nwydenpress.bsky.social",
+      "indexedAt": "2025-01-17T23:16:38.544Z"
+    },
+    {
+      "did": "did:plc:ri2qkcjghvcwv6gsi4vglnfz",
+      "handle": "markwarner.bsky.social",
+      "displayName": "Senator Mark Warner",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ri2qkcjghvcwv6gsi4vglnfz/bafkreifosl27xvu7l3734rcmmhtj7blzjpgmce4xl3vhplhfsb66fo4hiu@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-09-21T16:21:13.369Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lv5223advp2w",
+            "isValid": true,
+            "createdAt": "2025-07-29T21:22:06.464Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "U.S. Senator from Virginia. \nVice Chairman, Senate Intel Committee.",
+      "indexedAt": "2025-01-24T18:40:49.643Z"
+    },
+    {
+      "did": "did:plc:wo5kzzdgqwzizeyvg5bkaswh",
+      "handle": "markey.senate.gov",
+      "displayName": "Senator Ed Markey",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreidopbnyct37ebzwktpziatxgejgjbdcmnot772fe3ntdxvmgkdxcy@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-05-24T14:52:58.508Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybtwrli2i",
+            "isValid": true,
+            "createdAt": "2025-04-21T13:17:45.071Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Senator for Massachusetts. Ranker on Senate Small Business Committee & HELP Primary Health & Retirement Security Subcommittee. Fighting for a Green New Deal.",
+      "indexedAt": "2025-02-07T16:47:14.351Z"
+    }
+  ],
+  "feed": [
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3meer4rlx6k2p",
+      "cid": "bafyreihbezcngqwxwoafrvoa35ml6gb3jatx6bg6pjhev4sbgj5bvgqezy",
+      "author": {
+        "did": "did:plc:esz5zxtwgwbgkkvg7tw7zani",
+        "handle": "reed.senate.gov",
+        "displayName": "U.S. Senator Jack Reed",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esz5zxtwgwbgkkvg7tw7zani/bafkreicvzzl25ckn23pdwne24xlhv43qksq2cllfwitsepduuqc44wzkte@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-05T19:46:32.743Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7bwqmo2e",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:16:19.147Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T20:21:45.973Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Trump\u2019s reckless policies are increasing prices & causing economic drag. Instead of taking steps to address affordability he is:\n\u00a0\nA. Posting racist tropes\nB. Investigating The View\nC. Halting critical infrastructure projects unless cities rename things after him\n\u2705 All of the above"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-08T20:21:46.550Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:y77n77kdqzhbg647blkfypyr/app.bsky.feed.post/3meepeyrkzk2x",
+      "cid": "bafyreifm2qvxcwioewsqc3i5fodl2osqo7zlnllyvf4l4ltp4afnvtewsu",
+      "author": {
+        "did": "did:plc:y77n77kdqzhbg647blkfypyr",
+        "handle": "chrismurphyct.bsky.social",
+        "displayName": "Chris Murphy",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y77n77kdqzhbg647blkfypyr/bafkreicytlijcszuoppa4qoydfcrdt7a2jwfod43vv53m657pwfwjrcwci@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2025-01-02T19:49:05.442Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mc4oddoxxy2k",
+              "isValid": true,
+              "createdAt": "2026-01-11T04:20:03.537Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T19:50:34.455Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Good morning. The President of the United States was in the middle of the most serious child sex trafficking ring of the last quarter century. \n\nHe is referenced not a dozen times in the case files. Not 100 times. Not 1,000 times. He\u2019s referenced 38,000 times."
+      },
+      "bookmarkCount": 38,
+      "replyCount": 116,
+      "repostCount": 980,
+      "likeCount": 2463,
+      "quoteCount": 55,
+      "indexedAt": "2026-02-08T19:50:34.552Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:ux632osoaqigjkgvuei3m6no/app.bsky.feed.post/3meeoe7vvw22m",
+      "cid": "bafyreifn7rjuqp5bhffqswvs5rbyujodmt264crak6jbenb2hrhcw7a4gy",
+      "author": {
+        "did": "did:plc:ux632osoaqigjkgvuei3m6no",
+        "handle": "schiff.senate.gov",
+        "displayName": "Sen. Adam Schiff",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ux632osoaqigjkgvuei3m6no/bafkreicqvwdsmoe6mge4lyjuytbdaz5gd52lviakmeplawquvrxn4zz7jy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-20T19:30:11.144Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7rojtx2f",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:16:35.644Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T19:32:14.641Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "YouTube video by Sen. Adam Schiff",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiavlvgjlb6jposfapchfulj2begivvhvebjfrfd5q5hzlopqykxvm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 617040
+            },
+            "title": "Impeaching Trump Revisited: \u2018He Has Not Changed\u2019",
+            "uri": "https://youtu.be/9FxNBDUGMmE?si=TosDGuC3dQ14Up31"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://youtu.be/9FxNBDUGMmE?si=TosDGuC3dQ14Up31"
+              }
+            ],
+            "index": {
+              "byteEnd": 266,
+              "byteStart": 242
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "6 years ago this week, I warned the Senate how dangerous Trump would be if they did not convict him.\n\nI said he would not change, and that he would continue trying to cheat in our elections. \n\nI didn\u2019t imagine then how right that would be. youtu.be/9FxNBDUGMmE?..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://youtu.be/9FxNBDUGMmE?si=TosDGuC3dQ14Up31",
+          "title": "Impeaching Trump Revisited: \u2018He Has Not Changed\u2019",
+          "description": "YouTube video by Sen. Adam Schiff",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ux632osoaqigjkgvuei3m6no/bafkreiavlvgjlb6jposfapchfulj2begivvhvebjfrfd5q5hzlopqykxvm@jpeg"
+        }
+      },
+      "bookmarkCount": 5,
+      "replyCount": 24,
+      "repostCount": 96,
+      "likeCount": 358,
+      "quoteCount": 9,
+      "indexedAt": "2026-02-08T19:32:16.948Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:hy4kwkakey4eawsw6jjzoc3j/app.bsky.feed.post/3meembmwqq22k",
+      "cid": "bafyreie74d6tnpjwualsw2jb7ijp2fomgbpvni7u3o6n3kafowxd55wm3q",
+      "author": {
+        "did": "did:plc:hy4kwkakey4eawsw6jjzoc3j",
+        "handle": "amyklobuchar.com",
+        "displayName": "Amy Klobuchar",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hy4kwkakey4eawsw6jjzoc3j/bafkreihb7tn3yv74disucfrxfnnrvkrdwdoi2neq4sfkqmiyz2zjbxppfa@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-02T15:50:16.544Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lvrakyxddi2t",
+              "isValid": true,
+              "createdAt": "2025-08-06T22:12:11.692Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T18:55:00.152Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "As farmers face rising costs and uncertainty tied to federal trade policy, Senator Amy Klobuchar spent Saturday morning in Mower County speaking with local farmers about their concerns over tariffs an...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia3p4d53j77plrdfgfknsspglaosa75ymtgreq24yrxkpiqweqsei"
+              },
+              "mimeType": "image/jpeg",
+              "size": 831680
+            },
+            "title": "Minnesota farmers urge action on trade during visit with Sen. Amy Klobuchar",
+            "uri": "https://www.kaaltv.com/news/top-news/minnesota-farmers-urge-action-on-trade-during-visit-with-sen-amy-klobuchar/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.kaaltv.com/news/top-news/minnesota-farmers-urge-action-on-trade-during-visit-with-sen-amy-klobuchar/"
+              }
+            ],
+            "index": {
+              "byteEnd": 304,
+              "byteStart": 274
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "I was at Rodney and Colleen Moe\u2019s farm in Waltham to meet with ag leaders & local farmers to discuss the challenges they\u2019re facing, the impacts of tariffs & the need for year-round E-15. Farmers are the backbone of our economy. I\u2019m committed to standing up for them.\n\nwww.kaaltv.com/news/top-new..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.kaaltv.com/news/top-news/minnesota-farmers-urge-action-on-trade-during-visit-with-sen-amy-klobuchar/",
+          "title": "Minnesota farmers urge action on trade during visit with Sen. Amy Klobuchar",
+          "description": "As farmers face rising costs and uncertainty tied to federal trade policy, Senator Amy Klobuchar spent Saturday morning in Mower County speaking with local farmers about their concerns over tariffs an...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hy4kwkakey4eawsw6jjzoc3j/bafkreia3p4d53j77plrdfgfknsspglaosa75ymtgreq24yrxkpiqweqsei@jpeg"
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 11,
+      "repostCount": 5,
+      "likeCount": 53,
+      "quoteCount": 1,
+      "indexedAt": "2026-02-08T18:55:02.548Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:a23utge5gk6ckgm3ypx3weyr/app.bsky.feed.post/3meem4ad5ts2o",
+      "cid": "bafyreihrfwmiz5cecvoqkrduiz4kel5pdjpwcexsb2dakrora4d4hajecq",
+      "author": {
+        "did": "did:plc:a23utge5gk6ckgm3ypx3weyr",
+        "handle": "murray.senate.gov",
+        "displayName": "Senator Patty Murray",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a23utge5gk6ckgm3ypx3weyr/bafkreidemk242dcwi6z6ezb7iqkqwmemhdmvsxbykj2xturbx3kglitohi@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-18T15:39:53.048Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6bqmcm2l",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:15:45.389Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T18:51:59.156Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1080
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihvhu2tej2ymuqejymv4zwk54vcskvso72bfsm2xerl53ys2aghuu"
+            },
+            "mimeType": "video/mp4",
+            "size": 26386383
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Here are 4 ways Trump is trying to undermine our fair and free elections\u2014and why we've got to keep calling him out."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreihvhu2tej2ymuqejymv4zwk54vcskvso72bfsm2xerl53ys2aghuu",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aa23utge5gk6ckgm3ypx3weyr/bafkreihvhu2tej2ymuqejymv4zwk54vcskvso72bfsm2xerl53ys2aghuu/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aa23utge5gk6ckgm3ypx3weyr/bafkreihvhu2tej2ymuqejymv4zwk54vcskvso72bfsm2xerl53ys2aghuu/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1080,
+          "width": 1080
+        }
+      },
+      "bookmarkCount": 3,
+      "replyCount": 15,
+      "repostCount": 53,
+      "likeCount": 143,
+      "quoteCount": 2,
+      "indexedAt": "2026-02-08T18:52:01.055Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:ydtsvzzsl6nlfkmnuooeqcmc/app.bsky.feed.post/3meekt4ouuc2y",
+      "cid": "bafyreigjast63nfayb7idnkh4oydllh6mbhuzgcxj23qix5rrvgqehgcjm",
+      "author": {
+        "did": "did:plc:ydtsvzzsl6nlfkmnuooeqcmc",
+        "handle": "wyden.senate.gov",
+        "displayName": "Senator Ron Wyden",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ydtsvzzsl6nlfkmnuooeqcmc/bafkreiaowfsrnaqxawsjzgf2nkkpfzyy3hibcwzxmvfmfb3bypp46ukkt4@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "all"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2023-05-01T19:16:55.354Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy4oamsy2d",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:14:51.384Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T18:28:59.605Z",
+        "langs": [
+          "en"
+        ],
+        "text": "When I wrote Section 230 I did so knowing it would be critical for protecting free speech online. 30 years later and it\u2019s one of the last things standing in the way of Republican censorship of the internet. Here\u2019s to many more years of defending this vital safeguard of free speech."
+      },
+      "bookmarkCount": 5,
+      "replyCount": 12,
+      "repostCount": 116,
+      "likeCount": 582,
+      "quoteCount": 9,
+      "indexedAt": "2026-02-08T18:28:59.958Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:gyl2gdob6lyckqwi5dwaehef/app.bsky.feed.post/3meekig7kmk25",
+      "cid": "bafyreigxdvlezjkdserkz4oroxq35zxago4vd3fsdy2jkq5lab6edxxbm4",
+      "author": {
+        "did": "did:plc:gyl2gdob6lyckqwi5dwaehef",
+        "handle": "kaine.senate.gov",
+        "displayName": "Senator Tim Kaine",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gyl2gdob6lyckqwi5dwaehef/bafkreihcieee6uocc6o3bxjvhpq3wkallggh6adhygid5rsv7lgjp3tzau@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-27T16:58:13.244Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydjo56t2z",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:18:41.407Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T18:23:00.493Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "With the recent narrative centering on a no-hire, no-fire labor market, the data suggests that the layoff part of the equation could be stepping up.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihlrkowmns3fspj4iwf7b5ocqzk23s7hj24v7sx6zetldbiifc5de"
+              },
+              "mimeType": "image/jpeg",
+              "size": 412044
+            },
+            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+            "uri": "https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html"
+              }
+            ],
+            "index": {
+              "byteEnd": 93,
+              "byteStart": 65
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Trump\u2019s economy: Higher costs, fewer jobs, and slower growth.\n\nwww.cnbc.com/2026/02/05/l..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html",
+          "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+          "description": "With the recent narrative centering on a no-hire, no-fire labor market, the data suggests that the layoff part of the equation could be stepping up.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gyl2gdob6lyckqwi5dwaehef/bafkreihlrkowmns3fspj4iwf7b5ocqzk23s7hj24v7sx6zetldbiifc5de@jpeg"
+        }
+      },
+      "bookmarkCount": 1,
+      "replyCount": 9,
+      "repostCount": 31,
+      "likeCount": 82,
+      "quoteCount": 1,
+      "indexedAt": "2026-02-08T18:23:02.653Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:ux632osoaqigjkgvuei3m6no/app.bsky.feed.post/3meeid2tzmk2j",
+      "cid": "bafyreidppwg4zt4at7sxbgqdasebtuiyn5n27xwobcresdvktfs7laecpa",
+      "author": {
+        "did": "did:plc:ux632osoaqigjkgvuei3m6no",
+        "handle": "schiff.senate.gov",
+        "displayName": "Sen. Adam Schiff",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ux632osoaqigjkgvuei3m6no/bafkreicqvwdsmoe6mge4lyjuytbdaz5gd52lviakmeplawquvrxn4zz7jy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-20T19:30:11.144Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7rojtx2f",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:16:35.644Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T17:44:13.329Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Metro announced today that Congress has approved\u00a0$94.3 million\u00a0in mobility-related funding supporting the\u00a02028 Olympic and Paralympic Games\u00a0in Los Angeles.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicokik3h42sw2nrgz3tvponzjua66h225yz4tb6wepx4fa5fgdeua"
+              },
+              "mimeType": "image/jpeg",
+              "size": 417367
+            },
+            "title": "Congress Approves $94.3 Million for Los Angeles 2028 Olympic and Paralympic Games Transportation | The Source",
+            "uri": "https://thesource.metro.net/congress-approves-94-3-million-for-los-angeles-2028-olympic-and-paralympic-games-transportation/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://thesource.metro.net/congress-approves-94-3-million-for-los-angeles-2028-olympic-and-paralympic-games-transportation/"
+              }
+            ],
+            "index": {
+              "byteEnd": 202,
+              "byteStart": 167
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Proud to have worked with my colleagues to ensure LA Metro receives the funding needed to expand public transit options and improve safety ahead of the 2028 Olympics.\nthesource.metro.net/congress-app..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://thesource.metro.net/congress-approves-94-3-million-for-los-angeles-2028-olympic-and-paralympic-games-transportation/",
+          "title": "Congress Approves $94.3 Million for Los Angeles 2028 Olympic and Paralympic Games Transportation | The Source",
+          "description": "Metro announced today that Congress has approved\u00a0$94.3 million\u00a0in mobility-related funding supporting the\u00a02028 Olympic and Paralympic Games\u00a0in Los Angeles.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ux632osoaqigjkgvuei3m6no/bafkreicokik3h42sw2nrgz3tvponzjua66h225yz4tb6wepx4fa5fgdeua@jpeg"
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 18,
+      "repostCount": 24,
+      "likeCount": 175,
+      "quoteCount": 3,
+      "indexedAt": "2026-02-08T17:44:17.952Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:ht3ruh74w6krts2fz4ir27pa/app.bsky.feed.post/3meeht74ips2b",
+      "cid": "bafyreig6qdczmzz7hmejbwlvbn22hcdhw26xphhd5at7lf7iafzk3eisji",
+      "author": {
+        "did": "did:plc:ht3ruh74w6krts2fz4ir27pa",
+        "handle": "vanhollen.senate.gov",
+        "displayName": "Senator Chris Van Hollen",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ht3ruh74w6krts2fz4ir27pa/bafkreido6tkptn3icyswjx4ug5erg2jnulby54unucpbvmfh6yjn24y5dq@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-21T17:25:20.772Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydr4g6t2z",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:18:49.216Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T17:35:20.929Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreig2czhanpiebel77oklpgbokalqt6ru5mgsqdh2ep7refiyuah3ri"
+              },
+              "mimeType": "image/jpeg",
+              "size": 441998
+            },
+            "title": "Prosecutors Began Investigating Renee Good\u2019s Killing. Washington Told Them to Stop.",
+            "uri": "https://www.nytimes.com/2026/02/07/us/renee-good-investigation-minnesota-trump.html"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Kash Patel stopped FBI agents from investigating Renee Good\u2019s killing because the findings might\u2019ve contradicted their narrative that she was a \u201cdomestic terrorist.\u201d\n\nWe cannot trust a word coming out of this Admin.\n\nDHS must allow Minnesotan authorities to investigate, NOW."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.nytimes.com/2026/02/07/us/renee-good-investigation-minnesota-trump.html",
+          "title": "Prosecutors Began Investigating Renee Good\u2019s Killing. Washington Told Them to Stop.",
+          "description": "",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ht3ruh74w6krts2fz4ir27pa/bafkreig2czhanpiebel77oklpgbokalqt6ru5mgsqdh2ep7refiyuah3ri@jpeg"
+        }
+      },
+      "bookmarkCount": 11,
+      "replyCount": 20,
+      "repostCount": 225,
+      "likeCount": 677,
+      "quoteCount": 4,
+      "indexedAt": "2026-02-08T17:35:22.259Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:4pypwgwx2rnmefnktrjimznx/app.bsky.feed.post/3meehgoglws2m",
+      "cid": "bafyreig7r37seavlojuxjc6il4stiklfpybltioaxyjtczfvsl7hipatji",
+      "author": {
+        "did": "did:plc:4pypwgwx2rnmefnktrjimznx",
+        "handle": "klobuchar.senate.gov",
+        "displayName": "Senator Amy Klobuchar",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreidg3zezurwz42nbdea6uo76zip7qllgb7clczppm3n2n3or2iucku@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2025-02-07T19:01:52.144Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndya52km62l",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:16:47.579Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T17:28:20.779Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1600,
+                "width": 1572
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreif73nngyp3rg2k4zcu6kzfyczgpq3ig7ycrdrdk3e73eqncpihqh4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 849422
+              }
+            },
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1198,
+                "width": 1600
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreif7ca3gz6ycvgpodgbdveqpsg7yvcfqkv2wtkkh2ctnwzdzzmlfiy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 643280
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Great discussion with Minnesota ag leaders.\u00a0\n\u00a0\nFarmers are struggling because of the administration\u2019s tariffs: lost export markets, higher input costs and uncertainty.\n\nWe need to end the tariff chaos to keep family farms strong and put year-round E-15 in place."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreif73nngyp3rg2k4zcu6kzfyczgpq3ig7ycrdrdk3e73eqncpihqh4@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreif73nngyp3rg2k4zcu6kzfyczgpq3ig7ycrdrdk3e73eqncpihqh4@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1600,
+              "width": 1572
+            }
+          },
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreif7ca3gz6ycvgpodgbdveqpsg7yvcfqkv2wtkkh2ctnwzdzzmlfiy@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreif7ca3gz6ycvgpodgbdveqpsg7yvcfqkv2wtkkh2ctnwzdzzmlfiy@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1198,
+              "width": 1600
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 0,
+      "replyCount": 10,
+      "repostCount": 3,
+      "likeCount": 33,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-08T17:28:23.259Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:hy4kwkakey4eawsw6jjzoc3j/app.bsky.feed.post/3meeg6v5wtk2q",
+      "cid": "bafyreievizg5xdsswbh6u35iphwcxckh43fnq46fergbmehqe442ya52ca",
+      "author": {
+        "did": "did:plc:hy4kwkakey4eawsw6jjzoc3j",
+        "handle": "amyklobuchar.com",
+        "displayName": "Amy Klobuchar",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hy4kwkakey4eawsw6jjzoc3j/bafkreihb7tn3yv74disucfrxfnnrvkrdwdoi2neq4sfkqmiyz2zjbxppfa@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-02T15:50:16.544Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lvrakyxddi2t",
+              "isValid": true,
+              "createdAt": "2025-08-06T22:12:11.692Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T17:06:05.660Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 360,
+            "width": 640
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreif362fokrl2fnjdfifhrn6pqv6qrpb5evkb5v7mmrqr4zl4gku7fa"
+            },
+            "mimeType": "video/mp4",
+            "size": 3755627
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "John and I had a great time at Dancing with the Annunciation Stars, celebrating the resiliency of the school & raising funds for their teachers. Congrats to my former staffer extraordinaire and now Annunciation parent Kate Uding for bringing home the gold (in gold)."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreif362fokrl2fnjdfifhrn6pqv6qrpb5evkb5v7mmrqr4zl4gku7fa",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ahy4kwkakey4eawsw6jjzoc3j/bafkreif362fokrl2fnjdfifhrn6pqv6qrpb5evkb5v7mmrqr4zl4gku7fa/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ahy4kwkakey4eawsw6jjzoc3j/bafkreif362fokrl2fnjdfifhrn6pqv6qrpb5evkb5v7mmrqr4zl4gku7fa/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 360,
+          "width": 640
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 6,
+      "repostCount": 8,
+      "likeCount": 76,
+      "quoteCount": 3,
+      "indexedAt": "2026-02-08T17:06:06.559Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:qqixzm5pwprzdnkbh2hglpax/app.bsky.feed.post/3meeed5cbss24",
+      "cid": "bafyreigkmtdp3kj7nzoijqhqhirl4eopaxbik6xjef62wz225uudvjqyne",
+      "author": {
+        "did": "did:plc:qqixzm5pwprzdnkbh2hglpax",
+        "handle": "whitehouse.senate.gov",
+        "displayName": "Senator Sheldon Whitehouse",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qqixzm5pwprzdnkbh2hglpax/bafkreifiivniqxkrqfmbgflrue54jmakys2uifwvr7hwga7lcf5d6xz5c4@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-08T16:39:50.282Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydq2we52x",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:18:48.107Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T16:32:40.927Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1920,
+            "width": 1080
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreice3ajbuopqctdd5te7fims4envpmoxnuovfei3cs3dazsgtezhzu"
+            },
+            "mimeType": "video/mp4",
+            "size": 40858606
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "The biggest fraud ever perpetrated in America:"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreice3ajbuopqctdd5te7fims4envpmoxnuovfei3cs3dazsgtezhzu",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aqqixzm5pwprzdnkbh2hglpax/bafkreice3ajbuopqctdd5te7fims4envpmoxnuovfei3cs3dazsgtezhzu/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aqqixzm5pwprzdnkbh2hglpax/bafkreice3ajbuopqctdd5te7fims4envpmoxnuovfei3cs3dazsgtezhzu/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        }
+      },
+      "bookmarkCount": 9,
+      "replyCount": 24,
+      "repostCount": 153,
+      "likeCount": 420,
+      "quoteCount": 9,
+      "indexedAt": "2026-02-08T16:32:43.253Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mee5zlulb62l",
+      "cid": "bafyreibum4j2guce5holu6m5xb3bluqjghrxhgtekgfhrab4mztrpycqti",
+      "author": {
+        "did": "did:plc:wo5kzzdgqwzizeyvg5bkaswh",
+        "handle": "markey.senate.gov",
+        "displayName": "Senator Ed Markey",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreidopbnyct37ebzwktpziatxgejgjbdcmnot772fe3ntdxvmgkdxcy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2023-05-24T14:52:58.508Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybtwrli2i",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:45.071Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T14:39:58.188Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "title": "",
+            "uri": "https://www.nbcnews.com/news/us-news/renee-goods-partner-addresses-minneapolis-immigration-crackdown-rcna257919"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nbcnews.com/news/us-news/renee-goods-partner-addresses-minneapolis-immigration-crackdown-rcna257919"
+              }
+            ],
+            "index": {
+              "byteEnd": 31,
+              "byteStart": 0
+            }
+          }
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreicpaqguah4tri57gkvpuxtejfqc3ublaolboei6edyiwswlvjm4c4",
+            "commit": {
+              "cid": "bafyreidu4yeh3mrxvppxyma7hj5clu2dk7yifn7tgumnkznft4msgwor54",
+              "rev": "3mee5zlfnyc25"
+            },
+            "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mee5zlfi4s25",
+            "validationStatus": "valid"
+          },
+          "root": {
+            "cid": "bafyreicpaqguah4tri57gkvpuxtejfqc3ublaolboei6edyiwswlvjm4c4",
+            "commit": {
+              "cid": "bafyreidu4yeh3mrxvppxyma7hj5clu2dk7yifn7tgumnkznft4msgwor54",
+              "rev": "3mee5zlfnyc25"
+            },
+            "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mee5zlfi4s25",
+            "validationStatus": "valid"
+          }
+        },
+        "text": "www.nbcnews.com/news/us-news..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.nbcnews.com/news/us-news/renee-goods-partner-addresses-minneapolis-immigration-crackdown-rcna257919",
+          "title": "",
+          "description": ""
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 5,
+      "likeCount": 20,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-08T14:39:58.280Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mee5zlfi4s25",
+      "cid": "bafyreicpaqguah4tri57gkvpuxtejfqc3ublaolboei6edyiwswlvjm4c4",
+      "author": {
+        "did": "did:plc:wo5kzzdgqwzizeyvg5bkaswh",
+        "handle": "markey.senate.gov",
+        "displayName": "Senator Ed Markey",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreidopbnyct37ebzwktpziatxgejgjbdcmnot772fe3ntdxvmgkdxcy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2023-05-24T14:52:58.508Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybtwrli2i",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:45.071Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T14:39:57.684Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Screenshot of headline reading: Renee Good's partner addresses Minneapolis immigration crackdown one month after killing\n\nBecca Good has seldom spoken out since Renee Good was shot and killed by an ICE agent in Minneapolis on Jan. 7.",
+              "aspectRatio": {
+                "height": 980,
+                "width": 1010
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigktfptm6rirvtfkybjl6glkp2zhcb72bc7ycjouneew5gejvtvdy"
+                },
+                "mimeType": "image/png",
+                "size": 905444
+              }
+            }
+          ]
+        },
+        "text": "\u201cRenee was not the first person killed, and she was not the last. You know my wife\u2019s name and you know Alex\u2019s name, but there are many others in this city being harmed that you don\u2019t know\u2014their families are hurting just like mine, even if they don\u2019t look like mine.\u201d"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreigktfptm6rirvtfkybjl6glkp2zhcb72bc7ycjouneew5gejvtvdy@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreigktfptm6rirvtfkybjl6glkp2zhcb72bc7ycjouneew5gejvtvdy@jpeg",
+            "alt": "Screenshot of headline reading: Renee Good's partner addresses Minneapolis immigration crackdown one month after killing\n\nBecca Good has seldom spoken out since Renee Good was shot and killed by an ICE agent in Minneapolis on Jan. 7.",
+            "aspectRatio": {
+              "height": 980,
+              "width": 1010
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 50,
+      "likeCount": 198,
+      "quoteCount": 4,
+      "indexedAt": "2026-02-08T14:39:58.257Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:ornpixmpy5ts36lh7hmi7wkp/app.bsky.feed.post/3mee5u74va22f",
+      "cid": "bafyreidjb54rmkcxmblfmjuv6kirgg7nyjzudg77b5qorb7f3dogdnmbya",
+      "author": {
+        "did": "did:plc:ornpixmpy5ts36lh7hmi7wkp",
+        "handle": "warren.senate.gov",
+        "displayName": "Elizabeth Warren",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ornpixmpy5ts36lh7hmi7wkp/bafkreih2fodb55nu2ewj6aucqxucr2f3l4twpqrdpbju4yncnmr4magyry@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-13T19:26:18.373Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndyb6f4aq2i",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:22.473Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T14:36:57.080Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "YouTube video by Senator Elizabeth Warren",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifgxemrtmlwpqlokah2hhfg4trw5g6kgiddioixv55ve3vhrvo6um"
+              },
+              "mimeType": "image/jpeg",
+              "size": 816971
+            },
+            "title": "Kevin Warsh was spinning fairy tales about prices coming down under the President.",
+            "uri": "https://youtube.com/shorts/lP_DvySKd4k?feature=share"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Before Donald Trump nominated Kevin Warsh to be his sock puppet at the Fed, he was spinning fairy tales about prices coming down under the President."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://youtube.com/shorts/lP_DvySKd4k?feature=share",
+          "title": "Kevin Warsh was spinning fairy tales about prices coming down under the President.",
+          "description": "YouTube video by Senator Elizabeth Warren",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ornpixmpy5ts36lh7hmi7wkp/bafkreifgxemrtmlwpqlokah2hhfg4trw5g6kgiddioixv55ve3vhrvo6um@jpeg"
+        }
+      },
+      "bookmarkCount": 6,
+      "replyCount": 24,
+      "repostCount": 131,
+      "likeCount": 528,
+      "quoteCount": 6,
+      "indexedAt": "2026-02-08T14:36:59.355Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:rmbfqraibpzbhjghsxrvksyr/app.bsky.feed.post/3mee5n3tgas2c",
+      "cid": "bafyreihpwonh5f2ncvj5hcw4br6gbvmrhbob2yrtpaet2sn6enqsagfypa",
+      "author": {
+        "did": "did:plc:rmbfqraibpzbhjghsxrvksyr",
+        "handle": "kim.senate.gov",
+        "displayName": "Senator Andy Kim",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rmbfqraibpzbhjghsxrvksyr/bafkreiavz5kcofars67ifzoaql6pwj7usfji3lfr6fv5aald7fgojgw66y@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-17T00:17:13.236Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndyajjrtd2z",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:00.667Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T14:32:58.740Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1920,
+            "width": 1080
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibtfe6rateqqe7ygmyzh4bbcezhzi2afgrfuq5qbtaaaag3dcvz7i"
+            },
+            "mimeType": "video/mp4",
+            "size": 9325708
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "As a father, I worry about the consequences of our inaction when it comes to youth mental health. It\u2019s a crisis."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreibtfe6rateqqe7ygmyzh4bbcezhzi2afgrfuq5qbtaaaag3dcvz7i",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Armbfqraibpzbhjghsxrvksyr/bafkreibtfe6rateqqe7ygmyzh4bbcezhzi2afgrfuq5qbtaaaag3dcvz7i/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Armbfqraibpzbhjghsxrvksyr/bafkreibtfe6rateqqe7ygmyzh4bbcezhzi2afgrfuq5qbtaaaag3dcvz7i/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 4,
+      "likeCount": 48,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-08T14:32:59.853Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:ux632osoaqigjkgvuei3m6no/app.bsky.feed.post/3mecrlgx7522l",
+      "cid": "bafyreiasxnhdtmhfm3iln3yq2ihvmkglsptv5jvfppmi6553xg4ebm6why",
+      "author": {
+        "did": "did:plc:ux632osoaqigjkgvuei3m6no",
+        "handle": "schiff.senate.gov",
+        "displayName": "Sen. Adam Schiff",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ux632osoaqigjkgvuei3m6no/bafkreicqvwdsmoe6mge4lyjuytbdaz5gd52lviakmeplawquvrxn4zz7jy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-20T19:30:11.144Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy7rojtx2f",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:16:35.644Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T01:24:38.646Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibl4b3h7om5tfwgtoxdmq6gpwqewgw33buow7aipnhf2tw43xxsg4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 464717
+            },
+            "title": "Demanding Support for Trump, Justice Dept. Struggles to Recruit Prosecutors",
+            "uri": "https://www.nytimes.com/2026/02/07/us/politics/doj-prosecutors-recruiting-trump.html?smid=nytcore-ios-share"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I served with the U.S. Attorneys Office in LA for almost 6 years. \n\nIt was a great office, professional and apolitical. \n\nMy heart breaks for the many hundreds of dedicated prosecutors who have been forced to leave rather than engage in unethical conduct. \n\nBut they have made the right decision."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.nytimes.com/2026/02/07/us/politics/doj-prosecutors-recruiting-trump.html?smid=nytcore-ios-share",
+          "title": "Demanding Support for Trump, Justice Dept. Struggles to Recruit Prosecutors",
+          "description": "",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ux632osoaqigjkgvuei3m6no/bafkreibl4b3h7om5tfwgtoxdmq6gpwqewgw33buow7aipnhf2tw43xxsg4@jpeg"
+        }
+      },
+      "bookmarkCount": 11,
+      "replyCount": 27,
+      "repostCount": 189,
+      "likeCount": 767,
+      "quoteCount": 3,
+      "indexedAt": "2026-02-08T01:24:40.957Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3mecpzpyfms2d",
+      "cid": "bafyreibegrge6tb47k6jujumulfwvascud3yzqizd7hvcpxfkaiae3esge",
+      "author": {
+        "did": "did:plc:hne455ahhpnxi5vnm7a5dquz",
+        "handle": "baldwin.senate.gov",
+        "displayName": "Senator Tammy Baldwin",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hne455ahhpnxi5vnm7a5dquz/bafkreighmvdaz2szwg76wsbrwq7ul65wise2tv4hsc3wlh7s7clvcduljq@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2025-02-05T22:38:36.045Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6mbu5y2d",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:15:56.422Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T00:56:50.407Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 886,
+                "width": 1307
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicowxg2gz53v5hwqo2qctnupg3p6cciwge6jfpd7eytcnyjvceadi"
+                },
+                "mimeType": "image/jpeg",
+                "size": 621749
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "President Trump is trying to shut down the Department of Education and leave our schools and children out to dry \u2013 and I\u2019m just not having it. I was at Pulaski High School to hear about the chaos the President has created and talk about my bill to stand up to it."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hne455ahhpnxi5vnm7a5dquz/bafkreicowxg2gz53v5hwqo2qctnupg3p6cciwge6jfpd7eytcnyjvceadi@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hne455ahhpnxi5vnm7a5dquz/bafkreicowxg2gz53v5hwqo2qctnupg3p6cciwge6jfpd7eytcnyjvceadi@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 886,
+              "width": 1307
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 0,
+      "replyCount": 4,
+      "repostCount": 37,
+      "likeCount": 132,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-08T00:56:53.458Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:fvwtf55iqiihc7ct543i2p6u/app.bsky.feed.post/3mecl23pojs2q",
+      "cid": "bafyreib7hybveb5okdepsst5qhjxa475bcrqvie5mixff3dyivnkvxvyta",
+      "author": {
+        "did": "did:plc:fvwtf55iqiihc7ct543i2p6u",
+        "handle": "blumenthal.senate.gov",
+        "displayName": "Richard Blumenthal",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fvwtf55iqiihc7ct543i2p6u/bafkreiglkgctulugof74xzmabnhp4oasirjglmkhfmqsurs6s76staqwri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-21T16:00:54.069Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydmywyx2f",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:18:44.897Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T23:27:33.993Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1118,
+                "width": 2000
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreib5wkprj7uat5r5ieqzs6ynlc7hcqg2gex4pzu5h7pq7cdnatgwxy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 525970
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "As Superbowl Sunday looms\u2014with $1.67 billion in bets expected\u2014Americans need protection against online sports betting companies & prediction markets that exploit problem gamblers. My legislation is a start."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fvwtf55iqiihc7ct543i2p6u/bafkreib5wkprj7uat5r5ieqzs6ynlc7hcqg2gex4pzu5h7pq7cdnatgwxy@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fvwtf55iqiihc7ct543i2p6u/bafkreib5wkprj7uat5r5ieqzs6ynlc7hcqg2gex4pzu5h7pq7cdnatgwxy@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1118,
+              "width": 2000
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 5,
+      "likeCount": 31,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-07T23:27:37.652Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:gyl2gdob6lyckqwi5dwaehef/app.bsky.feed.post/3mecixfbohs2p",
+      "cid": "bafyreif7bfytnk6zgiuzz3d24362l4uhhpa7d7dzjppv53gj7gu3kbffoy",
+      "author": {
+        "did": "did:plc:gyl2gdob6lyckqwi5dwaehef",
+        "handle": "kaine.senate.gov",
+        "displayName": "Senator Tim Kaine",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gyl2gdob6lyckqwi5dwaehef/bafkreihcieee6uocc6o3bxjvhpq3wkallggh6adhygid5rsv7lgjp3tzau@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-27T16:58:13.244Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydjo56t2z",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:18:41.407Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T22:50:15.876Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "YouTube video by Senator Kaine",
+            "title": "What\u2019s Going On In Fulton County?",
+            "uri": "https://youtube.com/shorts/pN_2EOPq8PE?feature=share"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://youtube.com/shorts/pN_2EOPq8PE?feature=share"
+              }
+            ],
+            "index": {
+              "byteEnd": 213,
+              "byteStart": 186
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Trump\u2019s brazen seizure of election records in Fulton County is an alarming and pathetic move to stroke his own ego, rewrite history, and threaten the integrity of future elections.  \n\nyoutube.com/shorts/pN_2E..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://youtube.com/shorts/pN_2EOPq8PE?feature=share",
+          "title": "What\u2019s Going On In Fulton County?",
+          "description": "YouTube video by Senator Kaine"
+        }
+      },
+      "bookmarkCount": 2,
+      "replyCount": 12,
+      "repostCount": 30,
+      "likeCount": 115,
+      "quoteCount": 1,
+      "indexedAt": "2026-02-07T22:50:16.164Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3meci3zwss32g",
+      "cid": "bafyreibbinxxz2ffmital6ou4h6sudf4hugqfgi4mtdpcmagmjxs2gsbvq",
+      "author": {
+        "did": "did:plc:wo5kzzdgqwzizeyvg5bkaswh",
+        "handle": "markey.senate.gov",
+        "displayName": "Senator Ed Markey",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreidopbnyct37ebzwktpziatxgejgjbdcmnot772fe3ntdxvmgkdxcy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2023-05-24T14:52:58.508Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybtwrli2i",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:45.071Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T22:34:57.071Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "An Immigration and Customs Enforcement spokesperson said the allegations of overcrowding and lack of access to lawyers are false.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreif5bpbtohjywj76bmnhiigewwcmwl2zbtoak5jriaqrlegzzoeqhy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 87284
+            },
+            "title": "ICE detainees from Maine being held under \u2018inhumane\u2019 conditions in Mass. facility, attorneys say",
+            "uri": "https://www.pressherald.com/2026/02/07/ice-detainees-from-maine-being-held-under-inhumane-conditions-at-mass-facility-attorneys-say/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.pressherald.com/2026/02/07/ice-detainees-from-maine-being-held-under-inhumane-conditions-at-mass-facility-attorneys-say/"
+              }
+            ],
+            "index": {
+              "byteEnd": 35,
+              "byteStart": 0
+            }
+          }
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreieoa4u2q2oddkk5onh7yajfzyvkaoluxgp3u3k2fvfddd5gln6vvq",
+            "commit": {
+              "cid": "bafyreiaj6gktvsqbdflv5f35ogl2o7p4htoo6ts3bb5uao7yycm47yyjlu",
+              "rev": "3meci3ymlne2h"
+            },
+            "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3meci3ymfru2h",
+            "validationStatus": "valid"
+          },
+          "root": {
+            "cid": "bafyreieoa4u2q2oddkk5onh7yajfzyvkaoluxgp3u3k2fvfddd5gln6vvq",
+            "commit": {
+              "cid": "bafyreiaj6gktvsqbdflv5f35ogl2o7p4htoo6ts3bb5uao7yycm47yyjlu",
+              "rev": "3meci3ymlne2h"
+            },
+            "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3meci3ymfru2h",
+            "validationStatus": "valid"
+          }
+        },
+        "text": "www.pressherald.com/2026/02/07/i..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.pressherald.com/2026/02/07/ice-detainees-from-maine-being-held-under-inhumane-conditions-at-mass-facility-attorneys-say/",
+          "title": "ICE detainees from Maine being held under \u2018inhumane\u2019 conditions in Mass. facility, attorneys say",
+          "description": "An Immigration and Customs Enforcement spokesperson said the allegations of overcrowding and lack of access to lawyers are false.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreif5bpbtohjywj76bmnhiigewwcmwl2zbtoak5jriaqrlegzzoeqhy@jpeg"
+        }
+      },
+      "bookmarkCount": 1,
+      "replyCount": 2,
+      "repostCount": 17,
+      "likeCount": 53,
+      "quoteCount": 1,
+      "indexedAt": "2026-02-07T22:34:58.460Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3meci3ymfru2h",
+      "cid": "bafyreieoa4u2q2oddkk5onh7yajfzyvkaoluxgp3u3k2fvfddd5gln6vvq",
+      "author": {
+        "did": "did:plc:wo5kzzdgqwzizeyvg5bkaswh",
+        "handle": "markey.senate.gov",
+        "displayName": "Senator Ed Markey",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreidopbnyct37ebzwktpziatxgejgjbdcmnot772fe3ntdxvmgkdxcy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2023-05-24T14:52:58.508Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybtwrli2i",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:45.071Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T22:34:56.590Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Screenshot of headline reading: ICE detainees from Maine being held under \u2018inhumane\u2019 conditions in Mass. facility, attorneys say\nAn Immigration and Customs Enforcement spokesperson said the allegations of overcrowding and lack of access to lawyers are false.",
+              "aspectRatio": {
+                "height": 1083,
+                "width": 1200
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreienqe3s3mf6spstxs73gms7rcjnlv466kt4mykeezfltn7mt3ois4"
+                },
+                "mimeType": "image/png",
+                "size": 873881
+              }
+            }
+          ]
+        },
+        "text": "Last week, I demanded answers from ICE again about inhumane conditions at Burlington, following up on my oversight visit. This is no place to hold people. Accountability now."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreienqe3s3mf6spstxs73gms7rcjnlv466kt4mykeezfltn7mt3ois4@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreienqe3s3mf6spstxs73gms7rcjnlv466kt4mykeezfltn7mt3ois4@jpeg",
+            "alt": "Screenshot of headline reading: ICE detainees from Maine being held under \u2018inhumane\u2019 conditions in Mass. facility, attorneys say\nAn Immigration and Customs Enforcement spokesperson said the allegations of overcrowding and lack of access to lawyers are false.",
+            "aspectRatio": {
+              "height": 1083,
+              "width": 1200
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 4,
+      "replyCount": 12,
+      "repostCount": 79,
+      "likeCount": 191,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-07T22:34:57.161Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:a23utge5gk6ckgm3ypx3weyr/app.bsky.feed.post/3mecfulsnqk2o",
+      "cid": "bafyreiab2ugvxpfkn65xooihs35sbyp5zixaunldfp5zaxpijpfwzbdv34",
+      "author": {
+        "did": "did:plc:a23utge5gk6ckgm3ypx3weyr",
+        "handle": "murray.senate.gov",
+        "displayName": "Senator Patty Murray",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a23utge5gk6ckgm3ypx3weyr/bafkreidemk242dcwi6z6ezb7iqkqwmemhdmvsxbykj2xturbx3kglitohi@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-18T15:39:53.048Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6bqmcm2l",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:15:45.389Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T21:54:59.281Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "title": "",
+            "uri": "https://www.newsweek.com/us-abortion-bans-increase-pregnant-woman-risk-dying-11394148"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.newsweek.com/us-abortion-bans-increase-pregnant-woman-risk-dying-11394148"
+              }
+            ],
+            "index": {
+              "byteEnd": 32,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreihx75wmw7z4zqcafpa6gy6oy5fe2hhrlsoyyanzgquf2dycsjsedm",
+            "uri": "at://did:plc:a23utge5gk6ckgm3ypx3weyr/app.bsky.feed.post/3mecfukdjwk2o"
+          },
+          "root": {
+            "cid": "bafyreihx75wmw7z4zqcafpa6gy6oy5fe2hhrlsoyyanzgquf2dycsjsedm",
+            "uri": "at://did:plc:a23utge5gk6ckgm3ypx3weyr/app.bsky.feed.post/3mecfukdjwk2o"
+          }
+        },
+        "text": "www.newsweek.com/us-abortion-..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.newsweek.com/us-abortion-bans-increase-pregnant-woman-risk-dying-11394148",
+          "title": "",
+          "description": ""
+        }
+      },
+      "bookmarkCount": 4,
+      "replyCount": 1,
+      "repostCount": 16,
+      "likeCount": 55,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-07T21:55:03.375Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:a23utge5gk6ckgm3ypx3weyr/app.bsky.feed.post/3mecfukdjwk2o",
+      "cid": "bafyreihx75wmw7z4zqcafpa6gy6oy5fe2hhrlsoyyanzgquf2dycsjsedm",
+      "author": {
+        "did": "did:plc:a23utge5gk6ckgm3ypx3weyr",
+        "handle": "murray.senate.gov",
+        "displayName": "Senator Patty Murray",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a23utge5gk6ckgm3ypx3weyr/bafkreidemk242dcwi6z6ezb7iqkqwmemhdmvsxbykj2xturbx3kglitohi@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-18T15:39:53.048Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndy6bqmcm2l",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:15:45.389Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T21:54:59.280Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 648,
+                "width": 1179
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreib24c3qx3bccklvzt7f5rwo4ascz7f3lh3bpmbdp4mgfvq4dborhy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 200197
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Reminder: Republican abortion bans have NOTHING to do with protecting women and EVERYTHING\u00a0to do with controlling women\u2019s bodies and lives."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a23utge5gk6ckgm3ypx3weyr/bafkreib24c3qx3bccklvzt7f5rwo4ascz7f3lh3bpmbdp4mgfvq4dborhy@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a23utge5gk6ckgm3ypx3weyr/bafkreib24c3qx3bccklvzt7f5rwo4ascz7f3lh3bpmbdp4mgfvq4dborhy@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 648,
+              "width": 1179
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 7,
+      "replyCount": 12,
+      "repostCount": 101,
+      "likeCount": 300,
+      "quoteCount": 4,
+      "indexedAt": "2026-02-07T21:55:03.355Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:4pypwgwx2rnmefnktrjimznx/app.bsky.feed.post/3mecfnksjh22m",
+      "cid": "bafyreigyubcas6lk3dc22fjh6bex3svou4xo33qjir2ev5appwaknj2gpi",
+      "author": {
+        "did": "did:plc:4pypwgwx2rnmefnktrjimznx",
+        "handle": "klobuchar.senate.gov",
+        "displayName": "Senator Amy Klobuchar",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreidg3zezurwz42nbdea6uo76zip7qllgb7clczppm3n2n3or2iucku@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2025-02-07T19:01:52.144Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndya52km62l",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:16:47.579Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T21:51:04.897Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 956,
+                "width": 954
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreieqtayeunbo2zt5lguy6mh3z5bvsrs27lnuqkjahccdeikx5e366i"
+                },
+                "mimeType": "image/jpeg",
+                "size": 374931
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "It took the outcry of a nation to bring 5-year-old Liam Conejo Ramos and his father back to Minnesota from an ICE detention facility, and now the Trump administration is trying to fast-track their deportations.\n\nThe cruelty of this administration has no limits."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreieqtayeunbo2zt5lguy6mh3z5bvsrs27lnuqkjahccdeikx5e366i@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4pypwgwx2rnmefnktrjimznx/bafkreieqtayeunbo2zt5lguy6mh3z5bvsrs27lnuqkjahccdeikx5e366i@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 956,
+              "width": 954
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 0,
+      "replyCount": 17,
+      "repostCount": 42,
+      "likeCount": 101,
+      "quoteCount": 2,
+      "indexedAt": "2026-02-07T21:51:06.652Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:vt3xvbw22imzxfegz45wq7y5/app.bsky.feed.post/3mecejcryys2n",
+      "cid": "bafyreigvwyvglewjkototkxjq7jrvydtiqsdrqg4ufvb6gzwlfgew6lque",
+      "author": {
+        "did": "did:plc:vt3xvbw22imzxfegz45wq7y5",
+        "handle": "gallego.senate.gov",
+        "displayName": "Senator Ruben Gallego",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vt3xvbw22imzxfegz45wq7y5/bafkreic6wnmj5zs2vdnkxrnstjknf6bkf2braqthptln5mkhsvgaduft4e@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2025-01-17T20:48:29.346Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndydik6av2x",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:18:40.231Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T21:30:48.535Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1920
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibzbwf4e7fbgln35gbbicyx2xmirbfgjipvzwn7sq5oosfqld5z3e"
+            },
+            "mimeType": "video/mp4",
+            "size": 4040222
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Talk doesn\u2019t lower prices. Savings don\u2019t happen by accident.\n\nThey happen when we fight and win."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreibzbwf4e7fbgln35gbbicyx2xmirbfgjipvzwn7sq5oosfqld5z3e",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Avt3xvbw22imzxfegz45wq7y5/bafkreibzbwf4e7fbgln35gbbicyx2xmirbfgjipvzwn7sq5oosfqld5z3e/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Avt3xvbw22imzxfegz45wq7y5/bafkreibzbwf4e7fbgln35gbbicyx2xmirbfgjipvzwn7sq5oosfqld5z3e/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "bookmarkCount": 1,
+      "replyCount": 10,
+      "repostCount": 16,
+      "likeCount": 57,
+      "quoteCount": 1,
+      "indexedAt": "2026-02-07T21:30:49.555Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:hy4kwkakey4eawsw6jjzoc3j/app.bsky.feed.post/3mecdxb3sfs2f",
+      "cid": "bafyreifj4svjpctp3kwuduxrxwwduftblbjshs4rxzqgzzpizwadxw5wka",
+      "author": {
+        "did": "did:plc:hy4kwkakey4eawsw6jjzoc3j",
+        "handle": "amyklobuchar.com",
+        "displayName": "Amy Klobuchar",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hy4kwkakey4eawsw6jjzoc3j/bafkreihb7tn3yv74disucfrxfnnrvkrdwdoi2neq4sfkqmiyz2zjbxppfa@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-02T15:50:16.544Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lvrakyxddi2t",
+              "isValid": true,
+              "createdAt": "2025-08-06T22:12:11.692Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T21:20:42.777Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 956,
+                "width": 954
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiabpasvwwk2tqiretjx2b5a3am7swggk6ctf3dmctdwyxrub5bhiq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 488252
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "It took the outcry of a nation to bring 5-year-old Liam Conejo Ramos and his father back to Minnesota from an ICE detention facility, and now the Trump administration is trying to fast-track their deportations.\n\nThe cruelty of this administration has no limits."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hy4kwkakey4eawsw6jjzoc3j/bafkreiabpasvwwk2tqiretjx2b5a3am7swggk6ctf3dmctdwyxrub5bhiq@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hy4kwkakey4eawsw6jjzoc3j/bafkreiabpasvwwk2tqiretjx2b5a3am7swggk6ctf3dmctdwyxrub5bhiq@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 956,
+              "width": 954
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 4,
+      "replyCount": 32,
+      "repostCount": 94,
+      "likeCount": 353,
+      "quoteCount": 4,
+      "indexedAt": "2026-02-07T21:20:54.557Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mecbgtr7fd2l",
+      "cid": "bafyreiake26o7eam6io6qcohiw3wdfpkfo7qn4f6ttap7jhj4xh7h6n6vq",
+      "author": {
+        "did": "did:plc:wo5kzzdgqwzizeyvg5bkaswh",
+        "handle": "markey.senate.gov",
+        "displayName": "Senator Ed Markey",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreidopbnyct37ebzwktpziatxgejgjbdcmnot772fe3ntdxvmgkdxcy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2023-05-24T14:52:58.508Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybtwrli2i",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:45.071Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T20:35:43.936Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Kennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwise, emails show",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid3o2td6bvkyjtepiqyjccrhjgxn7bcyi4akubvxjzfvuj2idwnlq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 37473
+            },
+            "title": "Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak",
+            "uri": "https://www.theguardian.com/us-news/2026/feb/06/rfk-jr-samoa-trip"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.theguardian.com/us-news/2026/feb/06/rfk-jr-samoa-trip"
+              }
+            ],
+            "index": {
+              "byteEnd": 35,
+              "byteStart": 0
+            }
+          }
+        ],
+        "reply": {
+          "parent": {
+            "cid": "bafyreibpsdi7z3vtdaqwzbaigb3s63lnt2gmajy6slfx4bo3cftbpkgis4",
+            "commit": {
+              "cid": "bafyreiall4iu5lmmbdbza3yrvs3becgparzun5adsksrxhhmilsokemhiy",
+              "rev": "3mecbgstcut2h"
+            },
+            "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mecbgst4232h",
+            "validationStatus": "valid"
+          },
+          "root": {
+            "cid": "bafyreibpsdi7z3vtdaqwzbaigb3s63lnt2gmajy6slfx4bo3cftbpkgis4",
+            "commit": {
+              "cid": "bafyreiall4iu5lmmbdbza3yrvs3becgparzun5adsksrxhhmilsokemhiy",
+              "rev": "3mecbgstcut2h"
+            },
+            "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mecbgst4232h",
+            "validationStatus": "valid"
+          }
+        },
+        "text": "www.theguardian.com/us-news/2026..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.theguardian.com/us-news/2026/feb/06/rfk-jr-samoa-trip",
+          "title": "Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak",
+          "description": "Kennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwise, emails show",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreid3o2td6bvkyjtepiqyjccrhjgxn7bcyi4akubvxjzfvuj2idwnlq@jpeg"
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 22,
+      "likeCount": 66,
+      "quoteCount": 1,
+      "indexedAt": "2026-02-07T20:35:44.953Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:wo5kzzdgqwzizeyvg5bkaswh/app.bsky.feed.post/3mecbgst4232h",
+      "cid": "bafyreibpsdi7z3vtdaqwzbaigb3s63lnt2gmajy6slfx4bo3cftbpkgis4",
+      "author": {
+        "did": "did:plc:wo5kzzdgqwzizeyvg5bkaswh",
+        "handle": "markey.senate.gov",
+        "displayName": "Senator Ed Markey",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreidopbnyct37ebzwktpziatxgejgjbdcmnot772fe3ntdxvmgkdxcy@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2023-05-24T14:52:58.508Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndybtwrli2i",
+              "isValid": true,
+              "createdAt": "2025-04-21T13:17:45.071Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T20:35:43.427Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Screenshot of headline reading: \n\nNewly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak\n\nKennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwise, emails show",
+              "aspectRatio": {
+                "height": 972,
+                "width": 848
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibn4amm74356azsxk2di6fb7qn62cxwvk5ya2jskzevusfquy7bgy"
+                },
+                "mimeType": "image/png",
+                "size": 946347
+              }
+            }
+          ]
+        },
+        "text": "RFK Jr. is a liar. He lied to me about his anti-vax Samoa trip. The CDC\u2019s vaccine advisory panel is now stacked with conspiracists and the US is positioned to lose its measles elimination status. RFK Jr. must be removed now."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreibn4amm74356azsxk2di6fb7qn62cxwvk5ya2jskzevusfquy7bgy@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wo5kzzdgqwzizeyvg5bkaswh/bafkreibn4amm74356azsxk2di6fb7qn62cxwvk5ya2jskzevusfquy7bgy@jpeg",
+            "alt": "Screenshot of headline reading: \n\nNewly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak\n\nKennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwise, emails show",
+            "aspectRatio": {
+              "height": 972,
+              "width": 848
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 4,
+      "replyCount": 16,
+      "repostCount": 105,
+      "likeCount": 327,
+      "quoteCount": 2,
+      "indexedAt": "2026-02-07T20:35:44.053Z",
+      "labels": []
+    }
+  ]
+}

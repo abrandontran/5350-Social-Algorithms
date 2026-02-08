@@ -1,0 +1,238 @@
+{
+  "senator_info": {
+    "name": "Jeff Merkley",
+    "handle": "jeff-merkley.bsky.social",
+    "party": "D",
+    "state": "OR",
+    "gender": "M"
+  },
+  "follows": [
+    {
+      "did": "did:plc:h7qtoo7nxqxarrsijohjhbw4",
+      "handle": "factpostnews.bsky.social",
+      "displayName": "FactPost",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h7qtoo7nxqxarrsijohjhbw4/bafkreig4uw5byrui5n3a6gjc46hfljmveupkggws7gbgtc6ab2p3b2bjlu@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-12-02T20:30:51.244Z",
+      "description": "Posting facts. democrats.org",
+      "indexedAt": "2025-01-13T16:27:17.042Z"
+    },
+    {
+      "did": "did:plc:mdbwtfpaihd5ofb6g4xsg2al",
+      "handle": "tinakotek.bsky.social",
+      "displayName": "Tina Kotek",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mdbwtfpaihd5ofb6g4xsg2al/bafkreidv3h2hheiy3xbrqhaagozakvyef26mfbt33pjn45afragir7h7jm@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-19T23:05:49.872Z",
+      "verification": {
+        "verifications": [
+          {
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3me455e474622",
+            "isValid": true,
+            "createdAt": "2026-02-05T10:02:52.298Z"
+          }
+        ],
+        "verifiedStatus": "valid",
+        "trustedVerifierStatus": "none"
+      },
+      "description": "Oregon Governor. Committed to building a better future for all Oregonians.\n\nhttps://www.tinafororegon.com/",
+      "indexedAt": "2025-12-04T21:01:18.925Z"
+    },
+    {
+      "did": "did:plc:z72i7hdynmk6r22z27h6tvur",
+      "handle": "bsky.app",
+      "displayName": "Bluesky",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreihwihm6kpd6zuwhhlro75p5qks5qtrcu55jp3gddbfjsieiv7wuka@jpeg",
+      "associated": {
+        "chat": {
+          "allowIncoming": "none"
+        },
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2023-04-12T04:53:57.057Z",
+      "verification": {
+        "verifications": [],
+        "verifiedStatus": "none",
+        "trustedVerifierStatus": "valid"
+      },
+      "description": "official Bluesky account (check username\ud83d\udc46)\n\nBugs, feature requests, feedback: support@bsky.app",
+      "indexedAt": "2025-10-27T21:05:26.152Z"
+    }
+  ],
+  "feed": [
+    {
+      "uri": "at://did:plc:h7qtoo7nxqxarrsijohjhbw4/app.bsky.feed.post/3meelftvbqg2j",
+      "cid": "bafyreihydywiyec7a4ynwfbxr6smvps6pbx637ikqiolczk5gmcguyuati",
+      "author": {
+        "did": "did:plc:h7qtoo7nxqxarrsijohjhbw4",
+        "handle": "factpostnews.bsky.social",
+        "displayName": "FactPost",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h7qtoo7nxqxarrsijohjhbw4/bafkreig4uw5byrui5n3a6gjc46hfljmveupkggws7gbgtc6ab2p3b2bjlu@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-12-02T20:30:51.244Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-08T18:39:27.884525692Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1012,
+            "width": 1920
+          },
+          "captions": [],
+          "external": null,
+          "images": [],
+          "record": null,
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiazn5zgpwci5dij2v6upszhqynovbmxmkvtkiz3emb2oybggpnnom"
+            },
+            "mimeType": "video/mp4",
+            "size": 4635578
+          }
+        },
+        "text": "Epstein survivors have released an ad on Super Bowl Sunday, urging Pam Bondi to release all the Epstein files."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreiazn5zgpwci5dij2v6upszhqynovbmxmkvtkiz3emb2oybggpnnom",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ah7qtoo7nxqxarrsijohjhbw4/bafkreiazn5zgpwci5dij2v6upszhqynovbmxmkvtkiz3emb2oybggpnnom/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ah7qtoo7nxqxarrsijohjhbw4/bafkreiazn5zgpwci5dij2v6upszhqynovbmxmkvtkiz3emb2oybggpnnom/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1012,
+          "width": 1920
+        }
+      },
+      "bookmarkCount": 9,
+      "replyCount": 1,
+      "repostCount": 53,
+      "likeCount": 150,
+      "quoteCount": 2,
+      "indexedAt": "2026-02-08T18:39:28.849Z",
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:mdbwtfpaihd5ofb6g4xsg2al/app.bsky.feed.post/3meccryeumc2u",
+      "cid": "bafyreifyfgaypli6h5rmco3eirvnlekf3x4pfrtjasbsujnzsdij52yzkq",
+      "author": {
+        "did": "did:plc:mdbwtfpaihd5ofb6g4xsg2al",
+        "handle": "tinakotek.bsky.social",
+        "displayName": "Tina Kotek",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mdbwtfpaihd5ofb6g4xsg2al/bafkreidv3h2hheiy3xbrqhaagozakvyef26mfbt33pjn45afragir7h7jm@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "labels": [],
+        "createdAt": "2024-11-19T23:05:49.872Z",
+        "verification": {
+          "verifications": [
+            {
+              "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+              "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3me455e474622",
+              "isValid": true,
+              "createdAt": "2026-02-05T10:02:52.298Z"
+            }
+          ],
+          "verifiedStatus": "valid",
+          "trustedVerifierStatus": "none"
+        }
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-07T20:59:52.124Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1080,
+                "width": 1920
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreihc3yxtonfby33hwqakbug25fcidzejicazh7vleun5bqujlizvzy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 633336
+              }
+            },
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1080,
+                "width": 1920
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreih3slrsvo4aweefclrh3zgvdk6tiipvlgvhx447wpvg4htqmxoliy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 865018
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I am proud to have the support of ATU Local 757!"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mdbwtfpaihd5ofb6g4xsg2al/bafkreihc3yxtonfby33hwqakbug25fcidzejicazh7vleun5bqujlizvzy@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mdbwtfpaihd5ofb6g4xsg2al/bafkreihc3yxtonfby33hwqakbug25fcidzejicazh7vleun5bqujlizvzy@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            }
+          },
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mdbwtfpaihd5ofb6g4xsg2al/bafkreih3slrsvo4aweefclrh3zgvdk6tiipvlgvhx447wpvg4htqmxoliy@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mdbwtfpaihd5ofb6g4xsg2al/bafkreih3slrsvo4aweefclrh3zgvdk6tiipvlgvhx447wpvg4htqmxoliy@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            }
+          }
+        ]
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 5,
+      "likeCount": 17,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-07T20:59:58.352Z",
+      "labels": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "senator_info": {
+    "name": "Mark Kelly",
+    "handle": "captmarkkelly.bsky.social",
+    "party": "D",
+    "state": "AZ",
+    "gender": "M"
+  },
+  "follows": [
+    {
+      "did": "did:plc:nz2evspehqdvsmeiw5yjeh2k",
+      "handle": "gabbygiffords.bsky.social",
+      "displayName": "Gabby Giffords",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nz2evspehqdvsmeiw5yjeh2k/bafkreifvnt3m2t4ggi4ngdryotedeuevvo65vnmonks3cld5tf4f77rat4@jpeg",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2024-11-12T15:21:40.714Z",
+      "description": "Proudly served Arizona's 8th District in the United States Congress 2007-2012. Co-founded GIFFORDS. Aphasia advocate. Married to Senator Mark Kelly.",
+      "indexedAt": "2024-11-12T20:41:31.012Z"
+    }
+  ],
+  "feed": []
+}
