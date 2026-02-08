@@ -8,11 +8,60 @@
   },
   "posts": [
     {
+      "uri": "at://did:plc:7hake53hz2iumil2uhi6kk4m/app.bsky.feed.post/3meceufrbu72a",
+      "text": "Measles on the rise.\nMasked agents in the street.\nThe President seizing ballots.\n\nThis is America under Donald Trump. We deserve better.",
+      "createdAt": "2026-02-07T21:37:00.576Z",
+      "totalReplyCount": 5,
+      "capturedReplyCount": 5,
+      "replies": [
+        {
+          "handle": "h-lr.bsky.social",
+          "displayName": "midwestister",
+          "did": "did:plc:xai542jonj5scbkbhpetezjr",
+          "createdAt": "2026-02-07T21:57:55.548Z",
+          "uri": "at://did:plc:xai542jonj5scbkbhpetezjr/app.bsky.feed.post/3mecfzsghvs2g",
+          "text": "bsky.app/profile/waja..."
+        },
+        {
+          "handle": "gcm5.bsky.social",
+          "displayName": "",
+          "did": "did:plc:vk52fnrcwlzgd3zydj6535mn",
+          "createdAt": "2026-02-07T22:02:36.671Z",
+          "uri": "at://did:plc:vk52fnrcwlzgd3zydj6535mn/app.bsky.feed.post/3mecgc6jo3k2f",
+          "text": "Absolutely. \ud83d\udcaf"
+        },
+        {
+          "handle": "bellinghamsterd.bsky.social",
+          "displayName": "PNWobblies",
+          "did": "did:plc:uqe5zjd55rpxmcurrpcx4dv3",
+          "createdAt": "2026-02-07T21:45:12.855Z",
+          "uri": "at://did:plc:uqe5zjd55rpxmcurrpcx4dv3/app.bsky.feed.post/3mecfd32wjk25",
+          "text": "This is America..."
+        },
+        {
+          "handle": "maydayze.bsky.social",
+          "displayName": "Watchlist Samantha",
+          "did": "did:plc:ru6dpcpxtwvw3ey753lq3fgg",
+          "createdAt": "2026-02-07T21:43:11.660Z",
+          "uri": "at://did:plc:ru6dpcpxtwvw3ey753lq3fgg/app.bsky.feed.post/3mecf7hinsc23",
+          "text": "Waiting for the smallpox"
+        },
+        {
+          "handle": "knowthetruth.bsky.social",
+          "displayName": "KnowTheTruth",
+          "did": "did:plc:o6s7imgqjxtqw7swz6s6672g",
+          "createdAt": "2026-02-07T23:44:59.719Z",
+          "uri": "at://did:plc:o6s7imgqjxtqw7swz6s6672g/app.bsky.feed.post/3meclzaynes2e",
+          "text": "Then do something. I am sick and tired of powerful US Senators, who have the power to make \"good trouble\" are just doing blah, blah, blah. Please, take action."
+        }
+      ]
+    },
+    {
       "uri": "at://did:plc:7hake53hz2iumil2uhi6kk4m/app.bsky.feed.post/3mebs62i55w2d",
       "text": "They\u2019re saying the quiet part out loud now.\n\nThey want to send militarized ICE agents to the polls to intimidate voters and interfere in the midterm elections.",
       "createdAt": "2026-02-07T16:02:23.185Z",
-      "totalReplyCount": 10,
-      "capturedReplyCount": 10,
+      "totalReplyCount": 12,
+      "capturedReplyCount": 12,
       "replies": [
         {
           "handle": "bpsams83.bsky.social",
@@ -39,6 +88,14 @@
           "text": "Why can't we bring Guns as well?"
         },
         {
+          "handle": "tsunami65.bsky.social",
+          "displayName": "God-Emperor Tsunami \ud83d\udc99 #FBPE #BLM #GTTO",
+          "did": "did:plc:oh3mdkllg3pos46an5vvwsju",
+          "createdAt": "2026-02-07T22:58:34.814Z",
+          "uri": "at://did:plc:oh3mdkllg3pos46an5vvwsju/app.bsky.feed.post/3mecjgb43lk27",
+          "text": "This shouldn't be surprising, Trump knows he has no chance in an unrigged election."
+        },
+        {
           "handle": "cath215.bsky.social",
           "displayName": "cath215.bsky.social",
           "did": "did:plc:mcvvj7od5uvdnlk3sxip3y2a",
@@ -61,6 +118,14 @@
           "createdAt": "2026-02-07T16:25:44.446Z",
           "uri": "at://did:plc:itooo5oj5hr255oyvszbboh7/app.bsky.feed.post/3mebthsnk3k2w",
           "text": "im already prepping sir for this-all the gop seats one was a fair election. those dems seats-those where stolen! we call on johnson and thune to refuse to swore in the theiving dems and only support our honestly won gop!"
+        },
+        {
+          "handle": "renee626.bsky.social",
+          "displayName": "73yrs Young",
+          "did": "did:plc:gurzpdelywysocnxu6ecdxmo",
+          "createdAt": "2026-02-07T22:24:51.148Z",
+          "uri": "at://did:plc:gurzpdelywysocnxu6ecdxmo/app.bsky.feed.post/3mechjx6pb22q",
+          "text": "Our military commanders ARE #COWARDS & #PUPPETS of a #Cruel, #Racist & #Crazy \n\ud83e\udd25pOTUS!!!\ud83d\ude24\ud83d\ude21\ud83d\ude20\ud83e\udd2c  \n\nAll the #GOOD & #HONEST Commanders #TRULY did retire!!!\ud83d\ude22\ud83d\ude22\ud83d\ude22\n\nThe US Constitution seems not to matter to them or Republicans anymore or else they would have STOPPED pOTUS a long time ago!\ud83d\ude24\ud83d\ude21\ud83d\ude20\ud83e\udd2c"
         },
         {
           "handle": "srem.bsky.social",
@@ -1160,135 +1225,6 @@
           "createdAt": "2026-02-01T16:14:03.278Z",
           "uri": "at://did:plc:2unqblcu72ooiaocjncycd24/app.bsky.feed.post/3mdspzf73pk2q",
           "text": "Faith is one thing, but Elsevier is planning on stopping their physically PRINTED offerings of health-science textbooks in ~2yrs, so science will be  easier to revise (same for Literature and History, I'm sure)."
-        }
-      ]
-    },
-    {
-      "uri": "at://did:plc:7hake53hz2iumil2uhi6kk4m/app.bsky.feed.post/3mdqrt4jllc2a",
-      "text": "ICE has more funding than all the other federal law enforcement agencies combined.\n\nThey're not going to stop at Minneapolis.\n\nThey're going to continue unleashing evil and cruelty on the streets of American cities until Congress puts a stop to this.",
-      "createdAt": "2026-01-31T21:41:00.679Z",
-      "totalReplyCount": 15,
-      "capturedReplyCount": 15,
-      "replies": [
-        {
-          "handle": "jackhabit.bsky.social",
-          "displayName": "",
-          "did": "did:plc:yemuzn44agbsemtmxt5unn2n",
-          "createdAt": "2026-01-31T21:44:31.312Z",
-          "uri": "at://did:plc:yemuzn44agbsemtmxt5unn2n/app.bsky.feed.post/3mdqrzf7v6s2j",
-          "text": "Of course they won't go to Miami or Houston, which have the worst illegal immigration problems in the country, because their criminal Governors are his buddies."
-        },
-        {
-          "handle": "h-lr.bsky.social",
-          "displayName": "midwestister",
-          "did": "did:plc:xai542jonj5scbkbhpetezjr",
-          "createdAt": "2026-01-31T21:54:44.432Z",
-          "uri": "at://did:plc:xai542jonj5scbkbhpetezjr/app.bsky.feed.post/3mdqslnwu622j",
-          "text": "Say the words; Abolish ICE and DHS. bsky.app/profile/iwil..."
-        },
-        {
-          "handle": "hamhar4951.bsky.social",
-          "displayName": "",
-          "did": "did:plc:pfskwry2haplvgraffbgqdme",
-          "createdAt": "2026-01-31T21:57:30.578Z",
-          "uri": "at://did:plc:pfskwry2haplvgraffbgqdme/app.bsky.feed.post/3mdqsqmfa4k2p",
-          "text": "As the Democratic delegation prepares to snatch defeat from the jaws of victory again, I am reminded. Power concedes nothing without a demand. House and Senate Republicans understand this. Schumer does not. It\u2019s time to make good trouble. BIG GOOD TROUBLE or ... we can get ICE to stop wearing masks!"
-        },
-        {
-          "handle": "rlburke.bsky.social",
-          "displayName": "",
-          "did": "did:plc:orw746itt46y23w6ewdu66x5",
-          "createdAt": "2026-02-01T14:58:46.966Z",
-          "uri": "at://did:plc:orw746itt46y23w6ewdu66x5/app.bsky.feed.post/3mdslss4dns2p",
-          "text": "And we can't expect ICE to hire cruel people and then \"train it out of them.\" At the very, very least, ICE should not be allowed to carry weapons. That would immediately disincentivize the type of people you don't want from applying for these jobs. That's just simple human resources management."
-        },
-        {
-          "handle": "whytetara.bsky.social",
-          "displayName": "Mother Of Sentient Beings\ud83d\udd4a\ufe0f",
-          "did": "did:plc:mrqmvm2mvqxcksd5zwcno7e6",
-          "createdAt": "2026-01-31T22:16:17.211Z",
-          "uri": "at://did:plc:mrqmvm2mvqxcksd5zwcno7e6/app.bsky.feed.post/3mdqts6tdns2j",
-          "text": "Not to mention"
-        },
-        {
-          "handle": "whytetara.bsky.social",
-          "displayName": "Mother Of Sentient Beings\ud83d\udd4a\ufe0f",
-          "did": "did:plc:mrqmvm2mvqxcksd5zwcno7e6",
-          "createdAt": "2026-01-31T22:07:57.566Z",
-          "uri": "at://did:plc:mrqmvm2mvqxcksd5zwcno7e6/app.bsky.feed.post/3mdqtdcdf3k2j",
-          "text": "bsky.app/profile/whyt..."
-        },
-        {
-          "handle": "whytetara.bsky.social",
-          "displayName": "Mother Of Sentient Beings\ud83d\udd4a\ufe0f",
-          "did": "did:plc:mrqmvm2mvqxcksd5zwcno7e6",
-          "createdAt": "2026-01-31T22:05:51.085Z",
-          "uri": "at://did:plc:mrqmvm2mvqxcksd5zwcno7e6/app.bsky.feed.post/3mdqt7jpjhk2j",
-          "text": "I would add \u201cadministration\u201d"
-        },
-        {
-          "handle": "kg8431.bsky.social",
-          "displayName": "",
-          "did": "did:plc:l3ig74um4vn6is5n54o7avoa",
-          "createdAt": "2026-02-04T14:01:08.898Z",
-          "uri": "at://did:plc:l3ig74um4vn6is5n54o7avoa/app.bsky.feed.post/3mdzzyimlak24",
-          "text": "Senator Warnock ALL STATES THAT TURN OVER CRIMINAL ILLEGALS TO ICE HAVE NO VIOLENT PROTESTERS?? YOU GOVT OFFICIALS INCITE VIOLENCE AGAINST ICE FOR POLITICAL REASONS-FOR VOTES-U think it will get u re elected BUT IT WONT-Your actions cause INNOCENTS  on BOTH Sides to be hurt"
-        },
-        {
-          "handle": "michellemm-1.bsky.social",
-          "displayName": "Michellemm",
-          "did": "did:plc:eiyxxldz3y33yardfx4bbpgn",
-          "createdAt": "2026-01-31T21:47:48.762Z",
-          "uri": "at://did:plc:eiyxxldz3y33yardfx4bbpgn/app.bsky.feed.post/3mdqs7bjmgk2k",
-          "text": "They get more evil every day....\nWhere does Trump find them?\nHave they been living among us?"
-        },
-        {
-          "handle": "girian-1girl.bsky.social",
-          "displayName": "Girian-1Girl",
-          "did": "did:plc:ds34wmk27usftv5g6ysxbe4t",
-          "createdAt": "2026-01-31T22:03:08.747Z",
-          "uri": "at://did:plc:ds34wmk27usftv5g6ysxbe4t/app.bsky.feed.post/3mdqt2ovcck2n",
-          "text": "This entity - ICE - is a danger to this country and should be removed immediately!  They lie and say they are after criminals, but they are the criminals.  Get them out now!  Not a dime for these criminals!"
-        },
-        {
-          "handle": "pcccar.bsky.social",
-          "displayName": "Maybe She's Born With It, Maybe It's Clinical Depression",
-          "did": "did:plc:bayh7apc4yrob5ct2dguiyrp",
-          "createdAt": "2026-01-31T23:14:43.585Z",
-          "uri": "at://did:plc:bayh7apc4yrob5ct2dguiyrp/app.bsky.feed.post/3mdqx2ormtc2m",
-          "text": "What are you gonna do on Monday? Are you gonna screw it up like the shutdown & ACA\u2753\ufe0f  You need to open YOUR minds & understand anything that you think you're going to get with the  \ud83d\udc18will not be honored by the \ud83d\udc18.  You fell for it in march & during the last shutdown. STOP SUPPORTING A PEDOPHILE REGIME."
-        },
-        {
-          "handle": "itsonusnow.bsky.social",
-          "displayName": "Sinister Minnesotan",
-          "did": "did:plc:6r2rgz22rul4k3vkqhnrda25",
-          "createdAt": "2026-01-31T21:59:58.775Z",
-          "uri": "at://did:plc:6r2rgz22rul4k3vkqhnrda25/app.bsky.feed.post/3mdqsuzpsrk2y",
-          "text": "How did it even come to that, Senator? How was that much funding approved in the first place?? We all knew what their plan was so every Congressperson who voted for that shit has blood on their hands."
-        },
-        {
-          "handle": "wangosha.bsky.social",
-          "displayName": "We The People",
-          "did": "did:plc:6oup5625mw5bbcp3edgub4na",
-          "createdAt": "2026-01-31T22:24:03.021Z",
-          "uri": "at://did:plc:6oup5625mw5bbcp3edgub4na/app.bsky.feed.post/3mdqua32y2c2h",
-          "text": ""
-        },
-        {
-          "handle": "follyanswers.bsky.social",
-          "displayName": "follyanswers.bsky.social",
-          "did": "did:plc:6bu5f6u7gincc3fqixbtuwjg",
-          "createdAt": "2026-02-01T18:26:34.485Z",
-          "uri": "at://did:plc:6bu5f6u7gincc3fqixbtuwjg/app.bsky.feed.post/3mdsxge2qas2p",
-          "text": "Senator, as your constituent, we will have your back as you vote to rescind ICE funding and abolish ICE.  Please seize the momentum and remind the executive that Congress is a co-equal branch of government.(Many people of my parents\u2019 age, in this historically red county, are with you!)"
-        },
-        {
-          "handle": "hijinx711.bsky.social",
-          "displayName": "",
-          "did": "did:plc:4iksu7tvsxatwtggdvv6ss7r",
-          "createdAt": "2026-02-01T15:07:47.284Z",
-          "uri": "at://did:plc:4iksu7tvsxatwtggdvv6ss7r/app.bsky.feed.post/3mdsmcvfhys2i",
-          "text": "That would be you Senator. You are Congress!"
         }
       ]
     }

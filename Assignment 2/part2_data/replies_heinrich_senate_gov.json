@@ -52,8 +52,8 @@
       "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3me7jvv3sbz22",
       "text": "It seems like every day the President finds a new way to embarrass himself and the nation. I hope my colleagues can summon the decency to condemn him.",
       "createdAt": "2026-02-06T18:29:19.842Z",
-      "totalReplyCount": 11,
-      "capturedReplyCount": 11,
+      "totalReplyCount": 12,
+      "capturedReplyCount": 12,
       "replies": [
         {
           "handle": "patriapatriot.bsky.social",
@@ -70,6 +70,14 @@
           "createdAt": "2026-02-07T04:04:03.199Z",
           "uri": "at://did:plc:ufnxhaaksuh2kitxnpvlgha6/app.bsky.feed.post/3meajzkxa3k2a",
           "text": "And when/how will you condemn him?......................."
+        },
+        {
+          "handle": "thelazyanole.bsky.social",
+          "displayName": "Lazy Anole",
+          "did": "did:plc:qp4ecc57fffmlokjefgg7o7t",
+          "createdAt": "2026-02-07T21:51:36.216Z",
+          "uri": "at://did:plc:qp4ecc57fffmlokjefgg7o7t/app.bsky.feed.post/3mecfoio7i22h",
+          "text": "It\u2019s impossible to embarrass someone who has no shame."
         },
         {
           "handle": "thomsawyerstudio.bsky.social",

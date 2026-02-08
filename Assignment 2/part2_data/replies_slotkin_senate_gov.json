@@ -8,6 +8,81 @@
   },
   "posts": [
     {
+      "uri": "at://did:plc:5vake3jq6c27ytc52m5rpwv5/app.bsky.feed.post/3mecnug6v7a2v",
+      "text": "We may not have made the Super Bowl this year, but just as General Washington crossed the Delaware to rout the Red Coats and ultimately win independence, the Lions are going to win it all next year!",
+      "createdAt": "2026-02-08T00:18:04.847Z",
+      "totalReplyCount": 1,
+      "capturedReplyCount": 1,
+      "replies": [
+        {
+          "handle": "shuadc.bsky.social",
+          "displayName": "Don Incognito",
+          "did": "did:plc:ntvpcekg4nwg75ir6c3fqlpr",
+          "createdAt": "2026-02-08T00:19:56.529Z",
+          "uri": "at://did:plc:ntvpcekg4nwg75ir6c3fqlpr/app.bsky.feed.post/3mecnxqo6g227",
+          "text": "Are they crossing to play for the Grey Cup?"
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:5vake3jq6c27ytc52m5rpwv5/app.bsky.feed.post/3mecnug3qej2y",
+      "text": "We may not have made the Super Bowl this year, but just as General Washington crossed the Delaware to rout the Red Coats and ultimately win independence, the Lions are going to win it all next year!",
+      "createdAt": "2026-02-08T00:18:04.759Z",
+      "totalReplyCount": 1,
+      "capturedReplyCount": 1,
+      "replies": [
+        {
+          "handle": "slotkin.senate.gov",
+          "displayName": "Senator Elissa Slotkin",
+          "did": "did:plc:5vake3jq6c27ytc52m5rpwv5",
+          "createdAt": "2026-02-08T00:18:04.847Z",
+          "uri": "at://did:plc:5vake3jq6c27ytc52m5rpwv5/app.bsky.feed.post/3mecnug6v7a2v",
+          "text": "We may not have made the Super Bowl this year, but just as General Washington crossed the Delaware to rout the Red Coats and ultimately win independence, the Lions are going to win it all next year!"
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:5vake3jq6c27ytc52m5rpwv5/app.bsky.feed.post/3mecnufiknk23",
+      "text": "If you come and visit my office in DC, chances are you\u2019ll be in one of two conference rooms, named for two things that ALL Michiganders can agree on: our love for our Great Lakes, and our love for our teams. So it\u2019s only fitting that our newest piece of art is sports-themed.",
+      "createdAt": "2026-02-08T00:18:04.130Z",
+      "totalReplyCount": 4,
+      "capturedReplyCount": 4,
+      "replies": [
+        {
+          "handle": "h-lr.bsky.social",
+          "displayName": "midwestister",
+          "did": "did:plc:xai542jonj5scbkbhpetezjr",
+          "createdAt": "2026-02-08T00:20:22.225Z",
+          "uri": "at://did:plc:xai542jonj5scbkbhpetezjr/app.bsky.feed.post/3mecnyj6f5c2g",
+          "text": "I can't express to you how deep my rage is at every D who gaslights Americans about 'reining' in DHS. You 100% understand that unless DHS & ICE are abolished we will be cementing fascism in the US. Therefore, the logical conclusion is you're doing the evil work for billionaires. UR Maga of the left."
+        },
+        {
+          "handle": "off-dutch.bsky.social",
+          "displayName": "Off_Dutch",
+          "did": "did:plc:gthm4nhmdsoc5kbthctzdpso",
+          "createdAt": "2026-02-08T00:18:27.896Z",
+          "uri": "at://did:plc:gthm4nhmdsoc5kbthctzdpso/app.bsky.feed.post/3mecnv45dq22b",
+          "text": "I love Chopin            my vid of today              bsky.app/profile/off-..."
+        },
+        {
+          "handle": "snarkfarm.bsky.social",
+          "displayName": "SnarkFarm \ud83d\ude9c\ud83d\udca8",
+          "did": "did:plc:edxcsauhw4prkf5tixukk7yq",
+          "createdAt": "2026-02-08T00:22:48.035Z",
+          "uri": "at://did:plc:edxcsauhw4prkf5tixukk7yq/app.bsky.feed.post/3meco4ua7oc2u",
+          "text": "I like the cut of your jib, Senator."
+        },
+        {
+          "handle": "slotkin.senate.gov",
+          "displayName": "Senator Elissa Slotkin",
+          "did": "did:plc:5vake3jq6c27ytc52m5rpwv5",
+          "createdAt": "2026-02-08T00:18:04.759Z",
+          "uri": "at://did:plc:5vake3jq6c27ytc52m5rpwv5/app.bsky.feed.post/3mecnug3qej2y",
+          "text": "We may not have made the Super Bowl this year, but just as General Washington crossed the Delaware to rout the Red Coats and ultimately win independence, the Lions are going to win it all next year!"
+        }
+      ]
+    },
+    {
       "uri": "at://did:plc:5vake3jq6c27ytc52m5rpwv5/app.bsky.feed.post/3me7qqawg6q2r",
       "text": "Intimidation is the point, and it is not going to work on me.",
       "createdAt": "2026-02-06T20:31:27.119Z",
@@ -530,8 +605,8 @@
       "uri": "at://did:plc:s5b3x4exyludm73jcgvupe7q/app.bsky.feed.post/3me5nvnh77c2g",
       "text": "Sen. Elissa Slotkin is refusing to voluntarily comply with the\u00a0Justice Department investigation\u00a0into that video she organized urging U.S. military members to resist illegal orders.\n\nSlotkin's legal team is requesting Jeanine Pirro preserve all relevant documents for \"anticipated litigation.\"",
       "createdAt": "2026-02-06T00:35:27.350Z",
-      "totalReplyCount": 70,
-      "capturedReplyCount": 70,
+      "totalReplyCount": 71,
+      "capturedReplyCount": 71,
       "replies": [
         {
           "handle": "jaygeo24.bsky.social",
@@ -660,6 +735,14 @@
           "createdAt": "2026-02-06T00:45:35.713Z",
           "uri": "at://did:plc:rqgqzcztqpe52etaokcjvmtd/app.bsky.feed.post/3me5ohrmts223",
           "text": "#BONDIRESIGN"
+        },
+        {
+          "handle": "whatsit2you.bsky.social",
+          "displayName": "",
+          "did": "did:plc:rpfmwt37cnkr62roexvrltwg",
+          "createdAt": "2026-02-07T22:35:44.960Z",
+          "uri": "at://did:plc:rpfmwt37cnkr62roexvrltwg/app.bsky.feed.post/3meci5gphk22q",
+          "text": "Only in Trump Upside-Down World is it a crime to remind people that committing a crime is, in fact, a crime."
         },
         {
           "handle": "akgrl.bsky.social",
@@ -1615,8 +1698,8 @@
       "uri": "at://did:plc:5vake3jq6c27ytc52m5rpwv5/app.bsky.feed.post/3me5hmt4mpc2n",
       "text": "If they can do this to a sitting senator, imagine what they can do to you.",
       "createdAt": "2026-02-05T22:43:08.857Z",
-      "totalReplyCount": 19,
-      "capturedReplyCount": 19,
+      "totalReplyCount": 20,
+      "capturedReplyCount": 20,
       "replies": [
         {
           "handle": "lunaticleft.bsky.social",
@@ -1705,6 +1788,14 @@
           "createdAt": "2026-02-05T23:17:29.502Z",
           "uri": "at://did:plc:kf7xsaz6t4ufdea2ix67zrwt/app.bsky.feed.post/3me5jkacmbc2z",
           "text": "Sure, that\u2019s comforting.\n\nGirl - what are YOU  - as a sitting senator doing to protect our democracy and your constituents? (Besides the sound bytes)"
+        },
+        {
+          "handle": "paulatreidesno7.bsky.social",
+          "displayName": "Paul Atreides \ud83e\udd8b",
+          "did": "did:plc:k66o2ep6oon5ekgtzscyvaye",
+          "createdAt": "2026-02-07T23:29:41.761Z",
+          "uri": "at://did:plc:k66o2ep6oon5ekgtzscyvaye/app.bsky.feed.post/3mecl5vkr222y",
+          "text": "They have no grounds to charge you with anything. They better not try. I have your six."
         },
         {
           "handle": "shelophtro.bsky.social",
@@ -2798,7 +2889,7 @@
         },
         {
           "handle": "glacierlily.bsky.social",
-          "displayName": "WethePeeps",
+          "displayName": "GlacierLil",
           "did": "did:plc:5bm7bvck7kstbxp7pwzx6yki",
           "createdAt": "2026-02-04T05:05:08.992Z",
           "uri": "at://did:plc:5bm7bvck7kstbxp7pwzx6yki/app.bsky.feed.post/3mdz422kbwc2t",

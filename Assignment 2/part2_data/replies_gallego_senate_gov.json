@@ -8,6 +8,79 @@
   },
   "posts": [
     {
+      "uri": "at://did:plc:vt3xvbw22imzxfegz45wq7y5/app.bsky.feed.post/3mecejcryys2n",
+      "text": "Talk doesn\u2019t lower prices. Savings don\u2019t happen by accident.\n\nThey happen when we fight and win.",
+      "createdAt": "2026-02-07T21:30:48.535Z",
+      "totalReplyCount": 8,
+      "capturedReplyCount": 8,
+      "replies": [
+        {
+          "handle": "savagesenate.bsky.social",
+          "displayName": "",
+          "did": "did:plc:xs74cmc7oe4z526mthlhi5nb",
+          "createdAt": "2026-02-07T23:39:44.862Z",
+          "uri": "at://did:plc:xs74cmc7oe4z526mthlhi5nb/app.bsky.feed.post/3meclpupwuc26",
+          "text": "You\u2019re right. Show me what you got so far. \n\nIt\u2019s about time you folks start brainstorming with the constituents; we are far past trusting representatives to make something that works for We The People.  \u2026especially if it doesn\u2019t first benefit the corporations.\n\n(Too much Tell, not enough Show.)"
+        },
+        {
+          "handle": "h-lr.bsky.social",
+          "displayName": "midwestister",
+          "did": "did:plc:xai542jonj5scbkbhpetezjr",
+          "createdAt": "2026-02-07T21:58:01.592Z",
+          "uri": "at://did:plc:xai542jonj5scbkbhpetezjr/app.bsky.feed.post/3mecfzy6was2g",
+          "text": "bsky.app/profile/waja..."
+        },
+        {
+          "handle": "yecats47.bsky.social",
+          "displayName": "Stacey\ud83d\udc99 \ud83c\udf0a \ud83e\udeb7",
+          "did": "did:plc:vg7p6m5lgtzmq4ibzix6q56g",
+          "createdAt": "2026-02-07T21:39:22.026Z",
+          "uri": "at://did:plc:vg7p6m5lgtzmq4ibzix6q56g/app.bsky.feed.post/3meceymijzs2u",
+          "text": "History has an eye on you\u2026 thank you @gallego.senate.gov !  Keep up the fight!"
+        },
+        {
+          "handle": "liberalazbirder.bsky.social",
+          "displayName": "Arizona Birder",
+          "did": "did:plc:uj6mirkyuzmgfumry6ptx2vs",
+          "createdAt": "2026-02-07T21:36:30.431Z",
+          "uri": "at://did:plc:uj6mirkyuzmgfumry6ptx2vs/app.bsky.feed.post/3mecetiu4m227",
+          "text": "I'm up for the fight."
+        },
+        {
+          "handle": "calleycat.bsky.social",
+          "displayName": "CalleyCat",
+          "did": "did:plc:nqxuyac2y5xpjql3zlpstbho",
+          "createdAt": "2026-02-07T23:22:36.544Z",
+          "uri": "at://did:plc:nqxuyac2y5xpjql3zlpstbho/app.bsky.feed.post/3meckra27zc2r",
+          "text": "Re: your call to shut down the economy and lose the market. As a woman (lower pay, always) I'm still working at 74. I need to retire. I would like to the mo. of my 75th birthday. I'll have just enough each year. I have never voted for a Republican, never committed a crime. Why is my life expendable?"
+        },
+        {
+          "handle": "millennialmusings.bsky.social",
+          "displayName": "Dave",
+          "did": "did:plc:na5hwbsw5kwosgongap35n7c",
+          "createdAt": "2026-02-07T21:37:13.882Z",
+          "uri": "at://did:plc:na5hwbsw5kwosgongap35n7c/app.bsky.feed.post/3meceusbthc23",
+          "text": "Talk also won\u2019t fix our constitutional crisis.\n\nMaking deals with Trump won\u2019t stop ICE.\n\nSending billions of taxpayer revenue to Israel won\u2019t stop the genocide in Gaza.\n\nDemocrats won\u2019t stop doing any of them"
+        },
+        {
+          "handle": "kd-moonchild.bsky.social",
+          "displayName": "KD MoonChild's World",
+          "did": "did:plc:aasgallyjphwt3ur4e2iqhwv",
+          "createdAt": "2026-02-07T21:35:00.988Z",
+          "uri": "at://did:plc:aasgallyjphwt3ur4e2iqhwv/app.bsky.feed.post/3meceqtkd3k2s",
+          "text": "THE WORLD IS WATCHING US!"
+        },
+        {
+          "handle": "wickedferal.bsky.social",
+          "displayName": "Feralfern",
+          "did": "did:plc:6ur3yalybbwdggsw4msct72n",
+          "createdAt": "2026-02-07T21:37:27.758Z",
+          "uri": "at://did:plc:6ur3yalybbwdggsw4msct72n/app.bsky.feed.post/3mecev7jd7k27",
+          "text": "We are waiting for your facist collaborating leader to fold like an old lawn chair on the gestapo, we are fully disgusted with the yes votes for the child rapist president's cab picks, bills and judges. Perhaps you regret voting for concentration camps. So far your words don't match action."
+        }
+      ]
+    },
+    {
       "uri": "at://did:plc:vt3xvbw22imzxfegz45wq7y5/app.bsky.feed.post/3mebu3zjqdk2n",
       "text": "If Big Pharma gets richer while families struggle, the system is broken. \n\nAnd I\u2019m done accepting it.",
       "createdAt": "2026-02-07T16:37:02.750Z",
@@ -52,8 +125,8 @@
       "uri": "at://did:plc:vt3xvbw22imzxfegz45wq7y5/app.bsky.feed.post/3me5spsc4my2f",
       "text": "All Scott Bessent does is kiss Trump's ass and screw over American taxpayers.",
       "createdAt": "2026-02-06T02:01:39.482Z",
-      "totalReplyCount": 12,
-      "capturedReplyCount": 12,
+      "totalReplyCount": 13,
+      "capturedReplyCount": 13,
       "replies": [
         {
           "handle": "fromtheburgh.bsky.social",
@@ -94,6 +167,14 @@
           "createdAt": "2026-02-06T17:52:45.125Z",
           "uri": "at://did:plc:qdntwytjr6bpkokzynfjpe53/app.bsky.feed.post/3me7huhzah22o",
           "text": "Keep their feet to the fire! No giving in. Stick to the truth and hold the line and we're with you all the way. we demand liberty and justice for ALL"
+        },
+        {
+          "handle": "kstrand.bsky.social",
+          "displayName": "",
+          "did": "did:plc:pyiuomu252xobkpl2yv73uvv",
+          "createdAt": "2026-02-07T21:02:20.817Z",
+          "uri": "at://did:plc:pyiuomu252xobkpl2yv73uvv/app.bsky.feed.post/3meccwg6ko22i",
+          "text": "Bessant is a terrible liar. It's even more criminal when he knows he's hurting Americans and says he's not. Can't wait until he writes a check to Trump with our money. Stealing our money right in front of us. You know they HAVE TO try blocking the next election. We must be prepared."
         },
         {
           "handle": "timmcfarland.bsky.social",

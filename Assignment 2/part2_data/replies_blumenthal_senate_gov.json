@@ -8,6 +8,23 @@
   },
   "posts": [
     {
+      "uri": "at://did:plc:fvwtf55iqiihc7ct543i2p6u/app.bsky.feed.post/3mecl23pojs2q",
+      "text": "As Superbowl Sunday looms\u2014with $1.67 billion in bets expected\u2014Americans need protection against online sports betting companies & prediction markets that exploit problem gamblers. My legislation is a start.",
+      "createdAt": "2026-02-07T23:27:33.993Z",
+      "totalReplyCount": 1,
+      "capturedReplyCount": 1,
+      "replies": [
+        {
+          "handle": "bonjohnson.bsky.social",
+          "displayName": "Bonnie Johnson",
+          "did": "did:plc:d3vlzhpvk5wcgcpgaipdfisq",
+          "createdAt": "2026-02-08T00:21:34.083Z",
+          "uri": "at://did:plc:d3vlzhpvk5wcgcpgaipdfisq/app.bsky.feed.post/3meco2npcxs2j",
+          "text": "You're right, Senator. \n\nYou\u2019ve Never Seen Super Bowl Betting Like This Before\nPrediction markets are turbocharging America\u2019s obsession with sports gambling.\nwww.theatlantic.com/technology/2...\n\"Not all knowledge, in other words, is created equal.\""
+        }
+      ]
+    },
+    {
       "uri": "at://did:plc:fvwtf55iqiihc7ct543i2p6u/app.bsky.feed.post/3mebpxjodzs2q",
       "text": "Profligate Big Tech must bear the societal costs of its skyrocketing AI spending\u2014rising costs of electricity, water, construction, & much more. Companies not consumers should pay. Bipartisan legislation must impose accountability. I\u2019m working on it.",
       "createdAt": "2026-02-07T15:22:56.937Z",

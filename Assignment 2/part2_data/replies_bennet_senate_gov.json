@@ -11,8 +11,8 @@
       "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mebs534qf22d",
       "text": "With the Olympics underway, I am looking forward to cheering on Team USA, and I applaud these athletes' commitment to excellence, team spirit, and fair competition.",
       "createdAt": "2026-02-07T16:01:50.485Z",
-      "totalReplyCount": 1,
-      "capturedReplyCount": 1,
+      "totalReplyCount": 2,
+      "capturedReplyCount": 2,
       "replies": [
         {
           "handle": "bennet.senate.gov",
@@ -21,6 +21,14 @@
           "createdAt": "2026-02-07T16:02:30.727Z",
           "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mebs6bine22d",
           "text": "Colorado is not only home to the U.S. Olympic and Paralympic Committee, but at the 2026 Milan Cortina Winter Olympics, we also have the largest delegation of athletes representing America.\n\nLet\u2019s bring home the gold!"
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "did": "did:plc:5lcbbyf5z3k4zmawznkwtihp",
+          "createdAt": "2026-02-07T21:46:35.106Z",
+          "uri": "at://did:plc:5lcbbyf5z3k4zmawznkwtihp/app.bsky.feed.post/3mecffjj7ms2p",
+          "text": "At least if you\u2019re busy watching the Olympics \n\nYou\u2019re not rubber stamping Trump. \n\nAgain."
         }
       ]
     },
