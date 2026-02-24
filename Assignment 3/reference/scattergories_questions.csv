@@ -1,0 +1,65 @@
+question_id,letter,category
+Q001,A,Animals
+Q002,A,Jobs
+Q003,B,Fruits
+Q004,B,Things that are red
+Q005,C,Countries
+Q006,C,Board games
+Q007,D,Musical instruments
+Q008,D,Things in a bathroom
+Q009,E,Sports
+Q010,E,Movie titles
+Q011,F,Fish
+Q012,F,Things in a backpack
+Q013,G,U.S. states
+Q014,G,Foods
+Q015,H,Famous scientists
+Q016,H,Things at the beach
+Q017,I,Cities
+Q018,I,Things in a classroom
+Q019,J,Car brands
+Q020,J,Video game titles
+Q021,K,Superheroes
+Q022,K,Things in a grocery store
+Q023,L,Dog breeds
+Q024,L,Books
+Q025,M,Languages
+Q026,M,Clothing items
+Q027,N,Birds
+Q028,N,Things in a hospital
+Q029,O,Companies
+Q030,O,Things in the sky
+Q031,P,Vegetables
+Q032,P,Historical figures
+Q033,Q,Words in English
+Q034,Q,Fictional characters
+Q035,R,Songs
+Q036,R,Tools
+Q037,S,Animals
+Q038,S,Things in an office
+Q039,T,Countries
+Q040,T,TV shows
+Q041,U,U.S. colleges
+Q042,U,Things in a garage
+Q043,V,Jobs
+Q044,V,Things you wear
+Q045,W,Cities
+Q046,W,Things in a park
+Q047,X,Brands
+Q048,X,Words in English
+Q049,Y,Foods
+Q050,Y,Things at a party
+Q051,Z,Animals
+Q052,Z,Things in a zoo
+Q053,A,Things in a kitchen
+Q054,B,Singers
+Q055,C,Desserts
+Q056,D,Plants
+Q057,E,Companies
+Q058,F,Movie characters
+Q059,G,Things in a toolbox
+Q060,H,Countries
+Q061,I,Musical artists
+Q062,J,Things in a refrigerator
+Q063,K,Cities
+Q064,L,Things in a library
