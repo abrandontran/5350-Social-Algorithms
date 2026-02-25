@@ -14,10 +14,9 @@ TEMPERATURES = [0.1, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0]
 MAX_CONCURRENT = 15
 
 PROMPT = (
-    "We are playing a game of Scattergories. "
-    "The category is 'Fruits' and the letter is 'B'. "
     "What is a fruit that starts with the letter 'B'? "
     "Output only the lowercase word: no puncuation, no explanation. "
+    "Do not say blueberry. "
     "For example, 'banana'"
 )
 
