@@ -1,0 +1,7310 @@
+temperature,raw,answer,iteration
+0.1,"import random
+
+def get_day():",import,1
+0.1,"import random
+
+def get_day():",import,2
+0.1,"import random
+
+def get_day():",import,3
+0.1,"import random
+
+def get_day():",import,4
+0.1,"import random
+
+def get_day():",import,5
+0.1,"import random
+
+def get_day():",import,6
+0.1,"import random
+
+def get_day():",import,7
+0.1,"import random
+
+def get_day():",import,8
+0.1,"import random
+
+def get_day():",import,9
+0.1,"import random
+
+def get_day():",import,10
+0.1,"import random
+
+def get_day():",import,11
+0.1,"import random
+
+def get_day():",import,12
+0.1,"import random
+
+def get_day():",import,13
+0.1,"import random
+
+def get_day():",import,14
+0.1,"import random
+
+def get_day():",import,15
+0.1,"import random
+
+def get_day():",import,16
+0.1,"import random
+
+def get_day():",import,17
+0.1,"import random
+
+def get_day():",import,18
+0.1,"import random
+
+def get_day():",import,19
+0.1,"import random
+
+def get_day():",import,20
+0.1,"import random
+
+def get_day():",import,21
+0.1,"import random
+
+def get_day():",import,22
+0.1,"import random
+
+def get_day():",import,23
+0.1,"import random
+
+def get_day():",import,24
+0.1,"import random
+
+def get_day():",import,25
+0.1,"import random
+
+def get_day():",import,26
+0.1,"import random
+
+def get_day():",import,27
+0.1,"import random
+
+def get_day():",import,28
+0.1,"import random
+
+def get_day():",import,29
+0.1,"import random
+
+def get_day():",import,30
+0.1,"import random
+
+def get_day():",import,31
+0.1,"import random
+
+def get_day():",import,32
+0.1,"import random
+
+def get_day():",import,33
+0.1,"import random
+
+def get_day():",import,34
+0.1,"import random
+
+def get_day():",import,35
+0.1,"import random
+
+def get_day():",import,36
+0.1,"import random
+
+def get_day():",import,37
+0.1,"import random
+
+def get_day():",import,38
+0.1,"import random
+
+def get_day():",import,39
+0.1,"import random
+
+def get_day():",import,40
+0.1,"import random
+
+def get_day():",import,41
+0.1,"import random
+
+def get_day():",import,42
+0.1,"import random
+
+def get_day():",import,43
+0.1,"import random
+
+def get_day():",import,44
+0.1,"import random
+
+def get_day():",import,45
+0.1,"import random
+
+def get_day():",import,46
+0.1,"import random
+
+def get_day():",import,47
+0.1,"import random
+
+def get_day():",import,48
+0.1,"import random
+
+def get_day():",import,49
+0.1,"import random
+
+def get_day():",import,50
+0.1,"import random
+
+def get_day():",import,51
+0.1,"import random
+
+def get_day():",import,52
+0.1,"import random
+
+def get_day():",import,53
+0.1,"import random
+
+def get_day():",import,54
+0.1,"import random
+
+def get_day():",import,55
+0.1,"import random
+
+def get_day():",import,56
+0.1,"import random
+
+def get_day():",import,57
+0.1,"import random
+
+def get_day():",import,58
+0.1,"import random
+
+def get_day():",import,59
+0.1,"import random
+
+def get_day():",import,60
+0.1,"import random
+
+def get_day():",import,61
+0.1,"import random
+
+def get_day():",import,62
+0.1,"import random
+
+def get_day():",import,63
+0.1,"import random
+
+def get_day():",import,64
+0.1,"import random
+
+def get_day():",import,65
+0.1,"import random
+
+def get_day():",import,66
+0.1,"import random
+
+def get_day():",import,67
+0.1,"import random
+
+def get_day():",import,68
+0.1,"import random
+
+def get_day():",import,69
+0.1,"import random
+
+def get_day():",import,70
+0.1,"import random
+
+def get_day():",import,71
+0.1,"import random
+
+def get_day():",import,72
+0.1,"import random
+
+def get_day():",import,73
+0.1,"import random
+
+def get_day():",import,74
+0.1,"import random
+
+def get_day():",import,75
+0.1,"import random
+
+def get_day():",import,76
+0.1,"import random
+
+def get_day():",import,77
+0.1,"import random
+
+def get_day():",import,78
+0.1,"import random
+
+def get_day():",import,79
+0.1,"import random
+
+def get_day():",import,80
+0.1,"import random
+
+def get_day():",import,81
+0.1,"import random
+
+def get_day():",import,82
+0.1,"import random
+
+def get_day():",import,83
+0.1,"import random
+
+def get_day():",import,84
+0.1,"import random
+
+def get_day():",import,85
+0.1,"import random
+
+def get_day():",import,86
+0.1,"import random
+
+def get_day():",import,87
+0.1,"import random
+
+def get_day():",import,88
+0.1,"import random
+
+def get_day():",import,89
+0.1,"import random
+
+def get_day():",import,90
+0.1,"import random
+
+def get_day():",import,91
+0.1,"import random
+
+def get_day():",import,92
+0.1,"import random
+
+def get_day():",import,93
+0.1,"import random
+
+def get_day():",import,94
+0.1,"import random
+
+def get_day():",import,95
+0.1,"import random
+
+def get_day():",import,96
+0.1,"import random
+
+def get_day():",import,97
+0.1,"import random
+
+def get_day():",import,98
+0.1,"import random
+
+def get_day():",import,99
+0.1,"import random
+
+def get_day():",import,100
+0.1,"import random
+
+def get_day():",import,101
+0.1,"import random
+
+def get_day():",import,102
+0.1,"import random
+
+def get_day():",import,103
+0.1,"import random
+
+def get_day():",import,104
+0.1,"import random
+
+def get_day():",import,105
+0.1,"import random
+
+def get_day():",import,106
+0.1,"import random
+
+def get_day():",import,107
+0.1,"import random
+
+def get_day():",import,108
+0.1,"import random
+
+def get_day():",import,109
+0.1,"import random
+
+def get_day():",import,110
+0.1,"import random
+
+def get_day():",import,111
+0.1,"import random
+
+def get_day():",import,112
+0.1,"import random
+
+def get_day():",import,113
+0.1,"import random
+
+def get_day():",import,114
+0.1,"import random
+
+def get_day():",import,115
+0.1,"import random
+
+def get_day():",import,116
+0.1,"import random
+
+def get_day():",import,117
+0.1,"import random
+
+def get_day():",import,118
+0.1,"import random
+
+def get_day():",import,119
+0.1,"import random
+
+def get_day():",import,120
+0.1,"import random
+
+def get_day():",import,121
+0.1,"import random
+
+def get_day():",import,122
+0.1,"import random
+
+def get_day():",import,123
+0.1,"import random
+
+def get_day():",import,124
+0.1,"import random
+
+def get_day():",import,125
+0.1,"import random
+
+def get_day():",import,126
+0.1,"import random
+
+def get_day():",import,127
+0.1,"import random
+
+def get_day():",import,128
+0.1,"import random
+
+def get_day():",import,129
+0.1,"import random
+
+def get_day():",import,130
+0.1,"import random
+
+def get_day():",import,131
+0.1,"import random
+
+def get_day():",import,132
+0.1,"import random
+
+def get_day():",import,133
+0.1,"import random
+
+def get_day():",import,134
+0.1,"import random
+
+def get_day():",import,135
+0.1,"import random
+
+def get_day():",import,136
+0.1,"import random
+
+def get_day():",import,137
+0.1,"import random
+
+def get_day():",import,138
+0.1,"import random
+
+def get_day():",import,139
+0.1,"import random
+
+def get_day():",import,140
+0.1,"import random
+
+def get_day():",import,141
+0.1,"import random
+
+def get_day():",import,142
+0.1,"import random
+
+def get_day():",import,143
+0.1,"import random
+
+def get_day():",import,144
+0.1,"import random
+
+def get_day():",import,145
+0.1,"import random
+
+def get_day():",import,146
+0.1,"import datetime
+
+def get_day_of_week",import,147
+0.1,"import random
+
+def get_day():",import,148
+0.1,"import random
+
+def get_day():",import,149
+0.1,"import random
+
+def get_day():",import,150
+0.1,"import random
+
+def get_day():",import,151
+0.1,"import random
+
+def get_day():",import,152
+0.1,"import random
+
+def get_day():",import,153
+0.1,"import random
+
+def get_day():",import,154
+0.1,"import random
+
+def get_day():",import,155
+0.1,"import random
+
+def get_day():",import,156
+0.1,"import random
+
+def get_day():",import,157
+0.1,"import random
+
+def get_day():",import,158
+0.1,"import random
+
+def get_day():",import,159
+0.1,"import random
+
+def get_day():",import,160
+0.1,"import random
+
+def get_day():",import,161
+0.1,"import random
+
+def get_day():",import,162
+0.1,"import random
+
+def get_day():",import,163
+0.1,"import random
+
+def get_day():",import,164
+0.1,"import random
+
+def get_day():",import,165
+0.1,"import random
+
+def get_day():",import,166
+0.1,"import random
+
+def get_day():",import,167
+0.1,"import random
+
+def get_day():",import,168
+0.1,"import random
+
+def get_day():",import,169
+0.1,"import random
+
+def get_day():",import,170
+0.1,"import random
+
+def get_day():",import,171
+0.1,"import random
+
+def get_day():",import,172
+0.1,"import random
+
+def get_day():",import,173
+0.1,"import random
+
+def get_day():",import,174
+0.1,"import random
+
+def get_day():",import,175
+0.1,"import random
+
+def get_day():",import,176
+0.1,"import random
+
+def get_day():",import,177
+0.1,"import random
+
+def get_day():",import,178
+0.1,"import random
+
+def get_day():",import,179
+0.1,"import random
+
+def get_day():",import,180
+0.1,"import random
+
+def get_day():",import,181
+0.1,"import random
+
+def get_day():",import,182
+0.1,"import random
+
+def get_day():",import,183
+0.1,"import random
+
+def get_day():",import,184
+0.1,"import random
+
+def get_day():",import,185
+0.1,"import random
+
+def get_day():",import,186
+0.1,"import random
+
+def get_day():",import,187
+0.1,"import random
+
+def get_day():",import,188
+0.1,"import random
+
+def get_day():",import,189
+0.1,"import random
+
+def get_day():",import,190
+0.1,"import random
+
+def get_day():",import,191
+0.1,"import random
+
+def get_day():",import,192
+0.1,"import random
+
+def get_day():",import,193
+0.1,"import random
+
+def get_day():",import,194
+0.1,"import random
+
+def get_day():",import,195
+0.1,"import random
+
+def get_day():",import,196
+0.1,"import random
+
+def get_day():",import,197
+0.1,"import random
+
+def get_day():",import,198
+0.1,"import random
+
+def get_day():",import,199
+0.1,"import random
+
+def get_day():",import,200
+0.1,"import random
+
+def get_day():",import,201
+0.1,"import random
+
+def get_day():",import,202
+0.1,"import random
+
+def get_day():",import,203
+0.1,"import random
+
+def get_day():",import,204
+0.1,"import random
+
+def get_day():",import,205
+0.1,"import random
+
+def get_day():",import,206
+0.1,"import random
+
+def get_day():",import,207
+0.1,"import random
+
+def get_day():",import,208
+0.1,"import random
+
+def get_day():",import,209
+0.1,"import random
+
+def get_day():",import,210
+0.1,"import random
+
+def get_day():",import,211
+0.1,"import random
+
+def get_day():",import,212
+0.1,"import random
+
+def get_day():",import,213
+0.1,"import random
+
+def get_day():",import,214
+0.1,"import random
+
+def get_day():",import,215
+0.1,"import random
+
+def get_day():",import,216
+0.1,"import random
+
+def get_day():",import,217
+0.1,"import random
+
+def get_day():",import,218
+0.1,"import random
+
+def get_day():",import,219
+0.1,"import random
+
+def get_day():",import,220
+0.1,"import random
+
+def get_day():",import,221
+0.1,"import random
+
+def get_day():",import,222
+0.1,"import random
+
+def get_day():",import,223
+0.1,"import random
+
+def get_day():",import,224
+0.1,"import random
+
+def get_day():",import,225
+0.1,"import random
+
+def get_day():",import,226
+0.1,"import random
+
+def get_day():",import,227
+0.1,"import random
+
+def get_day():",import,228
+0.1,"import random
+
+def get_day():",import,229
+0.1,"import random
+
+def get_day():",import,230
+0.1,"import random
+
+def get_day():",import,231
+0.1,"import random
+
+def get_day():",import,232
+0.1,"import random
+
+def get_day():",import,233
+0.1,"import random
+
+def get_day():",import,234
+0.1,"import random
+
+def get_day():",import,235
+0.1,"import random
+
+def get_day():",import,236
+0.1,"import random
+
+def get_day():",import,237
+0.1,"import random
+
+def get_day():",import,238
+0.1,"import random
+
+def get_day():",import,239
+0.1,"import random
+
+def get_day():",import,240
+0.1,"import random
+
+def get_day():",import,241
+0.1,"import random
+
+def get_day():",import,242
+0.1,"import random
+
+def get_day():",import,243
+0.1,"import random
+
+def get_day():",import,244
+0.1,"import random
+
+def get_day():",import,245
+0.1,"import random
+
+def get_day():",import,246
+0.1,"import random
+
+def get_day():",import,247
+0.1,"import random
+
+def get_day():",import,248
+0.1,"import random
+
+def get_day():",import,249
+0.1,"import random
+
+def get_day():",import,250
+0.1,"import random
+
+def get_day():",import,251
+0.1,"import random
+
+def get_day():",import,252
+0.1,"import random
+
+def get_day():",import,253
+0.1,"import random
+
+def get_day():",import,254
+0.1,"import random
+
+def get_day():",import,255
+0.1,"import random
+
+def get_day():",import,256
+0.1,"import random
+
+def get_day():",import,257
+0.1,"import random
+
+def get_day():",import,258
+0.1,"import random
+
+def get_day():",import,259
+0.1,"import random
+
+def get_day():",import,260
+0.1,"import random
+
+def get_day():",import,261
+0.1,"import random
+
+def get_day():",import,262
+0.1,"import random
+
+def get_day():",import,263
+0.1,"import random
+
+def get_day():",import,264
+0.1,"import random
+
+def get_day():",import,265
+0.1,"import random
+
+def get_day():",import,266
+0.1,"import random
+
+def get_day():",import,267
+0.1,"import random
+
+def get_day():",import,268
+0.1,"import random
+
+def get_day():",import,269
+0.1,"import random
+
+def get_day():",import,270
+0.1,"import random
+
+def get_day():",import,271
+0.1,"import random
+
+def get_day():",import,272
+0.1,"import random
+
+def get_day():",import,273
+0.1,"import random
+
+def get_day():",import,274
+0.1,"import random
+
+def get_day():",import,275
+0.1,"import random
+
+def get_day():",import,276
+0.1,"import random
+
+def get_day():",import,277
+0.1,"import random
+
+def get_day():",import,278
+0.1,"import random
+
+def get_day():",import,279
+0.1,"import random
+
+def get_day():",import,280
+0.1,"import random
+
+def get_day():",import,281
+0.1,"import random
+
+def get_day():",import,282
+0.1,"import random
+
+def get_day():",import,283
+0.1,"import random
+
+def get_day():",import,284
+0.1,"import random
+
+def get_day():",import,285
+0.1,"import random
+
+def get_day():",import,286
+0.1,"import random
+
+def get_day():",import,287
+0.1,"import random
+
+def get_day():",import,288
+0.1,"import random
+
+def get_day():",import,289
+0.1,"import random
+
+def get_day():",import,290
+0.1,"import random
+
+def get_day():",import,291
+0.1,"import random
+
+def get_day():",import,292
+0.1,"import random
+
+def get_day():",import,293
+0.1,"import random
+
+def get_day():",import,294
+0.1,"import random
+
+def get_day():",import,295
+0.1,"import random
+
+def get_day():",import,296
+0.1,"import random
+
+def get_day():",import,297
+0.1,"import random
+
+def get_day():",import,298
+0.1,"import random
+
+def get_day():",import,299
+0.1,"import random
+
+def get_day():",import,300
+0.1,"import random
+
+def get_day():",import,301
+0.1,"import random
+
+def get_day():",import,302
+0.1,"import random
+
+def get_day():",import,303
+0.1,"import random
+
+def get_day():",import,304
+0.1,"import random
+
+def get_day():",import,305
+0.1,"import random
+
+def get_day():",import,306
+0.1,"import random
+
+def get_day():",import,307
+0.1,"import random
+
+def get_day():",import,308
+0.1,"import random
+
+def get_day():",import,309
+0.1,"import random
+
+def get_day():",import,310
+0.1,"import random
+
+def get_day():",import,311
+0.1,"import random
+
+def get_day():",import,312
+0.1,"import random
+
+def get_day():",import,313
+0.1,"import random
+
+def get_day():",import,314
+0.1,"import random
+
+def get_day():",import,315
+0.1,"import random
+
+def get_day():",import,316
+0.1,"import random
+
+def get_day():",import,317
+0.1,"import random
+
+def get_day():",import,318
+0.1,"import random
+
+def get_day():",import,319
+0.1,"import random
+
+def get_day():",import,320
+0.1,"import random
+
+def get_day():",import,321
+0.1,"import random
+
+def get_day():",import,322
+0.1,"import random
+
+def get_day():",import,323
+0.1,"import random
+
+def get_day():",import,324
+0.1,"import random
+
+def get_day():",import,325
+0.1,"import random
+
+def get_day():",import,326
+0.1,"import random
+
+def get_day():",import,327
+0.1,"import random
+
+def get_day():",import,328
+0.1,"import random
+
+def get_day():",import,329
+0.1,"import random
+
+def get_day():",import,330
+0.1,"import random
+
+def get_day():",import,331
+0.1,"import random
+
+def get_day():",import,332
+0.1,"import random
+
+def get_day():",import,333
+0.1,"import random
+
+def get_day():",import,334
+0.1,"import random
+
+def get_day():",import,335
+0.1,"import random
+
+def get_day():",import,336
+0.1,"import random
+
+def get_day():",import,337
+0.1,"import random
+
+def get_day():",import,338
+0.1,"import random
+
+def get_day():",import,339
+0.1,"import random
+
+def get_day():",import,340
+0.1,"import random
+
+def get_day():",import,341
+0.1,"import random
+
+def get_day():",import,342
+0.1,"import random
+
+def get_day():",import,343
+0.1,"import random
+
+def get_day():",import,344
+0.1,"import random
+
+def get_day():",import,345
+0.1,"import random
+
+def get_day():",import,346
+0.1,"import random
+
+def get_day():",import,347
+0.1,"import random
+
+def get_day():",import,348
+0.1,"import random
+
+def get_day():",import,349
+0.1,"import random
+
+def get_day():",import,350
+0.1,"import random
+
+def get_day():",import,351
+0.1,"import random
+
+def get_day():",import,352
+0.1,"import random
+
+def get_day():",import,353
+0.1,"import random
+
+def get_day():",import,354
+0.1,"import random
+
+def get_day():",import,355
+0.1,"import random
+
+def get_day():",import,356
+0.1,"import random
+
+def get_day():",import,357
+0.1,"import random
+
+def get_day():",import,358
+0.1,"import random
+
+def get_day():",import,359
+0.1,"import random
+
+def get_day():",import,360
+0.1,"import random
+
+def get_day():",import,361
+0.1,"import random
+
+def get_day():",import,362
+0.1,"import random
+
+def get_day():",import,363
+0.1,"import random
+
+def get_day():",import,364
+0.1,"import random
+
+def get_day():",import,365
+0.1,"import random
+
+def get_day():",import,366
+0.1,"import random
+
+def get_day():",import,367
+0.1,"import random
+
+def get_day():",import,368
+0.1,"import random
+
+def get_day():",import,369
+0.1,"import random
+
+def get_day():",import,370
+0.1,"import random
+
+def get_day():",import,371
+0.1,"import random
+
+def get_day():",import,372
+0.1,"import random
+
+def get_day():",import,373
+0.1,"import random
+
+def get_day():",import,374
+0.1,"import random
+
+def get_day():",import,375
+0.1,"import random
+
+def get_day():",import,376
+0.1,"import random
+
+def get_day():",import,377
+0.1,"import random
+
+def get_day():",import,378
+0.1,"import random
+
+def get_day():",import,379
+0.1,"import random
+
+def get_day():",import,380
+0.1,"import random
+
+def get_day():",import,381
+0.1,"import random
+
+def get_day():",import,382
+0.1,"import random
+
+def get_day():",import,383
+0.1,"import random
+
+def get_day():",import,384
+0.1,"import random
+
+def get_day():",import,385
+0.1,"import random
+
+def get_day():",import,386
+0.1,"import random
+
+def get_day():",import,387
+0.1,"import random
+
+def get_day():",import,388
+0.1,"import random
+
+def get_day():",import,389
+0.1,"import random
+
+def get_day():",import,390
+0.1,"import random
+
+def get_day():",import,391
+0.1,"import random
+
+def get_day():",import,392
+0.1,"import random
+
+def get_day():",import,393
+0.1,"import random
+
+def get_day():",import,394
+0.1,"import random
+
+def get_day():",import,395
+0.1,"import random
+
+def get_day():",import,396
+0.1,"import random
+
+def get_day():",import,397
+0.1,"import random
+
+def get_day():",import,398
+0.1,"import random
+
+def get_day():",import,399
+0.1,"import random
+
+def get_day():",import,400
+0.1,"import random
+
+def get_day():",import,401
+0.1,"import random
+
+def get_day():",import,402
+0.1,"import random
+
+def get_day():",import,403
+0.1,"import random
+
+def get_day():",import,404
+0.1,"import random
+
+def get_day():",import,405
+0.1,"import random
+
+def get_day():",import,406
+0.1,"import random
+
+def get_day():",import,407
+0.1,"import random
+
+def get_day():",import,408
+0.1,"import random
+
+def get_day():",import,409
+0.1,"import random
+
+def get_day():",import,410
+0.1,"import random
+
+def get_day():",import,411
+0.1,"import random
+
+def get_day():",import,412
+0.1,"import random
+
+def get_day():",import,413
+0.1,"import random
+
+def get_day():",import,414
+0.1,"import random
+
+def get_day():",import,415
+0.1,"import random
+
+def get_day():",import,416
+0.1,"import random
+
+def get_day():",import,417
+0.1,"import random
+
+def get_day():",import,418
+0.1,"import random
+
+def get_day():",import,419
+0.1,"import random
+
+def get_day():",import,420
+0.1,"import random
+
+def get_day():",import,421
+0.1,"import random
+
+def get_day():",import,422
+0.1,"import random
+
+def get_day():",import,423
+0.1,"import random
+
+def get_day():",import,424
+0.1,"import random
+
+def get_day():",import,425
+0.1,"import random
+
+def get_day():",import,426
+0.1,"import random
+
+def get_day():",import,427
+0.1,"import random
+
+def get_day():",import,428
+0.1,"import random
+
+def get_day():",import,429
+0.1,"import random
+
+def get_day():",import,430
+0.1,"import random
+
+def get_day():",import,431
+0.1,"import random
+
+def get_day():",import,432
+0.1,"import random
+
+def get_day():",import,433
+0.1,"import random
+
+def get_day():",import,434
+0.1,"import random
+
+def get_day():",import,435
+0.1,"import random
+
+def get_day():",import,436
+0.1,"import random
+
+def get_day():",import,437
+0.1,"import random
+
+def get_day():",import,438
+0.1,"import random
+
+def get_day():",import,439
+0.1,"import random
+
+def get_day():",import,440
+0.1,"import random
+
+def get_day():",import,441
+0.1,"import random
+
+def get_day():",import,442
+0.1,"import random
+
+def get_day():",import,443
+0.1,"import random
+
+def get_day():",import,444
+0.1,"import random
+
+def get_day():",import,445
+0.1,"import random
+
+def get_day():",import,446
+0.1,"import random
+
+def get_day():",import,447
+0.1,"import random
+
+def get_day():",import,448
+0.1,"import random
+
+def get_day():",import,449
+0.1,"import random
+
+def get_day():",import,450
+0.1,"import random
+
+def get_day():",import,451
+0.1,"import random
+
+def get_day():",import,452
+0.1,"import random
+
+def get_day():",import,453
+0.1,"import random
+
+def get_day():",import,454
+0.1,"import random
+
+def get_day():",import,455
+0.1,"import random
+
+def get_day():",import,456
+0.1,"import random
+
+def get_day():",import,457
+0.1,"import random
+
+def get_day():",import,458
+0.1,"import random
+
+def get_day():",import,459
+0.1,"import random
+
+def get_day():",import,460
+0.1,"import random
+
+def get_day():",import,461
+0.1,"import random
+
+def get_day():",import,462
+0.1,"import random
+
+def get_day():",import,463
+0.1,"import random
+
+def get_day():",import,464
+0.1,"import random
+
+def get_day():",import,465
+0.1,"import random
+
+def get_day():",import,466
+0.1,"import random
+
+def get_day():",import,467
+0.1,"import random
+
+def get_day():",import,468
+0.1,"import random
+
+def get_day():",import,469
+0.1,"import random
+
+def get_day():",import,470
+0.1,"import random
+
+def get_day():",import,471
+0.1,"import random
+
+def get_day():",import,472
+0.1,"import random
+
+def get_day():",import,473
+0.1,"import random
+
+def get_day():",import,474
+0.1,"import random
+
+def get_day():",import,475
+0.1,"import random
+
+def get_day():",import,476
+0.1,"import random
+
+def get_day():",import,477
+0.1,"import random
+
+def get_day():",import,478
+0.1,"import random
+
+def get_day():",import,479
+0.1,"import random
+
+def get_day():",import,480
+0.1,"import random
+
+def get_day():",import,481
+0.1,"import random
+
+def get_day():",import,482
+0.1,"import random
+
+def get_day():",import,483
+0.1,"import random
+
+def get_day():",import,484
+0.1,"import random
+
+def get_day():",import,485
+0.1,"import random
+
+def get_day():",import,486
+0.1,"import random
+
+def get_day():",import,487
+0.1,"import random
+
+def get_day():",import,488
+0.1,"import random
+
+def get_day():",import,489
+0.1,"import random
+
+def get_day():",import,490
+0.1,"import random
+
+def get_day():",import,491
+0.1,"import random
+
+def get_day():",import,492
+0.1,"import random
+
+def get_day():",import,493
+0.1,"import random
+
+def get_day():",import,494
+0.1,"import random
+
+def get_day():",import,495
+0.1,"import random
+
+def get_day():",import,496
+0.1,"import random
+
+def get_day():",import,497
+0.1,"import random
+
+def get_day():",import,498
+0.1,"import random
+
+def get_day():",import,499
+0.1,"import random
+
+def get_day():",import,500
+0.5,"import random
+
+def get_day():",import,1
+0.5,"import random
+
+def get_day():",import,2
+0.5,"import random
+
+def get_day():",import,3
+0.5,"import datetime
+
+def get_day():",import,4
+0.5,"import random
+
+days = [""monday",import,5
+0.5,"import random
+
+def get_day():",import,6
+0.5,"import random
+
+def get_day():",import,7
+0.5,"import random
+
+def get_day():",import,8
+0.5,"import random
+
+def get_day_of_week",import,9
+0.5,"import datetime
+
+def get_day_of_week",import,10
+0.5,"import random
+
+def get_day():",import,11
+0.5,"import random
+
+days_of_week = [""",import,12
+0.5,"import datetime
+
+def get_day_of_week",import,13
+0.5,"import random
+
+def get_day():",import,14
+0.5,"import random
+
+def get_day():",import,15
+0.5,"import random
+
+def get_day():",import,16
+0.5,"import datetime
+
+def get_day():",import,17
+0.5,"import random
+
+days = [""monday",import,18
+0.5,"import random
+
+days = [""monday",import,19
+0.5,"import random
+
+days = [""monday",import,20
+0.5,"import random
+
+def get_day():",import,21
+0.5,"import random
+
+days = [""monday",import,22
+0.5,"import random
+
+def get_day_of_week",import,23
+0.5,"import datetime
+
+def get_day_of_week",import,24
+0.5,"import random
+
+def get_day():",import,25
+0.5,"import random
+
+def get_day():",import,26
+0.5,"import random
+
+def get_day():",import,27
+0.5,"import random
+
+def get_day():",import,28
+0.5,"import datetime
+
+def get_day_of_week",import,29
+0.5,"import random
+
+def get_day():",import,30
+0.5,"import random
+
+def get_day():",import,31
+0.5,"import datetime
+
+def get_day():",import,32
+0.5,"import random
+
+def get_day():",import,33
+0.5,"import random
+
+def get_day():",import,34
+0.5,"import random
+
+def get_day():",import,35
+0.5,"import random
+
+def get_weekday():",import,36
+0.5,"import random
+
+days_of_week = [""",import,37
+0.5,"import datetime
+
+def get_day_of_week",import,38
+0.5,"import random
+
+def get_day():",import,39
+0.5,"import datetime
+
+def get_weekday():",import,40
+0.5,"import random
+
+def get_day():",import,41
+0.5,"import random
+
+def get_day():",import,42
+0.5,"import random
+
+def get_day():",import,43
+0.5,"import random
+
+def get_day():",import,44
+0.5,"import random
+
+def get_day():",import,45
+0.5,"import random
+
+def get_day():",import,46
+0.5,"import random
+
+def get_day():",import,47
+0.5,"import random
+
+def get_day():",import,48
+0.5,"import random
+
+def get_day():",import,49
+0.5,"import random
+
+def get_day():",import,50
+0.5,"import random
+
+days = [""monday",import,51
+0.5,"import random
+
+def get_day():",import,52
+0.5,"import datetime
+
+def get_day_of_week",import,53
+0.5,"import datetime
+
+def get_day_of_week",import,54
+0.5,"import datetime
+
+def get_day_of_week",import,55
+0.5,"import random
+
+def get_day():",import,56
+0.5,"import datetime
+
+def get_day_of_week",import,57
+0.5,"import random
+
+days = [""monday",import,58
+0.5,"import random
+
+def get_day():",import,59
+0.5,"import datetime
+
+def get_day_of_week",import,60
+0.5,"import datetime
+
+def get_day_of_week",import,61
+0.5,"import random
+
+def get_day():",import,62
+0.5,"import random
+
+def get_day():",import,63
+0.5,"import random
+
+def get_day():",import,64
+0.5,"import random
+
+def get_day_of_week",import,65
+0.5,"import datetime
+
+def get_day():",import,66
+0.5,"import datetime
+
+def get_day_of_week",import,67
+0.5,"import datetime
+
+def get_day():",import,68
+0.5,"import datetime
+
+def get_day_of_week",import,69
+0.5,"import datetime
+
+def get_day():",import,70
+0.5,"import random
+
+def get_day():",import,71
+0.5,"import random
+
+def get_day():",import,72
+0.5,"import random
+
+days = [""monday",import,73
+0.5,"import datetime
+
+def get_day():",import,74
+0.5,"import random
+
+def get_day():",import,75
+0.5,"import random
+
+def get_day():",import,76
+0.5,"import random
+
+def get_weekday():",import,77
+0.5,"import datetime
+
+def get_day_of_week",import,78
+0.5,"import random
+
+days = [""monday",import,79
+0.5,"import random
+
+def get_random_day():",import,80
+0.5,"import random
+
+def get_day():",import,81
+0.5,"import random
+
+days_of_week = ['",import,82
+0.5,"import random
+
+def get_day():",import,83
+0.5,"import random
+
+def get_day():",import,84
+0.5,"import datetime
+
+def get_day_of_week",import,85
+0.5,"import random
+
+def get_day():",import,86
+0.5,"import random
+
+def get_day():",import,87
+0.5,"import random
+
+def get_day():",import,88
+0.5,"import random
+
+def get_day_of_week",import,89
+0.5,"import datetime
+
+def get_day_of_week",import,90
+0.5,"import random
+
+days = [""monday",import,91
+0.5,"import random
+
+def get_weekday():",import,92
+0.5,"import random
+
+def get_day():",import,93
+0.5,"import random
+
+def get_day():",import,94
+0.5,"import random
+
+def get_day():",import,95
+0.5,"import random
+
+def get_day():",import,96
+0.5,"import random
+
+days = [""monday",import,97
+0.5,"import random
+
+def get_day():",import,98
+0.5,"import random
+
+def get_day():",import,99
+0.5,"import datetime
+
+def get_day_of_week",import,100
+0.5,"import random
+
+def get_day():",import,101
+0.5,"import datetime
+
+def get_day_of_week",import,102
+0.5,"import random
+
+def get_day():",import,103
+0.5,"import random
+
+def get_day():",import,104
+0.5,"import random
+
+def get_day():",import,105
+0.5,"import random
+
+days = ['monday",import,106
+0.5,"import random
+
+def get_day():",import,107
+0.5,"import random
+
+days_of_week = [""",import,108
+0.5,"import random
+
+days = [""monday",import,109
+0.5,"import random
+
+def get_day():",import,110
+0.5,"import random
+
+def get_day():",import,111
+0.5,"import datetime
+
+def get_day_of_week",import,112
+0.5,"import random
+
+def get_day():",import,113
+0.5,"import random
+
+def get_day():",import,114
+0.5,"import random
+
+def get_day():",import,115
+0.5,"import random
+
+def get_day():",import,116
+0.5,"import datetime
+
+def get_day_of_week",import,117
+0.5,"import datetime
+
+def get_day_of_week",import,118
+0.5,"import random
+def get_day():",import,119
+0.5,"import datetime
+
+def get_day_of_week",import,120
+0.5,"import random
+
+def get_day():",import,121
+0.5,"import random
+
+def get_weekday():",import,122
+0.5,"import datetime
+
+def get_day():",import,123
+0.5,"import datetime
+
+def get_day_of_week",import,124
+0.5,"import random
+
+def get_day():",import,125
+0.5,"import datetime
+
+def get_day():",import,126
+0.5,"import datetime
+
+def get_day_of_week",import,127
+0.5,"import random
+
+days = [""monday",import,128
+0.5,"import datetime
+
+def get_day_of_week",import,129
+0.5,"import random
+
+def get_weekday():",import,130
+0.5,"import random
+
+days = [""monday",import,131
+0.5,"import random
+
+def get_day():",import,132
+0.5,"import datetime
+
+def get_day_of_week",import,133
+0.5,"import random
+
+def get_weekday():",import,134
+0.5,"import random
+
+def get_day():",import,135
+0.5,"import datetime
+
+def get_day():",import,136
+0.5,"import datetime
+
+def get_day_of_week",import,137
+0.5,"import random
+
+def get_day():",import,138
+0.5,"import random
+
+def get_day():",import,139
+0.5,"import random
+
+def get_day():",import,140
+0.5,"import random
+
+def get_day():",import,141
+0.5,"import random
+
+def get_day():",import,142
+0.5,"import datetime
+
+def get_day():",import,143
+0.5,"import random
+
+def get_day():",import,144
+0.5,"import random
+
+days = [""monday",import,145
+0.5,"import random
+
+def get_day():",import,146
+0.5,"import datetime
+
+def get_day():",import,147
+0.5,"import random
+
+def get_day_of_week",import,148
+0.5,"import random
+
+days = [""monday",import,149
+0.5,"import random
+
+def get_day():",import,150
+0.5,"import datetime
+
+def get_day_of_week",import,151
+0.5,"import random
+
+def get_day():",import,152
+0.5,"import random
+
+days = [""monday",import,153
+0.5,"import datetime
+
+def get_day_of_week",import,154
+0.5,"import datetime
+
+def get_day(day_name",import,155
+0.5,"import datetime
+
+def get_day_of_week",import,156
+0.5,"import random
+
+def get_day():",import,157
+0.5,"import datetime
+
+def get_day_of_week",import,158
+0.5,"import random
+
+days = ['monday",import,159
+0.5,"import datetime
+
+def get_day():",import,160
+0.5,"import random
+
+def get_day():",import,161
+0.5,"import random
+
+def get_day():",import,162
+0.5,"import datetime
+
+def get_day_of_week",import,163
+0.5,"import random
+
+def get_day():",import,164
+0.5,"import datetime
+
+def get_day_of_week",import,165
+0.5,"import random
+
+def get_day():",import,166
+0.5,"import random
+
+def get_day():",import,167
+0.5,"import random
+
+def get_day():",import,168
+0.5,"import random
+
+def get_day():",import,169
+0.5,"import datetime
+
+def get_day():",import,170
+0.5,"import random
+
+def get_day():",import,171
+0.5,"import random
+
+def get_day():",import,172
+0.5,"import random
+
+def get_day():",import,173
+0.5,"import random
+
+days = [""monday",import,174
+0.5,"import datetime
+
+def get_day_of_week",import,175
+0.5,"import random
+
+days = [""monday",import,176
+0.5,"import random
+
+def get_day():",import,177
+0.5,"import random
+
+def get_day():",import,178
+0.5,"import random
+
+def get_day_of_week",import,179
+0.5,"import datetime
+
+def get_weekday():",import,180
+0.5,"import random
+
+def get_day():",import,181
+0.5,"import random
+
+def get_day():",import,182
+0.5,"import random
+
+def get_day():",import,183
+0.5,"import random
+
+def get_weekday():",import,184
+0.5,"import random
+
+def get_weekday():",import,185
+0.5,"import datetime
+
+def return_day():",import,186
+0.5,"import random
+
+def get_day():",import,187
+0.5,"import random
+
+def get_day():",import,188
+0.5,"import datetime
+
+def get_day():",import,189
+0.5,"import random
+
+days = [""monday",import,190
+0.5,"import random
+
+def get_day_of_week",import,191
+0.5,"import random
+
+def get_day():",import,192
+0.5,"import random
+
+def get_day():",import,193
+0.5,"import datetime
+
+def get_day_of_week",import,194
+0.5,"import random
+
+def get_day():",import,195
+0.5,"import random
+
+def get_day():",import,196
+0.5,"import random
+
+def get_day():",import,197
+0.5,"import random
+
+def get_day():",import,198
+0.5,"import random
+
+def get_day():",import,199
+0.5,"import random
+
+def get_day():",import,200
+0.5,"import random
+
+days = [""monday",import,201
+0.5,"import random
+
+def get_day():",import,202
+0.5,"import datetime
+
+def get_day_of_week",import,203
+0.5,"import random
+
+def get_day():",import,204
+0.5,"import datetime
+
+def get_day_of_week",import,205
+0.5,"import random
+
+def get_day():",import,206
+0.5,"import random
+
+def get_day_of_week",import,207
+0.5,"import datetime
+
+day = input(""Enter",import,208
+0.5,"import random
+
+def get_day():",import,209
+0.5,"import random
+
+def get_day():",import,210
+0.5,"import datetime
+
+def get_day_of_week",import,211
+0.5,"import random
+
+def get_weekday():",import,212
+0.5,"import random
+
+def get_day():",import,213
+0.5,"import datetime
+
+def get_day_of_week",import,214
+0.5,"import datetime
+
+def get_day():",import,215
+0.5,"import random
+
+days_of_week = [""",import,216
+0.5,"import random
+
+def get_day():",import,217
+0.5,"import random
+
+days_of_week = [""",import,218
+0.5,"import random
+
+def get_day():",import,219
+0.5,"import datetime
+
+def get_day_of_week",import,220
+0.5,"import datetime
+
+def get_day():",import,221
+0.5,"import random
+
+def get_day():",import,222
+0.5,"import datetime
+
+def get_day_of_week",import,223
+0.5,"import random
+
+def get_random_day():",import,224
+0.5,"import random
+
+def get_random_day():",import,225
+0.5,"import random
+
+def get_day():",import,226
+0.5,"import random
+
+def get_day():",import,227
+0.5,"import random
+
+def get_day_of_week",import,228
+0.5,"import random
+
+days_of_week = [""",import,229
+0.5,"import random
+
+days = ['monday",import,230
+0.5,"import datetime
+
+def get_day_of_week",import,231
+0.5,"import random
+
+def get_random_day():",import,232
+0.5,"import random
+
+def get_weekday():",import,233
+0.5,"import random
+
+def get_day():",import,234
+0.5,"import random
+
+def get_day():",import,235
+0.5,"import datetime
+
+def get_day_of_week",import,236
+0.5,"import datetime
+
+def get_day_of_week",import,237
+0.5,"import random
+
+def get_day_of_week",import,238
+0.5,"import datetime
+
+def get_day_of_week",import,239
+0.5,"import datetime
+
+def get_day():",import,240
+0.5,"import datetime
+
+def get_day_of_week",import,241
+0.5,"import datetime
+
+def get_day_of_week",import,242
+0.5,"import random
+days = ['monday",import,243
+0.5,"import random
+
+def get_day():",import,244
+0.5,"import random
+
+def get_day():",import,245
+0.5,"import random
+
+def get_day():",import,246
+0.5,"import random
+
+def get_day():",import,247
+0.5,"import random
+
+def get_weekday():",import,248
+0.5,"import datetime
+
+def get_day_of_week",import,249
+0.5,"import datetime
+
+def get_day_of_week",import,250
+0.5,"import datetime
+
+def get_day():",import,251
+0.5,"import random
+
+def get_day():",import,252
+0.5,"import datetime
+
+def get_day(day):",import,253
+0.5,"import datetime
+
+def get_day_of_week",import,254
+0.5,"import datetime
+
+def get_day():",import,255
+0.5,"import random
+
+def get_day():",import,256
+0.5,"import datetime
+
+def get_day_of_week",import,257
+0.5,"import datetime
+
+def get_day():",import,258
+0.5,"import random
+
+def get_day():",import,259
+0.5,"import random
+
+def get_day():",import,260
+0.5,"import random
+
+def get_day():",import,261
+0.5,"import random
+
+days = [""monday",import,262
+0.5,"import datetime
+
+def get_day():",import,263
+0.5,"import random
+
+def get_day():",import,264
+0.5,"import datetime
+
+def get_day_of_week",import,265
+0.5,"import random
+
+def get_day():",import,266
+0.5,"import random
+
+print(random.choice(['mon",import,267
+0.5,"import random
+
+def get_weekday():",import,268
+0.5,"import random
+
+def get_day():",import,269
+0.5,"import datetime
+
+def get_day_of_week",import,270
+0.5,"import random
+days = [""monday",import,271
+0.5,"import random
+
+def get_weekday():",import,272
+0.5,"import random
+
+def get_day():",import,273
+0.5,"import datetime
+
+def get_day_of_week",import,274
+0.5,"import datetime
+
+def get_day():",import,275
+0.5,"import datetime
+
+def get_day_of_week",import,276
+0.5,"import datetime
+
+def get_day_of_week",import,277
+0.5,"import random
+
+def get_day():",import,278
+0.5,"import random
+
+def get_day():",import,279
+0.5,"import datetime
+
+def get_day():",import,280
+0.5,"import random
+
+def get_day():",import,281
+0.5,"import datetime
+
+def return_day_of_week",import,282
+0.5,"import random
+
+def get_day():",import,283
+0.5,"import random
+
+def get_day():",import,284
+0.5,"import random
+
+def get_day():",import,285
+0.5,"import random
+
+def get_day():",import,286
+0.5,"import random
+
+def get_random_day():",import,287
+0.5,"import random
+
+def get_day():",import,288
+0.5,"import random
+
+def get_day():",import,289
+0.5,"import datetime
+
+def get_day_of_week",import,290
+0.5,"import random
+
+days = [""monday",import,291
+0.5,"import random
+
+def get_day():",import,292
+0.5,"import datetime
+
+def get_day():",import,293
+0.5,"import random
+
+def get_day_of_week",import,294
+0.5,"import random
+
+def get_day():",import,295
+0.5,"import random
+
+days = [""monday",import,296
+0.5,"import random
+
+def get_random_day():",import,297
+0.5,"import datetime
+
+def get_day_of_week",import,298
+0.5,"import random
+
+def get_day():",import,299
+0.5,"import random
+
+def get_day():",import,300
+0.5,"import random
+
+def get_day():",import,301
+0.5,"import datetime
+
+def get_day_of_week",import,302
+0.5,"import datetime
+
+def get_day_of_week",import,303
+0.5,"import random
+
+def get_day():",import,304
+0.5,"import datetime
+
+def get_day():",import,305
+0.5,"import random
+
+def get_day_of_week",import,306
+0.5,"import random
+
+def get_day():",import,307
+0.5,"import random
+
+def get_day():",import,308
+0.5,"import datetime
+
+def get_day_of_week",import,309
+0.5,"import datetime
+
+def get_day_of_week",import,310
+0.5,"import random
+
+def get_weekday():",import,311
+0.5,"import random
+
+def get_day():",import,312
+0.5,"import random
+
+def get_day():",import,313
+0.5,"import random
+
+def get_day():",import,314
+0.5,"import datetime
+
+def get_day():",import,315
+0.5,"import random
+
+def get_day():",import,316
+0.5,"import random
+
+def get_day():",import,317
+0.5,"import random
+
+def get_day():",import,318
+0.5,"import datetime
+
+def get_day_of_week",import,319
+0.5,"import random
+
+def get_day():",import,320
+0.5,"import random
+
+def get_weekday():",import,321
+0.5,"import random
+def get_day():",import,322
+0.5,"import random
+
+def get_day():",import,323
+0.5,"import datetime
+
+def get_day_of_week",import,324
+0.5,"import random
+
+def get_weekday():",import,325
+0.5,"import random
+
+def get_day():",import,326
+0.5,"import random
+
+def get_weekday():",import,327
+0.5,"import random
+
+days = [""monday",import,328
+0.5,"import random
+
+def get_weekday():",import,329
+0.5,"import random
+
+days = [""monday",import,330
+0.5,"import datetime
+
+def get_day_of_week",import,331
+0.5,"import datetime
+
+day_of_week = [""",import,332
+0.5,"import datetime
+
+def get_day_of_week",import,333
+0.5,"import random
+
+def get_day_of_week",import,334
+0.5,"import datetime
+
+def get_day_of_week",import,335
+0.5,"import random
+
+days = [""monday",import,336
+0.5,"import random
+
+def get_day():",import,337
+0.5,"import random
+
+def get_day():",import,338
+0.5,"import random
+
+def get_day():",import,339
+0.5,"import random
+
+def get_day():",import,340
+0.5,"import datetime
+
+def get_day_of_week",import,341
+0.5,"import random
+
+def get_weekday():",import,342
+0.5,"import datetime
+
+def get_day_of_week",import,343
+0.5,"import random
+
+def get_day_of_week",import,344
+0.5,"import random
+
+def get_day():",import,345
+0.5,"import random
+
+days = [""monday",import,346
+0.5,"import random
+
+def get_day_of_week",import,347
+0.5,"import datetime
+
+def get_day():",import,348
+0.5,"import random
+
+def get_day():",import,349
+0.5,"import random
+
+def get_day():",import,350
+0.5,"import datetime
+
+def get_day_of_week",import,351
+0.5,"import random
+
+def get_day():",import,352
+0.5,"import random
+
+days = [""monday",import,353
+0.5,"import random
+
+def get_day():",import,354
+0.5,"import random
+
+def get_day():",import,355
+0.5,"import random
+
+def get_day():",import,356
+0.5,"import datetime
+
+def get_day_of_week",import,357
+0.5,"import random
+
+def get_day():",import,358
+0.5,"import datetime
+
+def return_day():",import,359
+0.5,"import datetime
+
+day = ""saturday",import,360
+0.5,"import random
+
+def get_day():",import,361
+0.5,"import datetime
+
+def get_day():",import,362
+0.5,"import random
+
+def get_day():",import,363
+0.5,"import datetime
+
+def get_day_of_week",import,364
+0.5,"import datetime
+
+def get_day():",import,365
+0.5,"import random
+
+days = [""monday",import,366
+0.5,"import random
+
+days = [""monday",import,367
+0.5,"import random
+
+def get_day():",import,368
+0.5,"import random
+
+def get_day():",import,369
+0.5,"import datetime
+
+def get_day():",import,370
+0.5,"import datetime
+
+def get_day_of_week",import,371
+0.5,"import datetime
+
+def get_day_of_week",import,372
+0.5,"import random
+
+def get_day():",import,373
+0.5,"import datetime
+
+def get_day_of_week",import,374
+0.5,"import random
+
+days = ['monday",import,375
+0.5,"import random
+
+def get_weekday():",import,376
+0.5,"import random
+
+def get_day_of_week",import,377
+0.5,"import random
+
+print([""monday"",",import,378
+0.5,"import random
+
+def get_weekday():",import,379
+0.5,"import random
+
+def get_day():",import,380
+0.5,"import random
+
+def get_day():",import,381
+0.5,"import datetime
+
+def get_day_of_week",import,382
+0.5,"import random
+
+def get_day_of_week",import,383
+0.5,"import random
+
+def get_day():",import,384
+0.5,"import random
+
+def get_day():",import,385
+0.5,"import datetime
+
+def get_day_of_week",import,386
+0.5,"import datetime
+
+def get_day_of_week",import,387
+0.5,"import random
+
+days = [""monday",import,388
+0.5,"import random
+
+def get_day():",import,389
+0.5,"import random
+
+def get_day():",import,390
+0.5,"import random
+
+def get_weekday():",import,391
+0.5,"import random
+
+def get_day():",import,392
+0.5,"import datetime
+
+def get_day():",import,393
+0.5,"import random
+
+def get_weekday():",import,394
+0.5,"import random
+
+def get_day():",import,395
+0.5,"import random
+
+def get_day():",import,396
+0.5,"import random
+
+def get_day():",import,397
+0.5,"import random
+
+days = [""monday",import,398
+0.5,"import random
+
+def get_day():",import,399
+0.5,"import random
+
+def get_day():",import,400
+0.5,"import datetime
+
+def get_weekday():",import,401
+0.5,"import datetime
+
+def get_day_of_week",import,402
+0.5,"import datetime
+
+def get_day_of_week",import,403
+0.5,"import random
+
+def get_day():",import,404
+0.5,"import random
+
+def get_day():",import,405
+0.5,"import random
+
+def get_day():",import,406
+0.5,"import random
+
+def get_day():",import,407
+0.5,"import random
+
+def get_day_of_week",import,408
+0.5,"import random
+
+def get_weekday():",import,409
+0.5,"import random
+
+def get_day():",import,410
+0.5,"import random
+
+def get_day_of_week",import,411
+0.5,"import random
+
+def get_day():",import,412
+0.5,"import datetime
+
+def get_day():",import,413
+0.5,"import datetime
+
+def return_day(day_of",import,414
+0.5,"import random
+
+days = [""monday",import,415
+0.5,"import random
+days = [""monday",import,416
+0.5,"import random
+
+days = [""monday",import,417
+0.5,"import random
+
+def get_day():",import,418
+0.5,"import datetime
+
+def get_day_of_week",import,419
+0.5,"import random
+
+def get_day():",import,420
+0.5,"import random
+
+def get_day():",import,421
+0.5,"import random
+
+def get_day():",import,422
+0.5,"import random
+
+def get_weekday():",import,423
+0.5,"import random
+
+def get_day():",import,424
+0.5,"import random
+
+def get_day():",import,425
+0.5,"import random
+
+days_of_week = [""",import,426
+0.5,"import datetime
+
+def get_weekday():",import,427
+0.5,"import datetime
+
+def get_day_of_week",import,428
+0.5,"import random
+
+def get_day_of_week",import,429
+0.5,"import random
+
+def get_day():",import,430
+0.5,"import random
+
+def get_day():",import,431
+0.5,"import random
+
+def get_day():",import,432
+0.5,"import random
+
+days_of_week = [""",import,433
+0.5,"import datetime
+
+def get_day():",import,434
+0.5,"import datetime
+
+def get_day_of_week",import,435
+0.5,"import random
+
+def get_day():",import,436
+0.5,"import random
+
+def get_day():",import,437
+0.5,"import random
+
+def get_day():",import,438
+0.5,"import datetime
+
+def get_day_of_week",import,439
+0.5,"import random
+
+def get_day():",import,440
+0.5,"import random
+
+def return_day():",import,441
+0.5,"import datetime
+
+def get_day():",import,442
+0.5,"import random
+
+def return_day():",import,443
+0.5,"import random
+
+def get_day():",import,444
+0.5,"import random
+
+def get_day():",import,445
+0.5,"import random
+
+def get_day():",import,446
+0.5,"import random
+
+def get_day():",import,447
+0.5,"import random
+
+def get_day():",import,448
+0.5,"import random
+
+def get_day():",import,449
+0.5,"import random
+
+def get_day():",import,450
+0.5,"import datetime
+
+def get_day_of_week",import,451
+0.5,"import random
+
+def get_day():",import,452
+0.5,"import datetime
+
+day = ""saturday",import,453
+0.5,"import random
+
+def get_day():",import,454
+0.5,"import random
+
+def get_day():",import,455
+0.5,"import random
+
+def get_day_of_week",import,456
+0.5,"import random
+
+def get_weekday():",import,457
+0.5,"import datetime
+
+def get_day_of_week",import,458
+0.5,"import random
+
+def get_day_of_week",import,459
+0.5,"import random
+
+def get_day():",import,460
+0.5,"import datetime
+
+def get_day_of_week",import,461
+0.5,"import datetime
+
+def get_day_of_week",import,462
+0.5,"import datetime
+
+def get_day_of_week",import,463
+0.5,"import random
+
+def get_day_of_week",import,464
+0.5,"import random
+
+def get_day():",import,465
+0.5,"import random
+
+days = [""monday",import,466
+0.5,"import random
+
+def get_day():",import,467
+0.5,"import datetime
+
+def get_day_of_week",import,468
+0.5,"import random
+
+def get_day():",import,469
+0.5,"import random
+
+def get_day():",import,470
+0.5,"import random
+
+days = [""monday",import,471
+0.5,"import datetime
+
+def get_day_of_week",import,472
+0.5,"import datetime
+
+def get_day_of_week",import,473
+0.5,"import datetime
+
+def get_day():",import,474
+0.5,"import random
+
+def get_day():",import,475
+0.5,"import random
+
+def get_day():",import,476
+0.5,"import random
+
+days = ['monday",import,477
+0.5,"import random
+
+def get_day():",import,478
+0.5,"import random
+
+def get_day_of_week",import,479
+0.5,"import datetime
+
+def get_day():",import,480
+0.5,"import datetime
+
+def get_day():",import,481
+0.5,"import random
+
+days_of_week = [""",import,482
+0.5,"import datetime
+
+def get_day_of_week",import,483
+0.5,"import random
+
+def get_day():",import,484
+0.5,"import random
+
+def get_day():",import,485
+0.5,"import random
+
+def get_day():",import,486
+0.5,"import random
+
+def get_day():",import,487
+0.5,"import datetime
+
+def get_day_of_week",import,488
+0.5,"import random
+
+def get_day():",import,489
+0.5,"import datetime
+
+def get_day_of_week",import,490
+0.5,"import random
+
+def get_day():",import,491
+0.5,"import datetime
+
+def get_day():",import,492
+0.5,"import random
+
+def get_day():",import,493
+0.5,"import random
+
+def get_day():",import,494
+0.5,"import datetime
+
+def get_day_of_week",import,495
+0.5,"import random
+
+def get_day():",import,496
+0.5,"import datetime
+
+def get_day_of_week",import,497
+0.5,"import random
+
+def get_day():",import,498
+0.5,"import random
+days_of_week = [""",import,499
+0.5,"import datetime
+
+def get_day_of_week",import,500
+1.0,"import random
+
+def get_day():",import,1
+1.0,"import random
+
+def get_weekday():",import,2
+1.0,"import random
+
+def get_weekday():",import,3
+1.0,"import datetime
+
+def get_day_of_week",import,4
+1.0,"import datetime
+
+def get_weekday():",import,5
+1.0,"import random
+def get_day():",import,6
+1.0,"import datetime
+
+day = input(""Enter",import,7
+1.0,"import random
+
+days = [""monday",import,8
+1.0,"import random
+days_of_week = [""",import,9
+1.0,"import datetime
+
+def get_day_of_week",import,10
+1.0,"import random
+
+def get_day():",import,11
+1.0,"import random
+
+def get_day():",import,12
+1.0,"import datetime
+
+def get_day():",import,13
+1.0,"import random
+
+days_of_week = [""",import,14
+1.0,"import datetime
+
+def get_day_of_week",import,15
+1.0,"import random
+
+days_of_week = [""",import,16
+1.0,"import random
+
+days = ['monday",import,17
+1.0,"import datetime
+
+def get_day(day_number",import,18
+1.0,"import random
+def get_day_of_week",import,19
+1.0,"import random
+
+def get_weekday():",import,20
+1.0,"import random
+
+days = [""monday",import,21
+1.0,"import random
+
+def return_day():",import,22
+1.0,"import random
+days = [""monday",import,23
+1.0,"import random
+
+def get_day():",import,24
+1.0,"import datetime
+
+def get_day_of_week",import,25
+1.0,"import random
+days = [""monday",import,26
+1.0,"import random
+
+def get_day():",import,27
+1.0,"import random
+
+def get_day_of_week",import,28
+1.0,"import random
+
+def get_day():",import,29
+1.0,"import random
+
+def return_day():",import,30
+1.0,"import random
+
+def get_day():",import,31
+1.0,"import random
+days = [""monday",import,32
+1.0,"import datetime
+
+day = input(""Enter",import,33
+1.0,"import datetime
+
+def return_day():",import,34
+1.0,"import random
+
+days = [""monday",import,35
+1.0,"import datetime
+
+def get_day():",import,36
+1.0,"import datetime
+
+def get_day():",import,37
+1.0,"import datetime
+
+def get_day_of_week",import,38
+1.0,"import random
+
+def get_day():",import,39
+1.0,"import datetime
+
+day = input(""Enter",import,40
+1.0,"import random
+
+days = [""monday",import,41
+1.0,"import random
+
+days = [""monday",import,42
+1.0,"import random
+
+days = [""monday",import,43
+1.0,"import datetime
+
+def return_weekday():",import,44
+1.0,"import datetime
+
+def get_day_of_week",import,45
+1.0,"import random
+
+days = [""monday",import,46
+1.0,"import datetime
+
+day_of_week = [""",import,47
+1.0,"import random
+def get_weekday():",import,48
+1.0,"import random
+
+def get_random_day():",import,49
+1.0,"import datetime
+
+def get_weekday():",import,50
+1.0,"import random
+
+def get_weekday():",import,51
+1.0,"import random
+
+days = ['monday",import,52
+1.0,"import random
+
+def get_random_day():",import,53
+1.0,"import random
+
+def get_weekday():",import,54
+1.0,"import datetime
+
+def get_day():",import,55
+1.0,"import random
+
+days_of_week = [""",import,56
+1.0,"import datetime
+day = datetime.date.today",import,57
+1.0,"import random
+
+days = ['monday",import,58
+1.0,"import random
+
+def get_day():",import,59
+1.0,"import random
+
+def get_day():",import,60
+1.0,"import random
+
+def get_day():",import,61
+1.0,"import random
+
+def get_day():",import,62
+1.0,"import datetime
+
+def get_day_of_week",import,63
+1.0,"import random
+
+def get_day_of_week",import,64
+1.0,"import datetime
+
+def get_day_of_week",import,65
+1.0,"import datetime
+
+print(datetime.date.today().",import,66
+1.0,"import random
+
+def get_day():",import,67
+1.0,"import random
+
+def get_weekday():",import,68
+1.0,"import datetime
+
+def get_weekday(day",import,69
+1.0,"import random
+def get_day():",import,70
+1.0,"import random
+
+days = [""monday",import,71
+1.0,"import random
+
+def get_weekday():",import,72
+1.0,"import datetime
+
+def get_day_of_week",import,73
+1.0,"import random
+
+days = [""monday",import,74
+1.0,"import datetime
+
+def return_day_of_week",import,75
+1.0,"import datetime
+
+def get_day_of_week",import,76
+1.0,"import random
+
+def get_day():",import,77
+1.0,"import random
+
+print(random.choice(['mon",import,78
+1.0,"import random
+
+days = [""monday",import,79
+1.0,"import random
+
+def get_day():",import,80
+1.0,"import random
+
+def get_day():",import,81
+1.0,"import datetime
+
+def get_day_of_week",import,82
+1.0,"import random
+days = ['monday",import,83
+1.0,"import random
+
+def return_day_of_week",import,84
+1.0,"import random
+def get_day():",import,85
+1.0,"import datetime
+
+def get_day():",import,86
+1.0,"import random
+def get_day():",import,87
+1.0,"import datetime
+
+def get_day_of_week",import,88
+1.0,"import datetime
+
+def get_day_of_week",import,89
+1.0,"import random
+
+def get_day():",import,90
+1.0,"import datetime
+
+def get_day_of_week",import,91
+1.0,"import random
+
+days_of_week = ['",import,92
+1.0,"import random
+days = [""monday",import,93
+1.0,"import random
+days = ['monday",import,94
+1.0,"import random
+
+def return_day():",import,95
+1.0,"import datetime
+
+day = [""monday",import,96
+1.0,"import random
+
+days_of_week = [""",import,97
+1.0,"import random
+
+days_of_week = ['",import,98
+1.0,"import datetime
+
+day = datetime.datetime.now",import,99
+1.0,"import datetime
+import calendar
+
+# get",import,100
+1.0,"import random
+
+def get_weekday():",import,101
+1.0,"import datetime
+
+def get_day_of_week",import,102
+1.0,"import random
+
+def get_day():",import,103
+1.0,"import datetime
+
+def get_day(day_number",import,104
+1.0,"import random
+
+days = ['monday",import,105
+1.0,"import random
+
+def get_day():",import,106
+1.0,"import random
+
+def return_day_of_week",import,107
+1.0,"import random
+
+def get_day():",import,108
+1.0,"import random
+
+def get_weekday():",import,109
+1.0,"import datetime
+day = datetime.date.today",import,110
+1.0,"import random
+
+def get_day_of_week",import,111
+1.0,"import datetime
+
+def get_day_of_week",import,112
+1.0,"import random
+
+def get_day():",import,113
+1.0,"import datetime
+day_of_week = datetime",import,114
+1.0,"import random
+
+def get_weekday():",import,115
+1.0,"import datetime
+
+day = datetime.date.today",import,116
+1.0,"import random
+
+days_of_week = [""",import,117
+1.0,"import datetime
+
+def get_day_of_week",import,118
+1.0,"import datetime
+
+day = datetime.datetime.now",import,119
+1.0,"import random
+days = ['monday",import,120
+1.0,"import random
+
+def get_day_of_week",import,121
+1.0,"import datetime
+
+def get_weekday(day",import,122
+1.0,"import datetime
+
+def get_day(day_of",import,123
+1.0,"import random
+
+days_of_week = ['",import,124
+1.0,"import random
+days = [""monday",import,125
+1.0,"import datetime
+
+day = [""monday",import,126
+1.0,"import datetime
+
+def get_day_of_week",import,127
+1.0,"import random
+
+def get_day_of_week",import,128
+1.0,"import random
+days = ['monday",import,129
+1.0,"import datetime
+
+def get_day():",import,130
+1.0,"import datetime
+
+def get_day_of_week",import,131
+1.0,"import datetime
+
+def get_day():",import,132
+1.0,"import random
+import datetime
+
+def get",import,133
+1.0,"import datetime
+
+def get_day():",import,134
+1.0,"import datetime
+
+print((datetime.date.today",import,135
+1.0,"import random
+
+def get_random_day():",import,136
+1.0,"import random
+
+days = [""monday",import,137
+1.0,"import random
+
+def get_random_day():",import,138
+1.0,"import datetime
+
+def get_weekday(day",import,139
+1.0,"import random
+days = ['monday",import,140
+1.0,"import random
+
+def get_day():",import,141
+1.0,"import random
+
+def get_weekday():",import,142
+1.0,"import datetime
+
+def get_weekday(day",import,143
+1.0,"import random
+
+days = ['monday",import,144
+1.0,"import datetime
+
+def get_day_of_week",import,145
+1.0,"import random
+
+def get_day():",import,146
+1.0,"import random
+
+def get_weekday():",import,147
+1.0,"import datetime
+day = datetime.datetime.now",import,148
+1.0,"import datetime
+
+day = [""monday",import,149
+1.0,"import datetime
+
+day = datetime.datetime.now",import,150
+1.0,"import random
+
+days = [""monday",import,151
+1.0,"import random
+days = ['monday",import,152
+1.0,"import random
+
+days_of_week = [""",import,153
+1.0,"import datetime
+
+def get_weekday(day",import,154
+1.0,"import random
+
+def get_random_day():",import,155
+1.0,"import random
+
+def get_day():",import,156
+1.0,"import random
+
+def get_day():",import,157
+1.0,"import datetime
+
+def get_day():",import,158
+1.0,"import random
+
+def get_day_of_week",import,159
+1.0,"import datetime
+
+def get_day_of_week",import,160
+1.0,"import random
+
+days_of_week = ['",import,161
+1.0,"import random
+
+days = ['monday",import,162
+1.0,"import datetime
+
+def get_day_of_week",import,163
+1.0,"import random
+def get_day():",import,164
+1.0,"import random
+
+print([day.capitalize()",import,165
+1.0,"import random
+
+days_of_week = [""",import,166
+1.0,"import random
+
+def get_day():",import,167
+1.0,"import random
+
+days = ['monday",import,168
+1.0,"import datetime
+
+def get_day_of_week",import,169
+1.0,"import random
+
+def return_day():",import,170
+1.0,"import datetime
+
+def get_day(day_number",import,171
+1.0,"import random
+
+days = ['monday",import,172
+1.0,"import random
+
+def get_random_day():",import,173
+1.0,"import random
+
+days_of_week = [""",import,174
+1.0,"import random
+
+def get_day():",import,175
+1.0,"import random
+
+print(random.choice(['mon",import,176
+1.0,"import datetime
+day = datetime.datetime.now",import,177
+1.0,"import datetime
+
+def get_day(day):",import,178
+1.0,"import random
+
+def return_day_of_week",import,179
+1.0,"import random
+days_of_week = [""",import,180
+1.0,"import random
+days = [""monday",import,181
+1.0,"import datetime
+
+def get_day():",import,182
+1.0,"import datetime
+def get_day_of_week",import,183
+1.0,"import random
+
+def get_day_of_week",import,184
+1.0,"import random
+
+days_of_week = [""",import,185
+1.0,"import random
+
+def get_day():",import,186
+1.0,"import random
+
+def get_random_day():",import,187
+1.0,"import random
+
+def get_day_of_week",import,188
+1.0,"import datetime
+
+def get_day():",import,189
+1.0,"import random
+
+days = [""monday",import,190
+1.0,"import datetime
+
+day = ""Wednesday""",import,191
+1.0,"import datetime
+day = datetime.datetime.now",import,192
+1.0,"import datetime
+
+def get_day_of_week",import,193
+1.0,"import random
+
+def get_day():",import,194
+1.0,"import datetime
+
+def get_day_of_week",import,195
+1.0,"import random
+
+days = [""monday",import,196
+1.0,"import random
+
+days_of_week = [""",import,197
+1.0,"import random
+days = [""monday",import,198
+1.0,"import datetime
+
+day = [""monday",import,199
+1.0,"import random
+
+def get_day_of_week",import,200
+1.0,"import random
+
+days = [""monday",import,201
+1.0,"import random
+
+days = ['monday",import,202
+1.0,"import datetime
+
+def get_day(day_num",import,203
+1.0,"import datetime
+
+def get_day(day_number",import,204
+1.0,"import random
+
+def get_weekday():",import,205
+1.0,"import datetime
+
+day = input(""Enter",import,206
+1.0,"import datetime
+
+def get_day():",import,207
+1.0,"import random
+
+def get_weekday():",import,208
+1.0,"import random
+
+def get_day():",import,209
+1.0,"import datetime
+
+def return_day():",import,210
+1.0,"import random
+
+def get_day():",import,211
+1.0,"import random
+
+def get_day():",import,212
+1.0,"import random
+
+def get_day_of_week",import,213
+1.0,"import random
+
+def get_day():",import,214
+1.0,"import random
+
+days = ['monday",import,215
+1.0,"import random
+
+def get_day():",import,216
+1.0,"import datetime
+
+day = datetime.datetime.now",import,217
+1.0,"import random
+
+days = ['monday",import,218
+1.0,"import datetime
+
+def get_day():",import,219
+1.0,"import random
+import datetime
+
+days =",import,220
+1.0,"import random
+
+def get_weekday():",import,221
+1.0,"import random
+def get_day_of_week",import,222
+1.0,"import datetime
+
+def get_day():",import,223
+1.0,"import random
+
+days = [""monday",import,224
+1.0,"import datetime
+def return_day():",import,225
+1.0,"import random
+
+def get_weekday():",import,226
+1.0,"import random
+
+def get_day():",import,227
+1.0,"import datetime
+
+def return_day():",import,228
+1.0,"import random
+
+def get_weekday():",import,229
+1.0,"import random
+def get_weekday():",import,230
+1.0,"import random
+days = [""monday",import,231
+1.0,"import random
+
+def get_day():",import,232
+1.0,"import random
+days = [""sunday",import,233
+1.0,"import random
+
+days = ['monday",import,234
+1.0,"import datetime
+
+print(datetime.date.today().",import,235
+1.0,"import random
+
+def get_day():",import,236
+1.0,"import random
+
+def get_random_day():",import,237
+1.0,"import random
+
+def get_day_of_week",import,238
+1.0,"import random
+
+def get_day_of_week",import,239
+1.0,"import random
+def get_day():",import,240
+1.0,"import datetime
+
+def get_day_of_week",import,241
+1.0,"import random
+
+def get_day():",import,242
+1.0,"import random
+days = ['monday",import,243
+1.0,"import random
+
+def get_day():",import,244
+1.0,"import random
+
+def get_weekday():",import,245
+1.0,"import datetime
+
+day_of_week = [""",import,246
+1.0,"import datetime
+
+day = datetime.date.today",import,247
+1.0,"import random
+
+def get_day():",import,248
+1.0,"import datetime
+
+def get_day_of_week",import,249
+1.0,"import datetime
+
+def get_day(day_number",import,250
+1.0,"import datetime
+
+def return_day_of_week",import,251
+1.0,"import datetime
+day = datetime.date.today",import,252
+1.0,"import datetime
+
+day = datetime.datetime.now",import,253
+1.0,"import datetime
+
+day = datetime.datetime.now",import,254
+1.0,"import random
+
+def get_random_day():",import,255
+1.0,"import datetime
+
+def get_weekday():",import,256
+1.0,"import random
+days = [""monday",import,257
+1.0,"import random
+
+def get_day_of_week",import,258
+1.0,"import datetime
+
+def get_day_of_week",import,259
+1.0,"import random
+
+def get_day():",import,260
+1.0,"import random
+
+days_of_week = ['",import,261
+1.0,"import datetime
+
+day = datetime.datetime.now",import,262
+1.0,"import datetime
+
+day = input(""Enter",import,263
+1.0,"import random
+
+def get_day():",import,264
+1.0,"import random
+
+def get_day():",import,265
+1.0,"import random
+
+days = ['monday",import,266
+1.0,"import random
+
+def get_day_of_week",import,267
+1.0,"import datetime
+
+day_of_week = datetime",import,268
+1.0,"import datetime
+
+def get_day():",import,269
+1.0,"import random
+
+def get_day_of_week",import,270
+1.0,"import datetime
+
+def get_day_of_week",import,271
+1.0,"import datetime
+
+def get_day_of_week",import,272
+1.0,"import datetime
+
+day = ""saturday",import,273
+1.0,"import random
+
+def get_day():",import,274
+1.0,"import random
+
+def get_day():",import,275
+1.0,"import random
+
+days = [""monday",import,276
+1.0,"import random
+days = ['monday",import,277
+1.0,"import random
+
+def get_day():",import,278
+1.0,"import random
+
+print([""monday"",",import,279
+1.0,"import datetime
+
+day = input(""Enter",import,280
+1.0,"import datetime
+
+day = input(""Enter",import,281
+1.0,"import random
+
+print(random.choice(['mon",import,282
+1.0,"import random
+
+def get_day():",import,283
+1.0,"import datetime
+
+def get_day():",import,284
+1.0,"import random
+
+days_of_week = [""",import,285
+1.0,"import datetime
+
+def get_day_of_week",import,286
+1.0,"import random
+
+def get_day():",import,287
+1.0,"import random
+
+def get_day():",import,288
+1.0,"import random
+
+def get_weekday():",import,289
+1.0,"import random
+days = [""monday",import,290
+1.0,"import random
+
+days_of_week = [""",import,291
+1.0,"import datetime
+
+def get_day():",import,292
+1.0,"import datetime
+
+print(datetime.date.today().",import,293
+1.0,"import random
+import datetime
+
+def get",import,294
+1.0,"import random
+
+def get_day():",import,295
+1.0,"import random
+
+def get_day():",import,296
+1.0,"import datetime
+
+def get_day():",import,297
+1.0,"import datetime
+
+def get_weekday(date",import,298
+1.0,"import random
+
+def get_weekday():",import,299
+1.0,"import random
+
+def get_day():",import,300
+1.0,"import datetime
+
+def get_day():",import,301
+1.0,"import random
+
+def get_day():",import,302
+1.0,"import random
+
+def get_day():",import,303
+1.0,"import random
+
+days = ['monday",import,304
+1.0,"import random
+days = ['monday",import,305
+1.0,"import random
+
+def get_day():",import,306
+1.0,"import random
+
+days = [""monday",import,307
+1.0,"import random
+
+def get_day_of_week",import,308
+1.0,"import random
+
+def get_day():",import,309
+1.0,"import datetime
+
+def get_day():",import,310
+1.0,"import datetime
+
+def get_day():",import,311
+1.0,"import random
+
+def return_day():",import,312
+1.0,"import random
+
+def get_day():",import,313
+1.0,"import random
+
+days = [""monday",import,314
+1.0,"import random
+
+def get_weekday():",import,315
+1.0,"import random
+
+def get_weekday():",import,316
+1.0,"import random
+
+def get_random_day():",import,317
+1.0,"import random
+
+def get_day():",import,318
+1.0,"import random
+
+days_of_week = [""",import,319
+1.0,"import random
+
+def get_day_of_week",import,320
+1.0,"import random
+
+days = [""monday",import,321
+1.0,"import random
+
+def get_day():",import,322
+1.0,"import datetime
+
+def get_day(day):",import,323
+1.0,"import datetime
+
+def get_day_of_week",import,324
+1.0,"import random
+
+days = ['monday",import,325
+1.0,"import random
+
+days = [""monday",import,326
+1.0,"import random
+
+days = [""monday",import,327
+1.0,"import datetime
+
+def return_day_of_week",import,328
+1.0,"import datetime
+
+def return_day(day_of",import,329
+1.0,"import datetime
+
+def get_day(day):",import,330
+1.0,"import random
+
+days_of_week = [""",import,331
+1.0,"import random
+days = ['monday",import,332
+1.0,"import datetime
+
+def get_day_of_week",import,333
+1.0,"import datetime
+
+day_of_week = datetime",import,334
+1.0,"import datetime
+
+def get_day_of_week",import,335
+1.0,"import random
+
+days = [""monday",import,336
+1.0,"import datetime
+
+def get_day(day):",import,337
+1.0,"import random
+
+days_of_week = ['",import,338
+1.0,"import random
+
+days = [""monday",import,339
+1.0,"import random
+
+def get_day():",import,340
+1.0,"import datetime
+
+def get_day_of_week",import,341
+1.0,"import random
+
+def get_day():",import,342
+1.0,"import random
+
+def get_day():",import,343
+1.0,"import random
+
+def get_weekday():",import,344
+1.0,"import random
+
+def get_weekday():",import,345
+1.0,"import random
+
+def get_day():",import,346
+1.0,"import random
+
+def get_random_day():",import,347
+1.0,"import datetime
+
+def get_day_of_week",import,348
+1.0,"import datetime
+
+def get_day_of_week",import,349
+1.0,"import datetime
+
+def get_day_of_week",import,350
+1.0,"import random
+
+def get_day():",import,351
+1.0,"import random
+
+def get_weekday():",import,352
+1.0,"import random
+
+def get_random_day():",import,353
+1.0,"import datetime
+
+def get_weekday():",import,354
+1.0,"import datetime
+
+def get_day(day):",import,355
+1.0,"import datetime
+
+def get_weekday():",import,356
+1.0,"import random
+
+def get_day():",import,357
+1.0,"import random
+
+def get_day():",import,358
+1.0,"import datetime
+
+def get_day_of_week",import,359
+1.0,"import random
+
+def get_day_of_week",import,360
+1.0,"import datetime
+
+def get_day_of_week",import,361
+1.0,"import random
+def get_day():",import,362
+1.0,"import random
+
+def get_day():",import,363
+1.0,"import random
+
+def get_day_of_week",import,364
+1.0,"import random
+
+def return_day():",import,365
+1.0,"import random
+
+def return_day_of_week",import,366
+1.0,"import datetime
+
+def get_day_of_week",import,367
+1.0,"import random
+
+days = [""monday",import,368
+1.0,"import random
+
+def get_random_day():",import,369
+1.0,"import random
+
+days = [""monday",import,370
+1.0,"import random
+
+def get_day_of_week",import,371
+1.0,"import datetime
+
+def get_day_of_week",import,372
+1.0,"import random
+days = [""monday",import,373
+1.0,"import datetime
+
+print(datetime.datetime.now().",import,374
+1.0,"import random
+
+def get_weekday():",import,375
+1.0,"import datetime
+
+def get_day_of_week",import,376
+1.0,"import random
+
+def get_day():",import,377
+1.0,"import random
+
+days = [""monday",import,378
+1.0,"import random
+
+def get_day():",import,379
+1.0,"import random
+
+def get_day():",import,380
+1.0,"import datetime
+
+day = [""monday",import,381
+1.0,"import datetime
+
+def get_day():",import,382
+1.0,"import datetime
+
+day_of_week = [""",import,383
+1.0,"import random
+days = ['monday",import,384
+1.0,"import random
+
+def get_random_day():",import,385
+1.0,"import datetime
+
+def get_day_of_week",import,386
+1.0,"import random
+
+days = [""monday",import,387
+1.0,"import random
+
+def get_random_day():",import,388
+1.0,"import random
+
+days_of_week = ['",import,389
+1.0,"import random
+
+days_of_week = [""",import,390
+1.0,"import random
+
+def get_day():",import,391
+1.0,"import random
+
+def get_day():",import,392
+1.0,"import datetime
+
+def get_day_of_week",import,393
+1.0,"import datetime
+
+def get_weekday(day",import,394
+1.0,"import datetime
+
+print(datetime.date.today().",import,395
+1.0,"import random
+
+def get_day():",import,396
+1.0,"import random
+
+def get_weekday():",import,397
+1.0,"import random
+
+days = ['monday",import,398
+1.0,"import random
+
+def get_random_day():",import,399
+1.0,"import datetime
+
+day = datetime.datetime.now",import,400
+1.0,"import random
+
+days = [""monday",import,401
+1.0,"import datetime
+
+def get_day():",import,402
+1.0,"import random
+def get_day():",import,403
+1.0,"import random
+
+def get_weekday():",import,404
+1.0,"import datetime
+
+def get_day(day_of",import,405
+1.0,"import random
+
+def get_random_day():",import,406
+1.0,"import random
+
+def return_day():",import,407
+1.0,"import random
+
+def get_day():",import,408
+1.0,"import datetime
+
+day = datetime.date.today",import,409
+1.0,"import datetime
+
+def get_day_of_week",import,410
+1.0,"import datetime
+
+def get_day():",import,411
+1.0,"import random
+
+days_of_week = [""",import,412
+1.0,"import random
+
+def get_day_of_week",import,413
+1.0,"import datetime
+
+day = [""monday",import,414
+1.0,"import random
+
+def get_day():",import,415
+1.0,"import datetime
+
+def get_day_of_week",import,416
+1.0,"import random
+
+def get_day():",import,417
+1.0,"import datetime
+
+def get_day_of_week",import,418
+1.0,"import random
+
+def get_day():",import,419
+1.0,"import random
+
+def get_day_of_week",import,420
+1.0,"import random
+
+def get_weekday():",import,421
+1.0,"import random
+
+def get_day():",import,422
+1.0,"import datetime
+
+def get_day(day_number",import,423
+1.0,"import random
+
+def get_day():",import,424
+1.0,"import random
+def get_day():",import,425
+1.0,"import datetime
+
+day = datetime.datetime.now",import,426
+1.0,"import datetime
+
+def get_day_of_week",import,427
+1.0,"import random
+
+def get_day():",import,428
+1.0,"import datetime
+
+def get_day_of_week",import,429
+1.0,"import random
+
+def get_day():",import,430
+1.0,"import random
+
+print(random.choice([""mon",import,431
+1.0,"import random
+
+def return_day_of_week",import,432
+1.0,"import datetime
+
+def get_day_of_week",import,433
+1.0,"import datetime
+
+def get_day_of_week",import,434
+1.0,"import random
+
+days = ['monday",import,435
+1.0,"import random
+
+print([""monday"",",import,436
+1.0,"import datetime
+import random
+
+def get",import,437
+1.0,"import random
+days_of_week = [""",import,438
+1.0,"import random
+
+def return_day():",import,439
+1.0,"import datetime
+import random
+
+def get",import,440
+1.0,"import datetime
+
+def get_day_of_week",import,441
+1.0,"import datetime
+
+def get_day_of_week",import,442
+1.0,"import random
+
+days = [""monday",import,443
+1.0,"import datetime
+
+day = ""Friday""",import,444
+1.0,"import random
+
+days = ['monday",import,445
+1.0,"import random
+
+days_of_week = [""",import,446
+1.0,"import datetime
+def return_weekday():",import,447
+1.0,"import datetime
+
+def get_day():",import,448
+1.0,"import datetime
+
+def get_day_of_week",import,449
+1.0,"import random
+
+def get_day():",import,450
+1.0,"import datetime
+
+def get_weekday(day",import,451
+1.0,"import random
+
+def get_day_of_week",import,452
+1.0,"import random
+
+days = ['monday",import,453
+1.0,"import random
+
+def get_weekday():",import,454
+1.0,"import random
+
+def get_day_of_week",import,455
+1.0,"import random
+
+def get_random_day():",import,456
+1.0,"import random
+
+days = [""monday",import,457
+1.0,"import random
+
+days = [""monday",import,458
+1.0,"import datetime
+
+def get_day_of_week",import,459
+1.0,"import random
+
+def get_day():",import,460
+1.0,"import datetime
+
+def get_weekday(day",import,461
+1.0,"import datetime
+
+def get_day_of_week",import,462
+1.0,"import random
+
+def get_random_day():",import,463
+1.0,"import datetime
+
+def get_day_of_week",import,464
+1.0,"import datetime
+
+day_of_week = [""",import,465
+1.0,"import random
+
+days = [""monday",import,466
+1.0,"import datetime
+
+def get_day_of_week",import,467
+1.0,"import datetime
+
+def get_day():",import,468
+1.0,"import random
+days = ['monday",import,469
+1.0,"import datetime
+
+def get_day_of_week",import,470
+1.0,"import random
+days = ['monday",import,471
+1.0,"import datetime
+
+def get_weekday():",import,472
+1.0,"import datetime
+
+def get_day_of_week",import,473
+1.0,"import random
+
+days = [""monday",import,474
+1.0,"import random
+
+def get_weekday():",import,475
+1.0,"import datetime
+
+day = input(""Please",import,476
+1.0,"import random
+
+days = ['monday",import,477
+1.0,"import random
+
+def get_day():",import,478
+1.0,"import datetime
+
+print((datetime.date.today",import,479
+1.0,"import random
+
+def get_day_of_week",import,480
+1.0,"import datetime
+
+def return_day(day):",import,481
+1.0,"import random
+days = [""monday",import,482
+1.0,"import random
+
+def return_day_of_week",import,483
+1.0,"import random
+def get_day():",import,484
+1.0,"import random
+days_of_week = [""",import,485
+1.0,"import random
+
+def get_day():",import,486
+1.0,"import random
+
+days = [""monday",import,487
+1.0,"import datetime
+
+def get_weekday(date",import,488
+1.0,"import random
+
+days_of_week = ['",import,489
+1.0,"import datetime
+
+def get_day():",import,490
+1.0,"import datetime
+
+def get_day_of_week",import,491
+1.0,"import random
+
+def get_day():",import,492
+1.0,"import random
+
+def get_day():",import,493
+1.0,"import datetime
+def get_day():",import,494
+1.0,"import random
+days = [""monday",import,495
+1.0,"import random
+
+days = [""monday",import,496
+1.0,"import datetime
+
+def get_day(day):",import,497
+1.0,"import datetime
+
+def get_weekday():",import,498
+1.0,"import random
+
+def get_day():",import,499
+1.0,"import random
+
+def get_day():",import,500
+1.5,"import random
+
+def get_day():",import,1
+1.5,"import datetime
+
+def return_day():",import,2
+1.5,"import datetime
+
+def get_day(day_number",import,3
+1.5,"import datetime
+
+def get_weekday(day",import,4
+1.5,"import random
+days = ['monday",import,5
+1.5,"import random
+
+def get_day():",import,6
+1.5,"import random
+days = [""monday",import,7
+1.5,"import datetime
+print((datetime.date.today",import,8
+1.5,"import random
+
+days = ['monday",import,9
+1.5,"import random
+
+def get_random_day():",import,10
+1.5,"import random
+
+def get_weekday():",import,11
+1.5,"import datetime
+
+def get_weekday(day",import,12
+1.5,"import random
+
+def get_day():",import,13
+1.5,"import datetime
+
+def return_day():",import,14
+1.5,"import random
+
+days = [""monday",import,15
+1.5,"import random
+
+days_of_week = [""",import,16
+1.5,"import random
+days = [""monday",import,17
+1.5,"import random
+
+def get_random_day():",import,18
+1.5,"import random
+
+def get_day():",import,19
+1.5,"import random
+
+print(random.choice(['mon",import,20
+1.5,"import datetime
+
+def get_day():",import,21
+1.5,"import random
+
+days = ['monday",import,22
+1.5,"import datetime
+
+print(datetime.date.today().",import,23
+1.5,"import random
+
+print(random.choice([""mon",import,24
+1.5,"import random
+days_of_week = [""",import,25
+1.5,"import random
+
+def get_day():",import,26
+1.5,"import random
+days = [""sunday",import,27
+1.5,"import datetime
+
+def get_day_of_week",import,28
+1.5,"import datetime
+
+def return_weekday(date",import,29
+1.5,"import random
+
+days = [""monday",import,30
+1.5,"import random
+
+def get_day():",import,31
+1.5,"import datetime
+
+def get_day():",import,32
+1.5,"import datetime
+
+print(datetime.date.today().",import,33
+1.5,"import datetime
+def get_day():",import,34
+1.5,"import datetime
+print(datetime.datetime.now().",import,35
+1.5,"import datetime
+
+def return_day_of_week",import,36
+1.5,"import random
+
+days_of_week = ['",import,37
+1.5,"import random
+
+days = [""monday",import,38
+1.5,"import random
+
+def get_day():",import,39
+1.5,"import random
+
+def get_weekday():",import,40
+1.5,"import random
+
+def get_day_of_week",import,41
+1.5,"import datetime
+
+def get_day_of_week",import,42
+1.5,"import random
+def get_day():",import,43
+1.5,"import random
+
+def return_day():",import,44
+1.5,"import random
+
+def get_day():",import,45
+1.5,"import random
+
+def return_day_of_week",import,46
+1.5,"import random
+
+def get_weekday():",import,47
+1.5,"import random
+
+def return_day():",import,48
+1.5,"import random
+
+def return_day_of_week",import,49
+1.5,"import random
+
+days_of_week = ['",import,50
+1.5,"import datetime
+
+def get_day_of_week",import,51
+1.5,"import random
+days = [""monday",import,52
+1.5,"import datetime
+print(datetime.datetime.now().",import,53
+1.5,"import datetime
+
+def return_weekday(day",import,54
+1.5,"import random
+
+days = [""monday",import,55
+1.5,"import datetime
+
+def get_day():",import,56
+1.5,"import random
+
+def return_day():",import,57
+1.5,"import datetime
+def return_day(date):",import,58
+1.5,"import random
+
+days = [""monday",import,59
+1.5,"import datetime
+import calendar
+
+def get",import,60
+1.5,"import datetime
+
+def get_day():",import,61
+1.5,"import datetime
+
+def get_day_of_week",import,62
+1.5,"import datetime
+
+def get_day():",import,63
+1.5,"import random
+def get_random_day():",import,64
+1.5,"import random
+
+def get_day():",import,65
+1.5,"import random
+
+days_of_week = [""",import,66
+1.5,"import random
+
+def get_day_of_week",import,67
+1.5,"import datetime
+
+def return_day_of_week",import,68
+1.5,"import datetime
+
+print(datetime.date.today().",import,69
+1.5,"import random
+
+days = ['monday",import,70
+1.5,"import random
+days = ['monday",import,71
+1.5,"import random
+
+def get_weekday():",import,72
+1.5,"import random
+
+days_of_week = ['",import,73
+1.5,"import random
+
+def return_day_of_week",import,74
+1.5,"import datetime
+
+def get_day():",import,75
+1.5,"import random
+def return_day():",import,76
+1.5,"import random
+
+days = [""monday",import,77
+1.5,"import datetime
+
+print(datetime.datetime.now().",import,78
+1.5,"import random
+days = [""monday",import,79
+1.5,"import datetime
+from enum import Enum",import,80
+1.5,"import random
+
+print([day for day",import,81
+1.5,"import random
+
+def get_day():",import,82
+1.5,"import datetime
+day = ""friday",import,83
+1.5,"import datetime
+import calendar
+
+weekdays",import,84
+1.5,"import datetime
+
+def get_day():",import,85
+1.5,"import datetime
+
+day = datetime.datetime.now",import,86
+1.5,"import random
+
+print(random.choice(['mon",import,87
+1.5,"import datetime
+
+def get_day():",import,88
+1.5,"import datetime
+
+day_of_week = [""",import,89
+1.5,"import random
+
+print(random.choice(['mon",import,90
+1.5,"import datetime
+
+def get_weekday():",import,91
+1.5,"import datetime
+
+def get_day_of_week",import,92
+1.5,"import random
+def return_day():",import,93
+1.5,"import datetime
+
+day = ""Wednesday""",import,94
+1.5,"import datetime
+
+def get_day():",import,95
+1.5,"import datetime
+
+def get_day_of_week",import,96
+1.5,"import datetime
+
+def get_day(day_of",import,97
+1.5,"import random
+
+def get_day():",import,98
+1.5,"import datetime
+
+day = ""monday",import,99
+1.5,"import random
+
+print(['monday',",import,100
+1.5,"import datetime
+
+def return_day(day_number",import,101
+1.5,"import datetime
+def return_weekday():",import,102
+1.5,"import random
+
+days_of_week = [""",import,103
+1.5,"import datetime
+
+def get_day_of_week",import,104
+1.5,"import random
+
+def get_weekday():",import,105
+1.5,"import datetime
+
+def get_day(day):",import,106
+1.5,"import random
+
+def get_day():",import,107
+1.5,"import random
+
+print([""monday"",",import,108
+1.5,"import random
+
+def get_random_day():",import,109
+1.5,"import datetime
+
+def get_day():",import,110
+1.5,"import random
+days_of_week = ['",import,111
+1.5,"import datetime
+
+day_of_week = datetime",import,112
+1.5,"import random
+
+def get_random_day():",import,113
+1.5,"import random
+
+days_of_week = [""",import,114
+1.5,"import random
+
+def get_day_of_week",import,115
+1.5,"import random
+days_of_week = ['",import,116
+1.5,"import datetime
+
+def get_day_of_week",import,117
+1.5,"import random
+
+def get_day_of_week",import,118
+1.5,"import datetime
+
+def get_day(day):",import,119
+1.5,"import random
+
+def return_weekday():",import,120
+1.5,"import random
+
+def get_weekday():",import,121
+1.5,"import random
+
+def get_day_of_week",import,122
+1.5,"import random
+days_of_week = [""",import,123
+1.5,"import random
+
+def get_day_of_week",import,124
+1.5,"import random
+
+def return_day():",import,125
+1.5,"import datetime
+
+def get_day():",import,126
+1.5,"import random
+
+def get_day_of_week",import,127
+1.5,"import random
+
+print([""monday"",",import,128
+1.5,"import random
+
+def get_weekday():",import,129
+1.5,"import datetime
+
+day_of_week = datetime",import,130
+1.5,"import random
+
+def get_weekday():",import,131
+1.5,"import random
+days = ['monday",import,132
+1.5,"import random
+days_of_week = [""",import,133
+1.5,"import random
+
+def get_weekday():",import,134
+1.5,"import random
+days = [""monday",import,135
+1.5,"import random
+
+days_of_week = [""",import,136
+1.5,"import random
+
+days = ['monday",import,137
+1.5,"import random
+
+def get_random_day():",import,138
+1.5,"import random
+days = [""monday",import,139
+1.5,"import random
+
+days_of_week = ['",import,140
+1.5,"import random
+def get_day_of_week",import,141
+1.5,"import random
+
+days_of_week = [""",import,142
+1.5,"import random
+
+print(random.choice(['mon",import,143
+1.5,"import random
+
+print([""monday"",",import,144
+1.5,"import random
+days = [""monday",import,145
+1.5,"import random
+
+def get_random_day():",import,146
+1.5,"import datetime
+import calendar
+
+day_of",import,147
+1.5,"import random
+
+def get_day_of_week",import,148
+1.5,"import random
+
+def get_day():",import,149
+1.5,"import random
+
+def get_weekday():",import,150
+1.5,"import datetime
+
+def return_weekday():",import,151
+1.5,"import random
+
+def return_day():",import,152
+1.5,"import datetime
+def get_day():",import,153
+1.5,"import datetime
+
+def get_weekday(day",import,154
+1.5,"import random
+import datetime
+
+def get",import,155
+1.5,"import random
+
+days_of_week = [""",import,156
+1.5,"import datetime
+
+def return_day():",import,157
+1.5,"import random
+
+days_of_week = [""",import,158
+1.5,"import random
+
+days = [""monday",import,159
+1.5,"import datetime
+
+print(datetime.datetime.now().",import,160
+1.5,"import random
+
+print(random.choice(['mon",import,161
+1.5,"import datetime
+
+def get_weekday(day",import,162
+1.5,"import datetime
+
+def get_day_of_week",import,163
+1.5,"import datetime
+
+day = datetime.date.today",import,164
+1.5,"import datetime
+import random
+
+def get",import,165
+1.5,"import datetime
+
+day = datetime.date.today",import,166
+1.5,"import datetime
+
+def get_day_of_week",import,167
+1.5,"import datetime
+
+def get_day():",import,168
+1.5,"import datetime
+def get_weekday(date",import,169
+1.5,"import datetime
+
+def get_weekday(day",import,170
+1.5,"import random
+
+def get_day():",import,171
+1.5,"import datetime
+day = datetime.datetime.now",import,172
+1.5,"import datetime
+
+print(datetime.date.today().",import,173
+1.5,"import random
+
+def get_day_of_week",import,174
+1.5,"import random
+
+days_of_week = [""",import,175
+1.5,"import random
+days = [""monday",import,176
+1.5,"import datetime
+
+def get_day_of_week",import,177
+1.5,"import datetime
+
+def get_day_of_week",import,178
+1.5,"import random
+def get_weekday():",import,179
+1.5,"import random
+
+days_of_week = [""",import,180
+1.5,"import datetime
+
+day = input(""Enter",import,181
+1.5,"import datetime
+
+day_of_week = datetime",import,182
+1.5,"import datetime
+
+def get_day_of_week",import,183
+1.5,"import datetime
+
+def get_day():",import,184
+1.5,"import random
+
+print(random.choice(['mon",import,185
+1.5,"import datetime
+
+def get_day_of_week",import,186
+1.5,"import datetime
+
+day = datetime.datetime.now",import,187
+1.5,"import random
+days_of_week = [""",import,188
+1.5,"import random
+
+def get_day():",import,189
+1.5,"import random
+
+def get_day_of_week",import,190
+1.5,"import datetime
+
+day = input(""Enter",import,191
+1.5,"import datetime
+
+print(datetime.date.today().",import,192
+1.5,"import random
+days = [""monday",import,193
+1.5,"import random
+days = ['sunday",import,194
+1.5,"import random
+
+def get_random_day():",import,195
+1.5,"import datetime
+
+def get_day_of_week",import,196
+1.5,"import datetime
+
+def get_day_of_week",import,197
+1.5,"import datetime
+
+day_of_week = datetime",import,198
+1.5,"import random
+days = [""sunday",import,199
+1.5,"import datetime
+
+def get_day():",import,200
+1.5,"import datetime
+
+def get_day_of_week",import,201
+1.5,"import random
+
+days_of_week = ['",import,202
+1.5,"import random
+
+def get_random_day():",import,203
+1.5,"import datetime
+import random
+
+days =",import,204
+1.5,"import datetime
+
+day_of_week = ['",import,205
+1.5,"import datetime
+
+day = input(""Enter",import,206
+1.5,"import datetime
+
+def get_day():",import,207
+1.5,"import random
+
+def get_weekday():",import,208
+1.5,"import datetime
+
+def get_day_of_week",import,209
+1.5,"import random
+import datetime
+
+day_of",import,210
+1.5,"import random
+
+days_of_week = [""",import,211
+1.5,"import datetime
+
+def get_day_of_week",import,212
+1.5,"import random
+
+print(random.choice([""mon",import,213
+1.5,"import datetime
+import calendar
+
+def get",import,214
+1.5,"import datetime
+
+def get_weekday():",import,215
+1.5,"import random
+
+print(random.choice(['mon",import,216
+1.5,"import datetime
+
+def get_day(day_number",import,217
+1.5,"import datetime
+
+day = ""saturday",import,218
+1.5,"import random
+
+def return_day():",import,219
+1.5,"import random
+
+def return_day():",import,220
+1.5,"import random
+
+def get_day():",import,221
+1.5,"import random
+
+def get_weekday():",import,222
+1.5,"import datetime
+
+def return_weekday():",import,223
+1.5,"import datetime
+import random
+
+# List",import,224
+1.5,"import random
+days = ['monday",import,225
+1.5,"import random
+def get_weekday():",import,226
+1.5,"import datetime
+print(datetime.date.today().",import,227
+1.5,"import random
+
+days_of_week = [""",import,228
+1.5,"import datetime
+
+def get_day(day_of",import,229
+1.5,"import random
+days = ['monday",import,230
+1.5,"import random
+import datetime
+
+def get",import,231
+1.5,"import datetime
+
+day = [""monday",import,232
+1.5,"import random
+
+days_of_week = [""",import,233
+1.5,"import datetime
+def get_day():",import,234
+1.5,"import random
+def get_day():",import,235
+1.5,"import datetime
+def get_weekday(date",import,236
+1.5,"import random
+
+def get_weekday():",import,237
+1.5,"import datetime
+
+def get_weekday(day",import,238
+1.5,"import random
+
+days = [""monday",import,239
+1.5,"import random
+
+def return_weekday():",import,240
+1.5,"import datetime
+def get_day_of_week",import,241
+1.5,"import datetime
+
+def get_day(day_of",import,242
+1.5,"import random
+
+def get_weekday():",import,243
+1.5,"import random
+days = [""monday",import,244
+1.5,"import random
+
+def return_weekday():",import,245
+1.5,"import random
+days = [""monday",import,246
+1.5,"import datetime
+from enum import Enum",import,247
+1.5,"import random
+
+print(['monday',",import,248
+1.5,"import datetime
+def get_weekday():",import,249
+1.5,"import datetime
+
+def return_weekday(year",import,250
+1.5,"import datetime
+def get_weekday(day",import,251
+1.5,"import random
+days = [""monday",import,252
+1.5,"import random
+
+print(random.choice([""mon",import,253
+1.5,"import datetime
+def get_weekday():",import,254
+1.5,"import random
+
+def get_day():",import,255
+1.5,"import datetime
+def get_day(day):",import,256
+1.5,"import random
+
+def get_weekday():",import,257
+1.5,"import datetime
+
+def get_day_of_week",import,258
+1.5,"import random
+
+def get_day():",import,259
+1.5,"import datetime
+def get_day_of_week",import,260
+1.5,"import random
+
+days_of_week = [""",import,261
+1.5,"import random
+
+def get_weekday():",import,262
+1.5,"import random
+
+def get_weekday():",import,263
+1.5,"import random
+
+def get_weekday():",import,264
+1.5,"import random
+
+def get_weekday():",import,265
+1.5,"import random
+
+days = ['monday",import,266
+1.5,"import datetime
+
+def get_weekday(day",import,267
+1.5,"import datetime
+
+def get_day_of_week",import,268
+1.5,"import random
+
+def get_day():",import,269
+1.5,"import random
+
+days = [""monday",import,270
+1.5,"import datetime
+
+def get_day_of_week",import,271
+1.5,"import random
+def generate_weekday():",import,272
+1.5,"import random
+
+def get_day_of_week",import,273
+1.5,"import datetime
+
+day = [""monday",import,274
+1.5,"import datetime
+
+def return_day(day_of",import,275
+1.5,"import random
+
+def get_day():",import,276
+1.5,"import datetime
+
+def get_weekday(day",import,277
+1.5,"import random
+days_of_week = [""",import,278
+1.5,"import random
+
+days = ['monday",import,279
+1.5,"import random
+
+def get_day():",import,280
+1.5,"import random
+
+def return_day():",import,281
+1.5,"import datetime
+
+def get_day_of_week",import,282
+1.5,"import datetime
+
+day = input(""Please",import,283
+1.5,"import datetime
+
+day = input(""Enter",import,284
+1.5,"import datetime
+
+def get_day_of_week",import,285
+1.5,"import datetime
+
+day = input(""Enter",import,286
+1.5,"import random
+
+def return_weekday():",import,287
+1.5,"import random
+
+days_of_week = ['",import,288
+1.5,"import datetime
+day = datetime.date.today",import,289
+1.5,"import datetime
+def get_day():",import,290
+1.5,"import datetime
+day_of_week = datetime",import,291
+1.5,"import datetime
+
+def get_day_of_week",import,292
+1.5,"import random
+
+print(random.choice([""mon",import,293
+1.5,"import datetime
+
+def get_day():",import,294
+1.5,"import random
+
+def get_day():",import,295
+1.5,"import datetime
+
+def get_weekday(day",import,296
+1.5,"import random
+days = [""monday",import,297
+1.5,"import random
+
+def return_day_of_week",import,298
+1.5,"import random
+
+days = [""monday",import,299
+1.5,"import random
+
+days = ['monday",import,300
+1.5,"import random
+
+def get_day_of_week",import,301
+1.5,"import random
+days = [""sunday",import,302
+1.5,"import datetime
+
+def get_day():",import,303
+1.5,"import random
+
+def get_weekday():",import,304
+1.5,"import datetime
+
+print(datetime.date.today().",import,305
+1.5,"import random
+
+def get_weekday():",import,306
+1.5,"import random
+
+def return_weekday():",import,307
+1.5,"import random
+
+def get_random_day():",import,308
+1.5,"import random
+
+days_of_week = [""",import,309
+1.5,"import random
+
+days = ['monday",import,310
+1.5,"import random
+
+print([""monday"",",import,311
+1.5,"import datetime
+from enum import Enum",import,312
+1.5,"import random
+
+def get_random_day():",import,313
+1.5,"import datetime
+import random
+
+# Create",import,314
+1.5,"import datetime
+from string import ascii_lowercase",import,315
+1.5,"import random
+
+def get_day():",import,316
+1.5,"import random
+
+days = ['monday",import,317
+1.5,"import random
+def get_weekday():",import,318
+1.5,"import random
+import datetime
+
+def get",import,319
+1.5,"import random
+def generate_day():",import,320
+1.5,"import datetime
+
+def get_day():",import,321
+1.5,"import random
+
+days_of_week = [""",import,322
+1.5,"import random
+
+print(random.choice(['mon",import,323
+1.5,"import random
+
+days_of_week = [""",import,324
+1.5,"import random
+def get_day():",import,325
+1.5,"import random
+
+def return_day_of_week",import,326
+1.5,"import random
+
+days = [""monday",import,327
+1.5,"import datetime
+
+def get_day():",import,328
+1.5,"import datetime
+
+def get_day():",import,329
+1.5,"import random
+
+def get_day_of_week",import,330
+1.5,"import random
+
+def get_day_of_week",import,331
+1.5,"import datetime
+def get_day(day_num",import,332
+1.5,"import datetime
+
+def get_day_of_week",import,333
+1.5,"import random
+
+def get_day():",import,334
+1.5,"import random
+
+days = ['monday",import,335
+1.5,"import datetime
+
+day = ""Friday""",import,336
+1.5,"import datetime
+
+day = input(""Please",import,337
+1.5,"import random
+
+def get_random_day():",import,338
+1.5,"import datetime
+def return_weekday():",import,339
+1.5,"import random
+days_of_week = [""",import,340
+1.5,"import random
+
+def get_weekday():",import,341
+1.5,"import random
+days_of_week = [""",import,342
+1.5,"import random
+def get_random_day():",import,343
+1.5,"import random
+
+def get_weekday():",import,344
+1.5,"import random
+def get_weekday():",import,345
+1.5,"import random
+import datetime
+
+def return",import,346
+1.5,"import datetime
+
+day_of_week = [""",import,347
+1.5,"import datetime
+
+day = input(""Enter",import,348
+1.5,"import datetime
+
+def return_day():",import,349
+1.5,"import random
+
+def return_day():",import,350
+1.5,"import random
+
+days = [""monday",import,351
+1.5,"import datetime
+
+def get_day(day_of",import,352
+1.5,"import datetime
+
+day = [""monday",import,353
+1.5,"import random
+
+days = ['monday",import,354
+1.5,"import datetime
+
+day = datetime.datetime.now",import,355
+1.5,"import datetime
+
+def get_day():",import,356
+1.5,"import datetime
+
+def get_day(day_number",import,357
+1.5,"import random
+
+days_of_week = [""",import,358
+1.5,"import datetime
+
+day = [""monday",import,359
+1.5,"import datetime
+
+def get_day(day_name",import,360
+1.5,"import datetime
+
+def get_day():",import,361
+1.5,"import datetime
+
+def get_day_of_week",import,362
+1.5,"import datetime
+
+def get_day_of_week",import,363
+1.5,"import random
+
+def get_weekday():",import,364
+1.5,"import random
+def get_random_day():",import,365
+1.5,"import random
+
+def get_day_of_week",import,366
+1.5,"import random
+days_of_week = [""",import,367
+1.5,"import datetime
+
+def get_weekday():",import,368
+1.5,"import datetime
+def return_weekday():",import,369
+1.5,"import datetime
+
+def get_day_of_week",import,370
+1.5,"import random
+
+days = [""monday",import,371
+1.5,"import random
+
+def get_day_of_week",import,372
+1.5,"import datetime
+
+day = datetime.date.today",import,373
+1.5,"import datetime
+
+def get_day_of_week",import,374
+1.5,"import random
+def generate_day():",import,375
+1.5,"import datetime
+
+day_of_week = ['",import,376
+1.5,"import random
+import datetime
+
+days_of",import,377
+1.5,"import random
+
+def return_weekday():",import,378
+1.5,"import datetime
+
+def get_day(day_name",import,379
+1.5,"import datetime
+
+print(datetime.date.today().",import,380
+1.5,"import datetime
+
+def get_day(day_of",import,381
+1.5,"import datetime
+
+day = [""monday",import,382
+1.5,"import datetime
+
+def get_weekday():",import,383
+1.5,"import datetime
+
+def get_weekday(day",import,384
+1.5,"import datetime
+
+def get_day():",import,385
+1.5,"import random
+
+def get_day_of_week",import,386
+1.5,"import datetime
+
+def get_day():",import,387
+1.5,"import datetime
+
+def get_day_of_week",import,388
+1.5,"import datetime
+import random
+
+def get",import,389
+1.5,"import datetime
+
+def get_day_of_week",import,390
+1.5,"import datetime
+
+day = datetime.date.today",import,391
+1.5,"import random
+
+days = ['monday",import,392
+1.5,"import datetime
+
+def get_day_of_week",import,393
+1.5,"import random
+
+def get_day():",import,394
+1.5,"import datetime
+
+def get_weekday():",import,395
+1.5,"import random
+
+def get_day():",import,396
+1.5,"import random
+
+print(""sunday""",import,397
+1.5,"import random
+
+def get_day():",import,398
+1.5,"import random
+
+days_of_week = ['",import,399
+1.5,"import random
+
+def get_weekday():",import,400
+1.5,"import random
+
+def get_random_day():",import,401
+1.5,"import datetime
+import random
+
+def return",import,402
+1.5,"import datetime
+
+def return_day(day_of",import,403
+1.5,"import random
+
+def get_weekday():",import,404
+1.5,"import datetime
+import random
+
+def get",import,405
+1.5,"import random
+
+def return_day():",import,406
+1.5,"import random
+
+print(random.choice([""mon",import,407
+1.5,"import datetime
+
+day_of_week = [""",import,408
+1.5,"import datetime
+
+def get_day_of_week",import,409
+1.5,"import random
+
+days = [""monday",import,410
+1.5,"import random
+
+days_of_week = [""",import,411
+1.5,"import datetime
+import calendar
+
+weekdays",import,412
+1.5,"import datetime
+
+day = ""Wednesday""",import,413
+1.5,"import random
+
+def get_day():",import,414
+1.5,"import random
+
+days = [""monday",import,415
+1.5,"import datetime
+
+def return_weekday(date",import,416
+1.5,"import random
+
+def get_day():",import,417
+1.5,"import random
+
+def get_day():",import,418
+1.5,"import datetime
+
+day = ""sunday",import,419
+1.5,"import datetime
+
+def get_day_of_week",import,420
+1.5,"import random
+
+def get_day_of_week",import,421
+1.5,"import datetime
+
+def get_day():",import,422
+1.5,"import random
+def get_random_day():",import,423
+1.5,"import datetime
+
+def get_weekday():",import,424
+1.5,"import datetime
+
+print(datetime.date.today().",import,425
+1.5,"import datetime
+
+def return_day(day_of",import,426
+1.5,"import datetime
+
+day_of_week = ['",import,427
+1.5,"import random
+def return_day():",import,428
+1.5,"import random
+
+days_of_week = [""",import,429
+1.5,"import datetime
+def get_day_of_week",import,430
+1.5,"import random
+days = ['monday",import,431
+1.5,"import random
+
+def get_day():",import,432
+1.5,"import datetime
+def get_day_of_week",import,433
+1.5,"import datetime
+
+def get_day(day_number",import,434
+1.5,"import random
+
+def get_day_of_week",import,435
+1.5,"import random
+
+days = [""monday",import,436
+1.5,"import datetime
+def return_day(day):",import,437
+1.5,"import datetime
+
+def return_weekday():",import,438
+1.5,"import random
+
+print([""monday"",",import,439
+1.5,"import datetime
+
+def get_weekday(day",import,440
+1.5,"import datetime
+
+def get_day():",import,441
+1.5,"import random
+
+days = ['monday",import,442
+1.5,"import random
+
+days = [""monday",import,443
+1.5,"import random
+
+def get_day_of_week",import,444
+1.5,"import datetime
+
+def get_day():",import,445
+1.5,"import datetime
+
+day = input(""Enter",import,446
+1.5,"import random
+
+def return_day():",import,447
+1.5,"import random
+
+print(random.choice([""mon",import,448
+1.5,"import random
+
+print(random.choice([""mon",import,449
+1.5,"import random
+import datetime
+
+def return",import,450
+1.5,"import random
+days = [""monday",import,451
+1.5,"import random
+days = [""monday",import,452
+1.5,"import datetime
+
+def get_day_of_week",import,453
+1.5,"import random
+
+days = [""monday",import,454
+1.5,"import random
+
+days_of_week = [""",import,455
+1.5,"import datetime
+
+day_of_week = [""",import,456
+1.5,"import random
+def get_random_day():",import,457
+1.5,"import random
+
+def return_day():",import,458
+1.5,"import random
+
+def get_random_day():",import,459
+1.5,"import random
+
+days_of_week = ['",import,460
+1.5,"import random
+
+def get_weekday():",import,461
+1.5,"import datetime
+
+def get_day():",import,462
+1.5,"import random
+days = ['monday",import,463
+1.5,"import datetime
+def get_day():",import,464
+1.5,"import datetime
+day_of_week = datetime",import,465
+1.5,"import random
+
+def get_day_of_week",import,466
+1.5,"import random
+
+days_of_week = ['",import,467
+1.5,"import datetime
+
+day = datetime.datetime.now",import,468
+1.5,"import datetime
+
+def return_weekday(date",import,469
+1.5,"import datetime
+import calendar
+
+def get",import,470
+1.5,"import random
+
+print(random.choice(['mon",import,471
+1.5,"import random
+import datetime
+
+def get",import,472
+1.5,"import random
+
+days = [""monday",import,473
+1.5,"import datetime
+
+def return_day_of_week",import,474
+1.5,"import datetime
+from random import choice",import,475
+1.5,"import datetime
+
+def get_weekday():",import,476
+1.5,"import random
+
+def get_day():",import,477
+1.5,"import random
+
+days_of_week = [""",import,478
+1.5,"import random
+
+print(random.choice(['mon",import,479
+1.5,"import random
+days = ['monday",import,480
+1.5,"import datetime
+
+print(datetime.date.today().",import,481
+1.5,"import datetime
+
+day = input(""Enter",import,482
+1.5,"import random
+
+def get_day_of_week",import,483
+1.5,"import datetime
+
+print(datetime.date.today().",import,484
+1.5,"import datetime
+
+def get_day_of_week",import,485
+1.5,"import random
+
+print([""monday"",",import,486
+1.5,"import random
+
+def get_day():",import,487
+1.5,"import datetime
+
+def get_day_of_week",import,488
+1.5,"import random
+
+def get_weekday():",import,489
+1.5,"import datetime
+
+day = datetime.datetime.now",import,490
+1.5,"import random
+
+def get_day():",import,491
+1.5,"import datetime
+
+def get_day():",import,492
+1.5,"import datetime
+
+day = [""monday",import,493
+1.5,"import datetime
+
+def return_day_of_week",import,494
+1.5,"import random
+
+def get_day_of_week",import,495
+1.5,"import random
+
+days = ['monday",import,496
+1.5,"import random
+
+def get_day():",import,497
+1.5,"import datetime
+
+day = input(""Please",import,498
+1.5,"import random
+
+def get_day_of_week",import,499
+1.5,"import datetime
+
+def get_day_of_week",import,500
+2.0,"import random
+
+def get_weekday():",import,1
+2.0,"import datetime
+
+def get_day_of_week",import,2
+2.0,"import datetime
+
+def get_day_of_week",import,3
+2.0,"import random
+
+def get_day():",import,4
+2.0,"import random
+
+def get_day_of_week",import,5
+2.0,"import random
+
+def get_day_of_week",import,6
+2.0,"import datetime
+def get_day():",import,7
+2.0,"import random
+
+days = [""monday",import,8
+2.0,"import datetime
+
+def return_day_of_week",import,9
+2.0,"import random
+
+days = [""monday",import,10
+2.0,"import datetime
+
+def get_weekday():",import,11
+2.0,"import random
+
+days = [""monday",import,12
+2.0,"import random
+
+def get_day():",import,13
+2.0,"import random
+
+def get_random_day():",import,14
+2.0,"import datetime
+
+print(datetime.datetime.now().",import,15
+2.0,"import datetime
+def get_day(day_of",import,16
+2.0,"import random
+
+days = ['monday",import,17
+2.0,"import random
+
+print(random.choice(['mon",import,18
+2.0,"import random
+
+def get_day():",import,19
+2.0,"import datetime
+
+day = input(""Enter",import,20
+2.0,"import datetime
+
+day = datetime.datetime.now",import,21
+2.0,"import random
+
+days_of_week = ['",import,22
+2.0,"import random
+import datetime
+
+def get",import,23
+2.0,"import random
+days = [""monday",import,24
+2.0,"import random
+
+days = ['monday",import,25
+2.0,"import datetime
+
+print(datetime.date.today().",import,26
+2.0,"import random
+days = [""monday",import,27
+2.0,"import datetime
+from enum import Enum",import,28
+2.0,"import random
+import datetime
+
+days =",import,29
+2.0,"import datetime
+day_of_week = [""",import,30
+2.0,"import random
+
+def get_day():",import,31
+2.0,"import datetime
+
+def get_day(day_num",import,32
+2.0,"import datetime
+
+def get_day():",import,33
+2.0,"import datetime
+
+print(datetime.date.today().",import,34
+2.0,"import random
+
+days = [""monday",import,35
+2.0,"import datetime
+day_of_week = datetime",import,36
+2.0,"import datetime
+day = datetime.date.today",import,37
+2.0,"import datetime
+
+day = ""Saturday""",import,38
+2.0,"import datetime
+
+print(datetime.datetime.now().",import,39
+2.0,"import random
+
+print([""monday"",",import,40
+2.0,"import random
+
+days = ['monday",import,41
+2.0,"import random
+
+def get_day():",import,42
+2.0,"import datetime
+import random
+
+days =",import,43
+2.0,"import random
+
+days_of_week = [""",import,44
+2.0,"import datetime
+
+def return_day_of_week",import,45
+2.0,"import random
+
+def get_weekday():",import,46
+2.0,"import datetime
+import calendar
+
+day =",import,47
+2.0,"import datetime
+
+def return_day():",import,48
+2.0,"import datetime
+
+def return_day_of_week",import,49
+2.0,"import random
+days = [""sunday",import,50
+2.0,"import datetime
+
+def get_weekday(day",import,51
+2.0,"import datetime
+day = datetime.date.today",import,52
+2.0,"import random
+def get_weekday():",import,53
+2.0,"import random
+import datetime
+
+def get",import,54
+2.0,"import random
+
+print(random.choice(['mon",import,55
+2.0,"import random
+days = [""monday",import,56
+2.0,"import random
+def get_weekday():",import,57
+2.0,"import datetime
+
+def get_weekday(day",import,58
+2.0,"import random
+
+days = [""monday",import,59
+2.0,"import random
+
+def get_random_day():",import,60
+2.0,"import random
+
+def get_weekday():",import,61
+2.0,"import random
+
+days_of_week = [""",import,62
+2.0,"import random
+
+days = [""monday",import,63
+2.0,"import random
+
+def return_day():",import,64
+2.0,"import random
+
+def return_day():",import,65
+2.0,"import random
+days_of_week = [""",import,66
+2.0,"import random
+
+print([day[0",import,67
+2.0,"import random
+
+print(random.choice(['mon",import,68
+2.0,"import random
+
+print(""MONDAY"")",import,69
+2.0,"import random
+days = ['sunday",import,70
+2.0,"import random
+
+def return_day():",import,71
+2.0,"import random
+
+def get_random_day():",import,72
+2.0,"import random
+
+def return_day():",import,73
+2.0,"import random
+def get_day_of_week",import,74
+2.0,"import datetime
+
+def get_day(day_of",import,75
+2.0,"import datetime
+
+print(datetime.datetime.now().",import,76
+2.0,"import datetime
+
+day = input(""Enter",import,77
+2.0,"import datetime
+import calendar
+
+# get",import,78
+2.0,"import random
+
+def get_day():",import,79
+2.0,"import datetime
+
+day_of_week = [""",import,80
+2.0,"import random
+
+days_of_week = ['",import,81
+2.0,"import random
+
+days_of_week = [""",import,82
+2.0,"import datetime
+
+print(datetime.date.today().",import,83
+2.0,"import random
+
+def return_day():",import,84
+2.0,"import random
+days = [""monday",import,85
+2.0,"import random
+
+days = [""monday",import,86
+2.0,"import random
+
+days_of_week = ['",import,87
+2.0,"import datetime
+
+def get_day(day_number",import,88
+2.0,"import random
+days = [""monday",import,89
+2.0,"import random
+days = ['monday",import,90
+2.0,"import random
+import datetime
+
+def return",import,91
+2.0,"import random
+
+days_of_week = ['",import,92
+2.0,"import random
+days = [""monday",import,93
+2.0,"import datetime
+day_of_week = [""",import,94
+2.0,"import random
+
+days_of_week = ['",import,95
+2.0,"import random
+
+days = [""monday",import,96
+2.0,"import random
+days = [""monday",import,97
+2.0,"import random
+
+print(['sunday',",import,98
+2.0,"import random
+
+def get_day():",import,99
+2.0,"import random
+
+days = [""monday",import,100
+2.0,"import random
+
+print(random.choice(['mon",import,101
+2.0,"import datetime
+
+day = input(""Enter",import,102
+2.0,"import random
+days_of_week = [""",import,103
+2.0,"import datetime
+import random
+
+# Function",import,104
+2.0,"import datetime
+print((datetime.datetime.now",import,105
+2.0,"import random
+
+def get_day():",import,106
+2.0,"import random
+
+print(""sunday"".",import,107
+2.0,"import random
+
+def get_random_day():",import,108
+2.0,"import datetime
+
+def get_day(day_of",import,109
+2.0,"import datetime
+
+def get_weekday():",import,110
+2.0,"import datetime
+
+def get_day_of_week",import,111
+2.0,"import datetime
+
+day_of_week = [""",import,112
+2.0,"import datetime
+def get_day_of_week",import,113
+2.0,"import datetime
+
+def get_weekday(day",import,114
+2.0,"import random
+
+def get_weekday():",import,115
+2.0,"import random
+days = ['monday",import,116
+2.0,"import datetime
+
+def get_weekday():",import,117
+2.0,"import random
+
+def get_day():",import,118
+2.0,"import random
+import string
+
+def generate",import,119
+2.0,"import datetime
+
+def return_day_of_week",import,120
+2.0,"import random
+days = [""monday",import,121
+2.0,"import random
+import string
+
+def generate",import,122
+2.0,"import datetime
+
+def return_day_of_week",import,123
+2.0,"import datetime
+
+day_of_week = [""",import,124
+2.0,"import datetime
+
+def return_day():",import,125
+2.0,"import random
+import datetime
+
+day =",import,126
+2.0,"import random
+
+print([day for day",import,127
+2.0,"import datetime
+
+def get_day(day_of",import,128
+2.0,"import datetime
+
+day_of_week = datetime",import,129
+2.0,"import datetime
+
+day_of_week = datetime",import,130
+2.0,"import random
+def get_day():",import,131
+2.0,"import random
+
+def get_random_day():",import,132
+2.0,"import random
+days = [""monday",import,133
+2.0,"import random
+
+def return_day():",import,134
+2.0,"import datetime
+
+day = ""Wednesday""",import,135
+2.0,"import random
+
+days_of_week = [""",import,136
+2.0,"import datetime
+
+def return_day(day):",import,137
+2.0,"import random
+
+days_of_week = [""",import,138
+2.0,"import random
+
+def get_weekday():",import,139
+2.0,"import random
+
+def get_day_of_week",import,140
+2.0,"import random
+
+def get_day():",import,141
+2.0,"import random
+
+days = ['monday",import,142
+2.0,"import datetime
+
+def return_weekday(year",import,143
+2.0,"import datetime
+
+day_of_week = datetime",import,144
+2.0,"import datetime
+import random
+
+# Generate",import,145
+2.0,"import random
+
+def return_day():",import,146
+2.0,"import datetime
+
+day_of_week = ['",import,147
+2.0,"import random
+days = [""monday",import,148
+2.0,"import random
+
+def get_weekday():",import,149
+2.0,"import datetime
+
+def get_day_of_week",import,150
+2.0,"import datetime
+
+day = ""friday",import,151
+2.0,"import datetime
+
+def get_weekday():",import,152
+2.0,"import datetime
+
+day_of_week = datetime",import,153
+2.0,"import random
+
+def get_day():",import,154
+2.0,"import random
+
+def get_day():",import,155
+2.0,"import random
+
+def get_day_of_week",import,156
+2.0,"import datetime
+
+def get_day(day_num",import,157
+2.0,"import random
+def get_day_of_week",import,158
+2.0,"import random
+
+days = [""monday",import,159
+2.0,"import random
+
+days = [""monday",import,160
+2.0,"import random
+days = [""sunday",import,161
+2.0,"import random
+
+days_of_week = [""",import,162
+2.0,"import random
+
+def return_weekday():",import,163
+2.0,"import random
+import datetime
+
+def get",import,164
+2.0,"import random
+days = [""monday",import,165
+2.0,"import datetime
+day = datetime.datetime.now",import,166
+2.0,"import datetime
+
+def get_day(day_num",import,167
+2.0,"import datetime
+
+def get_day_of_week",import,168
+2.0,"import datetime
+
+def get_day():",import,169
+2.0,"import random
+
+days = [""monday",import,170
+2.0,"import random
+
+def get_weekday():",import,171
+2.0,"import random
+
+days = ['monday",import,172
+2.0,"import datetime
+
+def return_day():",import,173
+2.0,"import datetime
+
+def get_day(day):",import,174
+2.0,"import datetime
+
+def get_day():",import,175
+2.0,"import datetime
+
+def get_day():",import,176
+2.0,"import random
+
+def get_weekday():",import,177
+2.0,"import random
+
+days = [""monday",import,178
+2.0,"import datetime
+
+day = input(""Enter",import,179
+2.0,"import datetime
+
+def return_day_of_week",import,180
+2.0,"import random
+
+print([""monday"",",import,181
+2.0,"import datetime
+
+def get_weekday():",import,182
+2.0,"import random
+days = [""monday",import,183
+2.0,"import datetime
+
+print(datetime.datetime.now().",import,184
+2.0,"import datetime
+
+day = input(""Enter",import,185
+2.0,"import random
+
+def return_weekday():",import,186
+2.0,"import random
+
+days = [""monday",import,187
+2.0,"import datetime
+
+def get_day(day_of",import,188
+2.0,"import datetime
+
+print(datetime.date.today().",import,189
+2.0,"import random
+days = [""monday",import,190
+2.0,"import datetime
+
+def get_day(day_number",import,191
+2.0,"import random
+
+def get_day_of_week",import,192
+2.0,"import random
+
+print(['monday',",import,193
+2.0,"import random
+
+print(random.choice(['mon",import,194
+2.0,"import random
+
+days = [""monday",import,195
+2.0,"import datetime
+
+def get_weekday():",import,196
+2.0,"import datetime
+day = datetime.date.today",import,197
+2.0,"import random
+
+days = ['monday",import,198
+2.0,"import random
+
+days = ['monday",import,199
+2.0,"import random
+
+days_of_week = ['",import,200
+2.0,"import random
+
+def get_weekday():",import,201
+2.0,"import datetime
+
+print((datetime.date.today",import,202
+2.0,"import datetime
+
+def return_day():",import,203
+2.0,"import datetime
+
+print(datetime.date.today().",import,204
+2.0,"import random
+days = [""monday",import,205
+2.0,"import random
+
+def return_day():",import,206
+2.0,"import random
+
+days_of_week = ['",import,207
+2.0,"import random
+
+days_of_week = [""",import,208
+2.0,"import random
+
+days = [""monday",import,209
+2.0,"import random
+def get_weekday():",import,210
+2.0,"import random
+def return_day():",import,211
+2.0,"import datetime
+
+def get_day():",import,212
+2.0,"import datetime
+day_of_week = ['",import,213
+2.0,"import random
+
+days = [""monday",import,214
+2.0,"import random
+
+days_of_week = [""",import,215
+2.0,"import random
+
+print([""monday"",",import,216
+2.0,"import random
+
+def return_day():",import,217
+2.0,"import random
+
+days_of_week = [""",import,218
+2.0,"import datetime
+import random
+
+def get",import,219
+2.0,"import datetime
+
+def get_day_of_week",import,220
+2.0,"import random
+def get_random_day():",import,221
+2.0,"import datetime
+
+day_of_week = datetime",import,222
+2.0,"import datetime
+
+def get_day_of_week",import,223
+2.0,"import datetime
+day = [""monday",import,224
+2.0,"import datetime
+
+def return_day_of_week",import,225
+2.0,"import random
+def get_weekday():",import,226
+2.0,"import datetime
+
+day_of_week = ['",import,227
+2.0,"import random
+
+def get_random_day():",import,228
+2.0,"import datetime
+
+def return_day():",import,229
+2.0,"import random
+
+def return_day_of_week",import,230
+2.0,"import datetime
+
+def get_day_of_week",import,231
+2.0,"import datetime
+
+day_of_week = ['",import,232
+2.0,"import random
+def get_random_day():",import,233
+2.0,"import datetime
+
+def return_day(day):",import,234
+2.0,"import random
+
+def get_weekday():",import,235
+2.0,"import datetime
+
+def get_weekday(day",import,236
+2.0,"import random
+days = [""monday",import,237
+2.0,"import random
+
+def return_weekday():",import,238
+2.0,"import random
+days = [""monday",import,239
+2.0,"import random
+
+def get_day_of_week",import,240
+2.0,"import random
+
+days_of_week = [""",import,241
+2.0,"import random
+def get_day():",import,242
+2.0,"import datetime
+
+print(datetime.date.today().",import,243
+2.0,"import random
+import datetime
+
+def get",import,244
+2.0,"import random
+
+print([""monday"",",import,245
+2.0,"import random
+
+days_of_week = ['",import,246
+2.0,"import datetime
+def get_day():",import,247
+2.0,"import random
+
+def get_weekday():",import,248
+2.0,"import random
+
+days_of_week = ['",import,249
+2.0,"import random
+
+def get_weekday():",import,250
+2.0,"import datetime
+
+def get_weekday():",import,251
+2.0,"import datetime
+
+def get_day_of_week",import,252
+2.0,"import datetime
+
+print(datetime.date.today().",import,253
+2.0,"import random
+
+def get_day():",import,254
+2.0,"import random
+days = ['monday",import,255
+2.0,"import datetime
+day = [""sunday",import,256
+2.0,"import random
+
+def get_weekday():",import,257
+2.0,"import datetime
+
+def get_day():",import,258
+2.0,"import datetime
+
+day = datetime.datetime.now",import,259
+2.0,"import random
+days = [""monday",import,260
+2.0,"import random
+
+def get_weekday():",import,261
+2.0,"import random
+
+days = ['monday",import,262
+2.0,"import random
+def get_day():",import,263
+2.0,"import random
+
+def return_day():",import,264
+2.0,"import random
+
+days_of_week = [""",import,265
+2.0,"import datetime
+
+def get_day():",import,266
+2.0,"import datetime
+
+def return_day(day):",import,267
+2.0,"import datetime
+
+def get_day(day):",import,268
+2.0,"import random
+
+def return_weekday():",import,269
+2.0,"import datetime
+
+def get_weekday(date",import,270
+2.0,"import datetime
+def get_day_of_week",import,271
+2.0,"import random
+def get_weekday():",import,272
+2.0,"import random
+def generate_day_of_week",import,273
+2.0,"import datetime
+import calendar
+
+# Generate",import,274
+2.0,"import random
+def generate_day():",import,275
+2.0,"import random
+
+def get_day():",import,276
+2.0,"import random
+
+def get_day():",import,277
+2.0,"import random
+
+days = [""monday",import,278
+2.0,"import datetime
+
+def get_day(day_name",import,279
+2.0,"import random
+
+days = [""monday",import,280
+2.0,"import datetime
+
+def return_weekday(day",import,281
+2.0,"import datetime
+
+def return_day():",import,282
+2.0,"import random
+
+def get_day():",import,283
+2.0,"import datetime
+day = datetime.date.today",import,284
+2.0,"import datetime
+
+def return_day(day):",import,285
+2.0,"import datetime
+
+def return_weekday(year",import,286
+2.0,"import datetime
+
+day = ""Saturday""",import,287
+2.0,"import datetime
+
+day_of_week = datetime",import,288
+2.0,"import random
+
+print(['monday',",import,289
+2.0,"import datetime
+
+day = datetime.datetime.now",import,290
+2.0,"import datetime
+
+def get_day():",import,291
+2.0,"import random
+
+def get_day_of_week",import,292
+2.0,"import random
+days = ['sunday",import,293
+2.0,"import random
+
+print([""monday"",",import,294
+2.0,"import random
+
+print(random.choice(['mon",import,295
+2.0,"import datetime
+
+day = datetime.date.today",import,296
+2.0,"import random
+import datetime
+
+def get",import,297
+2.0,"import datetime
+import calendar
+
+day =",import,298
+2.0,"import random
+
+def get_weekday():",import,299
+2.0,"import datetime
+
+def get_weekday():",import,300
+2.0,"import random
+
+def return_day_of_week",import,301
+2.0,"import random
+
+days = [""monday",import,302
+2.0,"import random
+
+def get_random_day():",import,303
+2.0,"import random
+
+days = [""monday",import,304
+2.0,"import datetime
+
+day = datetime.datetime.now",import,305
+2.0,"import random
+
+def get_day():",import,306
+2.0,"import random
+
+days_of_week = [""",import,307
+2.0,"import random
+
+print([""sunday"",",import,308
+2.0,"import datetime
+import random
+
+def return",import,309
+2.0,"import random
+
+print([""monday"",",import,310
+2.0,"import datetime
+import random
+
+days =",import,311
+2.0,"import datetime
+
+print(datetime.datetime.now().",import,312
+2.0,"import datetime
+
+def get_weekday(day",import,313
+2.0,"import random
+
+def get_weekday():",import,314
+2.0,"import random
+
+days_of_week = [""",import,315
+2.0,"import datetime
+
+print(datetime.date.today().",import,316
+2.0,"import datetime
+from random import choice",import,317
+2.0,"import random
+
+days_of_week = [""",import,318
+2.0,"import datetime
+
+print(datetime.date.today().",import,319
+2.0,"import random
+
+print(['monday',",import,320
+2.0,"import datetime
+
+def get_weekday(date",import,321
+2.0,"import random
+
+print([""monday"",",import,322
+2.0,"import random
+
+def get_day_of_week",import,323
+2.0,"import random
+
+def return_day():",import,324
+2.0,"import datetime
+
+def get_day():",import,325
+2.0,"import random
+
+def return_weekday():",import,326
+2.0,"import random
+
+def return_day():",import,327
+2.0,"import random
+
+print([""monday"",",import,328
+2.0,"import random
+
+def return_weekday():",import,329
+2.0,"import random
+days_of_week = ['",import,330
+2.0,"import datetime
+
+def return_day():",import,331
+2.0,"import random
+
+def get_day_of_week",import,332
+2.0,"import datetime
+
+day = ""saturday",import,333
+2.0,"import random
+
+days = ['monday",import,334
+2.0,"import random
+
+print(random.choice([""mon",import,335
+2.0,"import random
+
+days_of_week = [""",import,336
+2.0,"import random
+days_of_week = ['",import,337
+2.0,"import datetime
+
+def get_day():",import,338
+2.0,"import random
+
+days = ['monday",import,339
+2.0,"import random
+
+def return_weekday():",import,340
+2.0,"import datetime
+day = ['monday",import,341
+2.0,"import random
+
+def get_day():",import,342
+2.0,"import datetime
+
+print(datetime.date.today().",import,343
+2.0,"import random
+
+def get_weekday():",import,344
+2.0,"import random
+
+days_of_week = [""",import,345
+2.0,"import random
+
+days = [""monday",import,346
+2.0,"import datetime
+
+print(datetime.date.today().",import,347
+2.0,"import random
+
+days = ['monday",import,348
+2.0,"import datetime
+
+def get_day():",import,349
+2.0,"import random
+
+def get_day():",import,350
+2.0,"import random
+
+def get_random_day():",import,351
+2.0,"import random
+
+print([""monday"",",import,352
+2.0,"import random
+
+days_of_week = ['",import,353
+2.0,"import random
+
+days = ['monday",import,354
+2.0,"import datetime
+
+day = [""monday",import,355
+2.0,"import datetime
+
+def return_day(day):",import,356
+2.0,"import random
+
+print(['monday',",import,357
+2.0,"import random
+
+print(random.choice(['mon",import,358
+2.0,"import random
+import datetime
+
+def get",import,359
+2.0,"import random
+
+def get_day():",import,360
+2.0,"import datetime
+
+print(datetime.date.today().",import,361
+2.0,"import random
+
+def return_day_of_week",import,362
+2.0,"import random
+
+days_of_week = [""",import,363
+2.0,"import random
+def generate_day_of_week",import,364
+2.0,"import datetime
+
+def get_day(day_number",import,365
+2.0,"import datetime
+
+print(datetime.datetime.now().",import,366
+2.0,"import random
+
+def get_day():",import,367
+2.0,"import random
+
+def get_day_of_week",import,368
+2.0,"import datetime
+
+def get_day(day):",import,369
+2.0,"import datetime
+
+def return_day():",import,370
+2.0,"import random
+
+days = ['monday",import,371
+2.0,"import random
+days_of_week = ['",import,372
+2.0,"import datetime
+
+def get_day_of_week",import,373
+2.0,"import datetime
+
+day = datetime.date.today",import,374
+2.0,"import random
+days = [""sunday",import,375
+2.0,"import random
+
+def return_day_of_week",import,376
+2.0,"import datetime
+from enum import Enum",import,377
+2.0,"import datetime
+
+def get_day(day_num",import,378
+2.0,"import datetime
+
+def return_day_of_week",import,379
+2.0,"import random
+
+days_of_week = [""",import,380
+2.0,"import datetime
+def get_weekday(date",import,381
+2.0,"import random
+
+def get_weekday():",import,382
+2.0,"import datetime
+
+def return_weekday():",import,383
+2.0,"import datetime
+
+day = ""friday",import,384
+2.0,"import random
+
+days = [""monday",import,385
+2.0,"import random
+days = ['monday",import,386
+2.0,"import random
+def generate_weekday():",import,387
+2.0,"import random
+days = [""sunday",import,388
+2.0,"import random
+
+days = [""monday",import,389
+2.0,"import datetime
+
+day_of_week = datetime",import,390
+2.0,"import random
+
+def get_random_day():",import,391
+2.0,"import random
+
+days_of_week = [""",import,392
+2.0,"import random
+days = [""sunday",import,393
+2.0,"import random
+
+def return_day():",import,394
+2.0,"import random
+def get_day():",import,395
+2.0,"import datetime
+
+def return_day():",import,396
+2.0,"import random
+
+print(['monday',",import,397
+2.0,"import datetime
+
+day_of_week = [""",import,398
+2.0,"import datetime
+
+day_of_week = datetime",import,399
+2.0,"import random
+
+def get_day():",import,400
+2.0,"import datetime
+import calendar
+
+day_of",import,401
+2.0,"import random
+
+print(['monday',",import,402
+2.0,"import datetime
+
+day_of_week = [""",import,403
+2.0,"import datetime
+
+def get_weekday(day",import,404
+2.0,"import datetime
+
+day = ""Friday""",import,405
+2.0,"import datetime
+
+def get_day_of_week",import,406
+2.0,"import random
+
+def get_day_of_week",import,407
+2.0,"import random
+
+def get_random_day():",import,408
+2.0,"import datetime
+
+day_of_week = [""",import,409
+2.0,"import random
+
+days_of_week = [""",import,410
+2.0,"import random
+import datetime
+
+def get",import,411
+2.0,"import random
+
+days_of_week = [""",import,412
+2.0,"import random
+
+days = [""monday",import,413
+2.0,"import random
+import datetime
+
+def get",import,414
+2.0,"import random
+
+print(random.choice(['mon",import,415
+2.0,"import datetime
+
+print(datetime.date.today().",import,416
+2.0,"import datetime
+
+def return_weekday(date",import,417
+2.0,"import datetime
+
+def get_day(day_of",import,418
+2.0,"import random
+import datetime
+
+def get",import,419
+2.0,"import random
+def return_weekday():",import,420
+2.0,"import random
+days = [""monday",import,421
+2.0,"import random
+
+days = ['monday",import,422
+2.0,"import random
+
+def get_weekday():",import,423
+2.0,"import datetime
+
+day = ""sunday",import,424
+2.0,"import datetime
+
+def get_day_of_week",import,425
+2.0,"import random
+
+days = [""monday",import,426
+2.0,"import random
+
+def get_day_of_week",import,427
+2.0,"import random
+import datetime
+
+def get",import,428
+2.0,"import random
+days_of_week = [""",import,429
+2.0,"import datetime
+
+def return_weekday(year",import,430
+2.0,"import random
+
+def get_weekday():",import,431
+2.0,"import random
+
+def return_day():",import,432
+2.0,"import datetime
+
+def get_weekday():",import,433
+2.0,"import random
+
+def get_day():",import,434
+2.0,"import datetime
+def get_day():",import,435
+2.0,"import random
+
+def get_day_of_week",import,436
+2.0,"import datetime
+
+def get_day():",import,437
+2.0,"import datetime
+
+def get_day():",import,438
+2.0,"import datetime
+import calendar
+
+def get",import,439
+2.0,"import random
+
+days = [""monday",import,440
+2.0,"import random
+def get_weekday():",import,441
+2.0,"import datetime
+from random import choice",import,442
+2.0,"import random
+
+days = ['monday",import,443
+2.0,"import datetime
+
+day = datetime.datetime.now",import,444
+2.0,"import random
+
+days_of_week = ['",import,445
+2.0,"import random
+def get_weekday():",import,446
+2.0,"import datetime
+
+def return_day(day_name",import,447
+2.0,"import datetime
+from enum import Enum",import,448
+2.0,"import datetime
+
+day = datetime.datetime.now",import,449
+2.0,"import datetime
+
+def get_weekday(day",import,450
+2.0,"import random
+
+days = [""monday",import,451
+2.0,"import datetime
+from random import choice",import,452
+2.0,"import random
+
+def get_random_day():",import,453
+2.0,"import random
+def get_random_day():",import,454
+2.0,"import random
+days = ['sunday",import,455
+2.0,"import random
+
+def get_random_day():",import,456
+2.0,"import random
+days = [""monday",import,457
+2.0,"import random
+import string
+
+days_of",import,458
+2.0,"import datetime
+
+day_of_week = datetime",import,459
+2.0,"import random
+days_of_week = [""",import,460
+2.0,"import datetime
+day_of_week = [""",import,461
+2.0,"import random
+
+days = [""monday",import,462
+2.0,"import datetime
+
+def return_weekday(day",import,463
+2.0,"import datetime
+
+def get_day_of_week",import,464
+2.0,"import random
+
+print(""Tuesday"" if",import,465
+2.0,"import random
+
+days = ['monday",import,466
+2.0,"import random
+
+days = ['monday",import,467
+2.0,"import random
+
+def get_day():",import,468
+2.0,"import datetime
+
+def get_weekday(day",import,469
+2.0,"import datetime
+
+day = input(""Enter",import,470
+2.0,"import random
+
+def get_random_day():",import,471
+2.0,"import random
+
+print(random.choice([""mon",import,472
+2.0,"import datetime
+
+day_of_week = [""",import,473
+2.0,"import random
+
+def get_weekday():",import,474
+2.0,"import datetime
+day = datetime.datetime.now",import,475
+2.0,"import random
+import datetime
+
+def get",import,476
+2.0,"import random
+days = ['monday",import,477
+2.0,"import random
+
+def return_day():",import,478
+2.0,"import datetime
+
+def get_day_of_week",import,479
+2.0,"import random
+days = ['monday",import,480
+2.0,"import datetime
+
+def get_weekday():",import,481
+2.0,"import datetime
+
+day_of_week = datetime",import,482
+2.0,"import datetime
+
+day = datetime.datetime.now",import,483
+2.0,"import random
+
+print(random.choice([""mon",import,484
+2.0,"import random
+
+def return_day():",import,485
+2.0,"import random
+
+days = ['monday",import,486
+2.0,"import datetime
+
+day = [""monday",import,487
+2.0,"import random
+
+days_of_week = [""",import,488
+2.0,"import datetime
+def return_day(day_number",import,489
+2.0,"import random
+
+def get_day_of_week",import,490
+2.0,"import random
+days = ['sunday",import,491
+2.0,"import random
+days = ['monday",import,492
+2.0,"import random
+
+def return_weekday():",import,493
+2.0,"import datetime
+
+print((datetime.date.today",import,494
+2.0,"import random
+days_of_week = ['",import,495
+2.0,"import random
+
+days = ['monday",import,496
+2.0,"import datetime
+
+day = datetime.datetime.now",import,497
+2.0,"import datetime
+
+day = [""monday",import,498
+2.0,"import random
+def return_day_of_week",import,499
+2.0,"import datetime
+import random
+
+def return",import,500
