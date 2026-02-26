@@ -1,0 +1,1 @@
+You are playing a game of Scattergories. Name exactly one {category} that starts with the letter {letter}. Output only the answer, with no punctuation, explanation, or conversation.

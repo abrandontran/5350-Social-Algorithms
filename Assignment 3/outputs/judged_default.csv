@@ -1,0 +1,641 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+outputs/default_09_Player_1.csv,default_09_Player_1,Q001,A,Animals,0,Antelope,antelope,1,0,1,Q001::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q001,A,Animals,1,Albatross,albatross,1,1,0,Q001::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q001,A,Animals,2,Ape,ape,1,0,1,Q001::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q001,A,Animals,3,Albatross,albatross,1,0,1,Q001::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q001,A,Animals,4,Antelope,antelope,1,1,0,Q001::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q002,A,Jobs,0,Apple,apple,0,0,0,Q002::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q002,A,Jobs,1,Accountant,accountant,1,0,1,Q002::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q002,A,Jobs,2,Accountant,accountant,1,0,1,Q002::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q002,A,Jobs,3,Actor,actor,1,0,1,Q002::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q002,A,Jobs,4,Actor,actor,1,0,1,Q002::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q003,B,Fruits,0,Banana,banana,1,0,1,Q003::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q003,B,Fruits,1,Banana,banana,1,1,0,Q003::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q003,B,Fruits,2,Banana,banana,1,0,1,Q003::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q003,B,Fruits,3,Banana,banana,1,1,0,Q003::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q003,B,Fruits,4,Banana,banana,1,1,0,Q003::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q004,B,Things that are red,0,Berries,berries,1,0,1,Q004::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q004,B,Things that are red,1,Berry,berry,1,0,1,Q004::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q004,B,Things that are red,2,Berry,berry,1,1,0,Q004::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q004,B,Things that are red,3,Berry,berry,1,1,0,Q004::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q004,B,Things that are red,4,Berry,berry,1,1,0,Q004::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q005,C,Countries,0,Canada,canada,1,1,0,Q005::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q005,C,Countries,2,Canada,canada,1,1,0,Q005::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q005,C,Countries,3,Canada,canada,1,1,0,Q005::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q005,C,Countries,4,Canada,canada,1,1,0,Q005::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q006,C,Board games,0,Candy Land,candy land,0,0,0,Q006::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q006,C,Board games,1,Chess,chess,1,1,0,Q006::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q006,C,Board games,2,Chess,chess,1,1,0,Q006::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q006,C,Board games,3,Clue,clue,1,0,1,Q006::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q006,C,Board games,4,Chess,chess,1,1,0,Q006::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q007,D,Musical instruments,0,Didgeridoo,didgeridoo,1,1,0,Q007::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q007,D,Musical instruments,1,Didgeridoo,didgeridoo,1,0,1,Q007::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q007,D,Musical instruments,2,Didgeridoo,didgeridoo,1,1,0,Q007::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q007,D,Musical instruments,3,Didgeridoo,didgeridoo,1,1,0,Q007::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q007,D,Musical instruments,4,Didgeridoo,didgeridoo,1,0,1,Q007::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q008,D,Things in a bathroom,0,door,door,1,1,0,Q008::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q008,D,Things in a bathroom,1,door,door,1,0,1,Q008::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q008,D,Things in a bathroom,2,drawer,drawer,1,0,1,Q008::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q008,D,Things in a bathroom,3,door knob,door knob,1,0,1,Q008::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q008,D,Things in a bathroom,4,toothbrush,toothbrush,0,0,0,Q008::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q009,E,Sports,3,Equestrian,equestrian,1,1,0,Q009::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q009,E,Sports,4,Equestrian,equestrian,1,1,0,Q009::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q010,E,Movie titles,0,Eternal Sunshine Of The Spotless Mind,eternal sunshine of the spotless mind,0,0,0,Q010::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q010,E,Movie titles,1,Election,election,1,0,1,Q010::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q010,E,Movie titles,2,Eyes Wide Shut,eyes wide shut,1,0,1,Q010::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q010,E,Movie titles,3,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,0,0,0,Q010::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q010,E,Movie titles,4,Elephant-Men,elephant-men,0,0,0,Q010::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q011,F,Fish,2,Flounder,flounder,1,1,0,Q011::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q011,F,Fish,3,Flounder,flounder,1,1,0,Q011::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q011,F,Fish,4,Flounder,flounder,1,1,0,Q011::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q012,F,Things in a backpack,0,flashlight,flashlight,1,1,0,Q012::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q012,F,Things in a backpack,1,flashlight,flashlight,1,1,0,Q012::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q012,F,Things in a backpack,2,flashlight,flashlight,1,1,0,Q012::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q012,F,Things in a backpack,3,flashlight,flashlight,1,1,0,Q012::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q012,F,Things in a backpack,4,flashlight,flashlight,1,1,0,Q012::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q014,G,Foods,0,Grapes,grapes,1,0,1,Q014::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q014,G,Foods,1,Grapes,grapes,1,0,1,Q014::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q014,G,Foods,2,Gnocchi,gnocchi,1,0,1,Q014::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q014,G,Foods,3,grapefruit,grapefruit,1,0,1,Q014::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q014,G,Foods,4,Grapes,grapes,1,0,1,Q014::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q015,H,Famous scientists,0,Helen Hayes,helen hayes,0,0,0,Q015::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q015,H,Famous scientists,1,Howard Hughes,howard hughes,0,0,0,Q015::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q015,H,Famous scientists,2,Hawking,hawking,1,1,0,Q015::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q015,H,Famous scientists,3,Herschel,herschel,1,0,1,Q015::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q015,H,Famous scientists,4,Hawking,hawking,1,0,1,Q015::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q016,H,Things at the beach,0,hat,hat,1,1,0,Q016::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q016,H,Things at the beach,1,hat,hat,1,0,1,Q016::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q016,H,Things at the beach,2,helmet,helmet,0,0,0,Q016::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q016,H,Things at the beach,3,Helmet,helmet,0,0,0,Q016::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q016,H,Things at the beach,4,hat,hat,1,1,0,Q016::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q017,I,Cities,2,Istanbul,istanbul,0,0,0,Q017::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q017,I,Cities,3,Istanbul,istanbul,0,0,0,Q017::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q017,I,Cities,4,Istanbul,istanbul,0,0,0,Q017::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q018,I,Things in a classroom,0,interior design book,interior design book,0,0,0,Q018::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q018,I,Things in a classroom,1,interior,interior,0,0,0,Q018::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q018,I,Things in a classroom,2,Ipad,ipad,1,0,1,Q018::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q018,I,Things in a classroom,3,Intercom,intercom,1,0,1,Q018::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q018,I,Things in a classroom,4,interboard,interboard,0,0,0,Q018::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q019,J,Car brands,0,Jeep,jeep,1,0,1,Q019::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q019,J,Car brands,1,Jaguar,jaguar,1,0,1,Q019::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q019,J,Car brands,2,Jeep,jeep,1,0,1,Q019::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q019,J,Car brands,3,Jeep,jeep,1,0,1,Q019::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q019,J,Car brands,4,Jaguar,jaguar,1,1,0,Q019::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q020,J,Video game titles,0,Journey,journey,1,1,0,Q020::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q020,J,Video game titles,1,Just Cause,just cause,1,1,0,Q020::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q020,J,Video game titles,2,Journeyuegos,journeyuegos,0,0,0,Q020::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q020,J,Video game titles,3,Jungle Speed,jungle speed,0,0,0,Q020::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q020,J,Video game titles,4,Just Cause,just cause,1,1,0,Q020::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q021,K,Superheroes,0,Kal-El,kal-el,1,0,1,Q021::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q021,K,Superheroes,1,Kal-el,kal-el,1,0,1,Q021::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q021,K,Superheroes,2,Kratos,kratos,0,0,0,Q021::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q021,K,Superheroes,3,Kratos,kratos,0,0,0,Q021::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q021,K,Superheroes,4,Katarn,katarn,0,0,0,Q021::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q022,K,Things in a grocery store,0,kiwi,kiwi,1,0,1,Q022::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q022,K,Things in a grocery store,1,kiwi,kiwi,1,1,0,Q022::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q022,K,Things in a grocery store,2,ketchup,ketchup,1,0,1,Q022::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q022,K,Things in a grocery store,3,ketchup,ketchup,1,0,1,Q022::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q022,K,Things in a grocery store,4,Ketchup,ketchup,1,1,0,Q022::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q023,L,Dog breeds,0,Labrador Retriever,labrador retriever,1,1,0,Q023::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q023,L,Dog breeds,1,Labrador Retriever,labrador retriever,1,1,0,Q023::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q023,L,Dog breeds,2,Labradoodle,labradoodle,1,0,1,Q023::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q023,L,Dog breeds,3,Labrador Retriever,labrador retriever,1,1,0,Q023::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q023,L,Dog breeds,4,Labrador Retriever,labrador retriever,1,1,0,Q023::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q024,L,Books,0,Lord of the Flies,lord of the flies,1,0,1,Q024::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q024,L,Books,1,Lord Of The Rings,lord of the rings,1,1,0,Q024::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q024,L,Books,2,Lord Of The Rings,lord of the rings,1,1,0,Q024::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q024,L,Books,3,Lord Of The Flies,lord of the flies,1,0,1,Q024::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q024,L,Books,4,Lord_of_the_Rings,lord_of_the_rings,1,0,1,Q024::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q025,M,Languages,0,Mandarin,mandarin,1,1,0,Q025::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q025,M,Languages,1,Mandarin,mandarin,1,1,0,Q025::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q025,M,Languages,2,Mandarin,mandarin,1,1,0,Q025::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q025,M,Languages,3,Mandarin,mandarin,1,1,0,Q025::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q025,M,Languages,4,Mandarin,mandarin,1,1,0,Q025::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q026,M,Clothing items,0,Mourinho,mourinho,0,0,0,Q026::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q026,M,Clothing items,1,T-shirt,t-shirt,0,0,0,Q026::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q026,M,Clothing items,2,Mittens,mittens,1,0,1,Q026::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q026,M,Clothing items,3,Μittens,ittens,0,0,0,Q026::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q026,M,Clothing items,4,Mittens,mittens,1,1,0,Q026::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q027,N,Birds,0,Nightjar,nightjar,1,0,1,Q027::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q027,N,Birds,1,Nutcracker Squirrel Finch,nutcracker squirrel finch,0,0,0,Q027::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q027,N,Birds,2,Nightjar,nightjar,1,0,1,Q027::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q027,N,Birds,3,Nightjar,nightjar,1,0,1,Q027::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q027,N,Birds,4,Nightingale,nightingale,1,0,1,Q027::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q028,N,Things in a hospital,0,nurse,nurse,1,1,0,Q028::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q028,N,Things in a hospital,1,nurse,nurse,1,1,0,Q028::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q028,N,Things in a hospital,2,nurse,nurse,1,1,0,Q028::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q028,N,Things in a hospital,3,Nurse,nurse,1,1,0,Q028::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q028,N,Things in a hospital,4,Nurse,nurse,1,1,0,Q028::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q029,O,Companies,0,Oracle,oracle,1,1,0,Q029::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q029,O,Companies,1,Oracle,oracle,1,1,0,Q029::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q029,O,Companies,2,Oracle,oracle,1,1,0,Q029::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q029,O,Companies,3,Oracle,oracle,1,1,0,Q029::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q029,O,Companies,4,Oracle,oracle,1,1,0,Q029::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q030,O,Things in the sky,0,orbiting satellite,orbiting satellite,1,0,1,Q030::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q030,O,Things in the sky,1,Orion,orion,0,0,0,Q030::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q030,O,Things in the sky,2,Owl,owl,0,0,0,Q030::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q030,O,Things in the sky,3,orbiting satellite,orbiting satellite,1,1,0,Q030::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q030,O,Things in the sky,4,Orion,orion,0,0,0,Q030::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q031,P,Vegetables,0,Parsnip,parsnip,1,0,1,Q031::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q031,P,Vegetables,1,Pepperoni (Note: This is actually a food item often made from peppers,pepperoni (note: this is actually a food item often made from peppers,0,0,0,Q031::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q031,P,Vegetables,2,Peas,peas,1,0,1,Q031::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q031,P,Vegetables,3,Pea,pea,1,0,1,Q031::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q031,P,Vegetables,4,Pumpkin,pumpkin,1,0,1,Q031::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q032,P,Historical figures,0,Plato,plato,1,1,0,Q032::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q032,P,Historical figures,1,Plato,plato,1,1,0,Q032::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q032,P,Historical figures,2,Plato,plato,1,1,0,Q032::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q032,P,Historical figures,3,Plato,plato,1,1,0,Q032::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q032,P,Historical figures,4,Plato,plato,1,1,0,Q032::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q033,Q,Words in English,0,Quizzical,quizzical,1,0,1,Q033::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q033,Q,Words in English,1,Quicksilver,quicksilver,1,0,1,Q033::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q033,Q,Words in English,2,Quark,quark,1,0,1,Q033::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q033,Q,Words in English,3,Quill,quill,1,0,1,Q033::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q033,Q,Words in English,4,Quark,quark,1,0,1,Q033::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q034,Q,Fictional characters,0,Quasimodo,quasimodo,1,1,0,Q034::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q034,Q,Fictional characters,1,Quasimodo,quasimodo,1,1,0,Q034::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q034,Q,Fictional characters,2,Quasimodo,quasimodo,1,1,0,Q034::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q034,Q,Fictional characters,3,Quasimodo,quasimodo,1,1,0,Q034::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q034,Q,Fictional characters,4,Quasimodo,quasimodo,1,1,0,Q034::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q035,R,Songs,0,River Flows In You,river flows in you,0,0,0,Q035::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q035,R,Songs,1,Rocky Top,rocky top,0,0,0,Q035::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q035,R,Songs,2,Rapunzel,rapunzel,0,0,0,Q035::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q035,R,Songs,3,Raindrops Keep Fallin' On My Head,raindrops keep fallin' on my head,0,0,0,Q035::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q035,R,Songs,4,Rocky Top,rocky top,0,0,0,Q035::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q036,R,Tools,0,ruler,ruler,1,0,1,Q036::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q036,R,Tools,1,rake,rake,1,0,1,Q036::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q036,R,Tools,2,razor,razor,1,1,0,Q036::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q036,R,Tools,3,rake,rake,1,1,0,Q036::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q036,R,Tools,4,raspberry porringer,raspberry porringer,0,0,0,Q036::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q037,S,Animals,0,Snake,snake,1,0,1,Q037::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q037,S,Animals,1,Snake,snake,1,1,0,Q037::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q037,S,Animals,2,Snake,snake,1,1,0,Q037::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q037,S,Animals,3,Squirrel,squirrel,1,1,0,Q037::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q037,S,Animals,4,Snail,snail,1,0,1,Q037::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q038,S,Things in an office,0,stapler,stapler,1,1,0,Q038::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q038,S,Things in an office,1,stapler,stapler,1,1,0,Q038::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q038,S,Things in an office,2,stapler,stapler,1,1,0,Q038::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q038,S,Things in an office,4,stapler,stapler,1,0,1,Q038::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q039,T,Countries,0,Tunisia,tunisia,1,0,1,Q039::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q039,T,Countries,1,Turkey,turkey,1,0,1,Q039::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q039,T,Countries,2,Turkey,turkey,1,1,0,Q039::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q039,T,Countries,3,Tunisia,tunisia,1,0,1,Q039::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q039,T,Countries,4,Turkey,turkey,1,0,1,Q039::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q040,T,TV shows,0,Twilight Zone,twilight zone,1,0,1,Q040::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q040,T,TV shows,1,The Price is Right,the price is right,0,0,0,Q040::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q040,T,TV shows,2,The Twilight Zone,the twilight zone,1,1,0,Q040::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q040,T,TV shows,3,The Twilight Zone,the twilight zone,1,0,1,Q040::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q040,T,TV shows,4,Twilight Zone,twilight zone,1,0,1,Q040::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q041,U,U.S. colleges,0,University_of_Utah,university_of_utah,0,0,0,Q041::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q041,U,U.S. colleges,1,University Of Utah,university of utah,1,0,1,Q041::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q041,U,U.S. colleges,2,University_of_Utah,university_of_utah,0,0,0,Q041::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q041,U,U.S. colleges,3,University_of_Utah,university_of_utah,0,0,0,Q041::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q041,U,U.S. colleges,4,University Of Utah,university of utah,1,1,0,Q041::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q042,U,Things in a garage,0,umbrella,umbrella,0,0,0,Q042::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q042,U,Things in a garage,1,umbrella,umbrella,0,0,0,Q042::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q042,U,Things in a garage,2,umbrella,umbrella,0,0,0,Q042::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q042,U,Things in a garage,3,umbrella,umbrella,0,0,0,Q042::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q042,U,Things in a garage,4,umbrella,umbrella,0,0,0,Q042::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q043,V,Jobs,0,Victoria,victoria,0,0,0,Q043::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q043,V,Jobs,1,valet,valet,1,0,1,Q043::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q043,V,Jobs,2,Venture Capitalist,venture capitalist,1,1,0,Q043::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q043,V,Jobs,3,Venture capitalist,venture capitalist,1,0,1,Q043::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q043,V,Jobs,4,valet,valet,1,0,1,Q043::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q044,V,Things you wear,0,vest,vest,1,1,0,Q044::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q044,V,Things you wear,1,vest,vest,1,1,0,Q044::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q044,V,Things you wear,2,vest,vest,1,1,0,Q044::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q044,V,Things you wear,3,v-neck sweater,v-neck sweater,1,0,1,Q044::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q044,V,Things you wear,4,vest,vest,1,1,0,Q044::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q045,W,Cities,0,Washington,washington,1,0,1,Q045::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q045,W,Cities,1,Washington,washington,1,0,1,Q045::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q045,W,Cities,2,Warsaw,warsaw,1,0,1,Q045::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q045,W,Cities,3,Washington,washington,1,0,1,Q045::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q045,W,Cities,4,Winchester,winchester,1,0,1,Q045::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q046,W,Things in a park,0,willow,willow,1,1,0,Q046::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q046,W,Things in a park,1,Willow,willow,1,1,0,Q046::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q046,W,Things in a park,2,Walking path,walking path,1,0,1,Q046::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q046,W,Things in a park,3,waterfall,waterfall,1,1,0,Q046::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q046,W,Things in a park,4,wading pond,wading pond,1,0,1,Q046::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q047,X,Brands,0,Xbox,xbox,1,1,0,Q047::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q047,X,Brands,1,Xbox,xbox,1,0,1,Q047::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q047,X,Brands,2,Xbox,xbox,1,1,0,Q047::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q047,X,Brands,3,Xbox,xbox,1,1,0,Q047::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q047,X,Brands,4,Xbox,xbox,1,1,0,Q047::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q048,X,Words in English,0,Xray,xray,1,0,1,Q048::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q048,X,Words in English,2,Xylophone,xylophone,1,1,0,Q048::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q048,X,Words in English,3,Xylophone,xylophone,1,1,0,Q048::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q048,X,Words in English,4,Xylophone,xylophone,1,1,0,Q048::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q049,Y,Foods,1,Yogurt,yogurt,1,1,0,Q049::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q049,Y,Foods,2,Yogurt,yogurt,1,1,0,Q049::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q049,Y,Foods,3,Yogurt,yogurt,1,1,0,Q049::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q049,Y,Foods,4,Yorkshire pudding,yorkshire pudding,1,0,1,Q049::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q050,Y,Things at a party,0,yogurt,yogurt,0,0,0,Q050::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q050,Y,Things at a party,1,yoga mat,yoga mat,0,0,0,Q050::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q050,Y,Things at a party,2,Yummy yogurt,yummy yogurt,1,0,1,Q050::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q050,Y,Things at a party,3,yankee candle,yankee candle,0,0,0,Q050::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q050,Y,Things at a party,4,yankee candle,yankee candle,0,0,0,Q050::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q051,Z,Animals,2,Zebra,zebra,1,1,0,Q051::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q052,Z,Things in a zoo,0,zookeeper,zookeeper,1,1,0,Q052::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q052,Z,Things in a zoo,1,zebra,zebra,1,1,0,Q052::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q052,Z,Things in a zoo,2,zookeeper,zookeeper,1,1,0,Q052::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q052,Z,Things in a zoo,3,zebra,zebra,1,1,0,Q052::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q052,Z,Things in a zoo,4,zebra,zebra,1,1,0,Q052::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q053,A,Things in a kitchen,0,apple,apple,0,0,0,Q053::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q053,A,Things in a kitchen,1,apple,apple,0,0,0,Q053::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q053,A,Things in a kitchen,2,apple,apple,0,0,0,Q053::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q053,A,Things in a kitchen,3,apple,apple,0,0,0,Q053::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q053,A,Things in a kitchen,4,apple,apple,0,0,0,Q053::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q054,B,Singers,0,Beyoncé,beyonc,0,0,0,Q054::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q054,B,Singers,1,Britney Spears,britney spears,1,0,1,Q054::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q054,B,Singers,2,Billy Joel,billy joel,1,0,1,Q054::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q054,B,Singers,3,Beyoncé,beyonc,0,0,0,Q054::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q054,B,Singers,4,Britney Spears,britney spears,1,0,1,Q054::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q055,C,Desserts,0,Chocolate Cake,chocolate cake,1,0,1,Q055::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q055,C,Desserts,1,ChocolateChipCookie,chocolatechipcookie,0,0,0,Q055::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q055,C,Desserts,2,Chocolate Chip Cookie,chocolate chip cookie,1,0,1,Q055::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q055,C,Desserts,3,CherryPie,cherrypie,0,0,0,Q055::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q055,C,Desserts,4,ChocolateChipCookie,chocolatechipcookie,0,0,0,Q055::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q056,D,Plants,0,Durian,durian,1,0,1,Q056::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q056,D,Plants,1,Dragonfruit,dragonfruit,1,1,0,Q056::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q056,D,Plants,2,Dragonfruit,dragonfruit,1,0,1,Q056::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q056,D,Plants,3,Daisy,daisy,1,0,1,Q056::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q056,D,Plants,4,Daisy,daisy,1,1,0,Q056::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q057,E,Companies,0,Ebay,ebay,1,1,0,Q057::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q057,E,Companies,1,Ebay,ebay,1,1,0,Q057::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q057,E,Companies,2,Ebay,ebay,1,1,0,Q057::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q057,E,Companies,3,Ebay,ebay,1,1,0,Q057::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q057,E,Companies,4,Ebay,ebay,1,1,0,Q057::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q058,F,Movie characters,0,Fred Flintstone,fred flintstone,1,1,0,Q058::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q058,F,Movie characters,1,Ford Prefect,ford prefect,1,0,1,Q058::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q058,F,Movie characters,2,Frozen,frozen,0,0,0,Q058::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q058,F,Movie characters,3,Finding Nemo父子,finding nemo,0,0,0,Q058::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q058,F,Movie characters,4,Finding Nemoész,finding nemoész,0,0,0,Q058::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q059,G,Things in a toolbox,0,glove,glove,0,0,0,Q059::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q059,G,Things in a toolbox,1,hammer,hammer,1,0,1,Q059::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q059,G,Things in a toolbox,2,hammer,hammer,1,0,1,Q059::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q059,G,Things in a toolbox,3,hammer,hammer,1,0,1,Q059::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q059,G,Things in a toolbox,4,gauge,gauge,1,0,1,Q059::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q060,H,Countries,0,Haiti,haiti,1,1,0,Q060::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q060,H,Countries,1,Haiti,haiti,1,0,1,Q060::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q060,H,Countries,2,Haiti,haiti,1,0,1,Q060::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q060,H,Countries,3,Honduras,honduras,1,0,1,Q060::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q060,H,Countries,4,Haiti,haiti,1,1,0,Q060::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q061,I,Musical artists,0,Ian Dury,ian dury,0,0,0,Q061::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q061,I,Musical artists,1,Iron Maiden,iron maiden,1,1,0,Q061::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q061,I,Musical artists,2,Ian Dury,ian dury,0,0,0,Q061::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q061,I,Musical artists,3,Iron Maiden,iron maiden,1,1,0,Q061::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q061,I,Musical artists,4,Iron Maiden,iron maiden,1,1,0,Q061::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q062,J,Things in a refrigerator,0,jalapeño,jalapeño,1,0,1,Q062::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q062,J,Things in a refrigerator,1,juice,juice,1,0,1,Q062::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q062,J,Things in a refrigerator,2,jalapeno,jalapeno,1,0,1,Q062::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q062,J,Things in a refrigerator,3,juice,juice,1,1,0,Q062::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q062,J,Things in a refrigerator,4,jelly,jelly,1,0,1,Q062::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q063,K,Cities,0,Knoxville,knoxville,1,0,1,Q063::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q063,K,Cities,1,Knoxville,knoxville,1,1,0,Q063::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q063,K,Cities,2,Knoxville,knoxville,1,1,0,Q063::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q063,K,Cities,3,Knoxville,knoxville,1,0,1,Q063::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q063,K,Cities,4,Kalamazoo,kalamazoo,1,1,0,Q063::4
+outputs/default_09_Player_1.csv,default_09_Player_1,Q064,L,Things in a library,0,lamp,lamp,0,0,0,Q064::0
+outputs/default_09_Player_1.csv,default_09_Player_1,Q064,L,Things in a library,1,Light fixture,light fixture,1,0,1,Q064::1
+outputs/default_09_Player_1.csv,default_09_Player_1,Q064,L,Things in a library,2,Lightbulb,lightbulb,0,0,0,Q064::2
+outputs/default_09_Player_1.csv,default_09_Player_1,Q064,L,Things in a library,3,Lamp,lamp,0,0,0,Q064::3
+outputs/default_09_Player_1.csv,default_09_Player_1,Q064,L,Things in a library,4,laptop,laptop,1,0,1,Q064::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q001,A,Animals,0,Albatross,albatross,1,0,1,Q001::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q001,A,Animals,1,Albatross,albatross,1,1,0,Q001::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q001,A,Animals,2,Alpaca,alpaca,1,0,1,Q001::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q001,A,Animals,3,Antelope,antelope,1,0,1,Q001::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q001,A,Animals,4,Antelope,antelope,1,1,0,Q001::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q002,A,Jobs,0,Architect,architect,1,0,1,Q002::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q002,A,Jobs,1,Apple,apple,0,0,0,Q002::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q002,A,Jobs,2,Actor,actor,1,0,1,Q002::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q002,A,Jobs,3,Accountant,accountant,1,0,1,Q002::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q002,A,Jobs,4,Architect,architect,1,0,1,Q002::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q003,B,Fruits,0,Bamboo Berry,bamboo berry,0,0,0,Q003::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q003,B,Fruits,1,Banana,banana,1,1,0,Q003::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q003,B,Fruits,2,Blueberry,blueberry,1,0,1,Q003::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q003,B,Fruits,3,Banana,banana,1,1,0,Q003::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q003,B,Fruits,4,Banana,banana,1,1,0,Q003::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q004,B,Things that are red,0,Berry,berry,1,0,1,Q004::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q004,B,Things that are red,1,Berries,berries,1,0,1,Q004::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q004,B,Things that are red,2,Berry,berry,1,1,0,Q004::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q004,B,Things that are red,3,Berry,berry,1,1,0,Q004::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q004,B,Things that are red,4,Berry,berry,1,1,0,Q004::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q005,C,Countries,0,Canada,canada,1,1,0,Q005::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q005,C,Countries,2,Canada,canada,1,1,0,Q005::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q005,C,Countries,3,Canada,canada,1,1,0,Q005::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q005,C,Countries,4,Canada,canada,1,1,0,Q005::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q006,C,Board games,0,Chess,chess,1,0,1,Q006::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q006,C,Board games,1,Chess,chess,1,1,0,Q006::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q006,C,Board games,2,Chess,chess,1,1,0,Q006::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q006,C,Board games,3,Chess,chess,1,0,1,Q006::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q006,C,Board games,4,Chess,chess,1,1,0,Q006::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q007,D,Musical instruments,0,Didgeridoo,didgeridoo,1,1,0,Q007::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q007,D,Musical instruments,1,Drum,drum,1,0,1,Q007::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q007,D,Musical instruments,2,Didgeridoo,didgeridoo,1,1,0,Q007::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q007,D,Musical instruments,3,Didgeridoo,didgeridoo,1,1,0,Q007::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q007,D,Musical instruments,4,Drum,drum,1,0,1,Q007::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q008,D,Things in a bathroom,0,door,door,1,1,0,Q008::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q008,D,Things in a bathroom,1,dishwasher,dishwasher,0,0,0,Q008::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q008,D,Things in a bathroom,2,door knob,door knob,1,0,1,Q008::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q008,D,Things in a bathroom,3,dishwasher,dishwasher,0,0,0,Q008::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q008,D,Things in a bathroom,4,door,door,1,0,1,Q008::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q009,E,Sports,3,Equestrian,equestrian,1,1,0,Q009::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q009,E,Sports,4,Equestrian,equestrian,1,1,0,Q009::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q010,E,Movie titles,0,Elizabeth,elizabeth,0,0,0,Q010::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q010,E,Movie titles,1,Eternal Sunshine Of The Spotless Mind,eternal sunshine of the spotless mind,0,0,0,Q010::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q010,E,Movie titles,2,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,0,0,0,Q010::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q010,E,Movie titles,3,EasyA,easya,0,0,0,Q010::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q010,E,Movie titles,4,Eat Pray Love,eat pray love,0,0,0,Q010::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q011,F,Fish,2,Flounder,flounder,1,1,0,Q011::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q011,F,Fish,3,Flounder,flounder,1,1,0,Q011::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q011,F,Fish,4,Flounder,flounder,1,1,0,Q011::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q012,F,Things in a backpack,0,flashlight,flashlight,1,1,0,Q012::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q012,F,Things in a backpack,1,flashlight,flashlight,1,1,0,Q012::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q012,F,Things in a backpack,2,flashlight,flashlight,1,1,0,Q012::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q012,F,Things in a backpack,3,flashlight,flashlight,1,1,0,Q012::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q012,F,Things in a backpack,4,flashlight,flashlight,1,1,0,Q012::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q014,G,Foods,0,GreenBeans,greenbeans,1,0,1,Q014::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q014,G,Foods,1,grapefruit,grapefruit,1,0,1,Q014::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q014,G,Foods,2,Grilled Cheese,grilled cheese,1,0,1,Q014::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q014,G,Foods,3,Grapes,grapes,1,0,1,Q014::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q014,G,Foods,4,Grilled Cheese,grilled cheese,1,0,1,Q014::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q015,H,Famous scientists,0,Helen何必要使用标点符号呢,helen,0,0,0,Q015::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q015,H,Famous scientists,1,Hawking,hawking,1,0,1,Q015::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q015,H,Famous scientists,2,Hawking,hawking,1,1,0,Q015::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q015,H,Famous scientists,3,Huygens,huygens,1,0,1,Q015::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q015,H,Famous scientists,4,Howard Hughes,howard hughes,0,0,0,Q015::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q016,H,Things at the beach,0,hat,hat,1,1,0,Q016::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q016,H,Things at the beach,1,Hammock,hammock,1,0,1,Q016::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q016,H,Things at the beach,2,hat,hat,1,0,1,Q016::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q016,H,Things at the beach,3,Hat,hat,1,0,1,Q016::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q016,H,Things at the beach,4,hat,hat,1,1,0,Q016::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q017,I,Cities,2,Istanbul,istanbul,0,0,0,Q017::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q017,I,Cities,3,Istanbul,istanbul,0,0,0,Q017::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q017,I,Cities,4,Istanbul,istanbul,0,0,0,Q017::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q018,I,Things in a classroom,0,interior,interior,0,0,0,Q018::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q018,I,Things in a classroom,1,Illumination,illumination,0,0,0,Q018::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q018,I,Things in a classroom,2,interior,interior,0,0,0,Q018::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q018,I,Things in a classroom,3,Ivoryakte,ivoryakte,0,0,0,Q018::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q018,I,Things in a classroom,4,Ipad,ipad,1,0,1,Q018::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q019,J,Car brands,0,Jaguar,jaguar,1,0,1,Q019::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q019,J,Car brands,1,Jeep,jeep,1,0,1,Q019::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q019,J,Car brands,2,Jaguar,jaguar,1,0,1,Q019::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q019,J,Car brands,3,Jaguar,jaguar,1,0,1,Q019::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q019,J,Car brands,4,Jaguar,jaguar,1,1,0,Q019::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q020,J,Video game titles,0,Journey,journey,1,1,0,Q020::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q020,J,Video game titles,1,Just Cause,just cause,1,1,0,Q020::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q020,J,Video game titles,2,Journey,journey,1,0,1,Q020::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q020,J,Video game titles,3,Just Cause,just cause,1,0,1,Q020::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q020,J,Video game titles,4,Just Cause,just cause,1,1,0,Q020::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q021,K,Superheroes,0,Kangaroo Kid,kangaroo kid,0,0,0,Q021::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q021,K,Superheroes,1,Kratos,kratos,0,0,0,Q021::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q021,K,Superheroes,2,Kraken,kraken,0,0,0,Q021::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q021,K,Superheroes,3,Kick-Ass,kick-ass,0,0,0,Q021::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q021,K,Superheroes,4,Kratos,kratos,0,0,0,Q021::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q022,K,Things in a grocery store,0,Ketchup,ketchup,1,0,1,Q022::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q022,K,Things in a grocery store,1,kiwi,kiwi,1,1,0,Q022::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q022,K,Things in a grocery store,2,kiwi,kiwi,1,0,1,Q022::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q022,K,Things in a grocery store,3,kiwi,kiwi,1,0,1,Q022::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q022,K,Things in a grocery store,4,ketchup,ketchup,1,1,0,Q022::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q023,L,Dog breeds,0,Labrador Retriever,labrador retriever,1,1,0,Q023::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q023,L,Dog breeds,1,Labrador Retriever,labrador retriever,1,1,0,Q023::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q023,L,Dog breeds,2,Labrador Retriever,labrador retriever,1,0,1,Q023::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q023,L,Dog breeds,3,Labrador Retriever,labrador retriever,1,1,0,Q023::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q023,L,Dog breeds,4,Labrador Retriever,labrador retriever,1,1,0,Q023::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q024,L,Books,0,Lord Of The Rings,lord of the rings,1,0,1,Q024::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q024,L,Books,1,Lord Of The Rings,lord of the rings,1,1,0,Q024::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q024,L,Books,2,Lord of the Rings,lord of the rings,1,1,0,Q024::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q024,L,Books,3,Lord Of The Rings,lord of the rings,1,0,1,Q024::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q024,L,Books,4,Lord Of The Rings,lord of the rings,1,0,1,Q024::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q025,M,Languages,0,Mandarin,mandarin,1,1,0,Q025::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q025,M,Languages,1,Mandarin,mandarin,1,1,0,Q025::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q025,M,Languages,2,Mandarin,mandarin,1,1,0,Q025::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q025,M,Languages,3,Mandarin,mandarin,1,1,0,Q025::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q025,M,Languages,4,Mandarin,mandarin,1,1,0,Q025::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q026,M,Clothing items,0,Mittens,mittens,1,0,1,Q026::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q026,M,Clothing items,1,Μιμητικοσάκος,,0,0,0,Q026::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q026,M,Clothing items,2,T-shirt,t-shirt,0,0,0,Q026::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q026,M,Clothing items,3,Mittens,mittens,1,0,1,Q026::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q026,M,Clothing items,4,Mittens,mittens,1,1,0,Q026::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q027,N,Birds,0,Nightingale,nightingale,1,0,1,Q027::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q027,N,Birds,1,Nightjar,nightjar,1,0,1,Q027::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q027,N,Birds,2,Nightingale,nightingale,1,0,1,Q027::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q027,N,Birds,3,Nutcracker Squirrel,nutcracker squirrel,0,0,0,Q027::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q027,N,Birds,4,Nutcracker Squirrel Finch,nutcracker squirrel finch,0,0,0,Q027::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q028,N,Things in a hospital,0,nurse,nurse,1,1,0,Q028::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q028,N,Things in a hospital,1,Nurse,nurse,1,1,0,Q028::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q028,N,Things in a hospital,2,nurse,nurse,1,1,0,Q028::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q028,N,Things in a hospital,3,Nurse,nurse,1,1,0,Q028::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q028,N,Things in a hospital,4,nurse,nurse,1,1,0,Q028::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q029,O,Companies,0,Oracle,oracle,1,1,0,Q029::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q029,O,Companies,1,Oracle,oracle,1,1,0,Q029::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q029,O,Companies,2,Oracle,oracle,1,1,0,Q029::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q029,O,Companies,3,Oracle,oracle,1,1,0,Q029::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q029,O,Companies,4,Oracle,oracle,1,1,0,Q029::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q030,O,Things in the sky,0,Ostrich,ostrich,0,0,0,Q030::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q030,O,Things in the sky,1,clouds,clouds,0,0,0,Q030::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q030,O,Things in the sky,2,Orion,orion,0,0,0,Q030::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q030,O,Things in the sky,3,Orbiting satellite,orbiting satellite,1,1,0,Q030::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q030,O,Things in the sky,4,Oblong cloud,oblong cloud,0,0,0,Q030::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q031,P,Vegetables,0,Peas,peas,1,0,1,Q031::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q031,P,Vegetables,1,Pepperoni (Note: While pepperoni is a type of sausage and not,pepperoni (note: while pepperoni is a type of sausage and not,0,0,0,Q031::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q031,P,Vegetables,2,Pea,pea,1,0,1,Q031::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q031,P,Vegetables,3,Peas,peas,1,0,1,Q031::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q031,P,Vegetables,4,Parsnip,parsnip,1,0,1,Q031::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q032,P,Historical figures,0,Plato,plato,1,1,0,Q032::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q032,P,Historical figures,1,Plato,plato,1,1,0,Q032::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q032,P,Historical figures,2,Plato,plato,1,1,0,Q032::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q032,P,Historical figures,3,Plato,plato,1,1,0,Q032::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q032,P,Historical figures,4,Plato,plato,1,1,0,Q032::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q033,Q,Words in English,0,Quilt,quilt,1,0,1,Q033::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q033,Q,Words in English,1,Quilt,quilt,1,0,1,Q033::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q033,Q,Words in English,2,Quicksilver,quicksilver,1,0,1,Q033::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q033,Q,Words in English,3,Quilt,quilt,1,0,1,Q033::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q033,Q,Words in English,4,Quack,quack,1,0,1,Q033::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q034,Q,Fictional characters,0,Quasimodo,quasimodo,1,1,0,Q034::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q034,Q,Fictional characters,1,Quasimodo,quasimodo,1,1,0,Q034::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q034,Q,Fictional characters,2,Quasimodo,quasimodo,1,1,0,Q034::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q034,Q,Fictional characters,3,Quasimodo,quasimodo,1,1,0,Q034::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q034,Q,Fictional characters,4,Quasimodo,quasimodo,1,1,0,Q034::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q035,R,Songs,0,Ramble On,ramble on,1,0,1,Q035::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q035,R,Songs,1,Raindrops Keep Fallin' On My Head,raindrops keep fallin' on my head,0,0,0,Q035::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q035,R,Songs,2,Red Red Wine,red red wine,1,0,1,Q035::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q035,R,Songs,3,Raindrops Keep Fallin' On My Head,raindrops keep fallin' on my head,0,0,0,Q035::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q035,R,Songs,4,Rapunzel,rapunzel,0,0,0,Q035::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q036,R,Tools,0,razor,razor,1,0,1,Q036::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q036,R,Tools,1,razor,razor,1,0,1,Q036::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q036,R,Tools,2,razor,razor,1,1,0,Q036::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q036,R,Tools,3,rake,rake,1,1,0,Q036::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q036,R,Tools,4,rake,rake,1,0,1,Q036::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q037,S,Animals,0,Squirrel,squirrel,1,0,1,Q037::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q037,S,Animals,1,Snake,snake,1,1,0,Q037::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q037,S,Animals,2,Snake,snake,1,1,0,Q037::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q037,S,Animals,3,Squirrel,squirrel,1,1,0,Q037::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q037,S,Animals,4,Snake,snake,1,0,1,Q037::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q038,S,Things in an office,0,stapler,stapler,1,1,0,Q038::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q038,S,Things in an office,1,stapler,stapler,1,1,0,Q038::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q038,S,Things in an office,2,stapler,stapler,1,1,0,Q038::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q038,S,Things in an office,4,Sofa,sofa,0,0,0,Q038::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q039,T,Countries,0,Turkey,turkey,1,0,1,Q039::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q039,T,Countries,1,Tonga,tonga,1,0,1,Q039::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q039,T,Countries,2,Turkey,turkey,1,1,0,Q039::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q039,T,Countries,3,Tanzania,tanzania,1,0,1,Q039::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q039,T,Countries,4,Tonga,tonga,1,0,1,Q039::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q040,T,TV shows,0,The Twilight Zone,the twilight zone,1,0,1,Q040::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q040,T,TV shows,1,The Price is Right,the price is right,0,0,0,Q040::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q040,T,TV shows,2,The Twilight Zone,the twilight zone,1,1,0,Q040::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q040,T,TV shows,3,The Price is Right,the price is right,0,0,0,Q040::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q040,T,TV shows,4,The Price Is Right,the price is right,0,0,0,Q040::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,0,1,Q041::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q041,U,U.S. colleges,1,University_of_Utah,university_of_utah,0,0,0,Q041::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q041,U,U.S. colleges,2,University_of_Utah,university_of_utah,0,0,0,Q041::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q041,U,U.S. colleges,3,University_of_Utah,university_of_utah,0,0,0,Q041::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q041,U,U.S. colleges,4,University Of Utah,university of utah,1,1,0,Q041::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q042,U,Things in a garage,0,umbrella,umbrella,0,0,0,Q042::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q042,U,Things in a garage,1,umbrella,umbrella,0,0,0,Q042::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q042,U,Things in a garage,2,umbrella,umbrella,0,0,0,Q042::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q042,U,Things in a garage,3,umbrella,umbrella,0,0,0,Q042::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q042,U,Things in a garage,4,umbrella,umbrella,0,0,0,Q042::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q043,V,Jobs,0,VP Barton,vp barton,0,0,0,Q043::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q043,V,Jobs,1,Vince,vince,0,0,0,Q043::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q043,V,Jobs,2,Venture capitalist,venture capitalist,1,1,0,Q043::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q043,V,Jobs,3,Vincent,vincent,0,0,0,Q043::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q043,V,Jobs,4,vinod chaudhary,vinod chaudhary,0,0,0,Q043::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q044,V,Things you wear,0,vest,vest,1,1,0,Q044::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q044,V,Things you wear,1,vest,vest,1,1,0,Q044::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q044,V,Things you wear,2,vest,vest,1,1,0,Q044::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q044,V,Things you wear,3,vest,vest,1,0,1,Q044::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q044,V,Things you wear,4,vest,vest,1,1,0,Q044::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q045,W,Cities,0,Winnipeg,winnipeg,1,0,1,Q045::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q045,W,Cities,1,Worcester,worcester,1,0,1,Q045::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q045,W,Cities,2,Washington,washington,1,0,1,Q045::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q045,W,Cities,3,Wichita,wichita,1,0,1,Q045::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q045,W,Cities,4,Worcester,worcester,1,0,1,Q045::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q046,W,Things in a park,0,Willow,willow,1,1,0,Q046::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q046,W,Things in a park,1,willow,willow,1,1,0,Q046::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q046,W,Things in a park,2,waterfall,waterfall,1,0,1,Q046::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q046,W,Things in a park,3,waterfall,waterfall,1,1,0,Q046::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q046,W,Things in a park,4,Willow,willow,1,0,1,Q046::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q047,X,Brands,0,Xbox,xbox,1,1,0,Q047::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q047,X,Brands,1,Xerox,xerox,1,0,1,Q047::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q047,X,Brands,2,Xbox,xbox,1,1,0,Q047::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q047,X,Brands,3,Xbox,xbox,1,1,0,Q047::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q047,X,Brands,4,Xbox,xbox,1,1,0,Q047::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q048,X,Words in English,0,Xylophone,xylophone,1,0,1,Q048::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q048,X,Words in English,2,Xylophone,xylophone,1,1,0,Q048::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q048,X,Words in English,3,Xylophone,xylophone,1,1,0,Q048::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q048,X,Words in English,4,Xylophone,xylophone,1,1,0,Q048::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q049,Y,Foods,1,Yogurt,yogurt,1,1,0,Q049::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q049,Y,Foods,2,Yogurt,yogurt,1,1,0,Q049::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q049,Y,Foods,3,Yogurt,yogurt,1,1,0,Q049::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q049,Y,Foods,4,Yogurt,yogurt,1,0,1,Q049::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q050,Y,Things at a party,0,Yogurt,yogurt,0,0,0,Q050::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q050,Y,Things at a party,1,yogurt,yogurt,0,0,0,Q050::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q050,Y,Things at a party,2,yoga mat,yoga mat,0,0,0,Q050::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q050,Y,Things at a party,3,yogurt,yogurt,0,0,0,Q050::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q050,Y,Things at a party,4,yankee candle,yankee candle,0,0,0,Q050::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q051,Z,Animals,2,Zebra,zebra,1,1,0,Q051::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q052,Z,Things in a zoo,0,zookeeper,zookeeper,1,1,0,Q052::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q052,Z,Things in a zoo,1,zebra,zebra,1,1,0,Q052::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q052,Z,Things in a zoo,2,zookeeper,zookeeper,1,1,0,Q052::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q052,Z,Things in a zoo,3,zebra,zebra,1,1,0,Q052::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q052,Z,Things in a zoo,4,zebra,zebra,1,1,0,Q052::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q053,A,Things in a kitchen,0,apple,apple,0,0,0,Q053::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q053,A,Things in a kitchen,1,appliance,appliance,1,0,1,Q053::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q053,A,Things in a kitchen,2,apple,apple,0,0,0,Q053::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q053,A,Things in a kitchen,3,apple,apple,0,0,0,Q053::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q053,A,Things in a kitchen,4,apple,apple,0,0,0,Q053::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q054,B,Singers,0,Beyoncé,beyonc,0,0,0,Q054::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q054,B,Singers,1,Beyoncé,beyonc,0,0,0,Q054::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q054,B,Singers,2,Britney Spears,britney spears,1,0,1,Q054::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q054,B,Singers,3,Beyoncé,beyonc,0,0,0,Q054::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q054,B,Singers,4,Beyoncé,beyonc,0,0,0,Q054::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q055,C,Desserts,0,CherryPie,cherrypie,0,0,0,Q055::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q055,C,Desserts,1,Chocolate Chip Cookie,chocolate chip cookie,1,0,1,Q055::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q055,C,Desserts,2,Chocolate Cake,chocolate cake,1,0,1,Q055::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q055,C,Desserts,3,ChocolateChipCookies,chocolatechipcookies,0,0,0,Q055::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q055,C,Desserts,4,ChocolateCake,chocolatecake,0,0,0,Q055::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q056,D,Plants,0,Daisy,daisy,1,0,1,Q056::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q056,D,Plants,1,Dragonfruit,dragonfruit,1,1,0,Q056::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q056,D,Plants,2,Durian,durian,1,0,1,Q056::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q056,D,Plants,3,Dragonfruit,dragonfruit,1,0,1,Q056::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q056,D,Plants,4,Daisy,daisy,1,1,0,Q056::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q057,E,Companies,0,Ebay,ebay,1,1,0,Q057::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q057,E,Companies,1,Ebay,ebay,1,1,0,Q057::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q057,E,Companies,2,Ebay,ebay,1,1,0,Q057::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q057,E,Companies,3,Ebay,ebay,1,1,0,Q057::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q057,E,Companies,4,Ebay,ebay,1,1,0,Q057::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q058,F,Movie characters,0,Fred Flintstone,fred flintstone,1,1,0,Q058::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q058,F,Movie characters,1,Fred Flintstone,fred flintstone,1,0,1,Q058::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q058,F,Movie characters,2,Forrest Gump,forrest gump,1,0,1,Q058::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q058,F,Movie characters,3,Fox Fairy,fox fairy,0,0,0,Q058::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q058,F,Movie characters,4,Frodo Baggins,frodo baggins,1,0,1,Q058::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q059,G,Things in a toolbox,0,gear,gear,0,0,0,Q059::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q059,G,Things in a toolbox,1,gear,gear,0,0,0,Q059::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q059,G,Things in a toolbox,2,grease-gun,grease-gun,1,0,1,Q059::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q059,G,Things in a toolbox,3,gear,gear,0,0,0,Q059::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q059,G,Things in a toolbox,4,gasket,gasket,1,0,1,Q059::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q060,H,Countries,0,Haiti,haiti,1,1,0,Q060::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q060,H,Countries,1,Honduras,honduras,1,0,1,Q060::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q060,H,Countries,2,Honduras,honduras,1,0,1,Q060::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q060,H,Countries,3,Haiti,haiti,1,0,1,Q060::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q060,H,Countries,4,Haiti,haiti,1,1,0,Q060::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q061,I,Musical artists,0,Ian Dury,ian dury,0,0,0,Q061::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q061,I,Musical artists,1,Iron Maiden,iron maiden,1,1,0,Q061::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q061,I,Musical artists,2,Iron Maiden,iron maiden,1,0,1,Q061::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q061,I,Musical artists,3,Iron Maiden,iron maiden,1,1,0,Q061::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q061,I,Musical artists,4,Iron Maiden,iron maiden,1,1,0,Q061::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q062,J,Things in a refrigerator,0,juice,juice,1,0,1,Q062::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q062,J,Things in a refrigerator,1,jelly,jelly,1,0,1,Q062::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q062,J,Things in a refrigerator,2,jalapeño,jalapeño,1,0,1,Q062::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q062,J,Things in a refrigerator,3,juice,juice,1,1,0,Q062::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q062,J,Things in a refrigerator,4,jam,jam,1,0,1,Q062::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q063,K,Cities,0,Kansas City,kansas city,1,0,1,Q063::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q063,K,Cities,1,Knoxville,knoxville,1,1,0,Q063::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q063,K,Cities,2,Knoxville,knoxville,1,1,0,Q063::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q063,K,Cities,3,Kalamazoo,kalamazoo,1,0,1,Q063::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q063,K,Cities,4,Kalamazoo,kalamazoo,1,1,0,Q063::4
+outputs/default_09_Player_2.csv,default_09_Player_2,Q064,L,Things in a library,0,laptop,laptop,1,0,1,Q064::0
+outputs/default_09_Player_2.csv,default_09_Player_2,Q064,L,Things in a library,1,Lamp,lamp,0,0,0,Q064::1
+outputs/default_09_Player_2.csv,default_09_Player_2,Q064,L,Things in a library,2,Lamp,lamp,0,0,0,Q064::2
+outputs/default_09_Player_2.csv,default_09_Player_2,Q064,L,Things in a library,3,Lamp,lamp,0,0,0,Q064::3
+outputs/default_09_Player_2.csv,default_09_Player_2,Q064,L,Things in a library,4,Lamp,lamp,0,0,0,Q064::4

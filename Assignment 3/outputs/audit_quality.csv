@@ -1,0 +1,51 @@
+letter,category,answer_norm,valid,manual_verification
+E,Companies,etsy,1,1
+F,Things in a backpack,flashlight,1,1
+Z,Things in a zoo,zookeeper,1,1
+N,Birds,nightjar,1,1
+K,Superheroes,kirby,0,0
+C,Board games,chess,1,1
+X,Words in English,xylophone,1,1
+O,Companies,oracle,1,1
+I,Things in a classroom,interior,0,0
+C,Board games,cluelessly,0,0
+G,Foods,granola,1,1
+Z,Animals,zebra,1,1
+G,Foods,grapes,1,1
+E,Sports,equestrian,1,1
+N,Things in a hospital,nurse,1,1
+U,Things in a garage,umbrella,0,1
+T,TV shows,the twilight zone,1,1
+P,Historical figures,plato,1,1
+K,Cities,kansas city,1,1
+I,Things in a classroom,i pad,1,1
+I,Cities,istanbul,0,1
+T,TV shows,the price is right,0,1
+X,Brands,xbox,1,1
+T,Countries,turkey,1,1
+B,Fruits,banana,1,1
+K,Things in a grocery store,ketchup,1,1
+H,Famous scientists,howard hughes,0,0
+C,Countries,canada,1,1
+T,TV shows,the twilight zone,1,1
+S,Animals,snail,1,1
+E,Movie titles,elizabeth,0,1
+S,Animals,snail,1,1
+G,Foods,grapefruit,1,1
+M,Clothing items,ittens,0,0
+E,Companies,exxon mobil,1,1
+L,Things in a library,library,0,0
+F,Fish,flounder,1,1
+Y,Foods,yogurt,1,1
+V,Things you wear,necklace,0,0
+D,Musical instruments,didgeridoo,1,1
+M,Languages,mandarin,1,1
+S,Things in an office,stapler,1,1
+W,Cities,washington,1,1
+C,Countries,canada,1,1
+K,Superheroes,kick-ass,0,0
+C,Board games,chess,1,1
+H,Countries,haiti,1,1
+E,Sports,equestrian,1,1
+P,Historical figures,pope julius i,1,1
+H,Famous scientists,hans christian ørsted,1,1

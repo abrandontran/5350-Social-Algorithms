@@ -133,6 +133,9 @@ class OpenAIJudge:
             .strip()
             .lower()
         )
+
+        print(f"DEBUG: I asked about {answer_norm}. OpenAI replied: {content}")
+
         value = content.startswith("y")
         self.cache.put(letter, category, answer_norm, value)
         return value
