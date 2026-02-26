@@ -15,14 +15,13 @@ from reference.assignment3_starter import (
 )
 
 MODEL = 'qwen2.5:7b'
-SAMPLES = 500
-TEMPERATURES = [2.5, 3.0]
+SAMPLES = 50
+TEMPERATURES = [0.1, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0]
 VALID_DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 MAX_CONCURRENT = 10
 
 prompt = (
-    "Return a day of the week in lowercase. "
-    "Output only the weekday (no additional text). "
+    "please pick 6 random days of the week, including weekends, with replacement. return the fifth day you choose. respond with just the day."
 )
 
 # Added 'sem' as an argument here
@@ -58,7 +57,6 @@ async def main():
     # --- Processing Results ---
     df = pd.DataFrame(results)
     
-    os.makedirs('working', exist_ok=True)
     df.to_csv('working/part1_calibration.csv', index=False)
     
     for temp in TEMPERATURES:
