@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+opt_20_Player_1_Obscure,outputs/opt_20_Player_1_Obscure.csv,320,118,0.36875,92,0.2875,26,0.08125,84,513,125
+opt_20_Player_2_Obscure,outputs/opt_20_Player_2_Obscure.csv,320,118,0.36875,92,0.2875,26,0.08125,84,513,125
