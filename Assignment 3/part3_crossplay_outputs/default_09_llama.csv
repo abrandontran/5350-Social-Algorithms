@@ -1,0 +1,321 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Alligator,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q001,A,Animals,1,Aardvark,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q001,A,Animals,2,Alligator,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q001,A,Animals,3,Alligator,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q001,A,Animals,4,Aardvark,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q002,A,Jobs,0,Actuary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q002,A,Jobs,1,Astronaut,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q002,A,Jobs,2,Actuary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q002,A,Jobs,3,Accountant,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q002,A,Jobs,4,Actuary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q003,B,Fruits,0,Blueberry,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q003,B,Fruits,1,Banana,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q003,B,Fruits,2,Banana,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q003,B,Fruits,3,Blood orange,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q003,B,Fruits,4,Blueberry,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q004,B,Things that are red,0,Burgundy,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q004,B,Things that are red,1,Blood,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q004,B,Things that are red,2,Blood,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q004,B,Things that are red,3,Brandy,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q004,B,Things that are red,4,Burgundy,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q005,C,Countries,0,China,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q005,C,Countries,1,Canada,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q005,C,Countries,2,Canada,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q005,C,Countries,3,Canada,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q005,C,Countries,4,Croatia,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q006,C,Board games,0,Cranium,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q006,C,Board games,1,Carcassonne,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q006,C,Board games,2,Cranium,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q006,C,Board games,3,Carcassonne,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q006,C,Board games,4,Carcassonne,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q007,D,Musical instruments,0,Drums,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q007,D,Musical instruments,1,Drums,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q007,D,Musical instruments,2,Drums,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q007,D,Musical instruments,3,Drums,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q007,D,Musical instruments,4,Drums,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,0,Dish towel,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,1,Dish soap,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,2,Drain,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,3,Drain,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,4,Dampener,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q009,E,Sports,0,Equestrian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q009,E,Sports,1,Equestrian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q009,E,Sports,2,Equestrian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q009,E,Sports,3,Equestrian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q009,E,Sports,4,Equestrian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q010,E,Movie titles,0,Edward Scissorhands,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q010,E,Movie titles,1,Eternal Sunshine of the Spotless Mind,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q010,E,Movie titles,2,Edward Scissorhands,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q010,E,Movie titles,3,Edward Scissorhands,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q010,E,Movie titles,4,Edward Scissorhands,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q011,F,Fish,0,Flounder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q011,F,Fish,1,Flounder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q011,F,Fish,2,Flounder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q011,F,Fish,3,Flounder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q011,F,Fish,4,Flounder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,0,File folders,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,1,Folder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,2,Folder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,3,Folder,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,4,File folders,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q013,G,U.S. states,0,Georgia,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q013,G,U.S. states,1,Georgia,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q013,G,U.S. states,2,Georgia,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q013,G,U.S. states,3,Georgia,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q013,G,U.S. states,4,Georgia,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q014,G,Foods,0,Garlic,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q014,G,Foods,1,Grapes,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q014,G,Foods,2,Guacamole,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q014,G,Foods,3,Grilled cheese,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q014,G,Foods,4,Goulash,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q015,H,Famous scientists,0,Hugh Everett,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q015,H,Famous scientists,1,Hans Bethe,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q015,H,Famous scientists,2,Hans Christian Ørsted,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q015,H,Famous scientists,3,Hans Christian Ørsted,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q015,H,Famous scientists,4,Hans Christian Ørsted,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q016,H,Things at the beach,0,Hammock,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q016,H,Things at the beach,1,Harbor,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q016,H,Things at the beach,2,Horseshoe,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q016,H,Things at the beach,3,Hut,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q016,H,Things at the beach,4,Hammock,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q017,I,Cities,0,Istanbul,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q017,I,Cities,1,Istanbul,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q017,I,Cities,2,Istanbul,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q017,I,Cities,3,Indianapolis,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q017,I,Cities,4,Istanbul,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,0,Instrument,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,1,Individual desk,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,2,Ibuprofen dispenser,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,3,Whiteboard,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,4,Ibuprofen,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q019,J,Car brands,0,Jaguar,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q019,J,Car brands,1,Jaguar,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q019,J,Car brands,2,Jaguar,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q019,J,Car brands,3,Jaguar,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q019,J,Car brands,4,Jaguar,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q020,J,Video game titles,0,Judgment,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q020,J,Video game titles,1,Journey,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q020,J,Video game titles,2,Journey,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q020,J,Video game titles,3,Jade Empire,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q020,J,Video game titles,4,Journey,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q021,K,Superheroes,0,Kangaroo Man,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q021,K,Superheroes,1,Kylnos,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q021,K,Superheroes,2,Kong,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q021,K,Superheroes,3,Kryptonian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q021,K,Superheroes,4,Kentucky Fried Colonel,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,0,Kettle chips,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,1,Kraft cheese,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,2,Kettle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,3,ketchup,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,4,Ketchup,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q023,L,Dog breeds,0,Labrador,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q023,L,Dog breeds,1,Labrador Retriever,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q023,L,Dog breeds,2,Labrador,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q023,L,Dog breeds,3,Labrador,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q023,L,Dog breeds,4,Labrador,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q024,L,Books,0,Lord of the Rings,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q024,L,Books,1,Lord of the Rings,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q024,L,Books,2,Lord of the Rings,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q024,L,Books,3,Lord of the Rings,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q024,L,Books,4,Lord of the Rings,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q025,M,Languages,0,Malay,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q025,M,Languages,1,Malay,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q025,M,Languages,2,Malay,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q025,M,Languages,3,Maltese,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q025,M,Languages,4,Mandarin,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q026,M,Clothing items,0,Mackinon,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q026,M,Clothing items,1,Mantilla,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q026,M,Clothing items,2,Mantle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q026,M,Clothing items,3,Mantilla,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q026,M,Clothing items,4,Mansfield,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q027,N,Birds,0,Nightingale,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q027,N,Birds,1,Night Heron,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q027,N,Birds,2,Nightingale,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q027,N,Birds,3,Nightingale,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q027,N,Birds,4,Nightingale,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,0,Nurse,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,1,Nursery,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,2,Nurse,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,3,Nursery,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,4,Nurse,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q029,O,Companies,0,Oracle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q029,O,Companies,1,Oracle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q029,O,Companies,2,Oracle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q029,O,Companies,3,Oracle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q029,O,Companies,4,Oracle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q030,O,Things in the sky,0,Ocean,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q030,O,Things in the sky,1,Ocean,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q030,O,Things in the sky,2,Ozone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q030,O,Things in the sky,3,Ozone layer,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q030,O,Things in the sky,4,Ocean,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q031,P,Vegetables,0,Parsnip,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q031,P,Vegetables,1,Parsnip,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q031,P,Vegetables,2,Parsnip,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q031,P,Vegetables,3,Peas,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q031,P,Vegetables,4,Peas,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q032,P,Historical figures,0,Pyrrhus,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q032,P,Historical figures,1,Peter the Great,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q032,P,Historical figures,2,Peter the Great,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q032,P,Historical figures,3,Peter the Great,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q032,P,Historical figures,4,Peter the Great,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q033,Q,Words in English,0,Quirky,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q033,Q,Words in English,1,Question,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q033,Q,Words in English,2,Quantum,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q033,Q,Words in English,3,Quaintness,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q033,Q,Words in English,4,Questionnaire,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,0,Queen of Hearts,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,1,Quasimodo,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,2,Quasimodo,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,3,Quasimodo,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,4,Quasimodo,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q035,R,Songs,0,Respect,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q035,R,Songs,1,Respect,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q035,R,Songs,2,Radiohead,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q035,R,Songs,3,Respect,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q035,R,Songs,4,Road to Nowhere,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q036,R,Tools,0,Ratchet,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q036,R,Tools,1,Ratchet,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q036,R,Tools,2,Router,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q036,R,Tools,3,Ratchet,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q036,R,Tools,4,Ratchet,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q037,S,Animals,0,Snake,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q037,S,Animals,1,Squirrel,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q037,S,Animals,2,Squirrel,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q037,S,Animals,3,Squirrel,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q037,S,Animals,4,Snake,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q038,S,Things in an office,0,Scanner,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q038,S,Things in an office,1,Stapler,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q038,S,Things in an office,2,Stapler,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q038,S,Things in an office,3,Stapler,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q038,S,Things in an office,4,Stapler,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q039,T,Countries,0,Tajikistan,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q039,T,Countries,1,Turkey,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q039,T,Countries,2,Turkey,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q039,T,Countries,3,Turkey,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q039,T,Countries,4,Tunisia,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q040,T,TV shows,0,The Office,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q040,T,TV shows,1,The Twilight Zone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q040,T,TV shows,2,The Twilight Zone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q040,T,TV shows,3,The Twilight Zone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q040,T,TV shows,4,The Office,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,0,University of Utah,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,1,United States Naval Academy,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,2,University of Utah,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,3,University of Utah,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,4,University of Utah,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q042,U,Things in a garage,0,Utility cart,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q042,U,Things in a garage,1,Umbrella,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q042,U,Things in a garage,2,Upright post,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q042,U,Things in a garage,3,Unscrewdriver,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q042,U,Things in a garage,4,Uncle,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q043,V,Jobs,0,Vet,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q043,V,Jobs,1,Veterinarian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q043,V,Jobs,2,Veterinarian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q043,V,Jobs,3,Veterinarian,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q043,V,Jobs,4,Vet Technician,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q044,V,Things you wear,0,Vest,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q044,V,Things you wear,1,Vest,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q044,V,Things you wear,2,Vest,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q044,V,Things you wear,3,Vest,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q044,V,Things you wear,4,Vest,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q045,W,Cities,0,Washington,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q045,W,Cities,1,Winnipeg,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q045,W,Cities,2,Washington,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q045,W,Cities,3,Washington,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q045,W,Cities,4,Washington,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q046,W,Things in a park,0,Walkway,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q046,W,Things in a park,1,Wading hole,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q046,W,Things in a park,2,Walkway,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q046,W,Things in a park,3,Waste disposal unit,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q046,W,Things in a park,4,Winding path,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q047,X,Brands,0,Xerox,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q047,X,Brands,1,Xerox,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q047,X,Brands,2,Xerox,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q047,X,Brands,3,Xerox,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q047,X,Brands,4,Xerox,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q048,X,Words in English,0,Xylophone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q048,X,Words in English,1,Xylophone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q048,X,Words in English,2,Xylophone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q048,X,Words in English,3,Xylophone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q048,X,Words in English,4,Xylophone,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q049,Y,Foods,0,Yellowtail,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q049,Y,Foods,1,Yellow cake,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q049,Y,Foods,2,Yogurt,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q049,Y,Foods,3,Yellowtail,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q049,Y,Foods,4,Yogurt,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q050,Y,Things at a party,0,Yogurt,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q050,Y,Things at a party,1,Yogurt,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q050,Y,Things at a party,2,Yogurt,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q050,Y,Things at a party,3,Yogurt,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q050,Y,Things at a party,4,Yogurt,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q051,Z,Animals,0,zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q051,Z,Animals,1,zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q051,Z,Animals,2,Zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q051,Z,Animals,3,zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q051,Z,Animals,4,Zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,0,Zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,1,Zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,2,Zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,3,Zebras,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,4,Zebra,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,0,Apron,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,1,Appliance,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,2,A blender,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,3,Appliance,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,4,Ablutcher,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q054,B,Singers,0,Beyoncé,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q054,B,Singers,1,Beyonce,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q054,B,Singers,2,Beyoncé,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q054,B,Singers,3,Beyonce,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q054,B,Singers,4,Beyoncé,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q055,C,Desserts,0,Cheesecake,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q055,C,Desserts,1,Creme Brulee,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q055,C,Desserts,2,Crème Brûlée,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q055,C,Desserts,3,Cannoli,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q055,C,Desserts,4,Crème Brûlée,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q056,D,Plants,0,Dandelion,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q056,D,Plants,1,Dandelion,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q056,D,Plants,2,Dandelion,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q056,D,Plants,3,Dandelion,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q056,D,Plants,4,Dandelion,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q057,E,Companies,0,ExxonMobil,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q057,E,Companies,1,EBay,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q057,E,Companies,2,Ebay,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q057,E,Companies,3,Ebay,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q057,E,Companies,4,Epson,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q058,F,Movie characters,0,Forrest Gump,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q058,F,Movie characters,1,Frodo Baggins,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q058,F,Movie characters,2,Frodo Baggins,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q058,F,Movie characters,3,Frodo Baggins,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q058,F,Movie characters,4,Forrest Gump,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,0,Glue,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,1,Glue,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,2,Glue stick,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,3,Glue,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,4,Grease,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q060,H,Countries,0,Hungary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q060,H,Countries,1,Hungary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q060,H,Countries,2,Hungary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q060,H,Countries,3,Hungary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q060,H,Countries,4,Hungary,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q061,I,Musical artists,0,Ice Cube,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q061,I,Musical artists,1,Ilhan Ramzanis,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q061,I,Musical artists,2,Ice Cube,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q061,I,Musical artists,3,Ice Cube,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q061,I,Musical artists,4,Iggy Pop,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,0,Jalapeno,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,1,Jellies,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,2,Jalapeno peppers,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,3,Jelly,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,4,Jelly,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q063,K,Cities,0,Kansas City,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q063,K,Cities,1,Kansas City,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q063,K,Cities,2,Kansas City,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q063,K,Cities,3,Kansas City,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q063,K,Cities,4,Kansas City,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q064,L,Things in a library,0,Lost and Found box,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q064,L,Things in a library,1,Lost book,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q064,L,Things in a library,2,Law books,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q064,L,Things in a library,3,Library,llama3.2:3b,llama_default_09,0.9,40,baseline
+Q064,L,Things in a library,4,Large print books,llama3.2:3b,llama_default_09,0.9,40,baseline

@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+self_opt_20_qwen_Player_1,part3_selfplay_outputs/self_opt_20_qwen_Player_1.csv,320,243,0.759375,126,0.39375,117,0.365625,123,276,363
+self_opt_20_qwen_Player_2,part3_selfplay_outputs/self_opt_20_qwen_Player_2.csv,320,245,0.765625,128,0.4,117,0.365625,126,276,363

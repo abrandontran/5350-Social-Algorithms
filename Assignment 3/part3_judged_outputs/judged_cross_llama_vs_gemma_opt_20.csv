@@ -1,0 +1,643 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q001,A,Animals,0,Alligator,alligator,1,0,1,Q001::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q001,A,Animals,1,Aardvark,aardvark,1,1,0,Q001::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q001,A,Animals,2,Aardvark,aardvark,1,0,1,Q001::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q001,A,Animals,3,Aardvark,aardvark,1,0,1,Q001::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q001,A,Animals,4,Aardvark,aardvark,1,0,1,Q001::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q002,A,Jobs,0,Accountant,accountant,1,0,1,Q002::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q002,A,Jobs,1,Accountant,accountant,1,0,1,Q002::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q002,A,Jobs,2,Actor,actor,1,0,1,Q002::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q002,A,Jobs,3,Accountant,accountant,1,0,1,Q002::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q002,A,Jobs,4,Architect,architect,1,0,1,Q002::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q003,B,Fruits,0,Banana,banana,1,0,1,Q003::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q003,B,Fruits,1,Blueberry,blueberry,1,0,1,Q003::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q003,B,Fruits,2,Banana,banana,1,0,1,Q003::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q003,B,Fruits,3,Blueberry,blueberry,1,0,1,Q003::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q003,B,Fruits,4,Banana,banana,1,1,0,Q003::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q004,B,Things that are red,0,beets,beets,1,0,1,Q004::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q004,B,Things that are red,1,Blood,blood,1,0,1,Q004::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q004,B,Things that are red,2,Brick Red,brick red,1,0,1,Q004::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q004,B,Things that are red,3,Fire engines,fire engines,1,0,1,Q004::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q004,B,Things that are red,4,Bacon,bacon,0,0,0,Q004::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q005,C,Countries,0,Canada,canada,1,0,1,Q005::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q005,C,Countries,1,China,china,1,0,1,Q005::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q005,C,Countries,2,Canada,canada,1,0,1,Q005::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q005,C,Countries,3,Canada,canada,1,1,0,Q005::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q005,C,Countries,4,Canada,canada,1,0,1,Q005::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q006,C,Board games,0,Connect 4,connect 4,1,0,1,Q006::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q006,C,Board games,1,Connect Four,connect four,1,0,1,Q006::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q006,C,Board games,2,Carcassonne,carcassonne,1,0,1,Q006::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q006,C,Board games,3,Carcassonne,carcassonne,1,0,1,Q006::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q006,C,Board games,4,Codenames,codenames,1,0,1,Q006::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q007,D,Musical instruments,0,Drums,drums,1,0,1,Q007::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q007,D,Musical instruments,1,Double Bass,double bass,1,0,1,Q007::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q007,D,Musical instruments,2,Dulcimer,dulcimer,1,0,1,Q007::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q007,D,Musical instruments,3,Drums,drums,1,1,0,Q007::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q007,D,Musical instruments,4,Double bass,double bass,1,0,1,Q007::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q008,D,Things in a bathroom,0,Dishwasher,dishwasher,0,0,0,Q008::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q008,D,Things in a bathroom,1,Drainer,drainer,1,1,0,Q008::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q008,D,Things in a bathroom,2,Drink Mixer,drink mixer,0,0,0,Q008::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q008,D,Things in a bathroom,3,Dish Soap,dish soap,1,0,1,Q008::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q008,D,Things in a bathroom,4,Detergent,detergent,0,0,0,Q008::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q009,E,Sports,0,Extreme,extreme,0,0,0,Q009::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q009,E,Sports,1,Extreme Skiing,extreme skiing,1,0,1,Q009::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q009,E,Sports,3,Equitation,equitation,1,0,1,Q009::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q009,E,Sports,4,Extreme skiing,extreme skiing,1,0,1,Q009::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q010,E,Movie titles,0,Edward Scissorhands,edward scissorhands,1,0,1,Q010::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q010,E,Movie titles,1,Edward Scissorhands,edward scissorhands,1,1,0,Q010::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q010,E,Movie titles,2,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,0,1,Q010::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q010,E,Movie titles,3,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,0,1,Q010::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q010,E,Movie titles,4,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,0,1,Q010::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q011,F,Fish,2,Flounder,flounder,1,0,1,Q011::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q011,F,Fish,3,Flounder,flounder,1,0,1,Q011::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q011,F,Fish,4,Flounder,flounder,1,0,1,Q011::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q012,F,Things in a backpack,0,Folder,folder,1,0,1,Q012::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q012,F,Things in a backpack,1,Folder,folder,1,0,1,Q012::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q012,F,Things in a backpack,2,Fleece,fleece,1,0,1,Q012::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q012,F,Things in a backpack,3,Files,files,1,0,1,Q012::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q012,F,Things in a backpack,4,Folder,folder,1,0,1,Q012::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q014,G,Foods,0,Garlic,garlic,1,0,1,Q014::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q014,G,Foods,1,Grapes,grapes,1,1,0,Q014::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q014,G,Foods,2,Guacamole,guacamole,1,0,1,Q014::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q014,G,Foods,3,Grapes,grapes,1,0,1,Q014::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q014,G,Foods,4,Garlic,garlic,1,0,1,Q014::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q015,H,Famous scientists,0,Henrietta Leavitt,henrietta leavitt,1,0,1,Q015::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q015,H,Famous scientists,1,Harald Ure,harald ure,0,0,0,Q015::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q015,H,Famous scientists,2,Herschel,herschel,1,0,1,Q015::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q015,H,Famous scientists,3,Henry David Thoreau,henry david thoreau,0,0,0,Q015::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q015,H,Famous scientists,4,Hippocrates,hippocrates,0,0,0,Q015::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q016,H,Things at the beach,0,Horseshoe,horseshoe,0,0,0,Q016::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q016,H,Things at the beach,1,Horseshoe,horseshoe,0,0,0,Q016::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q016,H,Things at the beach,2,Hammock,hammock,1,1,0,Q016::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q016,H,Things at the beach,3,Harbor,harbor,0,0,0,Q016::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q016,H,Things at the beach,4,Harbor,harbor,0,0,0,Q016::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q017,I,Cities,0,Ithaca,ithaca,1,0,1,Q017::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q017,I,Cities,2,Istanbul,istanbul,0,0,0,Q017::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q017,I,Cities,3,Indianapolis,indianapolis,1,0,1,Q017::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q017,I,Cities,4,Indianapolis,indianapolis,1,0,1,Q017::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q018,I,Things in a classroom,0,Instrument,instrument,1,0,1,Q018::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q018,I,Things in a classroom,1,Illustrations,illustrations,1,0,1,Q018::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q018,I,Things in a classroom,2,Internet connection,internet connection,0,0,0,Q018::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q018,I,Things in a classroom,3,Idea boards,idea boards,0,0,0,Q018::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q018,I,Things in a classroom,4,Ink,ink,1,0,1,Q018::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q019,J,Car brands,0,Jaguar,jaguar,1,0,1,Q019::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q019,J,Car brands,2,Jaguar,jaguar,1,0,1,Q019::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q019,J,Car brands,3,Jaguar,jaguar,1,1,0,Q019::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q019,J,Car brands,4,Jaguar,jaguar,1,1,0,Q019::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q020,J,Video game titles,0,Jagged Alliance 2,jagged alliance 2,1,0,1,Q020::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q020,J,Video game titles,1,joust,joust,1,0,1,Q020::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q020,J,Video game titles,2,Jurassic Park: The Game,jurassic park: the game,1,0,1,Q020::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q020,J,Video game titles,3,Jetpack Joyride,jetpack joyride,1,0,1,Q020::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q020,J,Video game titles,4,Journey,journey,1,0,1,Q020::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q021,K,Superheroes,0,Kang the Conqueror,kang the conqueror,1,0,1,Q021::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q021,K,Superheroes,1,Kinetic Man,kinetic man,0,0,0,Q021::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q021,K,Superheroes,2,"King Leopard
+
+Superhero in comics but is most well known for character appearances at",king leopard superhero in comics but is most well known for character appearances at,0,0,0,Q021::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q021,K,Superheroes,3,Kid Flash,kid flash,1,0,1,Q021::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q021,K,Superheroes,4,Kevin,kevin,0,0,0,Q021::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q022,K,Things in a grocery store,0,Kettle,kettle,1,0,1,Q022::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q022,K,Things in a grocery store,1,kettlecorn,kettlecorn,0,0,0,Q022::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q022,K,Things in a grocery store,2,Kettle,kettle,1,0,1,Q022::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q022,K,Things in a grocery store,3,Ketchup,ketchup,1,0,1,Q022::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q022,K,Things in a grocery store,4,ketchup,ketchup,1,0,1,Q022::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q023,L,Dog breeds,0,Labrador Retriever,labrador retriever,1,0,1,Q023::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q023,L,Dog breeds,1,Labrador Retriever,labrador retriever,1,0,1,Q023::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q023,L,Dog breeds,2,Labrador,labrador,1,1,0,Q023::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q023,L,Dog breeds,3,Labrador,labrador,1,1,0,Q023::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q023,L,Dog breeds,4,Labrador,labrador,1,0,1,Q023::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q024,L,Books,0,Little Women,little women,1,0,1,Q024::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q024,L,Books,1,Lord of the Rings,lord of the rings,1,0,1,Q024::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q024,L,Books,2,Lost David and Goliath,lost david and goliath,0,0,0,Q024::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q024,L,Books,3,Little Women,little women,1,0,1,Q024::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q024,L,Books,4,Lord of the Rings,lord of the rings,1,0,1,Q024::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q025,M,Languages,0,Malay,malay,1,1,0,Q025::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q025,M,Languages,1,Mandarin,mandarin,1,0,1,Q025::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q025,M,Languages,2,Maori,maori,1,0,1,Q025::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q025,M,Languages,3,Maori,maori,1,0,1,Q025::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q025,M,Languages,4,Malay,malay,1,0,1,Q025::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q026,M,Clothing items,0,Man scarf,man scarf,0,0,0,Q026::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q026,M,Clothing items,1,Midriff,midriff,1,0,1,Q026::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q026,M,Clothing items,2,Muffler,muffler,1,0,1,Q026::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q026,M,Clothing items,3,Mantle,mantle,1,0,1,Q026::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q026,M,Clothing items,4,Mouthguard,mouthguard,0,0,0,Q026::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q027,N,Birds,0,Night Heron,night heron,1,0,1,Q027::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q027,N,Birds,2,Nightingale,nightingale,1,1,0,Q027::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q027,N,Birds,3,Nightingale,nightingale,1,1,0,Q027::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q027,N,Birds,4,Night Heron,night heron,1,0,1,Q027::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q028,N,Things in a hospital,0,Nursing,nursing,1,0,1,Q028::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q028,N,Things in a hospital,1,Nursery,nursery,1,0,1,Q028::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q028,N,Things in a hospital,2,Nurse,nurse,1,1,0,Q028::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q028,N,Things in a hospital,3,Nurse,nurse,1,0,1,Q028::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q028,N,Things in a hospital,4,nurse,nurse,1,1,0,Q028::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q029,O,Companies,0,Oracle,oracle,1,0,1,Q029::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q029,O,Companies,1,Oracle,oracle,1,0,1,Q029::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q029,O,Companies,2,Orange,orange,0,0,0,Q029::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q029,O,Companies,3,Oxford Corporation,oxford corporation,0,0,0,Q029::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q029,O,Companies,4,Oracle,oracle,1,0,1,Q029::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q030,O,Things in the sky,0,Oceanic cloud,oceanic cloud,0,0,0,Q030::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q030,O,Things in the sky,1,Orange sunsets,orange sunsets,0,0,0,Q030::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q030,O,Things in the sky,2,Overcast,overcast,0,0,0,Q030::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q030,O,Things in the sky,3,Orbit,orbit,1,1,0,Q030::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q030,O,Things in the sky,4,Ozone,ozone,0,0,0,Q030::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q031,P,Vegetables,0,parsnip,parsnip,1,0,1,Q031::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q031,P,Vegetables,1,Peas,peas,1,0,1,Q031::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q031,P,Vegetables,2,Parsnip,parsnip,1,1,0,Q031::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q031,P,Vegetables,3,Parrot,parrot,0,0,0,Q031::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q031,P,Vegetables,4,Parsnip,parsnip,1,0,1,Q031::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q032,P,Historical figures,0,Pascal,pascal,1,0,1,Q032::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q032,P,Historical figures,1,Peter the Great,peter the great,1,0,1,Q032::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q032,P,Historical figures,2,Pyrrhus,pyrrhus,1,0,1,Q032::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q032,P,Historical figures,3,Peter the Great,peter the great,1,0,1,Q032::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q032,P,Historical figures,4,Pompeii,pompeii,0,0,0,Q032::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q033,Q,Words in English,0,quokka,quokka,1,0,1,Q033::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q033,Q,Words in English,1,Quality,quality,1,0,1,Q033::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q033,Q,Words in English,2,quartz,quartz,1,0,1,Q033::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q033,Q,Words in English,3,Quirky,quirky,1,0,1,Q033::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q033,Q,Words in English,4,Quaint,quaint,1,0,1,Q033::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q034,Q,Fictional characters,0,Quasimodo,quasimodo,1,0,1,Q034::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q034,Q,Fictional characters,1,Q is not a commonly used starting letter for fictional characters in games like Scatterg,q is not a commonly used starting letter for fictional characters in games like scatterg,0,0,0,Q034::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q034,Q,Fictional characters,2,Quasimodo,quasimodo,1,0,1,Q034::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q034,Q,Fictional characters,3,Quasimodo,quasimodo,1,0,1,Q034::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q034,Q,Fictional characters,4,Quasimodo,quasimodo,1,0,1,Q034::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q035,R,Songs,0,Revolution,revolution,0,0,0,Q035::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q035,R,Songs,1,Ring of Fire,ring of fire,1,0,1,Q035::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q035,R,Songs,2,Rainy Days and Mondays,rainy days and mondays,0,0,0,Q035::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q035,R,Songs,3,Ring Of Fire,ring of fire,1,0,1,Q035::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q035,R,Songs,4,Revolution,revolution,0,0,0,Q035::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q036,R,Tools,0,Router,router,1,0,1,Q036::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q036,R,Tools,1,Ratchet,ratchet,1,0,1,Q036::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q036,R,Tools,2,Reamer,reamer,1,0,1,Q036::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q036,R,Tools,3,Reamer,reamer,1,0,1,Q036::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q036,R,Tools,4,Ratchet,ratchet,1,0,1,Q036::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q037,S,Animals,0,Snake,snake,1,1,0,Q037::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q037,S,Animals,1,Snow Leopard,snow leopard,1,0,1,Q037::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q037,S,Animals,2,Snake,snake,1,0,1,Q037::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q037,S,Animals,3,Sloth,sloth,1,0,1,Q037::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q037,S,Animals,4,Skunk,skunk,1,0,1,Q037::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q038,S,Things in an office,2,Stapler,stapler,1,1,0,Q038::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q038,S,Things in an office,4,Shredder,shredder,1,0,1,Q038::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q039,T,Countries,0,Tunisia,tunisia,1,0,1,Q039::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q039,T,Countries,1,Turkey,turkey,1,1,0,Q039::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q039,T,Countries,2,Turkey,turkey,1,0,1,Q039::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q039,T,Countries,3,Thailand,thailand,1,0,1,Q039::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q039,T,Countries,4,Thailand,thailand,1,0,1,Q039::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q040,T,TV shows,0,The Tudors,the tudors,1,0,1,Q040::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q040,T,TV shows,1,The Simpsons,the simpsons,0,0,0,Q040::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q040,T,TV shows,2,The Office,the office,0,0,0,Q040::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q040,T,TV shows,3,The Simpsons,the simpsons,0,0,0,Q040::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q040,T,TV shows,4,The Office,the office,0,0,0,Q040::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q041,U,U.S. colleges,0,University of Oregon,university of oregon,1,0,1,Q041::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q041,U,U.S. colleges,1,United States Military Academy,united states military academy,0,0,0,Q041::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q041,U,U.S. colleges,2,University of Utah,university of utah,1,0,1,Q041::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q041,U,U.S. colleges,3,University of Utah,university of utah,1,0,1,Q041::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q041,U,U.S. colleges,4,University of Utah,university of utah,1,0,1,Q041::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q042,U,Things in a garage,0,Unit oil filter,unit oil filter,0,0,0,Q042::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q042,U,Things in a garage,1,Uncord,uncord,0,0,0,Q042::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q042,U,Things in a garage,2,Utilities,utilities,0,0,0,Q042::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q042,U,Things in a garage,3,Unscrewer,unscrewer,1,0,1,Q042::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q042,U,Things in a garage,4,Unit tool,unit tool,0,0,0,Q042::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q043,V,Jobs,0,Veterinarian,veterinarian,1,1,0,Q043::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q043,V,Jobs,1,Videographer,videographer,1,1,0,Q043::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q043,V,Jobs,2,Veterinarian,veterinarian,1,0,1,Q043::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q043,V,Jobs,3,Veterinarian,veterinarian,1,0,1,Q043::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q043,V,Jobs,4,Videographer,videographer,1,0,1,Q043::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q044,V,Things you wear,0,Vest,vest,1,0,1,Q044::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q044,V,Things you wear,1,Vest,vest,1,0,1,Q044::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q044,V,Things you wear,2,Vest,vest,1,0,1,Q044::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q044,V,Things you wear,3,Vest,vest,1,0,1,Q044::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q044,V,Things you wear,4,Vest,vest,1,0,1,Q044::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q045,W,Cities,0,Wellington,wellington,1,0,1,Q045::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q045,W,Cities,1,Warsaw,warsaw,1,0,1,Q045::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q045,W,Cities,2,Washington,washington,1,0,1,Q045::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q045,W,Cities,3,Washington D C,washington d c,0,0,0,Q045::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q045,W,Cities,4,Washington,washington,1,0,1,Q045::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q046,W,Things in a park,0,Walking path,walking path,1,0,1,Q046::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q046,W,Things in a park,1,Wetland,wetland,1,0,1,Q046::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q046,W,Things in a park,2,Walkway,walkway,1,0,1,Q046::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q046,W,Things in a park,3,Water Feature,water feature,1,0,1,Q046::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q046,W,Things in a park,4,Winding path,winding path,1,0,1,Q046::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q047,X,Brands,1,Xerox,xerox,1,0,1,Q047::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q047,X,Brands,2,Xerox,xerox,1,1,0,Q047::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q047,X,Brands,3,Xerox,xerox,1,1,0,Q047::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q047,X,Brands,4,Xerox,xerox,1,1,0,Q047::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q048,X,Words in English,0,Xenophobia,xenophobia,1,0,1,Q048::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q048,X,Words in English,1,Xylophone,xylophone,1,0,1,Q048::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q048,X,Words in English,2,Xylophone,xylophone,1,0,1,Q048::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q048,X,Words in English,3,Xylophone,xylophone,1,0,1,Q048::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q048,X,Words in English,4,Xylophone,xylophone,1,1,0,Q048::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q049,Y,Foods,0,Yorkshire,yorkshire,1,0,1,Q049::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q049,Y,Foods,1,Yorkshire pudding,yorkshire pudding,1,0,1,Q049::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q049,Y,Foods,2,Yogurt,yogurt,1,1,0,Q049::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q049,Y,Foods,3,Yogurt,yogurt,1,0,1,Q049::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q049,Y,Foods,4,Yogurt,yogurt,1,1,0,Q049::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q050,Y,Things at a party,0,Yogurt,yogurt,0,0,0,Q050::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q050,Y,Things at a party,1,Yellow cupcakes,yellow cupcakes,1,0,1,Q050::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q050,Y,Things at a party,2,yogurt,yogurt,0,0,0,Q050::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q050,Y,Things at a party,3,Yogurt,yogurt,0,0,0,Q050::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q050,Y,Things at a party,4,Yellowtail,yellowtail,0,0,0,Q050::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q051,Z,Animals,2,zebra,zebra,1,1,0,Q051::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q052,Z,Things in a zoo,0,zebra,zebra,1,1,0,Q052::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q052,Z,Things in a zoo,1,zebras,zebras,1,0,1,Q052::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q052,Z,Things in a zoo,2,Zebra,zebra,1,1,0,Q052::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q052,Z,Things in a zoo,3,Zebra,zebra,1,1,0,Q052::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q052,Z,Things in a zoo,4,Zebras,zebras,1,0,1,Q052::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q053,A,Things in a kitchen,0,Artichoke,artichoke,1,0,1,Q053::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q053,A,Things in a kitchen,1,All purpose cleaner,all purpose cleaner,1,0,1,Q053::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q053,A,Things in a kitchen,2,Utensil,utensil,1,0,1,Q053::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q053,A,Things in a kitchen,3,All-purpose flour,all-purpose flour,1,0,1,Q053::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q053,A,Things in a kitchen,4,Alewife,alewife,0,0,0,Q053::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q054,B,Singers,0,Beyonce,beyonce,1,0,1,Q054::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q054,B,Singers,1,Beyoncé,beyonc,0,0,0,Q054::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q054,B,Singers,2,Bruce Springsteen,bruce springsteen,1,0,1,Q054::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q054,B,Singers,3,Beyoncé,beyonc,0,0,0,Q054::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q054,B,Singers,4,Beyonce,beyonce,1,0,1,Q054::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q055,C,Desserts,0,Cream Puff,cream puff,1,0,1,Q055::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q055,C,Desserts,1,Crème Brûlée,crème brûlée,1,0,1,Q055::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q055,C,Desserts,2,Cannoli,cannoli,1,0,1,Q055::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q055,C,Desserts,3,Crème Brûlée,crème brûlée,1,0,1,Q055::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q055,C,Desserts,4,Cannoli,cannoli,1,0,1,Q055::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q056,D,Plants,0,Dandelion,dandelion,1,1,0,Q056::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q056,D,Plants,1,Daylily,daylily,1,0,1,Q056::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q056,D,Plants,2,Daylily,daylily,1,0,1,Q056::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q056,D,Plants,3,Daisyweed,daisyweed,1,0,1,Q056::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q056,D,Plants,4,Dandelion,dandelion,1,0,1,Q056::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q057,E,Companies,0,Electrolux,electrolux,1,0,1,Q057::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q057,E,Companies,1,eBay,ebay,1,0,1,Q057::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q057,E,Companies,2,Eastman Chemical Company,eastman chemical company,1,0,1,Q057::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q057,E,Companies,3,Enterprise,enterprise,0,0,0,Q057::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q057,E,Companies,4,Electrolux,electrolux,1,0,1,Q057::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q058,F,Movie characters,0,Forrest Gump,forrest gump,1,0,1,Q058::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q058,F,Movie characters,1,Ferris Bueller,ferris bueller,1,0,1,Q058::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q058,F,Movie characters,2,Forrest Gump,forrest gump,1,1,0,Q058::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q058,F,Movie characters,3,Forrest Gump,forrest gump,1,1,0,Q058::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q058,F,Movie characters,4,Forrest Gump,forrest gump,1,0,1,Q058::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q059,G,Things in a toolbox,0,glue,glue,0,0,0,Q059::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q059,G,Things in a toolbox,1,Gear,gear,1,0,1,Q059::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q059,G,Things in a toolbox,2,glue,glue,0,0,0,Q059::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q059,G,Things in a toolbox,3,Glue gun,glue gun,1,0,1,Q059::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q059,G,Things in a toolbox,4,Gearbox,gearbox,1,0,1,Q059::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q060,H,Countries,0,Haiti,haiti,1,0,1,Q060::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q060,H,Countries,1,Hungary,hungary,1,0,1,Q060::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q060,H,Countries,2,Haiti,haiti,1,0,1,Q060::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q060,H,Countries,3,Honduras,honduras,1,1,0,Q060::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q060,H,Countries,4,Haiti,haiti,1,0,1,Q060::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q061,I,Musical artists,0,Iron Maiden,iron maiden,1,0,1,Q061::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q061,I,Musical artists,1,Iggy Pop,iggy pop,1,0,1,Q061::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q061,I,Musical artists,2,Ice Cube,ice cube,0,0,0,Q061::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q061,I,Musical artists,3,Imagine Dragons,imagine dragons,0,0,0,Q061::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q061,I,Musical artists,4,Iggy Pop,iggy pop,1,0,1,Q061::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q062,J,Things in a refrigerator,0,juice,juice,1,1,0,Q062::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q062,J,Things in a refrigerator,1,Jellies,jellies,1,0,1,Q062::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q062,J,Things in a refrigerator,2,Jar,jar,1,0,1,Q062::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q062,J,Things in a refrigerator,3,Juice,juice,1,0,1,Q062::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q062,J,Things in a refrigerator,4,Jalapenos,jalapenos,1,0,1,Q062::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q063,K,Cities,0,Kalamazoo,kalamazoo,1,0,1,Q063::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q063,K,Cities,1,Kathmandu,kathmandu,1,1,0,Q063::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q063,K,Cities,2,Kansas City,kansas city,0,0,0,Q063::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q063,K,Cities,3,Kansas City,kansas city,0,0,0,Q063::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q063,K,Cities,4,Kansas City,kansas city,0,0,0,Q063::4
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q064,L,Things in a library,0,Library catalog,library catalog,0,0,0,Q064::0
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q064,L,Things in a library,1,List of Books,list of books,0,0,0,Q064::1
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q064,L,Things in a library,2,Laptops,laptops,1,0,1,Q064::2
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q064,L,Things in a library,3,Lost books,lost books,0,0,0,Q064::3
+part3_crossplay_outputs/opt_20_llama.csv,opt_20_llama,Q064,L,Things in a library,4,Large books,large books,0,0,0,Q064::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q001,A,Animals,0,Aardvark,aardvark,1,0,1,Q001::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q001,A,Animals,1,Aardvark,aardvark,1,1,0,Q001::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q001,A,Animals,2,Alpaca,alpaca,1,0,1,Q001::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q001,A,Animals,3,Alligator,alligator,1,0,1,Q001::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q001,A,Animals,4,Ape,ape,1,0,1,Q001::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q002,A,Jobs,0,Air traffic controller,air traffic controller,1,0,1,Q002::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q002,A,Jobs,1,Auctioneer,auctioneer,1,0,1,Q002::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q002,A,Jobs,2,Actuary,actuary,1,0,1,Q002::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q002,A,Jobs,3,Astronomer,astronomer,1,0,1,Q002::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q002,A,Jobs,4,Aircraft mechanic,aircraft mechanic,1,0,1,Q002::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q003,B,Fruits,0,blackberry,blackberry,1,0,1,Q003::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q003,B,Fruits,1,blackberry,blackberry,1,0,1,Q003::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q003,B,Fruits,2,blackberry,blackberry,1,0,1,Q003::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q003,B,Fruits,3,Banana,banana,1,0,1,Q003::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q003,B,Fruits,4,Banana,banana,1,1,0,Q003::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q004,B,Things that are red,0,Bananas,bananas,0,0,0,Q004::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q004,B,Things that are red,1,Banana,banana,0,0,0,Q004::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q004,B,Things that are red,2,Barbell,barbell,0,0,0,Q004::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q004,B,Things that are red,3,Bulldozer,bulldozer,0,0,0,Q004::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q004,B,Things that are red,4,Beret,beret,1,0,1,Q004::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q005,C,Countries,0,Cuba,cuba,1,0,1,Q005::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q005,C,Countries,1,Cameroon,cameroon,1,0,1,Q005::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q005,C,Countries,2,China,china,1,0,1,Q005::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q005,C,Countries,3,Canada,canada,1,1,0,Q005::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q005,C,Countries,4,Cambodia,cambodia,1,0,1,Q005::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q006,C,Board games,0,Catan,catan,1,0,1,Q006::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q006,C,Board games,1,Candy Land,candy land,0,0,0,Q006::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q006,C,Board games,2,Cluedo,cluedo,1,0,1,Q006::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q006,C,Board games,3,Charades,charades,1,0,1,Q006::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q006,C,Board games,4,Checkers,checkers,1,0,1,Q006::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q007,D,Musical instruments,0,Darbuka,darbuka,1,0,1,Q007::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q007,D,Musical instruments,1,Drums,drums,1,0,1,Q007::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q007,D,Musical instruments,2,Drums,drums,1,0,1,Q007::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q007,D,Musical instruments,3,Drums,drums,1,1,0,Q007::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q007,D,Musical instruments,4,Didgeridoo,didgeridoo,1,0,1,Q007::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q008,D,Things in a bathroom,0,Drawer,drawer,1,0,1,Q008::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q008,D,Things in a bathroom,1,Drainer,drainer,1,1,0,Q008::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q008,D,Things in a bathroom,2,Drain,drain,1,0,1,Q008::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q008,D,Things in a bathroom,3,Toothpaste,toothpaste,1,0,1,Q008::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q008,D,Things in a bathroom,4,Drain,drain,1,0,1,Q008::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q009,E,Sports,0,equestrian,equestrian,1,0,1,Q009::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q009,E,Sports,1,Equestrian,equestrian,1,0,1,Q009::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q009,E,Sports,3,Equestrian,equestrian,1,0,1,Q009::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q009,E,Sports,4,Equestrian,equestrian,1,0,1,Q009::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q010,E,Movie titles,0,Eternal sunshine,eternal sunshine,0,0,0,Q010::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q010,E,Movie titles,1,Edward Scissorhands,edward scissorhands,1,1,0,Q010::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q010,E,Movie titles,2,Edward Scissorhands,edward scissorhands,1,0,1,Q010::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q010,E,Movie titles,3,Eat Pray Love,eat pray love,1,0,1,Q010::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q010,E,Movie titles,4,Edward Scissorhands,edward scissorhands,1,0,1,Q010::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q011,F,Fish,0,flounder,flounder,1,1,0,Q011::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q011,F,Fish,1,flounder,flounder,1,1,0,Q011::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q011,F,Fish,2,Flasher,flasher,0,0,0,Q011::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q011,F,Fish,3,Farmed Eel,farmed eel,0,0,0,Q011::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q011,F,Fish,4,Fiddler,fiddler,0,0,0,Q011::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q012,F,Things in a backpack,0,Fannypack,fannypack,0,0,0,Q012::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q012,F,Things in a backpack,1,flashlight,flashlight,1,0,1,Q012::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q012,F,Things in a backpack,2,First aid kit,first aid kit,1,0,1,Q012::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q012,F,Things in a backpack,3,Fannypack,fannypack,0,0,0,Q012::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q012,F,Things in a backpack,4,First aid kit,first aid kit,1,0,1,Q012::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q014,G,Foods,0,Guava,guava,1,0,1,Q014::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q014,G,Foods,1,Grapes,grapes,1,1,0,Q014::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q014,G,Foods,2,Grapefruit,grapefruit,1,0,1,Q014::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q014,G,Foods,3,Garlic,garlic,1,0,1,Q014::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q014,G,Foods,4,grape,grape,1,0,1,Q014::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q015,H,Famous scientists,0,Hawkins,hawkins,0,0,0,Q015::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q015,H,Famous scientists,1,Hans christian Anderson,hans christian anderson,0,0,0,Q015::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q015,H,Famous scientists,2,Hans christian Anders,hans christian anders,0,0,0,Q015::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q015,H,Famous scientists,3,Hawkins,hawkins,0,0,0,Q015::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q015,H,Famous scientists,4,Hempel,hempel,0,0,0,Q015::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q016,H,Things at the beach,0,Hibiscus,hibiscus,0,0,0,Q016::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q016,H,Things at the beach,1,Hourglass,hourglass,0,0,0,Q016::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q016,H,Things at the beach,2,Hammock,hammock,1,1,0,Q016::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q016,H,Things at the beach,3,Haluu,haluu,0,0,0,Q016::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q016,H,Things at the beach,4,House,house,0,0,0,Q016::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q017,I,Cities,2,Istanbul,istanbul,0,0,0,Q017::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q017,I,Cities,3,Inverness,inverness,1,0,1,Q017::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q017,I,Cities,4,Istanbul,istanbul,0,0,0,Q017::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q018,I,Things in a classroom,0,Instagraph,instagraph,0,0,0,Q018::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q018,I,Things in a classroom,1,iPads,ipads,1,0,1,Q018::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q018,I,Things in a classroom,2,iPad,ipad,1,0,1,Q018::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q018,I,Things in a classroom,3,Irons,irons,0,0,0,Q018::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q018,I,Things in a classroom,4,i-pad,i-pad,1,0,1,Q018::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q019,J,Car brands,0,Jeep,jeep,1,0,1,Q019::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q019,J,Car brands,2,Jeep,jeep,1,0,1,Q019::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q019,J,Car brands,3,Jaguar,jaguar,1,1,0,Q019::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q019,J,Car brands,4,Jaguar,jaguar,1,1,0,Q019::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q020,J,Video game titles,0,jetsetradio,jetsetradio,0,0,0,Q020::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q020,J,Video game titles,1,Just Shapes and Beats,just shapes and beats,1,0,1,Q020::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q020,J,Video game titles,2,Jet Set Radio,jet set radio,1,0,1,Q020::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q020,J,Video game titles,3,Jet Set Radio,jet set radio,1,0,1,Q020::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q020,J,Video game titles,4,Jak 2,jak 2,1,0,1,Q020::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q021,K,Superheroes,0,krypto,krypto,1,0,1,Q021::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q021,K,Superheroes,1,Katana,katana,0,0,0,Q021::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q021,K,Superheroes,2,Kingpin,kingpin,1,0,1,Q021::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q021,K,Superheroes,3,Kamandi,kamandi,1,0,1,Q021::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q021,K,Superheroes,4,kyrie,kyrie,0,0,0,Q021::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q022,K,Things in a grocery store,0,Kidney,kidney,1,0,1,Q022::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q022,K,Things in a grocery store,1,Kitchenaid,kitchenaid,1,0,1,Q022::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q022,K,Things in a grocery store,2,Kenner's,kenner's,0,0,0,Q022::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q022,K,Things in a grocery store,3,Kernel,kernel,1,0,1,Q022::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q022,K,Things in a grocery store,4,Kenner,kenner,0,0,0,Q022::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q023,L,Dog breeds,0,Labrador,labrador,1,0,1,Q023::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q023,L,Dog breeds,1,Labrador,labrador,1,0,1,Q023::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q023,L,Dog breeds,2,labrador,labrador,1,1,0,Q023::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q023,L,Dog breeds,3,Labrador,labrador,1,1,0,Q023::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q023,L,Dog breeds,4,Lagotto  reud,lagotto reud,0,0,0,Q023::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q024,L,Books,0,little prince,little prince,1,0,1,Q024::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q024,L,Books,1,Legends,legends,0,0,0,Q024::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q024,L,Books,2,Leviathan,leviathan,1,0,1,Q024::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q024,L,Books,3,life on mars,life on mars,0,0,0,Q024::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q024,L,Books,4,Little Women,little women,1,0,1,Q024::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q025,M,Languages,0,Malay,malay,1,1,0,Q025::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q025,M,Languages,1,maltese,maltese,1,0,1,Q025::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q025,M,Languages,2,Malayalam,malayalam,1,0,1,Q025::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q025,M,Languages,3,Malagasy,malagasy,1,0,1,Q025::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q025,M,Languages,4,Maltese,maltese,1,0,1,Q025::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q026,M,Clothing items,0,Maternity Dress,maternity dress,1,0,1,Q026::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q026,M,Clothing items,1,Mittens,mittens,1,0,1,Q026::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q026,M,Clothing items,2,Mufflers,mufflers,1,0,1,Q026::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q026,M,Clothing items,3,Moccasin,moccasin,1,0,1,Q026::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q026,M,Clothing items,4,sobretudo,sobretudo,1,0,1,Q026::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q027,N,Birds,0,NorthernFlicker,northernflicker,1,0,1,Q027::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q027,N,Birds,2,Nightingale,nightingale,1,1,0,Q027::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q027,N,Birds,3,Nightingale,nightingale,1,1,0,Q027::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q027,N,Birds,4,Nighthawk,nighthawk,1,0,1,Q027::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q028,N,Things in a hospital,0,Notebook,notebook,0,0,0,Q028::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q028,N,Things in a hospital,1,Needle,needle,1,0,1,Q028::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q028,N,Things in a hospital,2,NURSE,nurse,1,1,0,Q028::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q028,N,Things in a hospital,3,Notebook,notebook,0,0,0,Q028::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q028,N,Things in a hospital,4,NURSE,nurse,1,1,0,Q028::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q029,O,Companies,0,omaxey,omaxey,0,0,0,Q029::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q029,O,Companies,1,Orbitz,orbitz,1,0,1,Q029::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q029,O,Companies,2,Orientbell,orientbell,1,0,1,Q029::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q029,O,Companies,3,Oracle,oracle,1,0,1,Q029::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q029,O,Companies,4,Oldsmobile,oldsmobile,1,0,1,Q029::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q030,O,Things in the sky,0,Ozone,ozone,0,0,0,Q030::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q030,O,Things in the sky,1,Orbits,orbits,1,0,1,Q030::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q030,O,Things in the sky,2,Ozone,ozone,0,0,0,Q030::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q030,O,Things in the sky,3,Orbit,orbit,1,1,0,Q030::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q030,O,Things in the sky,4,Orion,orion,0,0,0,Q030::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q031,P,Vegetables,0,Peppers,peppers,1,0,1,Q031::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q031,P,Vegetables,1,Parsnip,parsnip,1,0,1,Q031::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q031,P,Vegetables,2,Parsnip,parsnip,1,1,0,Q031::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q031,P,Vegetables,3,Potato,potato,1,0,1,Q031::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q031,P,Vegetables,4,Potatoes,potatoes,1,0,1,Q031::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q032,P,Historical figures,0,PERSHING,pershing,1,0,1,Q032::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q032,P,Historical figures,1,Pericles,pericles,1,0,1,Q032::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q032,P,Historical figures,2,putin,putin,0,0,0,Q032::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q032,P,Historical figures,3,Parry,parry,0,0,0,Q032::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q032,P,Historical figures,4,PERICLES,pericles,1,0,1,Q032::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q033,Q,Words in English,0,Quarter,quarter,1,0,1,Q033::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q033,Q,Words in English,1,quiet,quiet,1,0,1,Q033::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q033,Q,Words in English,2,quick,quick,1,0,1,Q033::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q033,Q,Words in English,3,Quadrilateral,quadrilateral,1,0,1,Q033::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q033,Q,Words in English,4,Quantum,quantum,1,0,1,Q033::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q034,Q,Fictional characters,0,Quidditch,quidditch,0,0,0,Q034::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q034,Q,Fictional characters,1,Queebo,queebo,0,0,0,Q034::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q034,Q,Fictional characters,2,Queen elisabeth,queen elisabeth,0,0,0,Q034::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q034,Q,Fictional characters,3,Q-bert,q-bert,1,0,1,Q034::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q034,Q,Fictional characters,4,Quinn,quinn,0,0,0,Q034::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q035,R,Songs,0,Ring of Fire,ring of fire,1,0,1,Q035::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q035,R,Songs,1,Ramona,ramona,0,0,0,Q035::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q035,R,Songs,2,Runaround,runaround,0,0,0,Q035::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q035,R,Songs,3,Riptide,riptide,0,0,0,Q035::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q035,R,Songs,4,Rocket Man,rocket man,1,0,1,Q035::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q036,R,Tools,0,Ram Rod,ram rod,1,0,1,Q036::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q036,R,Tools,1,Remote,remote,0,0,0,Q036::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q036,R,Tools,2,Router,router,1,0,1,Q036::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q036,R,Tools,3,Rotaryremel,rotaryremel,0,0,0,Q036::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q036,R,Tools,4,Rubberband,rubberband,1,0,1,Q036::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q037,S,Animals,0,snake,snake,1,1,0,Q037::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q037,S,Animals,1,Snake,snake,1,0,1,Q037::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q037,S,Animals,2,Snakes,snakes,1,0,1,Q037::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q037,S,Animals,3,Seal,seal,1,0,1,Q037::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q037,S,Animals,4,Seahorse,seahorse,1,0,1,Q037::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q038,S,Things in an office,2,Stapler,stapler,1,1,0,Q038::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q038,S,Things in an office,4,stapler,stapler,1,0,1,Q038::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q039,T,Countries,0,Thailand,thailand,1,0,1,Q039::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q039,T,Countries,1,Turkey,turkey,1,1,0,Q039::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q039,T,Countries,2,Tanzania,tanzania,1,0,1,Q039::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q039,T,Countries,3,Tunisia,tunisia,1,0,1,Q039::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q039,T,Countries,4,Tanzania,tanzania,1,0,1,Q039::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q040,T,TV shows,0,The Walking Dead,the walking dead,1,0,1,Q040::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q040,T,TV shows,1,the big bang theory,the big bang theory,1,0,1,Q040::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q040,T,TV shows,2,The Office,the office,0,0,0,Q040::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q040,T,TV shows,3,The simpsons,the simpsons,0,0,0,Q040::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q040,T,TV shows,4,This Is Us,this is us,0,0,0,Q040::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q041,U,U.S. colleges,0,universityofillinois,universityofillinois,0,0,0,Q041::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q041,U,U.S. colleges,1,University Of Utah,university of utah,1,0,1,Q041::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q041,U,U.S. colleges,2,UniversityOfVermont,universityofvermont,0,0,0,Q041::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q041,U,U.S. colleges,3,UniversityOfLouisville,universityoflouisville,0,0,0,Q041::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q041,U,U.S. colleges,4,Unalaska,unalaska,0,0,0,Q041::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q042,U,Things in a garage,0,Umbrella,umbrella,0,0,0,Q042::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q042,U,Things in a garage,1,Utensils,utensils,0,0,0,Q042::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q042,U,Things in a garage,2,Universal,universal,0,0,0,Q042::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q042,U,Things in a garage,3,Uni  dryer,uni dryer,0,0,0,Q042::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q042,U,Things in a garage,4,Utensils,utensils,0,0,0,Q042::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q043,V,Jobs,0,Veterinarian,veterinarian,1,1,0,Q043::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q043,V,Jobs,1,Videographer,videographer,1,1,0,Q043::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q043,V,Jobs,2,VideoEditor,videoeditor,1,0,1,Q043::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q043,V,Jobs,3,Video Game Designer,video game designer,1,0,1,Q043::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q043,V,Jobs,4,video jockey,video jockey,1,0,1,Q043::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q044,V,Things you wear,0,Valiquet,valiquet,0,0,0,Q044::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q044,V,Things you wear,1,Velcro,velcro,0,0,0,Q044::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q044,V,Things you wear,2,Velour Jacket,velour jacket,1,0,1,Q044::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q044,V,Things you wear,3,Vali,vali,0,0,0,Q044::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q044,V,Things you wear,4,Veil,veil,1,0,1,Q044::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q045,W,Cities,0,Washington,washington,1,0,1,Q045::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q045,W,Cities,1,Warehouse,warehouse,0,0,0,Q045::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q045,W,Cities,2,Warsaw,warsaw,1,0,1,Q045::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q045,W,Cities,3,Walsingham,walsingham,0,0,0,Q045::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q045,W,Cities,4,Wellington,wellington,1,0,1,Q045::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q046,W,Things in a park,0,Waterwheel,waterwheel,1,0,1,Q046::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q046,W,Things in a park,1,Willow tree,willow tree,1,0,1,Q046::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q046,W,Things in a park,2,Watermelon,watermelon,1,0,1,Q046::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q046,W,Things in a park,3,Watermelon,watermelon,1,0,1,Q046::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q046,W,Things in a park,4,Swingset,swingset,1,0,1,Q046::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q047,X,Brands,1,Xbox,xbox,1,0,1,Q047::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q047,X,Brands,2,Xerox,xerox,1,1,0,Q047::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q047,X,Brands,3,Xerox,xerox,1,1,0,Q047::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q047,X,Brands,4,Xerox,xerox,1,1,0,Q047::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q048,X,Words in English,0,xenon,xenon,1,0,1,Q048::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q048,X,Words in English,1,Xerox,xerox,1,0,1,Q048::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q048,X,Words in English,2,Xerox,xerox,1,0,1,Q048::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q048,X,Words in English,3,Xenon,xenon,1,0,1,Q048::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q048,X,Words in English,4,Xylophone,xylophone,1,1,0,Q048::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q049,Y,Foods,0,Yuca,yuca,1,0,1,Q049::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q049,Y,Foods,1,Yuca,yuca,1,0,1,Q049::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q049,Y,Foods,2,yogurt,yogurt,1,1,0,Q049::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q049,Y,Foods,3,Yuca,yuca,1,0,1,Q049::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q049,Y,Foods,4,Yogurt,yogurt,1,1,0,Q049::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q050,Y,Things at a party,0,yardstick,yardstick,0,0,0,Q050::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q050,Y,Things at a party,1,Yoghurt,yoghurt,0,0,0,Q050::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q050,Y,Things at a party,2,yogurt,yogurt,0,0,0,Q050::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q050,Y,Things at a party,3,Yoga mat,yoga mat,0,0,0,Q050::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q050,Y,Things at a party,4,Yoga mat,yoga mat,0,0,0,Q050::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q051,Z,Animals,2,Zebra,zebra,1,1,0,Q051::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q052,Z,Things in a zoo,0,Zebra,zebra,1,1,0,Q052::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q052,Z,Things in a zoo,1,Zebra,zebra,1,0,1,Q052::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q052,Z,Things in a zoo,2,Zebra,zebra,1,1,0,Q052::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q052,Z,Things in a zoo,3,Zebra,zebra,1,1,0,Q052::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q052,Z,Things in a zoo,4,Zebra,zebra,1,0,1,Q052::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q053,A,Things in a kitchen,0,Airfryer,airfryer,1,0,1,Q053::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q053,A,Things in a kitchen,1,Awasher,awasher,0,0,0,Q053::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q053,A,Things in a kitchen,2,Amortizer,amortizer,0,0,0,Q053::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q053,A,Things in a kitchen,3,Apron,apron,1,0,1,Q053::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q053,A,Things in a kitchen,4,Appliance,appliance,1,0,1,Q053::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q054,B,Singers,0,Beyoncé,beyonc,0,0,0,Q054::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q054,B,Singers,1,barbrastrisand,barbrastrisand,0,0,0,Q054::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q054,B,Singers,2,Beyonce,beyonce,1,0,1,Q054::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q054,B,Singers,3,barryman,barryman,0,0,0,Q054::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q054,B,Singers,4,Billie,billie,1,0,1,Q054::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q055,C,Desserts,0,Cake,cake,1,0,1,Q055::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q055,C,Desserts,1,Cookies,cookies,1,0,1,Q055::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q055,C,Desserts,2,Cookie,cookie,1,0,1,Q055::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q055,C,Desserts,3,Chocolate,chocolate,1,0,1,Q055::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q055,C,Desserts,4,chocolateecake,chocolateecake,0,0,0,Q055::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q056,D,Plants,0,Dandelion,dandelion,1,1,0,Q056::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q056,D,Plants,1,Dandelion,dandelion,1,0,1,Q056::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q056,D,Plants,2,Dogwood,dogwood,1,0,1,Q056::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q056,D,Plants,3,Durian,durian,1,0,1,Q056::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q056,D,Plants,4,Daphne,daphne,1,0,1,Q056::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q057,E,Companies,0,Electronics,electronics,0,0,0,Q057::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q057,E,Companies,1,Etsy,etsy,1,0,1,Q057::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q057,E,Companies,2,Electronics,electronics,0,0,0,Q057::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q057,E,Companies,3,eharmony,eharmony,1,0,1,Q057::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q057,E,Companies,4,eharmony,eharmony,1,0,1,Q057::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q058,F,Movie characters,0,Forrest,forrest,1,0,1,Q058::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q058,F,Movie characters,1,Forrest,forrest,1,0,1,Q058::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q058,F,Movie characters,2,Forrest Gump,forrest gump,1,1,0,Q058::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q058,F,Movie characters,3,Forrest Gump,forrest gump,1,1,0,Q058::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q058,F,Movie characters,4,Fernando,fernando,0,0,0,Q058::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q059,G,Things in a toolbox,0,Gauge,gauge,1,0,1,Q059::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q059,G,Things in a toolbox,1,gazetteer,gazetteer,0,0,0,Q059::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q059,G,Things in a toolbox,2,Grips,grips,1,0,1,Q059::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q059,G,Things in a toolbox,3,Generator,generator,0,0,0,Q059::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q059,G,Things in a toolbox,4,Grips,grips,1,0,1,Q059::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q060,H,Countries,0,Hungary,hungary,1,0,1,Q060::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q060,H,Countries,1,Haiti,haiti,1,0,1,Q060::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q060,H,Countries,2,Hungary,hungary,1,0,1,Q060::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q060,H,Countries,3,Honduras,honduras,1,1,0,Q060::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q060,H,Countries,4,Honduras,honduras,1,0,1,Q060::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q061,I,Musical artists,0,Imagine Dragons,imagine dragons,0,0,0,Q061::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q061,I,Musical artists,1,Ingrid Michaelson,ingrid michaelson,1,0,1,Q061::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q061,I,Musical artists,2,Iris De Ment,iris de ment,0,0,0,Q061::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q061,I,Musical artists,3,Irene,irene,0,0,0,Q061::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q061,I,Musical artists,4,Imagine Dragons,imagine dragons,0,0,0,Q061::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q062,J,Things in a refrigerator,0,Juice,juice,1,1,0,Q062::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q062,J,Things in a refrigerator,1,Jelly beans,jelly beans,0,0,0,Q062::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q062,J,Things in a refrigerator,2,jello,jello,1,0,1,Q062::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q062,J,Things in a refrigerator,3,jello,jello,1,0,1,Q062::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q062,J,Things in a refrigerator,4,yogurt,yogurt,1,0,1,Q062::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q063,K,Cities,0,Karachi,karachi,1,0,1,Q063::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q063,K,Cities,1,Kathmandu,kathmandu,1,1,0,Q063::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q063,K,Cities,2,Kathmandu,kathmandu,1,0,1,Q063::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q063,K,Cities,3,Kathmandu,kathmandu,1,0,1,Q063::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q063,K,Cities,4,Katmandu,katmandu,1,0,1,Q063::4
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q064,L,Things in a library,0,Laptop,laptop,1,0,1,Q064::0
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q064,L,Things in a library,1,lamp,lamp,0,0,0,Q064::1
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q064,L,Things in a library,2,Lamps,lamps,1,0,1,Q064::2
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q064,L,Things in a library,3,Library light,library light,0,0,0,Q064::3
+part3_crossplay_outputs/opt_20_gemma.csv,opt_20_gemma,Q064,L,Things in a library,4,Ledgers,ledgers,1,0,1,Q064::4

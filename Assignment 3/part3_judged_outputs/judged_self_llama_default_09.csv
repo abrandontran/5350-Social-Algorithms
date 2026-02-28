@@ -1,0 +1,645 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q001,A,Animals,0,Aardvark,aardvark,1,1,0,Q001::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q001,A,Animals,1,Aardvark,aardvark,1,1,0,Q001::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q001,A,Animals,2,Aardvark,aardvark,1,1,0,Q001::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q001,A,Animals,3,Aardvark,aardvark,1,1,0,Q001::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q001,A,Animals,4,Aardvark,aardvark,1,1,0,Q001::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q002,A,Jobs,0,Astronaut,astronaut,1,0,1,Q002::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q002,A,Jobs,1,Actuary,actuary,1,0,1,Q002::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q002,A,Jobs,2,Astronaut,astronaut,1,0,1,Q002::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q002,A,Jobs,3,Architect,architect,1,0,1,Q002::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q002,A,Jobs,4,Architect,architect,1,0,1,Q002::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q003,B,Fruits,0,Banana,banana,1,0,1,Q003::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q003,B,Fruits,1,Blueberry,blueberry,1,0,1,Q003::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q003,B,Fruits,2,Blood orange,blood orange,1,0,1,Q003::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q003,B,Fruits,3,Blood orange,blood orange,1,0,1,Q003::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q003,B,Fruits,4,Boysenberry,boysenberry,1,0,1,Q003::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q004,B,Things that are red,0,Beets,beets,1,0,1,Q004::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q004,B,Things that are red,1,Brick,brick,1,0,1,Q004::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q004,B,Things that are red,2,Bricks,bricks,1,0,1,Q004::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q004,B,Things that are red,3,Beets,beets,1,0,1,Q004::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q004,B,Things that are red,4,Blood,blood,0,0,0,Q004::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q005,C,Countries,0,Canada,canada,1,1,0,Q005::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q005,C,Countries,2,Canada,canada,1,1,0,Q005::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q005,C,Countries,3,Canada,canada,1,0,1,Q005::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q005,C,Countries,4,China,china,1,0,1,Q005::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q006,C,Board games,0,Carcassonne,carcassonne,1,0,1,Q006::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q006,C,Board games,1,Carcassonne,carcassonne,1,1,0,Q006::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q006,C,Board games,2,Carcassonne,carcassonne,1,1,0,Q006::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q006,C,Board games,3,Carcassonne,carcassonne,1,0,1,Q006::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q006,C,Board games,4,Carcassonne,carcassonne,1,0,1,Q006::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q007,D,Musical instruments,0,Drums,drums,1,0,1,Q007::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q007,D,Musical instruments,1,Dulcimer,dulcimer,1,0,1,Q007::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q007,D,Musical instruments,2,Drums,drums,1,1,0,Q007::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q007,D,Musical instruments,3,Drums,drums,1,1,0,Q007::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q007,D,Musical instruments,4,Drums,drums,1,1,0,Q007::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q008,D,Things in a bathroom,0,Drain,drain,1,1,0,Q008::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q008,D,Things in a bathroom,1,Drain,drain,1,1,0,Q008::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q008,D,Things in a bathroom,2,Damp cloth,damp cloth,1,0,1,Q008::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q008,D,Things in a bathroom,3,Dish soap,dish soap,1,0,1,Q008::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q008,D,Things in a bathroom,4,Dish soap,dish soap,1,0,1,Q008::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q009,E,Sports,3,Equestrian,equestrian,1,1,0,Q009::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q009,E,Sports,4,Equestrian,equestrian,1,1,0,Q009::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q010,E,Movie titles,0,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,0,1,Q010::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q010,E,Movie titles,1,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,1,0,Q010::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q010,E,Movie titles,2,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,1,0,Q010::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q010,E,Movie titles,3,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,0,1,Q010::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q010,E,Movie titles,4,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,1,0,Q010::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q011,F,Fish,2,Flounder,flounder,1,1,0,Q011::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q011,F,Fish,3,Flounder,flounder,1,1,0,Q011::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q011,F,Fish,4,Flounder,flounder,1,1,0,Q011::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q012,F,Things in a backpack,0,Folder,folder,1,1,0,Q012::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q012,F,Things in a backpack,1,Folder,folder,1,1,0,Q012::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q012,F,Things in a backpack,2,Folder,folder,1,0,1,Q012::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q012,F,Things in a backpack,3,Folder,folder,1,1,0,Q012::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q012,F,Things in a backpack,4,Folder,folder,1,1,0,Q012::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q014,G,Foods,0,Garlic,garlic,1,1,0,Q014::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q014,G,Foods,1,Grapes,grapes,1,0,1,Q014::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q014,G,Foods,2,Grapes,grapes,1,0,1,Q014::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q014,G,Foods,3,Grapes,grapes,1,0,1,Q014::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q014,G,Foods,4,Guacamole,guacamole,1,1,0,Q014::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q015,H,Famous scientists,0,Hans Bethe,hans bethe,1,0,1,Q015::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q015,H,Famous scientists,1,Hans Bethe,hans bethe,1,0,1,Q015::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q015,H,Famous scientists,2,Harlow Shapley,harlow shapley,0,0,0,Q015::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q015,H,Famous scientists,3,Henrietta Leavitt,henrietta leavitt,1,0,1,Q015::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q015,H,Famous scientists,4,Hans Bethe,hans bethe,1,0,1,Q015::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q016,H,Things at the beach,0,Horseshoe,horseshoe,0,0,0,Q016::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q016,H,Things at the beach,1,Hammock,hammock,1,1,0,Q016::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q016,H,Things at the beach,2,Hammock,hammock,1,1,0,Q016::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q016,H,Things at the beach,3,Horseshoe,horseshoe,0,0,0,Q016::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q016,H,Things at the beach,4,Hammock,hammock,1,1,0,Q016::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q017,I,Cities,1,Indianapolis,indianapolis,1,1,0,Q017::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q017,I,Cities,2,Indianapolis,indianapolis,1,0,1,Q017::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q017,I,Cities,3,Istanbul,istanbul,0,0,0,Q017::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q017,I,Cities,4,Indianapolis,indianapolis,1,0,1,Q017::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q018,I,Things in a classroom,0,Ibuprofen cabinet,ibuprofen cabinet,0,0,0,Q018::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q018,I,Things in a classroom,1,Ibiza calendar,ibiza calendar,0,0,0,Q018::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q018,I,Things in a classroom,2,Index,index,1,0,1,Q018::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q018,I,Things in a classroom,3,Ipod,ipod,0,0,0,Q018::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q018,I,Things in a classroom,4,Index,index,1,0,1,Q018::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q019,J,Car brands,0,Jaguar,jaguar,1,1,0,Q019::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q019,J,Car brands,2,Jaguar,jaguar,1,1,0,Q019::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q019,J,Car brands,3,Jaguar,jaguar,1,1,0,Q019::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q019,J,Car brands,4,Jaguar,jaguar,1,1,0,Q019::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q020,J,Video game titles,0,Jet Set Radio,jet set radio,1,0,1,Q020::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q020,J,Video game titles,1,Journey,journey,0,0,0,Q020::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q020,J,Video game titles,2,Jet Set Radio,jet set radio,1,0,1,Q020::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q020,J,Video game titles,3,Journey,journey,0,0,0,Q020::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q020,J,Video game titles,4,Journey,journey,0,0,0,Q020::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q021,K,Superheroes,0,Krypton,krypton,0,0,0,Q021::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q021,K,Superheroes,1,Kick-Ass,kick-ass,1,0,1,Q021::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q021,K,Superheroes,2,Kelvin,kelvin,0,0,0,Q021::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q021,K,Superheroes,3,Kyln,kyln,0,0,0,Q021::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q021,K,Superheroes,4,Kong,kong,0,0,0,Q021::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q022,K,Things in a grocery store,0,Ketchup,ketchup,1,1,0,Q022::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q022,K,Things in a grocery store,1,Ketchup,ketchup,1,1,0,Q022::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q022,K,Things in a grocery store,2,Ketchup,ketchup,1,1,0,Q022::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q022,K,Things in a grocery store,3,Kettle chips,kettle chips,1,0,1,Q022::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q022,K,Things in a grocery store,4,Kraft Cheese,kraft cheese,1,0,1,Q022::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q023,L,Dog breeds,0,Labrador,labrador,1,1,0,Q023::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q023,L,Dog breeds,1,Labrador,labrador,1,1,0,Q023::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q023,L,Dog breeds,2,Labrador,labrador,1,1,0,Q023::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q023,L,Dog breeds,3,Labrador,labrador,1,1,0,Q023::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q023,L,Dog breeds,4,Labrador,labrador,1,1,0,Q023::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q024,L,Books,0,Lord of the Rings,lord of the rings,1,1,0,Q024::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q024,L,Books,1,Lord of the Rings,lord of the rings,1,1,0,Q024::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q024,L,Books,2,Lord of the Rings,lord of the rings,1,1,0,Q024::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q024,L,Books,3,Lord of the Rings,lord of the rings,1,1,0,Q024::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q024,L,Books,4,Lord of the Rings,lord of the rings,1,1,0,Q024::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q025,M,Languages,0,Malaysian,malaysian,0,0,0,Q025::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q025,M,Languages,1,Mandarin,mandarin,1,0,1,Q025::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q025,M,Languages,2,Malay,malay,1,1,0,Q025::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q025,M,Languages,3,Malaysian,malaysian,0,0,0,Q025::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q025,M,Languages,4,Mandarin,mandarin,1,0,1,Q025::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q026,M,Clothing items,0,Mantle,mantle,1,0,1,Q026::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q026,M,Clothing items,1,Muleseasewear,muleseasewear,0,0,0,Q026::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q026,M,Clothing items,2,Mulesee,mulesee,0,0,0,Q026::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q026,M,Clothing items,3,Mitten,mitten,1,0,1,Q026::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q026,M,Clothing items,4,"Mouthwash isn't allowed as it's not considered clothing item however 
+
+M",mouthwash isn't allowed as it's not considered clothing item however m,0,0,0,Q026::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q027,N,Birds,0,Nightingale,nightingale,1,1,0,Q027::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q027,N,Birds,2,Nightingale,nightingale,1,1,0,Q027::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q027,N,Birds,3,Nightingale,nightingale,1,1,0,Q027::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q027,N,Birds,4,Nightingale,nightingale,1,1,0,Q027::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q028,N,Things in a hospital,0,Nursing station,nursing station,1,0,1,Q028::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q028,N,Things in a hospital,1,Nursing station,nursing station,1,1,0,Q028::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q028,N,Things in a hospital,2,Nurse,nurse,1,1,0,Q028::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q028,N,Things in a hospital,3,Nurses,nurses,1,0,1,Q028::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q028,N,Things in a hospital,4,Nursing station,nursing station,1,0,1,Q028::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q029,O,Companies,0,Oracle,oracle,1,1,0,Q029::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q029,O,Companies,1,Oracle,oracle,1,0,1,Q029::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q029,O,Companies,2,Oracle,oracle,1,0,1,Q029::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q029,O,Companies,3,Office Depot,office depot,1,0,1,Q029::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q029,O,Companies,4,Oracle,oracle,1,0,1,Q029::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q030,O,Things in the sky,0,Ocean,ocean,0,0,0,Q030::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q030,O,Things in the sky,1,Ocean,ocean,0,0,0,Q030::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q030,O,Things in the sky,2,Ocean,ocean,0,0,0,Q030::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q030,O,Things in the sky,3,Ocean,ocean,0,0,0,Q030::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q030,O,Things in the sky,4,Ocean,ocean,0,0,0,Q030::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q031,P,Vegetables,0,Peas,peas,1,0,1,Q031::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q031,P,Vegetables,1,Potato,potato,1,0,1,Q031::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q031,P,Vegetables,2,parsnip,parsnip,1,0,1,Q031::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q031,P,Vegetables,3,Peas,peas,1,1,0,Q031::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q031,P,Vegetables,4,Parsnip,parsnip,1,0,1,Q031::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q032,P,Historical figures,0,Peter the Great,peter the great,1,0,1,Q032::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q032,P,Historical figures,1,Peter the Great,peter the great,1,1,0,Q032::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q032,P,Historical figures,2,Peter the Great,peter the great,1,1,0,Q032::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q032,P,Historical figures,3,Pythagoras,pythagoras,1,0,1,Q032::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q032,P,Historical figures,4,Peter the Great,peter the great,1,0,1,Q032::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q033,Q,Words in English,0,Quaint,quaint,1,0,1,Q033::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q033,Q,Words in English,1,Quirky,quirky,1,0,1,Q033::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q033,Q,Words in English,2,Questionable,questionable,1,0,1,Q033::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q033,Q,Words in English,3,Quietly,quietly,1,0,1,Q033::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q033,Q,Words in English,4,Quirky,quirky,1,1,0,Q033::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q034,Q,Fictional characters,0,Quasimodo,quasimodo,1,1,0,Q034::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q034,Q,Fictional characters,1,Quasimodo,quasimodo,1,0,1,Q034::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q034,Q,Fictional characters,2,Quasimodo,quasimodo,1,1,0,Q034::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q034,Q,Fictional characters,3,Quasimodo,quasimodo,1,1,0,Q034::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q034,Q,Fictional characters,4,Quasimodo,quasimodo,1,0,1,Q034::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q035,R,Songs,0,Respect,respect,0,0,0,Q035::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q035,R,Songs,1,Revolution,revolution,0,0,0,Q035::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q035,R,Songs,2,Radioactive,radioactive,1,0,1,Q035::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q035,R,Songs,3,Rhapsody in Red,rhapsody in red,0,0,0,Q035::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q035,R,Songs,4,Respect,respect,0,0,0,Q035::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q036,R,Tools,0,Ratchet,ratchet,1,1,0,Q036::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q036,R,Tools,1,Router,router,1,0,1,Q036::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q036,R,Tools,2,Ratchet,ratchet,1,1,0,Q036::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q036,R,Tools,3,Ratchet,ratchet,1,1,0,Q036::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q036,R,Tools,4,Ratchet,ratchet,1,1,0,Q036::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q037,S,Animals,0,Squirrel,squirrel,1,1,0,Q037::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q037,S,Animals,1,Snow leopard,snow leopard,1,0,1,Q037::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q037,S,Animals,2,Snake,snake,1,1,0,Q037::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q037,S,Animals,3,Snake,snake,1,0,1,Q037::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q037,S,Animals,4,Snake,snake,1,0,1,Q037::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q038,S,Things in an office,2,Stapler,stapler,1,1,0,Q038::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q038,S,Things in an office,4,Stationery,stationery,1,0,1,Q038::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q039,T,Countries,0,Turkey,turkey,1,1,0,Q039::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q039,T,Countries,1,Tunisia,tunisia,1,0,1,Q039::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q039,T,Countries,2,Turkey,turkey,1,1,0,Q039::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q039,T,Countries,3,Tunisia,tunisia,1,0,1,Q039::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q039,T,Countries,4,Tunisia,tunisia,1,0,1,Q039::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q040,T,TV shows,0,The Twilight Zone,the twilight zone,1,1,0,Q040::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q040,T,TV shows,1,The Twilight Zone,the twilight zone,1,1,0,Q040::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q040,T,TV shows,2,The Twilight Zone,the twilight zone,1,1,0,Q040::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q040,T,TV shows,3,The Twilight Zone,the twilight zone,1,1,0,Q040::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q040,T,TV shows,4,The Twilight Zone,the twilight zone,1,1,0,Q040::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,0,1,Q041::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q041,U,U.S. colleges,2,University of Utah,university of utah,1,1,0,Q041::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q041,U,U.S. colleges,3,University of Utah,university of utah,1,1,0,Q041::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q041,U,U.S. colleges,4,University of Pennsylvania,university of pennsylvania,0,0,0,Q041::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q042,U,Things in a garage,0,Utility cart,utility cart,1,1,0,Q042::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q042,U,Things in a garage,1,Utensils,utensils,0,0,0,Q042::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q042,U,Things in a garage,2,Utility vehicle,utility vehicle,1,0,1,Q042::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q042,U,Things in a garage,3,Umbrella,umbrella,0,0,0,Q042::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q042,U,Things in a garage,4,Upholstery,upholstery,0,0,0,Q042::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q043,V,Jobs,0,Veterinarian,veterinarian,1,0,1,Q043::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q043,V,Jobs,1,Veterinarian,veterinarian,1,1,0,Q043::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q043,V,Jobs,2,Vet,vet,1,1,0,Q043::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q043,V,Jobs,3,Vetted,vetted,0,0,0,Q043::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q043,V,Jobs,4,Veterinarian,veterinarian,1,0,1,Q043::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q044,V,Things you wear,0,Vest,vest,1,1,0,Q044::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q044,V,Things you wear,1,Vest,vest,1,1,0,Q044::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q044,V,Things you wear,2,Vest,vest,1,1,0,Q044::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q044,V,Things you wear,3,Vest,vest,1,1,0,Q044::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q044,V,Things you wear,4,Vest,vest,1,1,0,Q044::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q045,W,Cities,0,Washington,washington,1,1,0,Q045::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q045,W,Cities,1,Wilmington,wilmington,1,0,1,Q045::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q045,W,Cities,2,Washington D C,washington d c,0,0,0,Q045::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q045,W,Cities,3,Wichita,wichita,1,0,1,Q045::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q045,W,Cities,4,Waterville,waterville,1,0,1,Q045::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q046,W,Things in a park,0,Walking trail,walking trail,1,0,1,Q046::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q046,W,Things in a park,1,Walking path,walking path,1,0,1,Q046::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q046,W,Things in a park,2,Woodsy area,woodsy area,1,0,1,Q046::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q046,W,Things in a park,3,Walkway,walkway,1,0,1,Q046::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q046,W,Things in a park,4,Wagon,wagon,1,0,1,Q046::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q047,X,Brands,1,Xerox,xerox,1,1,0,Q047::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q047,X,Brands,2,Xerox,xerox,1,1,0,Q047::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q047,X,Brands,3,Xerox,xerox,1,1,0,Q047::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q047,X,Brands,4,Xerox,xerox,1,1,0,Q047::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q048,X,Words in English,0,Xylophone,xylophone,1,1,0,Q048::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q048,X,Words in English,2,Xylophone,xylophone,1,1,0,Q048::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q048,X,Words in English,3,Xylophone,xylophone,1,1,0,Q048::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q048,X,Words in English,4,Xylophone,xylophone,1,1,0,Q048::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q049,Y,Foods,1,Yogurt,yogurt,1,0,1,Q049::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q049,Y,Foods,2,Yogurt,yogurt,1,1,0,Q049::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q049,Y,Foods,3,Yellowtail,yellowtail,1,0,1,Q049::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q049,Y,Foods,4,Yogurt,yogurt,1,1,0,Q049::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q050,Y,Things at a party,0,Yellow cake,yellow cake,1,0,1,Q050::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q050,Y,Things at a party,1,Yellow Cake,yellow cake,1,0,1,Q050::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q050,Y,Things at a party,2,Yellow Cup,yellow cup,1,0,1,Q050::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q050,Y,Things at a party,3,Yogurt,yogurt,0,0,0,Q050::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q050,Y,Things at a party,4,Yogurt,yogurt,0,0,0,Q050::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q051,Z,Animals,2,Zebra,zebra,1,1,0,Q051::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q052,Z,Things in a zoo,0,zebra,zebra,1,1,0,Q052::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q052,Z,Things in a zoo,1,Zebra,zebra,1,1,0,Q052::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q052,Z,Things in a zoo,2,Zebras,zebras,1,0,1,Q052::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q052,Z,Things in a zoo,3,Zebra,zebra,1,1,0,Q052::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q052,Z,Things in a zoo,4,zebra,zebra,1,0,1,Q052::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q053,A,Things in a kitchen,0,Appliance,appliance,1,0,1,Q053::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q053,A,Things in a kitchen,1,Automated can opener,automated can opener,1,0,1,Q053::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q053,A,Things in a kitchen,2,Appliance,appliance,1,0,1,Q053::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q053,A,Things in a kitchen,3,apron,apron,1,0,1,Q053::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q053,A,Things in a kitchen,4,A blender,a blender,1,1,0,Q053::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q054,B,Singers,0,Beyonce,beyonce,1,1,0,Q054::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q054,B,Singers,1,Beyonce,beyonce,1,1,0,Q054::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q054,B,Singers,2,Beyonce,beyonce,1,0,1,Q054::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q054,B,Singers,3,Beyoncé,beyonc,0,0,0,Q054::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q054,B,Singers,4,Beyonce,beyonce,1,1,0,Q054::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q055,C,Desserts,0,Crème Brûlée,crème brûlée,1,0,1,Q055::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q055,C,Desserts,1,Creme Brûlée,creme brûlée,1,0,1,Q055::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q055,C,Desserts,2,Crème Brûlée,crème brûlée,1,0,1,Q055::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q055,C,Desserts,3,Crème Brûlée,crème brûlée,1,0,1,Q055::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q055,C,Desserts,4,Crème Brûlée,crème brûlée,1,1,0,Q055::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q056,D,Plants,0,Dandelion,dandelion,1,1,0,Q056::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q056,D,Plants,1,Dandelion,dandelion,1,1,0,Q056::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q056,D,Plants,2,Dandelion,dandelion,1,0,1,Q056::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q056,D,Plants,3,Dandelion,dandelion,1,1,0,Q056::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q056,D,Plants,4,Dandelion,dandelion,1,0,1,Q056::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q057,E,Companies,0,Epson,epson,1,0,1,Q057::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q057,E,Companies,1,Ebay,ebay,1,0,1,Q057::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q057,E,Companies,2,Ebay,ebay,1,1,0,Q057::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q057,E,Companies,3,Epson,epson,1,0,1,Q057::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q057,E,Companies,4,Energizer,energizer,1,0,1,Q057::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q058,F,Movie characters,0,Frodo Baggins,frodo baggins,1,1,0,Q058::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q058,F,Movie characters,1,Frodo Baggins,frodo baggins,1,0,1,Q058::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q058,F,Movie characters,2,Frodo Baggins,frodo baggins,1,1,0,Q058::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q058,F,Movie characters,3,Ferris Bueller,ferris bueller,1,0,1,Q058::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q058,F,Movie characters,4,Ferris Bueller,ferris bueller,1,0,1,Q058::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q059,G,Things in a toolbox,0,Glue,glue,0,0,0,Q059::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q059,G,Things in a toolbox,1,Glue,glue,0,0,0,Q059::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q059,G,Things in a toolbox,2,Glue,glue,0,0,0,Q059::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q059,G,Things in a toolbox,3,Gripes,gripes,0,0,0,Q059::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q059,G,Things in a toolbox,4,Gasket,gasket,1,0,1,Q059::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q060,H,Countries,0,Honduras,honduras,1,0,1,Q060::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q060,H,Countries,1,Hungary,hungary,1,0,1,Q060::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q060,H,Countries,2,Hungary,hungary,1,0,1,Q060::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q060,H,Countries,3,Haiti,haiti,1,0,1,Q060::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q060,H,Countries,4,Hungary,hungary,1,0,1,Q060::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q061,I,Musical artists,0,Iggy Pop,iggy pop,1,0,1,Q061::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q061,I,Musical artists,1,Iggy Pop,iggy pop,1,1,0,Q061::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q061,I,Musical artists,2,Iron Maiden,iron maiden,1,0,1,Q061::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q061,I,Musical artists,3,Illy,illy,0,0,0,Q061::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q061,I,Musical artists,4,Iron Maiden,iron maiden,1,1,0,Q061::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q062,J,Things in a refrigerator,0,Jell-O,jell-o,1,0,1,Q062::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q062,J,Things in a refrigerator,1,Jellies,jellies,1,0,1,Q062::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q062,J,Things in a refrigerator,2,Jalapeño,jalapeño,1,0,1,Q062::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q062,J,Things in a refrigerator,3,Jellie,jellie,1,0,1,Q062::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q062,J,Things in a refrigerator,4,Juice,juice,1,0,1,Q062::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q063,K,Cities,0,Kansas City,kansas city,1,1,0,Q063::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q063,K,Cities,1,Kansas City,kansas city,1,1,0,Q063::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q063,K,Cities,2,Kansas City,kansas city,1,1,0,Q063::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q063,K,Cities,3,Kansas City,kansas city,1,1,0,Q063::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q063,K,Cities,4,Kansas City,kansas city,1,1,0,Q063::4
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q064,L,Things in a library,0,Library card,library card,0,0,0,Q064::0
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q064,L,Things in a library,1,Lecture hall,lecture hall,0,0,0,Q064::1
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q064,L,Things in a library,2,Library,library,0,0,0,Q064::2
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q064,L,Things in a library,3,Local newspapers,local newspapers,1,0,1,Q064::3
+part3_selfplay_outputs/self_default_09_llama_Player_1.csv,self_default_09_llama_Player_1,Q064,L,Things in a library,4,Library,library,0,0,0,Q064::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q001,A,Animals,0,Aardvark,aardvark,1,1,0,Q001::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q001,A,Animals,1,Aardvark,aardvark,1,1,0,Q001::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q001,A,Animals,2,Aardvark,aardvark,1,1,0,Q001::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q001,A,Animals,3,Aardvark,aardvark,1,1,0,Q001::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q001,A,Animals,4,Aardvark,aardvark,1,1,0,Q001::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q002,A,Jobs,0,Accountant,accountant,1,0,1,Q002::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q002,A,Jobs,1,Astronaut,astronaut,1,0,1,Q002::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q002,A,Jobs,2,Architect,architect,1,0,1,Q002::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q002,A,Jobs,3,Accountant,accountant,1,0,1,Q002::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q002,A,Jobs,4,Accountant,accountant,1,0,1,Q002::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q003,B,Fruits,0,Boysenberry,boysenberry,1,0,1,Q003::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q003,B,Fruits,1,Banana,banana,1,0,1,Q003::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q003,B,Fruits,2,Banana,banana,1,0,1,Q003::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q003,B,Fruits,3,Banana,banana,1,0,1,Q003::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q003,B,Fruits,4,Blueberry,blueberry,1,0,1,Q003::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q004,B,Things that are red,0,Burgundy,burgundy,0,0,0,Q004::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q004,B,Things that are red,1,Burgundy,burgundy,0,0,0,Q004::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q004,B,Things that are red,2,Beets,beets,1,0,1,Q004::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q004,B,Things that are red,3,Brick Red,brick red,1,0,1,Q004::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q004,B,Things that are red,4,Brick,brick,1,0,1,Q004::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q005,C,Countries,0,Canada,canada,1,1,0,Q005::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q005,C,Countries,2,Canada,canada,1,1,0,Q005::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q005,C,Countries,3,China,china,1,0,1,Q005::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q005,C,Countries,4,Canada,canada,1,0,1,Q005::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q006,C,Board games,0,Chess,chess,1,0,1,Q006::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q006,C,Board games,1,Carcassonne,carcassonne,1,1,0,Q006::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q006,C,Board games,2,Carcassonne,carcassonne,1,1,0,Q006::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q006,C,Board games,3,Cranium,cranium,1,0,1,Q006::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q006,C,Board games,4,Chess,chess,1,0,1,Q006::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q007,D,Musical instruments,0,Dulcimer,dulcimer,1,0,1,Q007::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q007,D,Musical instruments,1,Drums,drums,1,0,1,Q007::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q007,D,Musical instruments,2,Drums,drums,1,1,0,Q007::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q007,D,Musical instruments,3,Drums,drums,1,1,0,Q007::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q007,D,Musical instruments,4,Drums,drums,1,1,0,Q007::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q008,D,Things in a bathroom,0,Drain,drain,1,1,0,Q008::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q008,D,Things in a bathroom,1,Drain,drain,1,1,0,Q008::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q008,D,Things in a bathroom,2,Dryer,dryer,0,0,0,Q008::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q008,D,Things in a bathroom,3,Drain,drain,1,0,1,Q008::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q008,D,Things in a bathroom,4,Drain,drain,1,0,1,Q008::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q009,E,Sports,3,Equestrian,equestrian,1,1,0,Q009::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q009,E,Sports,4,Equestrian,equestrian,1,1,0,Q009::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q010,E,Movie titles,0,Edward Scissorhands,edward scissorhands,1,0,1,Q010::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q010,E,Movie titles,1,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,1,0,Q010::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q010,E,Movie titles,2,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,1,0,Q010::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q010,E,Movie titles,3,Edward Scissorhands,edward scissorhands,1,0,1,Q010::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q010,E,Movie titles,4,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,1,1,0,Q010::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q011,F,Fish,2,Flounder,flounder,1,1,0,Q011::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q011,F,Fish,3,Flounder,flounder,1,1,0,Q011::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q011,F,Fish,4,Flounder,flounder,1,1,0,Q011::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q012,F,Things in a backpack,0,Folder,folder,1,1,0,Q012::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q012,F,Things in a backpack,1,Folder,folder,1,1,0,Q012::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q012,F,Things in a backpack,2,Felttip,felttip,0,0,0,Q012::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q012,F,Things in a backpack,3,Folder,folder,1,1,0,Q012::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q012,F,Things in a backpack,4,Folder,folder,1,1,0,Q012::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q014,G,Foods,0,Garlic,garlic,1,1,0,Q014::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q014,G,Foods,1,Garlic,garlic,1,0,1,Q014::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q014,G,Foods,2,Garlic,garlic,1,0,1,Q014::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q014,G,Foods,3,Garlic,garlic,1,0,1,Q014::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q014,G,Foods,4,Guacamole,guacamole,1,1,0,Q014::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q015,H,Famous scientists,0,Harlow Shapley,harlow shapley,0,0,0,Q015::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q015,H,Famous scientists,1,Harrison,harrison,0,0,0,Q015::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q015,H,Famous scientists,2,Hans Bethe,hans bethe,1,0,1,Q015::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q015,H,Famous scientists,3,Hans Bethe,hans bethe,1,0,1,Q015::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q015,H,Famous scientists,4,Hans Christian Orsted,hans christian orsted,0,0,0,Q015::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q016,H,Things at the beach,0,Hull,hull,0,0,0,Q016::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q016,H,Things at the beach,1,Hammock,hammock,1,1,0,Q016::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q016,H,Things at the beach,2,Hammock,hammock,1,1,0,Q016::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q016,H,Things at the beach,3,Horseshoe,horseshoe,0,0,0,Q016::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q016,H,Things at the beach,4,Hammock,hammock,1,1,0,Q016::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q017,I,Cities,1,Indianapolis,indianapolis,1,1,0,Q017::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q017,I,Cities,2,Iowa City,iowa city,0,0,0,Q017::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q017,I,Cities,3,Istanbul,istanbul,0,0,0,Q017::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q017,I,Cities,4,Istanbul,istanbul,0,0,0,Q017::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q018,I,Things in a classroom,0,"Ibuprofen is not typically used in a classroom however 
+
+whiteboard",ibuprofen is not typically used in a classroom however whiteboard,0,0,0,Q018::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q018,I,Things in a classroom,1,Iberville chart,iberville chart,0,0,0,Q018::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q018,I,Things in a classroom,2,Ibiza,ibiza,0,0,0,Q018::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q018,I,Things in a classroom,3,"Ibuprofen is not something you would find in a typical classroom however,",ibuprofen is not something you would find in a typical classroom however,0,0,0,Q018::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q018,I,Things in a classroom,4,Ibuprofen,ibuprofen,0,0,0,Q018::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q019,J,Car brands,0,Jaguar,jaguar,1,1,0,Q019::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q019,J,Car brands,2,Jaguar,jaguar,1,1,0,Q019::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q019,J,Car brands,3,Jaguar,jaguar,1,1,0,Q019::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q019,J,Car brands,4,Jaguar,jaguar,1,1,0,Q019::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q020,J,Video game titles,0,Journey,journey,0,0,0,Q020::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q020,J,Video game titles,1,Journey,journey,0,0,0,Q020::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q020,J,Video game titles,2,Just Cause,just cause,1,0,1,Q020::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q020,J,Video game titles,3,Jade Empire,jade empire,1,0,1,Q020::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q020,J,Video game titles,4,Journey,journey,0,0,0,Q020::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q021,K,Superheroes,0,Krypton,krypton,0,0,0,Q021::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q021,K,Superheroes,1,Kick Ass,kick ass,0,0,0,Q021::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q021,K,Superheroes,2,Kelvin,kelvin,0,0,0,Q021::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q021,K,Superheroes,3,Kid Flash,kid flash,1,0,1,Q021::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q021,K,Superheroes,4,Krypton,krypton,0,0,0,Q021::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q022,K,Things in a grocery store,0,Ketchup,ketchup,1,1,0,Q022::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q022,K,Things in a grocery store,1,Ketchup,ketchup,1,1,0,Q022::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q022,K,Things in a grocery store,2,Ketchup,ketchup,1,1,0,Q022::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q022,K,Things in a grocery store,3,Ketchup,ketchup,1,0,1,Q022::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q022,K,Things in a grocery store,4,Ketchup,ketchup,1,0,1,Q022::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q023,L,Dog breeds,0,Labrador,labrador,1,1,0,Q023::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q023,L,Dog breeds,1,Labrador,labrador,1,1,0,Q023::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q023,L,Dog breeds,2,Labrador,labrador,1,1,0,Q023::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q023,L,Dog breeds,3,Labrador,labrador,1,1,0,Q023::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q023,L,Dog breeds,4,Labrador,labrador,1,1,0,Q023::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q024,L,Books,0,Lord of the Rings,lord of the rings,1,1,0,Q024::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q024,L,Books,1,Lord of the Rings,lord of the rings,1,1,0,Q024::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q024,L,Books,2,Lord of the Rings,lord of the rings,1,1,0,Q024::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q024,L,Books,3,Lord of the Rings,lord of the rings,1,1,0,Q024::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q024,L,Books,4,Lord of the Rings,lord of the rings,1,1,0,Q024::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q025,M,Languages,0,Mandarin,mandarin,1,0,1,Q025::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q025,M,Languages,1,Maltese,maltese,1,0,1,Q025::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q025,M,Languages,2,Malay,malay,1,1,0,Q025::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q025,M,Languages,3,Mandarin,mandarin,1,0,1,Q025::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q025,M,Languages,4,Maltese,maltese,1,0,1,Q025::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q026,M,Clothing items,0,Mouthwash,mouthwash,0,0,0,Q026::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q026,M,Clothing items,1,Moleskin,moleskin,1,0,1,Q026::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q026,M,Clothing items,2,Mittens,mittens,1,0,1,Q026::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q026,M,Clothing items,3,Muleshoe,muleshoe,0,0,0,Q026::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q026,M,Clothing items,4,Mitten,mitten,1,0,1,Q026::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q027,N,Birds,0,Nightingale,nightingale,1,1,0,Q027::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q027,N,Birds,2,Nightingale,nightingale,1,1,0,Q027::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q027,N,Birds,3,Nightingale,nightingale,1,1,0,Q027::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q027,N,Birds,4,Nightingale,nightingale,1,1,0,Q027::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q028,N,Things in a hospital,0,Nursery,nursery,1,0,1,Q028::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q028,N,Things in a hospital,1,Nursing station,nursing station,1,1,0,Q028::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q028,N,Things in a hospital,2,Nurse,nurse,1,1,0,Q028::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q028,N,Things in a hospital,3,Nursing station,nursing station,1,0,1,Q028::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q028,N,Things in a hospital,4,Nursery,nursery,1,0,1,Q028::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q029,O,Companies,0,Oracle,oracle,1,1,0,Q029::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q029,O,Companies,1,Office Depot,office depot,1,0,1,Q029::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q029,O,Companies,2,Ocean Spray,ocean spray,0,0,0,Q029::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q029,O,Companies,3,Oracle,oracle,1,0,1,Q029::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q029,O,Companies,4,Oxford University Press,oxford university press,0,0,0,Q029::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q030,O,Things in the sky,0,Ocean,ocean,0,0,0,Q030::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q030,O,Things in the sky,1,Ocean,ocean,0,0,0,Q030::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q030,O,Things in the sky,2,Clouds,clouds,0,0,0,Q030::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q030,O,Things in the sky,3,Ocean,ocean,0,0,0,Q030::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q030,O,Things in the sky,4,Ocean,ocean,0,0,0,Q030::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q031,P,Vegetables,0,Parsnip,parsnip,1,0,1,Q031::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q031,P,Vegetables,1,Peas,peas,1,0,1,Q031::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q031,P,Vegetables,2,Peas,peas,1,0,1,Q031::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q031,P,Vegetables,3,Peas,peas,1,1,0,Q031::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q031,P,Vegetables,4,Potato,potato,1,0,1,Q031::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q032,P,Historical figures,0,Pythagoras,pythagoras,1,0,1,Q032::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q032,P,Historical figures,1,Peter the Great,peter the great,1,1,0,Q032::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q032,P,Historical figures,2,Peter the Great,peter the great,1,1,0,Q032::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q032,P,Historical figures,3,Peter the Great,peter the great,1,0,1,Q032::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q032,P,Historical figures,4,Pyramid Builders,pyramid builders,0,0,0,Q032::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q033,Q,Words in English,0,Quirky,quirky,1,0,1,Q033::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q033,Q,Words in English,1,quaintness,quaintness,1,0,1,Q033::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q033,Q,Words in English,2,Quirky,quirky,1,0,1,Q033::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q033,Q,Words in English,3,Quirky,quirky,1,0,1,Q033::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q033,Q,Words in English,4,Quirky,quirky,1,1,0,Q033::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q034,Q,Fictional characters,0,Quasimodo,quasimodo,1,1,0,Q034::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q034,Q,Fictional characters,1,Qwerty,qwerty,0,0,0,Q034::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q034,Q,Fictional characters,2,Quasimodo,quasimodo,1,1,0,Q034::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q034,Q,Fictional characters,3,Quasimodo,quasimodo,1,1,0,Q034::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q034,Q,Fictional characters,4,Qbert,qbert,1,0,1,Q034::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q035,R,Songs,0,Riptide,riptide,0,0,0,Q035::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q035,R,Songs,1,Respect,respect,0,0,0,Q035::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q035,R,Songs,2,Radiohead,radiohead,1,0,1,Q035::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q035,R,Songs,3,Rhythm is a Dancer,rhythm is a dancer,0,0,0,Q035::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q035,R,Songs,4,Radiohead,radiohead,1,0,1,Q035::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q036,R,Tools,0,Ratchet,ratchet,1,1,0,Q036::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q036,R,Tools,1,Ratchet,ratchet,1,0,1,Q036::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q036,R,Tools,2,Ratchet,ratchet,1,1,0,Q036::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q036,R,Tools,3,Ratchet,ratchet,1,1,0,Q036::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q036,R,Tools,4,Ratchet,ratchet,1,1,0,Q036::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q037,S,Animals,0,Squirrel,squirrel,1,1,0,Q037::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q037,S,Animals,1,Snake,snake,1,0,1,Q037::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q037,S,Animals,2,Snake,snake,1,1,0,Q037::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q037,S,Animals,3,Squirrel,squirrel,1,0,1,Q037::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q037,S,Animals,4,Seal,seal,1,0,1,Q037::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q038,S,Things in an office,1,stapler,stapler,1,1,0,Q038::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q038,S,Things in an office,2,Stapler,stapler,1,1,0,Q038::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q038,S,Things in an office,3,Stapler,stapler,1,1,0,Q038::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q038,S,Things in an office,4,Stapler,stapler,1,0,1,Q038::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q039,T,Countries,0,Turkey,turkey,1,1,0,Q039::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q039,T,Countries,1,Turkey,turkey,1,0,1,Q039::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q039,T,Countries,2,Turkey,turkey,1,1,0,Q039::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q039,T,Countries,3,Turkey,turkey,1,0,1,Q039::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q039,T,Countries,4,Turkey,turkey,1,0,1,Q039::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q040,T,TV shows,0,The Twilight Zone,the twilight zone,1,1,0,Q040::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q040,T,TV shows,1,The Twilight Zone,the twilight zone,1,1,0,Q040::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q040,T,TV shows,2,The Twilight Zone,the twilight zone,1,1,0,Q040::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q040,T,TV shows,3,The Twilight Zone,the twilight zone,1,1,0,Q040::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q040,T,TV shows,4,The Twilight Zone,the twilight zone,1,1,0,Q040::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q041,U,U.S. colleges,0,United States Naval Academy,united states naval academy,1,0,1,Q041::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q041,U,U.S. colleges,2,University of Utah,university of utah,1,1,0,Q041::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q041,U,U.S. colleges,3,University of Utah,university of utah,1,1,0,Q041::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q041,U,U.S. colleges,4,University of Utah,university of utah,1,0,1,Q041::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q042,U,Things in a garage,0,Utility cart,utility cart,1,1,0,Q042::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q042,U,Things in a garage,1,Upholstery tool,upholstery tool,1,0,1,Q042::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q042,U,Things in a garage,2,Utility cart,utility cart,1,0,1,Q042::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q042,U,Things in a garage,3,Upholstery,upholstery,0,0,0,Q042::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q042,U,Things in a garage,4,Utility cart,utility cart,1,0,1,Q042::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q043,V,Jobs,0,Vet,vet,1,0,1,Q043::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q043,V,Jobs,1,Veterinarian,veterinarian,1,1,0,Q043::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q043,V,Jobs,2,Vet,vet,1,1,0,Q043::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q043,V,Jobs,3,Veterinarian,veterinarian,1,0,1,Q043::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q043,V,Jobs,4,Vet,vet,1,0,1,Q043::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q044,V,Things you wear,0,Vest,vest,1,1,0,Q044::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q044,V,Things you wear,1,vest,vest,1,1,0,Q044::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q044,V,Things you wear,2,Vest,vest,1,1,0,Q044::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q044,V,Things you wear,3,Vest,vest,1,1,0,Q044::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q044,V,Things you wear,4,Vest,vest,1,1,0,Q044::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q045,W,Cities,0,Washington,washington,1,1,0,Q045::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q045,W,Cities,1,Warwick,warwick,1,0,1,Q045::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q045,W,Cities,2,Washington D C,washington d c,0,0,0,Q045::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q045,W,Cities,3,Washington,washington,1,0,1,Q045::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q045,W,Cities,4,Washington,washington,1,0,1,Q045::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q046,W,Things in a park,0,Walking path,walking path,1,0,1,Q046::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q046,W,Things in a park,1,Wetting hole,wetting hole,0,0,0,Q046::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q046,W,Things in a park,2,Wetlands,wetlands,0,0,0,Q046::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q046,W,Things in a park,3,Wishing well,wishing well,1,0,1,Q046::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q046,W,Things in a park,4,Walkway,walkway,1,0,1,Q046::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q047,X,Brands,1,Xerox,xerox,1,1,0,Q047::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q047,X,Brands,2,Xerox,xerox,1,1,0,Q047::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q047,X,Brands,3,Xerox,xerox,1,1,0,Q047::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q047,X,Brands,4,Xerox,xerox,1,1,0,Q047::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q048,X,Words in English,0,Xylophone,xylophone,1,1,0,Q048::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q048,X,Words in English,2,Xylophone,xylophone,1,1,0,Q048::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q048,X,Words in English,3,Xylophone,xylophone,1,1,0,Q048::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q048,X,Words in English,4,Xylophone,xylophone,1,1,0,Q048::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q049,Y,Foods,1,Yellowtail,yellowtail,1,0,1,Q049::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q049,Y,Foods,2,Yogurt,yogurt,1,1,0,Q049::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q049,Y,Foods,3,Yogurt,yogurt,1,0,1,Q049::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q049,Y,Foods,4,Yogurt,yogurt,1,1,0,Q049::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q050,Y,Things at a party,0,Yogurt,yogurt,0,0,0,Q050::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q050,Y,Things at a party,1,Yorkshire tea,yorkshire tea,0,0,0,Q050::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q050,Y,Things at a party,2,Yogurt,yogurt,0,0,0,Q050::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q050,Y,Things at a party,3,Yogurt,yogurt,0,0,0,Q050::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q050,Y,Things at a party,4,Yogurt,yogurt,0,0,0,Q050::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q051,Z,Animals,2,zebra,zebra,1,1,0,Q051::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q052,Z,Things in a zoo,0,zebra,zebra,1,1,0,Q052::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q052,Z,Things in a zoo,1,Zebra,zebra,1,1,0,Q052::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q052,Z,Things in a zoo,2,Zebra,zebra,1,0,1,Q052::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q052,Z,Things in a zoo,3,zebra,zebra,1,1,0,Q052::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q052,Z,Things in a zoo,4,zebras,zebras,1,0,1,Q052::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q053,A,Things in a kitchen,0,asparagus,asparagus,1,0,1,Q053::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q053,A,Things in a kitchen,1,apron,apron,1,0,1,Q053::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q053,A,Things in a kitchen,2,assistant,assistant,0,0,0,Q053::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q053,A,Things in a kitchen,3,A toaster,a toaster,1,0,1,Q053::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q053,A,Things in a kitchen,4,A blender,a blender,1,1,0,Q053::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q054,B,Singers,0,Beyonce,beyonce,1,1,0,Q054::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q054,B,Singers,1,Beyonce,beyonce,1,1,0,Q054::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q054,B,Singers,2,Beyoncé,beyonc,0,0,0,Q054::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q054,B,Singers,3,Beyoncé,beyonc,0,0,0,Q054::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q054,B,Singers,4,Beyonce,beyonce,1,1,0,Q054::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q055,C,Desserts,0,Cannoli,cannoli,1,0,1,Q055::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q055,C,Desserts,1,Crème Brûlée,crème brûlée,1,0,1,Q055::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q055,C,Desserts,2,Creme Brulee,creme brulee,1,0,1,Q055::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q055,C,Desserts,3,Cannoli,cannoli,1,0,1,Q055::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q055,C,Desserts,4,Crème Brûlée,crème brûlée,1,1,0,Q055::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q056,D,Plants,0,Dandelion,dandelion,1,1,0,Q056::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q056,D,Plants,1,Dandelion,dandelion,1,1,0,Q056::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q056,D,Plants,2,Daylily,daylily,1,0,1,Q056::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q056,D,Plants,3,Dandelion,dandelion,1,1,0,Q056::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q056,D,Plants,4,Dahlia,dahlia,1,0,1,Q056::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q057,E,Companies,0,Ebay,ebay,1,0,1,Q057::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q057,E,Companies,1,Electrolux,electrolux,1,0,1,Q057::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q057,E,Companies,2,Ebay,ebay,1,1,0,Q057::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q057,E,Companies,3,Ebay,ebay,1,0,1,Q057::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q057,E,Companies,4,Electronic Arts,electronic arts,1,0,1,Q057::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q058,F,Movie characters,0,Frodo Baggins,frodo baggins,1,1,0,Q058::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q058,F,Movie characters,1,Forrest Gump,forrest gump,1,0,1,Q058::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q058,F,Movie characters,2,Frodo Baggins,frodo baggins,1,1,0,Q058::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q058,F,Movie characters,3,Frodo Baggins,frodo baggins,1,0,1,Q058::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q058,F,Movie characters,4,Frodo Baggins,frodo baggins,1,0,1,Q058::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q059,G,Things in a toolbox,0,Grease,grease,1,0,1,Q059::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q059,G,Things in a toolbox,1,Gripes,gripes,0,0,0,Q059::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q059,G,Things in a toolbox,2,Glue,glue,0,0,0,Q059::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q059,G,Things in a toolbox,3,Gear,gear,1,0,1,Q059::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q059,G,Things in a toolbox,4,Glue,glue,0,0,0,Q059::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q060,H,Countries,0,Hungary,hungary,1,0,1,Q060::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q060,H,Countries,1,Haiti,haiti,1,0,1,Q060::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q060,H,Countries,2,Honduras,honduras,1,0,1,Q060::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q060,H,Countries,3,Honduras,honduras,1,0,1,Q060::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q060,H,Countries,4,Haiti,haiti,1,0,1,Q060::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q061,I,Musical artists,0,Ice Cube,ice cube,0,0,0,Q061::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q061,I,Musical artists,1,Iggy Pop,iggy pop,1,1,0,Q061::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q061,I,Musical artists,2,Ice Cube,ice cube,0,0,0,Q061::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q061,I,Musical artists,3,Isaac Hayes,isaac hayes,1,0,1,Q061::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q061,I,Musical artists,4,Iron Maiden,iron maiden,1,1,0,Q061::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q062,J,Things in a refrigerator,0,Juice,juice,1,0,1,Q062::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q062,J,Things in a refrigerator,1,Juice,juice,1,0,1,Q062::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q062,J,Things in a refrigerator,2,Jalapenos,jalapenos,1,0,1,Q062::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q062,J,Things in a refrigerator,3,Jalapeño,jalapeño,1,0,1,Q062::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q062,J,Things in a refrigerator,4,Jelly,jelly,1,0,1,Q062::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q063,K,Cities,0,Kansas City,kansas city,1,1,0,Q063::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q063,K,Cities,1,Kansas City,kansas city,1,1,0,Q063::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q063,K,Cities,2,Kansas City,kansas city,1,1,0,Q063::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q063,K,Cities,3,Kansas City,kansas city,1,1,0,Q063::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q063,K,Cities,4,Kansas City,kansas city,1,1,0,Q063::4
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q064,L,Things in a library,0,Library Catalog,library catalog,0,0,0,Q064::0
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q064,L,Things in a library,1,Libraries,libraries,0,0,0,Q064::1
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q064,L,Things in a library,2,Loose pages,loose pages,1,0,1,Q064::2
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q064,L,Things in a library,3,Loan books,loan books,0,0,0,Q064::3
+part3_selfplay_outputs/self_default_09_llama_Player_2.csv,self_default_09_llama_Player_2,Q064,L,Things in a library,4,Literature,literature,1,0,1,Q064::4

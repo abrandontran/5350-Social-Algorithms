@@ -1,0 +1,321 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Aligatorfish,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,1,Aye-aye,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,2,Aardvark,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,3,Affenpinscher,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,4,Aardvark,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,0,Auroragronomist,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,1,Acupuncturist,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,2,Archeologist  Cartographer,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,3,Aural therapist,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,4,Accountability Manager,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,0,Bogonia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,1,Banyan,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,2,Bunya,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,3,Brazilian guava,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,4,Botibong,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,0,Boreal mushroom,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,1,Berberine,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,2,Barnacle bloom,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,3,Barracuda,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,4,Blue Beetles,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,0,Corsica,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,1,Co chứng,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,2,Central African Republic,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,3,Cook Islands,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,4,Cabo Verde,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,0,Cartographers' Conundrum,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,1,Chessmania,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,2,Cadbury's Chess,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,3,Cadenza,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,4,Concentric Cities,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,0,Dehkan,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,1,Dhol Tabla,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,2,Didgeridoo,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,3,Douduk,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,4,Daphne lyre,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,0,Detritus bin,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,1,Digital thermometer,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,2,Diva's drain stopper,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,3,Deodorant dispensing unit,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,4,Dampener,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,0,Egos,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,1,E-hockey,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,2,Esgrima,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,3,Esquimohockey,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,4,Epees,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,0,Elevator Pitch,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,1,Eyeshine,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,2,Elevator  To Heaven,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,3,El Dorado's Enigma,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,4,Electric Elves,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,0,Fenghuang,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,1,Frigatefish,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,2,Fenghuang,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,3,Fulgorfish,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,4,Fangtooth,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,0,Fire starter,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,1,field journal,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,2,fish scale,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,3,fishing lure,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,4,fire retardant wipes,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,0,Georgia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,1,Guam,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,2,Georgia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,3,Guam,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,4,Guam,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,0,Gangajale,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,1,Gravenstein apple,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,2,Gametes,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,3,Geuzeria,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,4,Gourdmeat,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,0,Henri Poincaré,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,1,Henry Moseley,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,2,Henrietta Swan Leavitt,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,3,Hans Geiger,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,4,Harriet Husted,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,0,Hibernating sand crab,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,1,Halma,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,2,Hemoglobin,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,3,Handsworth,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,4,Human footprint,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,0,Istan,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,1,Islamabad,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,2,Incheon,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,3,Inhambane,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,4,Izumu,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,0,Infrared thermometer,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,1,Immersion globe,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,2,Inverted microscope,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,3,Improvised lesson,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,4,Iroquois slide,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,0,Jeromov,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,1,Joyson,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,2,Jagda,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,3,Jaguars,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,4,Jeep,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,0,Jazzpunk,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,1,Judgement,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,2,Jupiter's Last Journey,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,3,Journeyman,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,4,Jazzmine's Journey,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,0,Kit Flare,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,1,Kang Prime,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,2,Kinetic,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,3,Kingfish,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,4,Kang,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,0,Kelp noodles,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,1,Kiwifruit,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,2,Kryptonite chips,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,3,Kyoto miso,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,4,Kidney beans,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,0,Lebanese Bolognese,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,1,Lancashire Terrier,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,2,Lusitano,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,3,Lagotto Romagnolo,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,4,Lapphund,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,0,Leaves of Grass,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,1,Lives In Exile,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,2,Letters from a Distant Star,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,3,Legends and Lyrics,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,4,Lobsters In Paradise,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,0,**Makonde**,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,1,Malagasy,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,2,Maori,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,3,Mohave,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,4,Mande,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,0,Monocle,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,1,Muskrat Mittens,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,2,Mantle  coat,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,3,Motte hat,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,4,Maracaibo coat,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,0,Neembunting,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,1,Nanica,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,2,Neway  Parula,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,3,Namibian cuckoo,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,4,Nightingale,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,0,Norms chart,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,1,Neonatal unit,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,2,Nondisposable nasal aspirator,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,3,Neuroprosthetics,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,4,Nitrogen flush,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,0,Ohana Technologies,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,1,Ohmydog,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,2,Onyx Optics,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,3,Olympian Airways,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,4,Owens Corning,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,0,Occluded aurora,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,1,Orion Nebula,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,2,Oort cloud,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,3,Oberth effect,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,4,Oort Cloud,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,0,Paulownia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,1,Pickled persimons,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,2,Parsnip,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,3,Paragrass,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,4,Puntsia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,0,Percival Thomas,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,1,Pierre Curie,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,2,Peregrine De Cosson,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,3,Patrician Provan,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,4,Phineas T. Barnum,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,0,Quadrille,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,1,Qualia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,2,Quaquana,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,3,Quadranon,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,4,Quakemic,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,0,Queen Morrigan,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,1,Quagmire,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,2,Queen Moiraine,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,3,Queen Amphetamines,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,4,Qwerky McQuack,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,0,Rhythm Revolution,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,1,Rainbow After The Storm,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,2,Ramona,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,3,Rockinghorse,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,4,Runnin' With The Crazy,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,0,Rotax drone,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,1,Rubber stamp,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,2,Radiograph,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,3,Rammer,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,4,Reeling rod,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,0,Spy,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,1,Snoring Shark,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,2,Salamander,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,3,Spoonbill,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,4,Sloughi,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,0,Stand-up desk,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,1,Smidgen,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,2,Steam cleaner,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,3,stapler stand,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,4,Smoothening balm,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,0,Trantaya,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,1,Tocantins,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,2,Tranquility Islands,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,3,Tuvalu,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,4,Tuckey Islands,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,0,Telefónica,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,1,Terrahawks,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,2,"""Trixie""",gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,3,Travelers' Tales,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,4,Terry and Tiny,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,0,University of the Redwoods,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,1,United States Military Academy West Point,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,2,University Of North Atlantic,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,3,Union College,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,4,United States Naval Academy,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,0,universal adapter,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,1,Ultrasonic washer,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,2,Universal grease gun,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,3,Upholstered Toolbox,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,4,universal adapter,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,0,Vertical farming specialist,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,1,Vaporvac specialist,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,2,Visual auditor,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,3,Veggie Carver,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,4,Volcano Geologist,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,0,Vest,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,1,Venetian veil,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,2,Veil,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,3,Viagra cap,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,4,Veloster,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,0,Wilkesburg,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,1,Wellington,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,2,Warangal,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,3,Wangaratta,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,4,Wadi Halfa,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,0,Whiffle tree,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,1,Wildrose,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,2,Wishing Well,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,3,Watermelon weevil,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,4,Waterwheel,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,0,Xyience,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,1,Xenonlite,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,2,Xenex,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,3,Xerox,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,4,Xenadrin,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,0,Xerophytes,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,1,xenophobia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,2,Xerophthalmia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,3,Xerophytes,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,4,Xylography,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,0,Yamaimo,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,1,Yuca Flour,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,2,Yorkshire pudding,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,3,yuca,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,4,Yuca,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,0,Yoga mats,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,1,yard sale,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,2,yogurt board,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,3,Yak yogurt,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,4,Yoga hammock,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,0,Zephyr-shrike,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,1,Zorse,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,2,Zoroaster,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,3,Zigzag zebra,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,4,Zephyran,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,0,Zephyrarium,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,1,Zebra dung beetle,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,2,Zebu,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,3,Zoophonia,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,4,Zoo lemur,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,0,Augers,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,1,Acid starter,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,2,Affogato bowl,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,3,Auralizer,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,4,Affogato,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,0,Barbara Streisand,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,1,Barbara Dane,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,2,Bjork,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,3,Bobby Helms,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,4,Birgit Slavik,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,0,Cascaron,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,1,Cointreau cake,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,2,Caraway cake,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,3,Coolada,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,4,Cashew tartlets,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,0,Devil's trumpet,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,1,Drosophyllum lusitanicum,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,2,Delphinium  plantus,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,3,Deweysia pallida,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,4,Daphne baccara,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,0,Eden Projects,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,1,Eldorado Enterprises,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,2,Eden Design Group,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,3,EcoSynthetics,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,4,Eastman Kodak,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,0,Ferdinand the Bull,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,1,Fandango from The Ballad Of Barry and Sid,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,2,Feeble,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,3,Ferdinand The MooCow,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,4,Frankenstein's Bride,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,0,Gauge,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,1,Groundskeeper's kit,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,2,Glass chisel,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,3,Grating,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,4,Gas Gauge,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,0,Haiti,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,1,Hautpiniq,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,2,Haiti,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,3,Heard,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,4,Hewaiian,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,0,Infomart,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,1,Irely,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,2,Ian Hunter,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,3,Imperial Truce,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,4,Iris Deisenroth,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,0,Janitorial cart lubricant,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,1,Jouez,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,2,Jansson's Jelly,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,3,Jac Jac,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,4,Jerry can,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,0,Kabul,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,1,Kazan,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,2,Kota Kinabalu,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,3,Kyiv,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,4,Karasua,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,0,Lucent reader,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,1,Lexicon,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,2,Liminal Collection,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,3,Leatherbound grimoire,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,4,Luteophone,gemma2:2b,gemma_Player_1_Obscure_obscure_20,2.0,40,baseline

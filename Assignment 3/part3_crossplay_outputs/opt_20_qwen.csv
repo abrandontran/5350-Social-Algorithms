@@ -1,0 +1,321 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Alligator,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q001,A,Animals,1,Antelope,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q001,A,Animals,2,Alpaca,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q001,A,Animals,3,Alpaca,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q001,A,Animals,4,Antelope,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q002,A,Jobs,0,Architect,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q002,A,Jobs,1,Architect,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q002,A,Jobs,2,accountant,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q002,A,Jobs,3,Animator,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q002,A,Jobs,4,Alan Turing,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q003,B,Fruits,0,Blueberry,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q003,B,Fruits,1,Blueberry,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q003,B,Fruits,2,Bamboo Shoot,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q003,B,Fruits,3,Blueberry,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q003,B,Fruits,4,Banana,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q004,B,Things that are red,0,berries,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q004,B,Things that are red,1,Berries,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q004,B,Things that are red,2,Berry,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q004,B,Things that are red,3,berry,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q004,B,Things that are red,4,Berries,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q005,C,Countries,0,Canada,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q005,C,Countries,1,Canada,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q005,C,Countries,2,Canada,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q005,C,Countries,3,Canada,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q005,C,Countries,4,Canada,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q006,C,Board games,0,Clue,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q006,C,Board games,1,Clue,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q006,C,Board games,2,Clue,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q006,C,Board games,3,Chess,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q006,C,Board games,4,Chess,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,0,Drum,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,1,Didgeridoo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,2,Didgeridoo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,3,Didgeridoo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,4,Drum,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,0,dishwasher,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,1,Door knob,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,2,Door knob,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,3,dresser,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,4,drawer,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q009,E,Sports,0,Equestrian,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q009,E,Sports,1,Equestrian,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q009,E,Sports,2,Equestrian,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q009,E,Sports,3,Equestrian,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q009,E,Sports,4,Equestrian,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q010,E,Movie titles,0,Entrapment,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q010,E,Movie titles,1,Epicpanse,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q010,E,Movie titles,2,Eat Pray Love,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q010,E,Movie titles,3,Elizabeth杨欢,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q010,E,Movie titles,4,Eat Pray Love,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q011,F,Fish,0,Flounder,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q011,F,Fish,1,Flounder,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q011,F,Fish,2,Flounder,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q011,F,Fish,3,Flounder,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q011,F,Fish,4,Flounder,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,0,flashlight,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,1,flashlight,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,2,flashlight,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,3,flashlight,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,4,flashlight,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q013,G,U.S. states,0,Georgia,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q013,G,U.S. states,1,Georgia,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q013,G,U.S. states,2,Georgia,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q013,G,U.S. states,3,Georgia,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q013,G,U.S. states,4,Georgia,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q014,G,Foods,0,Granny Smith Apple,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q014,G,Foods,1,Granola,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q014,G,Foods,2,Grapes,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q014,G,Foods,3,Grilled Cheese Sandwich,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q014,G,Foods,4,Granola,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,0,Huygens,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,1,Hershey,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,2,Herschel,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,3,Hawking,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,4,Hendrik Hugo Hertz,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,0,hat,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,1,hat,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,2,hat,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,3,haystack,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,4,Hammock,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q017,I,Cities,0,Istanbul,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q017,I,Cities,1,Istanbul,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q017,I,Cities,2,Istanbul,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q017,I,Cities,3,Istanbul,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q017,I,Cities,4,Istanbul,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,0,Interrupter,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,1,iPad,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,2,Ivory bench,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,3,İnternet,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,4,Ipad,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q019,J,Car brands,0,Jeep,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q019,J,Car brands,1,Jeep,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q019,J,Car brands,2,Jaguar,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q019,J,Car brands,3,Jeep,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q019,J,Car brands,4,Jaguar,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q020,J,Video game titles,0,Journey,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q020,J,Video game titles,1,Just Cause 2,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q020,J,Video game titles,2,Jedi Knight,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q020,J,Video game titles,3,Jungle Speed,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q020,J,Video game titles,4,Just Cause,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q021,K,Superheroes,0,Karma Queen,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q021,K,Superheroes,1,Kraven,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q021,K,Superheroes,2,Kick-Ass,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q021,K,Superheroes,3,Katwoman,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q021,K,Superheroes,4,Korg,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,0,kiwi,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,1,kiwi,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,2,ketchup,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,3,Ketchup,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,4,Ketchup,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,0,Labradoodle,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,1,Labrador Retriever,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,2,Labrador Retriever,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,3,Labrador Retriever,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,4,Labrador Retrievers,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q024,L,Books,0,Lord_of_the_Rings,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q024,L,Books,1,Lord_of_the_Rings,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q024,L,Books,2,Lord Of The Flies,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q024,L,Books,3,Lord Of The Flies,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q024,L,Books,4,Lord Of The Flies,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q025,M,Languages,0,Mandarin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q025,M,Languages,1,Mandarin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q025,M,Languages,2,Mandarin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q025,M,Languages,3,Mandarin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q025,M,Languages,4,Mandarin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q026,M,Clothing items,0,Mugler,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q026,M,Clothing items,1,muffler,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q026,M,Clothing items,2,Μπλουσταρς,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q026,M,Clothing items,3,Mourinho,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q026,M,Clothing items,4,mask,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q027,N,Birds,0,Nightingale,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q027,N,Birds,1,Nutmeg Merlin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q027,N,Birds,2,Northern Fulmar,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q027,N,Birds,3,Nightingale,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q027,N,Birds,4,Nightingale,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,0,nurse,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,1,nurse,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,2,Nurse,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,3,Nurse,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,4,nurse,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q029,O,Companies,0,Office Depot,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q029,O,Companies,1,Oracle,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q029,O,Companies,2,Oracle,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q029,O,Companies,3,Oracle,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q029,O,Companies,4,Oracle,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,0,Ostrich,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,1,orchid,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,2,Ostrichegg,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,3,Orbiting satellite,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,4,Orbiting satellite,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q031,P,Vegetables,0,Pepper,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q031,P,Vegetables,1,Peas,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q031,P,Vegetables,2,Pea,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q031,P,Vegetables,3,Parsnip,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q031,P,Vegetables,4,"Pepperoni (Note: While pepperoni is not strictly a vegetable, it",qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q032,P,Historical figures,0,Plato,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q032,P,Historical figures,1,Plato,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q032,P,Historical figures,2,Plato,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q032,P,Historical figures,3,Plato,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q032,P,Historical figures,4,Pope Benedict XVI,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q033,Q,Words in English,0,Quartz,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q033,Q,Words in English,1,Quartz,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q033,Q,Words in English,2,Quack,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q033,Q,Words in English,3,Quark,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q033,Q,Words in English,4,Quartz,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,0,Quintessential Quentin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,1,Quigley from Ghostbusters,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,2,Quintessential Quentin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,3,Quasimodo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,4,Quasimodo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q035,R,Songs,0,Radio Stations鸣bling,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q035,R,Songs,1,Raindrops Keep Fallin' On My Head,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q035,R,Songs,2,Red Red Wine,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q035,R,Songs,3,River Flows In You,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q035,R,Songs,4,Raging Blue Waters,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q036,R,Tools,0,razor,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q036,R,Tools,1,razor,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q036,R,Tools,2,razor,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q036,R,Tools,3,razor,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q036,R,Tools,4,razor,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q037,S,Animals,0,Snake,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q037,S,Animals,1,Snail,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q037,S,Animals,2,Snail,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q037,S,Animals,3,Snake,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q037,S,Animals,4,Squirrel,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q038,S,Things in an office,0,stapler,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q038,S,Things in an office,1,Stapler,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q038,S,Things in an office,2,stapler,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q038,S,Things in an office,3,stapler,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q038,S,Things in an office,4,stamp collection,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q039,T,Countries,0,Turkey,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q039,T,Countries,1,Trinidad,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q039,T,Countries,2,Tanzania,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q039,T,Countries,3,Turkey,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q039,T,Countries,4,Turkey,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q040,T,TV shows,0,Thetimeofdaykeepers,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q040,T,TV shows,1,The Twilight Zone,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q040,T,TV shows,2,The Price Is Right,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q040,T,TV shows,3,The Twilight Zone,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q040,T,TV shows,4,The Twilight Zone,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,0,University Of Utah,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,1,University_of_Utah,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,2,University_of_Utah,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,3,University Of Utah,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,4,University Of Utah,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,0,umbrella,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,1,unicycle,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,2,ufo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,3,umbrella,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,4,utensil_stand,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q043,V,Jobs,0,victimizer,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q043,V,Jobs,1,Voice Technician,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q043,V,Jobs,2,Voice Assistant,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q043,V,Jobs,3,Vice President,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q043,V,Jobs,4,Vincent van Gogh,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q044,V,Things you wear,0,veil,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q044,V,Things you wear,1,veil,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q044,V,Things you wear,2,violin,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q044,V,Things you wear,3,vest,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q044,V,Things you wear,4,vest,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q045,W,Cities,0,Washington,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q045,W,Cities,1,Washington,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q045,W,Cities,2,Wiesbaden,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q045,W,Cities,3,Winnipeg,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q045,W,Cities,4,Washington,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q046,W,Things in a park,0,Wishing well,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q046,W,Things in a park,1,Wristwatch,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q046,W,Things in a park,2,wheelbench,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q046,W,Things in a park,3,Willow,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q046,W,Things in a park,4,willow,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q047,X,Brands,0,Xbox,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q047,X,Brands,1,Xerox,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q047,X,Brands,2,Xerox,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q047,X,Brands,3,Xbox,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q047,X,Brands,4,Xerox,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q048,X,Words in English,0,Xray,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q048,X,Words in English,1,Xylophone,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q048,X,Words in English,2,Xylophone,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q048,X,Words in English,3,Xray,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q048,X,Words in English,4,Xylophone,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q049,Y,Foods,0,Yorkshire pudding,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q049,Y,Foods,1,Yogurt,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q049,Y,Foods,2,Yogurt,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q049,Y,Foods,3,Yogurt,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q049,Y,Foods,4,Yogurt,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,0,Yo-yo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,1,Yoga mat,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,2,yankee candles,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,3,yankee doodle song,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,4,Yacht,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q051,Z,Animals,0,Zebra,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q051,Z,Animals,1,Zebra,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q051,Z,Animals,2,Zebra,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q051,Z,Animals,3,Zebra,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q051,Z,Animals,4,Zebra,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,0,zookeepersottagepz,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,1,zebra,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,2,zebra,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,3,zookeeper,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,4,zookeepers_seat,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,0,apple,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,1,appliance,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,2,apple,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,3,apple,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,4,apple,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q054,B,Singers,0,Beyoncé,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q054,B,Singers,1,Bob Dylan,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q054,B,Singers,2,Bono,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q054,B,Singers,3,Bon Jovi,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q054,B,Singers,4,Bonnie Tyler,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q055,C,Desserts,0,Chocolate Chip Cookie,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q055,C,Desserts,1,Cake,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q055,C,Desserts,2,Chocolate Chip Cookie,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q055,C,Desserts,3,Chocolate Chip Cookie,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q055,C,Desserts,4,Cake,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q056,D,Plants,0,Dandelion,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q056,D,Plants,1,Dandelion,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q056,D,Plants,2,Dragonfruit,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q056,D,Plants,3,Daisy,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q056,D,Plants,4,Daisy,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q057,E,Companies,0,ESPN,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q057,E,Companies,1,Ebay,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q057,E,Companies,2,Ebay,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q057,E,Companies,3,Etsy,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q057,E,Companies,4,Ebay,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q058,F,Movie characters,0,Fred Flintstone,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q058,F,Movie characters,1,Forrest Gump,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q058,F,Movie characters,2,Ford Prefect,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q058,F,Movie characters,3,Finding Nemo Charlie Harper,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q058,F,Movie characters,4,Fargo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,0,hammer,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,1,gunnera,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,2,gripper,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,3,greaseGun,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,4,grease-gun,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q060,H,Countries,0,Haiti,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q060,H,Countries,1,Honduras,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q060,H,Countries,2,Honduras,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q060,H,Countries,3,Honduras,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q060,H,Countries,4,Haiti,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q061,I,Musical artists,0,Ice Cube,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q061,I,Musical artists,1,Iron Maiden,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q061,I,Musical artists,2,Ice Cube,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q061,I,Musical artists,3,Ian Dury,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q061,I,Musical artists,4,Iron Maiden,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,0,jalapeño,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,1,jelly,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,2,juice,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,3,juice,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,4,juice,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q063,K,Cities,0,Knoxville,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q063,K,Cities,1,Kennewick,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q063,K,Cities,2,Kansas City,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q063,K,Cities,3,Kalamazoo,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q063,K,Cities,4,Kingston,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q064,L,Things in a library,0,ledger,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q064,L,Things in a library,1,lamp,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q064,L,Things in a library,2,Library Light,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q064,L,Things in a library,3,lampshade,qwen2.5:7b,qwen_opt_20,2.0,40,baseline
+Q064,L,Things in a library,4,Lamp,qwen2.5:7b,qwen_opt_20,2.0,40,baseline

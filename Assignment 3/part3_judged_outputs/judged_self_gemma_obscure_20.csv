@@ -1,0 +1,641 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q001,A,Animals,0,Aligatorfish,aligatorfish,0,0,0,Q001::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q001,A,Animals,1,Aye-aye,aye-aye,1,0,1,Q001::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q001,A,Animals,2,Aardvark,aardvark,1,0,1,Q001::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q001,A,Animals,3,Affenpinscher,affenpinscher,1,0,1,Q001::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q001,A,Animals,4,Aardvark,aardvark,1,0,1,Q001::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q002,A,Jobs,0,Auroragronomist,auroragronomist,0,0,0,Q002::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q002,A,Jobs,1,Acupuncturist,acupuncturist,1,0,1,Q002::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q002,A,Jobs,2,Archeologist  Cartographer,archeologist cartographer,0,0,0,Q002::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q002,A,Jobs,3,Aural therapist,aural therapist,0,0,0,Q002::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q002,A,Jobs,4,Accountability Manager,accountability manager,0,0,0,Q002::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q003,B,Fruits,0,Bogonia,bogonia,0,0,0,Q003::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q003,B,Fruits,1,Banyan,banyan,0,0,0,Q003::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q003,B,Fruits,2,Bunya,bunya,0,0,0,Q003::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q003,B,Fruits,3,Brazilian guava,brazilian guava,0,0,0,Q003::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q003,B,Fruits,4,Botibong,botibong,0,0,0,Q003::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q004,B,Things that are red,0,Boreal mushroom,boreal mushroom,0,0,0,Q004::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q004,B,Things that are red,1,Berberine,berberine,0,0,0,Q004::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q004,B,Things that are red,2,Barnacle bloom,barnacle bloom,0,0,0,Q004::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q004,B,Things that are red,3,Barracuda,barracuda,0,0,0,Q004::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q004,B,Things that are red,4,Blue Beetles,blue beetles,0,0,0,Q004::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q005,C,Countries,0,Corsica,corsica,0,0,0,Q005::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q005,C,Countries,1,Co chứng,co chứng,0,0,0,Q005::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q005,C,Countries,2,Central African Republic,central african republic,1,1,0,Q005::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q005,C,Countries,3,Cook Islands,cook islands,1,0,1,Q005::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q005,C,Countries,4,Cabo Verde,cabo verde,0,0,0,Q005::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q006,C,Board games,0,Cartographers' Conundrum,cartographers' conundrum,0,0,0,Q006::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q006,C,Board games,1,Chessmania,chessmania,0,0,0,Q006::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q006,C,Board games,2,Cadbury's Chess,cadbury's chess,0,0,0,Q006::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q006,C,Board games,3,Cadenza,cadenza,0,0,0,Q006::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q006,C,Board games,4,Concentric Cities,concentric cities,0,0,0,Q006::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q007,D,Musical instruments,0,Dehkan,dehkan,0,0,0,Q007::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q007,D,Musical instruments,1,Dhol Tabla,dhol tabla,0,0,0,Q007::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q007,D,Musical instruments,2,Didgeridoo,didgeridoo,1,0,1,Q007::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q007,D,Musical instruments,3,Douduk,douduk,0,0,0,Q007::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q007,D,Musical instruments,4,Daphne lyre,daphne lyre,0,0,0,Q007::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q008,D,Things in a bathroom,0,Detritus bin,detritus bin,1,0,1,Q008::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q008,D,Things in a bathroom,1,Digital thermometer,digital thermometer,1,0,1,Q008::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q008,D,Things in a bathroom,2,Diva's drain stopper,diva's drain stopper,0,0,0,Q008::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q008,D,Things in a bathroom,3,Deodorant dispensing unit,deodorant dispensing unit,0,0,0,Q008::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q008,D,Things in a bathroom,4,Dampener,dampener,0,0,0,Q008::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q009,E,Sports,0,Egos,egos,0,0,0,Q009::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q009,E,Sports,1,E-hockey,e-hockey,0,0,0,Q009::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q009,E,Sports,2,Esgrima,esgrima,0,0,0,Q009::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q009,E,Sports,3,Esquimohockey,esquimohockey,0,0,0,Q009::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q009,E,Sports,4,Epees,epees,1,0,1,Q009::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q010,E,Movie titles,0,Elevator Pitch,elevator pitch,0,0,0,Q010::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q010,E,Movie titles,1,Eyeshine,eyeshine,0,0,0,Q010::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q010,E,Movie titles,2,Elevator  To Heaven,elevator to heaven,0,0,0,Q010::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q010,E,Movie titles,3,El Dorado's Enigma,el dorado's enigma,0,0,0,Q010::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q010,E,Movie titles,4,Electric Elves,electric elves,0,0,0,Q010::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q011,F,Fish,0,Fenghuang,fenghuang,0,0,0,Q011::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q011,F,Fish,1,Frigatefish,frigatefish,1,0,1,Q011::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q011,F,Fish,2,Fenghuang,fenghuang,0,0,0,Q011::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q011,F,Fish,3,Fulgorfish,fulgorfish,0,0,0,Q011::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q011,F,Fish,4,Fangtooth,fangtooth,1,1,0,Q011::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q012,F,Things in a backpack,0,Fire starter,fire starter,1,0,1,Q012::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q012,F,Things in a backpack,1,field journal,field journal,1,0,1,Q012::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q012,F,Things in a backpack,2,fish scale,fish scale,0,0,0,Q012::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q012,F,Things in a backpack,3,fishing lure,fishing lure,1,0,1,Q012::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q012,F,Things in a backpack,4,fire retardant wipes,fire retardant wipes,0,0,0,Q012::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q013,G,U.S. states,0,Georgia,georgia,1,0,1,Q013::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q013,G,U.S. states,1,Guam,guam,0,0,0,Q013::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q013,G,U.S. states,2,Georgia,georgia,1,0,1,Q013::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q013,G,U.S. states,3,Guam,guam,0,0,0,Q013::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q013,G,U.S. states,4,Guam,guam,0,0,0,Q013::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q014,G,Foods,0,Gangajale,gangajale,0,0,0,Q014::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q014,G,Foods,1,Gravenstein apple,gravenstein apple,1,0,1,Q014::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q014,G,Foods,2,Gametes,gametes,0,0,0,Q014::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q014,G,Foods,3,Geuzeria,geuzeria,0,0,0,Q014::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q014,G,Foods,4,Gourdmeat,gourdmeat,0,0,0,Q014::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q015,H,Famous scientists,0,Henri Poincaré,henri poincar,0,0,0,Q015::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q015,H,Famous scientists,1,Henry Moseley,henry moseley,0,0,0,Q015::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q015,H,Famous scientists,2,Henrietta Swan Leavitt,henrietta swan leavitt,1,0,1,Q015::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q015,H,Famous scientists,3,Hans Geiger,hans geiger,0,0,0,Q015::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q015,H,Famous scientists,4,Harriet Husted,harriet husted,0,0,0,Q015::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q016,H,Things at the beach,0,Hibernating sand crab,hibernating sand crab,0,0,0,Q016::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q016,H,Things at the beach,1,Halma,halma,0,0,0,Q016::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q016,H,Things at the beach,2,Hemoglobin,hemoglobin,0,0,0,Q016::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q016,H,Things at the beach,3,Handsworth,handsworth,0,0,0,Q016::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q016,H,Things at the beach,4,Human footprint,human footprint,1,0,1,Q016::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q017,I,Cities,0,Istan,istan,0,0,0,Q017::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q017,I,Cities,1,Islamabad,islamabad,1,0,1,Q017::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q017,I,Cities,2,Incheon,incheon,1,0,1,Q017::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q017,I,Cities,3,Inhambane,inhambane,1,0,1,Q017::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q017,I,Cities,4,Izumu,izumu,0,0,0,Q017::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q018,I,Things in a classroom,0,Infrared thermometer,infrared thermometer,1,0,1,Q018::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q018,I,Things in a classroom,1,Immersion globe,immersion globe,0,0,0,Q018::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q018,I,Things in a classroom,2,Inverted microscope,inverted microscope,1,0,1,Q018::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q018,I,Things in a classroom,3,Improvised lesson,improvised lesson,0,0,0,Q018::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q018,I,Things in a classroom,4,Iroquois slide,iroquois slide,0,0,0,Q018::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q019,J,Car brands,0,Jeromov,jeromov,0,0,0,Q019::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q019,J,Car brands,1,Joyson,joyson,0,0,0,Q019::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q019,J,Car brands,2,Jagda,jagda,0,0,0,Q019::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q019,J,Car brands,3,Jaguars,jaguars,0,0,0,Q019::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q019,J,Car brands,4,Jeep,jeep,1,0,1,Q019::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q020,J,Video game titles,0,Jazzpunk,jazzpunk,1,0,1,Q020::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q020,J,Video game titles,1,Judgement,judgement,0,0,0,Q020::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q020,J,Video game titles,2,Jupiter's Last Journey,jupiter's last journey,0,0,0,Q020::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q020,J,Video game titles,3,Journeyman,journeyman,0,0,0,Q020::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q020,J,Video game titles,4,Jazzmine's Journey,jazzmine's journey,0,0,0,Q020::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q021,K,Superheroes,0,Kit Flare,kit flare,0,0,0,Q021::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q021,K,Superheroes,1,Kang Prime,kang prime,0,0,0,Q021::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q021,K,Superheroes,2,Kinetic,kinetic,0,0,0,Q021::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q021,K,Superheroes,3,Kingfish,kingfish,0,0,0,Q021::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q021,K,Superheroes,4,Kang,kang,0,0,0,Q021::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q022,K,Things in a grocery store,0,Kelp noodles,kelp noodles,1,0,1,Q022::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q022,K,Things in a grocery store,1,Kiwifruit,kiwifruit,1,0,1,Q022::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q022,K,Things in a grocery store,2,Kryptonite chips,kryptonite chips,0,0,0,Q022::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q022,K,Things in a grocery store,3,Kyoto miso,kyoto miso,0,0,0,Q022::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q022,K,Things in a grocery store,4,Kidney beans,kidney beans,1,0,1,Q022::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q023,L,Dog breeds,0,Lebanese Bolognese,lebanese bolognese,0,0,0,Q023::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q023,L,Dog breeds,1,Lancashire Terrier,lancashire terrier,1,0,1,Q023::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q023,L,Dog breeds,2,Lusitano,lusitano,0,0,0,Q023::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q023,L,Dog breeds,3,Lagotto Romagnolo,lagotto romagnolo,1,0,1,Q023::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q023,L,Dog breeds,4,Lapphund,lapphund,1,0,1,Q023::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q024,L,Books,0,Leaves of Grass,leaves of grass,1,0,1,Q024::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q024,L,Books,1,Lives In Exile,lives in exile,0,0,0,Q024::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q024,L,Books,2,Letters from a Distant Star,letters from a distant star,0,0,0,Q024::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q024,L,Books,3,Legends and Lyrics,legends and lyrics,0,0,0,Q024::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q024,L,Books,4,Lobsters In Paradise,lobsters in paradise,0,0,0,Q024::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q025,M,Languages,0,**Makonde**,makonde,1,0,1,Q025::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q025,M,Languages,1,Malagasy,malagasy,1,0,1,Q025::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q025,M,Languages,2,Maori,maori,1,0,1,Q025::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q025,M,Languages,3,Mohave,mohave,0,0,0,Q025::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q025,M,Languages,4,Mande,mande,0,0,0,Q025::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q026,M,Clothing items,0,Monocle,monocle,0,0,0,Q026::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q026,M,Clothing items,1,Muskrat Mittens,muskrat mittens,1,0,1,Q026::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q026,M,Clothing items,2,Mantle  coat,mantle coat,1,0,1,Q026::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q026,M,Clothing items,3,Motte hat,motte hat,0,0,0,Q026::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q026,M,Clothing items,4,Maracaibo coat,maracaibo coat,0,0,0,Q026::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q027,N,Birds,0,Neembunting,neembunting,0,0,0,Q027::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q027,N,Birds,1,Nanica,nanica,0,0,0,Q027::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q027,N,Birds,2,Neway  Parula,neway parula,0,0,0,Q027::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q027,N,Birds,3,Namibian cuckoo,namibian cuckoo,0,0,0,Q027::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q027,N,Birds,4,Nightingale,nightingale,1,0,1,Q027::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q028,N,Things in a hospital,0,Norms chart,norms chart,0,0,0,Q028::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q028,N,Things in a hospital,1,Neonatal unit,neonatal unit,1,0,1,Q028::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q028,N,Things in a hospital,2,Nondisposable nasal aspirator,nondisposable nasal aspirator,1,0,1,Q028::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q028,N,Things in a hospital,3,Neuroprosthetics,neuroprosthetics,1,0,1,Q028::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q028,N,Things in a hospital,4,Nitrogen flush,nitrogen flush,0,0,0,Q028::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q029,O,Companies,0,Ohana Technologies,ohana technologies,0,0,0,Q029::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q029,O,Companies,1,Ohmydog,ohmydog,0,0,0,Q029::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q029,O,Companies,2,Onyx Optics,onyx optics,0,0,0,Q029::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q029,O,Companies,3,Olympian Airways,olympian airways,0,0,0,Q029::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q029,O,Companies,4,Owens Corning,owens corning,0,0,0,Q029::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q030,O,Things in the sky,0,Occluded aurora,occluded aurora,0,0,0,Q030::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q030,O,Things in the sky,1,Orion Nebula,orion nebula,1,0,1,Q030::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q030,O,Things in the sky,2,Oort cloud,oort cloud,1,0,1,Q030::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q030,O,Things in the sky,3,Oberth effect,oberth effect,0,0,0,Q030::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q030,O,Things in the sky,4,Oort Cloud,oort cloud,1,1,0,Q030::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q031,P,Vegetables,0,Paulownia,paulownia,0,0,0,Q031::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q031,P,Vegetables,1,Pickled persimons,pickled persimons,0,0,0,Q031::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q031,P,Vegetables,2,Parsnip,parsnip,1,0,1,Q031::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q031,P,Vegetables,3,Paragrass,paragrass,0,0,0,Q031::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q031,P,Vegetables,4,Puntsia,puntsia,0,0,0,Q031::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q032,P,Historical figures,0,Percival Thomas,percival thomas,0,0,0,Q032::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q032,P,Historical figures,1,Pierre Curie,pierre curie,1,0,1,Q032::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q032,P,Historical figures,2,Peregrine De Cosson,peregrine de cosson,0,0,0,Q032::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q032,P,Historical figures,3,Patrician Provan,patrician provan,0,0,0,Q032::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q032,P,Historical figures,4,Phineas T. Barnum,phineas t. barnum,1,0,1,Q032::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q033,Q,Words in English,0,Quadrille,quadrille,1,0,1,Q033::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q033,Q,Words in English,1,Qualia,qualia,1,0,1,Q033::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q033,Q,Words in English,2,Quaquana,quaquana,0,0,0,Q033::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q033,Q,Words in English,3,Quadranon,quadranon,0,0,0,Q033::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q033,Q,Words in English,4,Quakemic,quakemic,0,0,0,Q033::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q034,Q,Fictional characters,0,Queen Morrigan,queen morrigan,0,0,0,Q034::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q034,Q,Fictional characters,1,Quagmire,quagmire,1,0,1,Q034::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q034,Q,Fictional characters,2,Queen Moiraine,queen moiraine,1,0,1,Q034::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q034,Q,Fictional characters,3,Queen Amphetamines,queen amphetamines,0,0,0,Q034::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q034,Q,Fictional characters,4,Qwerky McQuack,qwerky mcquack,0,0,0,Q034::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q035,R,Songs,0,Rhythm Revolution,rhythm revolution,0,0,0,Q035::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q035,R,Songs,1,Rainbow After The Storm,rainbow after the storm,0,0,0,Q035::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q035,R,Songs,2,Ramona,ramona,0,0,0,Q035::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q035,R,Songs,3,Rockinghorse,rockinghorse,0,0,0,Q035::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q035,R,Songs,4,Runnin' With The Crazy,runnin' with the crazy,0,0,0,Q035::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q036,R,Tools,0,Rotax drone,rotax drone,0,0,0,Q036::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q036,R,Tools,1,Rubber stamp,rubber stamp,1,0,1,Q036::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q036,R,Tools,2,Radiograph,radiograph,0,0,0,Q036::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q036,R,Tools,3,Rammer,rammer,1,0,1,Q036::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q036,R,Tools,4,Reeling rod,reeling rod,0,0,0,Q036::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q037,S,Animals,0,Spy,spy,0,0,0,Q037::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q037,S,Animals,1,Snoring Shark,snoring shark,0,0,0,Q037::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q037,S,Animals,2,Salamander,salamander,1,0,1,Q037::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q037,S,Animals,3,Spoonbill,spoonbill,1,0,1,Q037::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q037,S,Animals,4,Sloughi,sloughi,1,0,1,Q037::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q038,S,Things in an office,0,Stand-up desk,stand-up desk,1,0,1,Q038::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q038,S,Things in an office,1,Smidgen,smidgen,0,0,0,Q038::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q038,S,Things in an office,2,Steam cleaner,steam cleaner,0,0,0,Q038::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q038,S,Things in an office,3,stapler stand,stapler stand,0,0,0,Q038::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q038,S,Things in an office,4,Smoothening balm,smoothening balm,0,0,0,Q038::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q039,T,Countries,0,Trantaya,trantaya,0,0,0,Q039::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q039,T,Countries,1,Tocantins,tocantins,0,0,0,Q039::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q039,T,Countries,2,Tranquility Islands,tranquility islands,0,0,0,Q039::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q039,T,Countries,3,Tuvalu,tuvalu,1,1,0,Q039::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q039,T,Countries,4,Tuckey Islands,tuckey islands,0,0,0,Q039::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q040,T,TV shows,0,Telefónica,telefónica,0,0,0,Q040::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q040,T,TV shows,1,Terrahawks,terrahawks,0,0,0,Q040::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q040,T,TV shows,2,"""Trixie""",trixie,0,0,0,Q040::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q040,T,TV shows,3,Travelers' Tales,travelers' tales,0,0,0,Q040::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q040,T,TV shows,4,Terry and Tiny,terry and tiny,0,0,0,Q040::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q041,U,U.S. colleges,0,University of the Redwoods,university of the redwoods,0,0,0,Q041::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q041,U,U.S. colleges,1,United States Military Academy West Point,united states military academy west point,0,0,0,Q041::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q041,U,U.S. colleges,2,University Of North Atlantic,university of north atlantic,0,0,0,Q041::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q041,U,U.S. colleges,3,Union College,union college,1,0,1,Q041::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q041,U,U.S. colleges,4,United States Naval Academy,united states naval academy,0,0,0,Q041::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q042,U,Things in a garage,0,universal adapter,universal adapter,1,0,1,Q042::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q042,U,Things in a garage,1,Ultrasonic washer,ultrasonic washer,1,0,1,Q042::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q042,U,Things in a garage,2,Universal grease gun,universal grease gun,1,0,1,Q042::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q042,U,Things in a garage,3,Upholstered Toolbox,upholstered toolbox,0,0,0,Q042::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q042,U,Things in a garage,4,universal adapter,universal adapter,1,0,1,Q042::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q043,V,Jobs,0,Vertical farming specialist,vertical farming specialist,0,0,0,Q043::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q043,V,Jobs,1,Vaporvac specialist,vaporvac specialist,0,0,0,Q043::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q043,V,Jobs,2,Visual auditor,visual auditor,0,0,0,Q043::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q043,V,Jobs,3,Veggie Carver,veggie carver,0,0,0,Q043::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q043,V,Jobs,4,Volcano Geologist,volcano geologist,0,0,0,Q043::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q044,V,Things you wear,0,Vest,vest,1,0,1,Q044::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q044,V,Things you wear,1,Venetian veil,venetian veil,1,0,1,Q044::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q044,V,Things you wear,2,Veil,veil,1,0,1,Q044::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q044,V,Things you wear,3,Viagra cap,viagra cap,0,0,0,Q044::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q044,V,Things you wear,4,Veloster,veloster,0,0,0,Q044::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q045,W,Cities,0,Wilkesburg,wilkesburg,0,0,0,Q045::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q045,W,Cities,1,Wellington,wellington,1,0,1,Q045::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q045,W,Cities,2,Warangal,warangal,1,0,1,Q045::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q045,W,Cities,3,Wangaratta,wangaratta,1,0,1,Q045::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q045,W,Cities,4,Wadi Halfa,wadi halfa,0,0,0,Q045::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q046,W,Things in a park,0,Whiffle tree,whiffle tree,0,0,0,Q046::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q046,W,Things in a park,1,Wildrose,wildrose,0,0,0,Q046::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q046,W,Things in a park,2,Wishing Well,wishing well,1,0,1,Q046::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q046,W,Things in a park,3,Watermelon weevil,watermelon weevil,0,0,0,Q046::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q046,W,Things in a park,4,Waterwheel,waterwheel,0,0,0,Q046::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q047,X,Brands,0,Xyience,xyience,1,0,1,Q047::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q047,X,Brands,1,Xenonlite,xenonlite,0,0,0,Q047::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q047,X,Brands,2,Xenex,xenex,1,0,1,Q047::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q047,X,Brands,3,Xerox,xerox,1,0,1,Q047::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q047,X,Brands,4,Xenadrin,xenadrin,1,0,1,Q047::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q048,X,Words in English,0,Xerophytes,xerophytes,1,0,1,Q048::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q048,X,Words in English,1,xenophobia,xenophobia,1,0,1,Q048::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q048,X,Words in English,2,Xerophthalmia,xerophthalmia,1,0,1,Q048::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q048,X,Words in English,3,Xerophytes,xerophytes,1,0,1,Q048::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q048,X,Words in English,4,Xylography,xylography,1,0,1,Q048::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q049,Y,Foods,0,Yamaimo,yamaimo,1,0,1,Q049::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q049,Y,Foods,1,Yuca Flour,yuca flour,1,0,1,Q049::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q049,Y,Foods,2,Yorkshire pudding,yorkshire pudding,1,0,1,Q049::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q049,Y,Foods,3,yuca,yuca,1,0,1,Q049::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q049,Y,Foods,4,Yuca,yuca,1,0,1,Q049::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q050,Y,Things at a party,0,Yoga mats,yoga mats,0,0,0,Q050::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q050,Y,Things at a party,1,yard sale,yard sale,0,0,0,Q050::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q050,Y,Things at a party,2,yogurt board,yogurt board,0,0,0,Q050::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q050,Y,Things at a party,3,Yak yogurt,yak yogurt,0,0,0,Q050::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q050,Y,Things at a party,4,Yoga hammock,yoga hammock,0,0,0,Q050::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q051,Z,Animals,0,Zephyr-shrike,zephyr-shrike,0,0,0,Q051::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q051,Z,Animals,1,Zorse,zorse,1,0,1,Q051::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q051,Z,Animals,2,Zoroaster,zoroaster,0,0,0,Q051::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q051,Z,Animals,3,Zigzag zebra,zigzag zebra,0,0,0,Q051::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q051,Z,Animals,4,Zephyran,zephyran,0,0,0,Q051::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q052,Z,Things in a zoo,0,Zephyrarium,zephyrarium,0,0,0,Q052::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q052,Z,Things in a zoo,1,Zebra dung beetle,zebra dung beetle,0,0,0,Q052::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q052,Z,Things in a zoo,2,Zebu,zebu,1,0,1,Q052::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q052,Z,Things in a zoo,3,Zoophonia,zoophonia,0,0,0,Q052::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q052,Z,Things in a zoo,4,Zoo lemur,zoo lemur,0,0,0,Q052::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q053,A,Things in a kitchen,0,Augers,augers,0,0,0,Q053::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q053,A,Things in a kitchen,1,Acid starter,acid starter,0,0,0,Q053::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q053,A,Things in a kitchen,2,Affogato bowl,affogato bowl,1,0,1,Q053::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q053,A,Things in a kitchen,3,Auralizer,auralizer,0,0,0,Q053::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q053,A,Things in a kitchen,4,Affogato,affogato,1,0,1,Q053::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q054,B,Singers,0,Barbara Streisand,barbara streisand,1,0,1,Q054::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q054,B,Singers,1,Barbara Dane,barbara dane,1,0,1,Q054::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q054,B,Singers,2,Bjork,bjork,1,0,1,Q054::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q054,B,Singers,3,Bobby Helms,bobby helms,0,0,0,Q054::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q054,B,Singers,4,Birgit Slavik,birgit slavik,0,0,0,Q054::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q055,C,Desserts,0,Cascaron,cascaron,0,0,0,Q055::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q055,C,Desserts,1,Cointreau cake,cointreau cake,1,0,1,Q055::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q055,C,Desserts,2,Caraway cake,caraway cake,0,0,0,Q055::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q055,C,Desserts,3,Coolada,coolada,0,0,0,Q055::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q055,C,Desserts,4,Cashew tartlets,cashew tartlets,1,0,1,Q055::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q056,D,Plants,0,Devil's trumpet,devil's trumpet,1,0,1,Q056::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q056,D,Plants,1,Drosophyllum lusitanicum,drosophyllum lusitanicum,1,0,1,Q056::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q056,D,Plants,2,Delphinium  plantus,delphinium plantus,0,0,0,Q056::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q056,D,Plants,3,Deweysia pallida,deweysia pallida,0,0,0,Q056::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q056,D,Plants,4,Daphne baccara,daphne baccara,1,0,1,Q056::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q057,E,Companies,0,Eden Projects,eden projects,0,0,0,Q057::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q057,E,Companies,1,Eldorado Enterprises,eldorado enterprises,0,0,0,Q057::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q057,E,Companies,2,Eden Design Group,eden design group,0,0,0,Q057::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q057,E,Companies,3,EcoSynthetics,ecosynthetics,0,0,0,Q057::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q057,E,Companies,4,Eastman Kodak,eastman kodak,0,0,0,Q057::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q058,F,Movie characters,0,Ferdinand the Bull,ferdinand the bull,1,0,1,Q058::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q058,F,Movie characters,1,Fandango from The Ballad Of Barry and Sid,fandango from the ballad of barry and sid,0,0,0,Q058::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q058,F,Movie characters,2,Feeble,feeble,0,0,0,Q058::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q058,F,Movie characters,3,Ferdinand The MooCow,ferdinand the moocow,0,0,0,Q058::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q058,F,Movie characters,4,Frankenstein's Bride,frankenstein's bride,1,0,1,Q058::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q059,G,Things in a toolbox,0,Gauge,gauge,1,0,1,Q059::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q059,G,Things in a toolbox,1,Groundskeeper's kit,groundskeeper's kit,0,0,0,Q059::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q059,G,Things in a toolbox,2,Glass chisel,glass chisel,0,0,0,Q059::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q059,G,Things in a toolbox,3,Grating,grating,0,0,0,Q059::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q059,G,Things in a toolbox,4,Gas Gauge,gas gauge,0,0,0,Q059::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q060,H,Countries,0,Haiti,haiti,1,0,1,Q060::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q060,H,Countries,1,Hautpiniq,hautpiniq,0,0,0,Q060::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q060,H,Countries,2,Haiti,haiti,1,1,0,Q060::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q060,H,Countries,3,Heard,heard,0,0,0,Q060::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q060,H,Countries,4,Hewaiian,hewaiian,0,0,0,Q060::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q061,I,Musical artists,0,Infomart,infomart,0,0,0,Q061::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q061,I,Musical artists,1,Irely,irely,0,0,0,Q061::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q061,I,Musical artists,2,Ian Hunter,ian hunter,1,0,1,Q061::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q061,I,Musical artists,3,Imperial Truce,imperial truce,0,0,0,Q061::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q061,I,Musical artists,4,Iris Deisenroth,iris deisenroth,0,0,0,Q061::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q062,J,Things in a refrigerator,0,Janitorial cart lubricant,janitorial cart lubricant,0,0,0,Q062::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q062,J,Things in a refrigerator,1,Jouez,jouez,0,0,0,Q062::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q062,J,Things in a refrigerator,2,Jansson's Jelly,jansson's jelly,0,0,0,Q062::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q062,J,Things in a refrigerator,3,Jac Jac,jac jac,0,0,0,Q062::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q062,J,Things in a refrigerator,4,Jerry can,jerry can,0,0,0,Q062::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q063,K,Cities,0,Kabul,kabul,1,0,1,Q063::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q063,K,Cities,1,Kazan,kazan,1,0,1,Q063::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q063,K,Cities,2,Kota Kinabalu,kota kinabalu,1,0,1,Q063::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q063,K,Cities,3,Kyiv,kyiv,1,0,1,Q063::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q063,K,Cities,4,Karasua,karasua,0,0,0,Q063::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q064,L,Things in a library,0,Lucent reader,lucent reader,0,0,0,Q064::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q064,L,Things in a library,1,Lexicon,lexicon,1,0,1,Q064::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q064,L,Things in a library,2,Liminal Collection,liminal collection,0,0,0,Q064::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q064,L,Things in a library,3,Leatherbound grimoire,leatherbound grimoire,1,0,1,Q064::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_1_Obscure.csv,self_obscure_20_gemma_Player_1_Obscure,Q064,L,Things in a library,4,Luteophone,luteophone,0,0,0,Q064::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q001,A,Animals,0,Aye-aye,aye-aye,1,0,1,Q001::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q001,A,Animals,1,Aardvark,aardvark,1,0,1,Q001::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q001,A,Animals,2,Aye-aye,aye-aye,1,0,1,Q001::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q001,A,Animals,3,Aye-aye,aye-aye,1,0,1,Q001::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q001,A,Animals,4,Aye-aye,aye-aye,1,0,1,Q001::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q002,A,Jobs,0,Actuator tester,actuator tester,0,0,0,Q002::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q002,A,Jobs,1,Archaeolector,archaeolector,0,0,0,Q002::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q002,A,Jobs,2,Astronaut Consultant,astronaut consultant,0,0,0,Q002::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q002,A,Jobs,3,Archeotechnographer,archeotechnographer,0,0,0,Q002::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q002,A,Jobs,4,Astronaut Librarian,astronaut librarian,0,0,0,Q002::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q003,B,Fruits,0,Breadfruit,breadfruit,0,0,0,Q003::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q003,B,Fruits,1,Barbados Cherry,barbados cherry,1,0,1,Q003::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q003,B,Fruits,2,Bacuri,bacuri,1,0,1,Q003::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q003,B,Fruits,3,Balaclava Pear,balaclava pear,0,0,0,Q003::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q003,B,Fruits,4,Batu,batu,0,0,0,Q003::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q004,B,Things that are red,0,Burning barnacle,burning barnacle,0,0,0,Q004::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q004,B,Things that are red,1,Bison blood,bison blood,1,0,1,Q004::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q004,B,Things that are red,2,Bronze Buddha,bronze buddha,0,0,0,Q004::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q004,B,Things that are red,3,Bactrian camel hump,bactrian camel hump,0,0,0,Q004::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q004,B,Things that are red,4,Berries' blood,berries' blood,0,0,0,Q004::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q005,C,Countries,0,Central African Republic,central african republic,1,0,1,Q005::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q005,C,Countries,1,Comoros,comoros,1,0,1,Q005::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q005,C,Countries,2,Central African Republic,central african republic,1,1,0,Q005::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q005,C,Countries,3,Comoros,comoros,1,0,1,Q005::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q005,C,Countries,4,Central African Republic,central african republic,1,0,1,Q005::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q006,C,Board games,0,Cataract,cataract,0,0,0,Q006::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q006,C,Board games,1,Cartomancia,cartomancia,0,0,0,Q006::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q006,C,Board games,2,Chronophage,chronophage,0,0,0,Q006::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q006,C,Board games,3,Coup,coup,0,0,0,Q006::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q006,C,Board games,4,Cadabra,cadabra,0,0,0,Q006::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q007,D,Musical instruments,0,Didgeridoo,didgeridoo,1,0,1,Q007::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q007,D,Musical instruments,1,dulcimer,dulcimer,1,0,1,Q007::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q007,D,Musical instruments,2,Djang-gū,djang-g,0,0,0,Q007::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q007,D,Musical instruments,3,Didjeridoo,didjeridoo,1,0,1,Q007::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q007,D,Musical instruments,4,dulcimer,dulcimer,1,0,1,Q007::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q008,D,Things in a bathroom,0,Dialysis filter,dialysis filter,0,0,0,Q008::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q008,D,Things in a bathroom,1,Draining Faucet Valve,draining faucet valve,0,0,0,Q008::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q008,D,Things in a bathroom,2,Duster,duster,0,0,0,Q008::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q008,D,Things in a bathroom,3,Drainsaucer,drainsaucer,0,0,0,Q008::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q008,D,Things in a bathroom,4,Decanter,decanter,0,0,0,Q008::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q009,E,Sports,0,Eskrimj,eskrimj,0,0,0,Q009::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q009,E,Sports,1,Ekincig,ekincig,0,0,0,Q009::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q009,E,Sports,2,Ekiden,ekiden,1,0,1,Q009::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q009,E,Sports,3,Egoscue,egoscue,0,0,0,Q009::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q009,E,Sports,4,Ekiden,ekiden,1,0,1,Q009::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q010,E,Movie titles,0,Evening's Embrace,evening's embrace,0,0,0,Q010::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q010,E,Movie titles,1,Eyes Of Horus,eyes of horus,0,0,0,Q010::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q010,E,Movie titles,2,Eternal Eyes,eternal eyes,0,0,0,Q010::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q010,E,Movie titles,3,Eskalation,eskalation,0,0,0,Q010::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q010,E,Movie titles,4,Eternal Sunset,eternal sunset,0,0,0,Q010::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q011,F,Fish,0,Filletfin,filletfin,0,0,0,Q011::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q011,F,Fish,1,Fangtooth,fangtooth,1,0,1,Q011::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q011,F,Fish,2,Finncock,finncock,0,0,0,Q011::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q011,F,Fish,3,Fantail,fantail,0,0,0,Q011::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q011,F,Fish,4,Fangtooth,fangtooth,1,1,0,Q011::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q012,F,Things in a backpack,0,Fecal probe,fecal probe,0,0,0,Q012::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q012,F,Things in a backpack,1,Flexoscope,flexoscope,0,0,0,Q012::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q012,F,Things in a backpack,2,Ferrofluidic battery charger,ferrofluidic battery charger,0,0,0,Q012::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q012,F,Things in a backpack,3,Ferrofluid,ferrofluid,0,0,0,Q012::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q012,F,Things in a backpack,4,ferromagnetic dust,ferromagnetic dust,0,0,0,Q012::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q013,G,U.S. states,0,Gaud,gaud,0,0,0,Q013::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q013,G,U.S. states,1,Gomer,gomer,0,0,0,Q013::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q013,G,U.S. states,2,Galloway,galloway,0,0,0,Q013::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q013,G,U.S. states,3,Georgia,georgia,1,0,1,Q013::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q013,G,U.S. states,4,Guam,guam,0,0,0,Q013::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q014,G,Foods,0,Guanaja,guanaja,1,0,1,Q014::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q014,G,Foods,1,Gooseberries,gooseberries,1,0,1,Q014::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q014,G,Foods,2,Gazelle's,gazelle's,0,0,0,Q014::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q014,G,Foods,3,Gum guggul,gum guggul,0,0,0,Q014::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q014,G,Foods,4,Gazania root,gazania root,0,0,0,Q014::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q015,H,Famous scientists,0,Henri Becquerel,henri becquerel,1,0,1,Q015::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q015,H,Famous scientists,1,Hubert Reeves,hubert reeves,0,0,0,Q015::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q015,H,Famous scientists,2,Hershel Herskovits,hershel herskovits,0,0,0,Q015::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q015,H,Famous scientists,3,Herbert Holborn,herbert holborn,0,0,0,Q015::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q015,H,Famous scientists,4,Herrick Moore,herrick moore,0,0,0,Q015::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q016,H,Things at the beach,0,Halcyon wave,halcyon wave,0,0,0,Q016::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q016,H,Things at the beach,1,Hardboard,hardboard,0,0,0,Q016::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q016,H,Things at the beach,2,Hermit crab,hermit crab,1,0,1,Q016::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q016,H,Things at the beach,3,Hoar clam,hoar clam,1,0,1,Q016::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q016,H,Things at the beach,4,Horse Conch,horse conch,1,0,1,Q016::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q017,I,Cities,0,Iquig,iquig,0,0,0,Q017::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q017,I,Cities,1,"Ikea, Sweden","ikea, sweden",0,0,0,Q017::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q017,I,Cities,2,Iskandarabad,iskandarabad,0,0,0,Q017::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q017,I,Cities,3,Isle-Of-Man,isle-of-man,0,0,0,Q017::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q017,I,Cities,4,Ipoh,ipoh,1,0,1,Q017::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q018,I,Things in a classroom,0,Infant's crib,infant's crib,0,0,0,Q018::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q018,I,Things in a classroom,1,Igloo,igloo,0,0,0,Q018::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q018,I,Things in a classroom,2,Interfacing station,interfacing station,0,0,0,Q018::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q018,I,Things in a classroom,3,instruction manual,instruction manual,1,0,1,Q018::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q018,I,Things in a classroom,4,Industrial microscope,industrial microscope,0,0,0,Q018::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q019,J,Car brands,0,Jeepar,jeepar,0,0,0,Q019::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q019,J,Car brands,1,Jennari,jennari,0,0,0,Q019::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q019,J,Car brands,2,Jelco,jelco,0,0,0,Q019::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q019,J,Car brands,3,Jeepster,jeepster,0,0,0,Q019::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q019,J,Car brands,4,Jeeporajek,jeeporajek,0,0,0,Q019::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q020,J,Video game titles,0,Jeffery,jeffery,0,0,0,Q020::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q020,J,Video game titles,1,Jurassic Park Builder,jurassic park builder,1,0,1,Q020::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q020,J,Video game titles,2,Jikochō,jikoch,0,0,0,Q020::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q020,J,Video game titles,3,Jungle Beat,jungle beat,0,0,0,Q020::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q020,J,Video game titles,4,Judgement Day,judgement day,0,0,0,Q020::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q021,K,Superheroes,0,Katydid,katydid,0,0,0,Q021::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q021,K,Superheroes,1,Karma,karma,0,0,0,Q021::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q021,K,Superheroes,2,Kharma,kharma,0,0,0,Q021::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q021,K,Superheroes,3,Knightwalker,knightwalker,0,0,0,Q021::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q021,K,Superheroes,4,Knightfall,knightfall,0,0,0,Q021::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q022,K,Things in a grocery store,0,Ketchup-flavored crackers,ketchup-flavored crackers,1,0,1,Q022::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q022,K,Things in a grocery store,1,Kalamata Olives,kalamata olives,1,0,1,Q022::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q022,K,Things in a grocery store,2,Kung pao sauce,kung pao sauce,1,0,1,Q022::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q022,K,Things in a grocery store,3,Kosher crackers,kosher crackers,1,0,1,Q022::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q022,K,Things in a grocery store,4,Kale chips,kale chips,1,0,1,Q022::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q023,L,Dog breeds,0,Llanesp,llanesp,0,0,0,Q023::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q023,L,Dog breeds,1,Lebonese Mastiff,lebonese mastiff,0,0,0,Q023::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q023,L,Dog breeds,2,Lapphund,lapphund,1,0,1,Q023::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q023,L,Dog breeds,3,Lithuanian Lowland,lithuanian lowland,0,0,0,Q023::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q023,L,Dog breeds,4,Libel Lafou,libel lafou,0,0,0,Q023::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q024,L,Books,0,Llanfair's Diary,llanfair's diary,0,0,0,Q024::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q024,L,Books,1,Lesbian Dictionary,lesbian dictionary,0,0,0,Q024::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q024,L,Books,2,Laws and Liberty  by Frederick Henry Brown,laws and liberty by frederick henry brown,0,0,0,Q024::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q024,L,Books,3,Lucifer's Logic,lucifer's logic,0,0,0,Q024::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q024,L,Books,4,Letters of Fate,letters of fate,0,0,0,Q024::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q025,M,Languages,0,Mankuri,mankuri,0,0,0,Q025::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q025,M,Languages,1,Maltese,maltese,1,0,1,Q025::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q025,M,Languages,2,Merin,merin,0,0,0,Q025::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q025,M,Languages,3,Meriglian,meriglian,0,0,0,Q025::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q025,M,Languages,4,Manda,manda,0,0,0,Q025::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q026,M,Clothing items,0,Mantel shirt,mantel shirt,0,0,0,Q026::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q026,M,Clothing items,1,Mariposa  Dress,mariposa dress,0,0,0,Q026::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q026,M,Clothing items,2,Maillot,maillot,1,0,1,Q026::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q026,M,Clothing items,3,Moccasin,moccasin,1,0,1,Q026::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q026,M,Clothing items,4,Maniform,maniform,0,0,0,Q026::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q027,N,Birds,0,Nintendo,nintendo,0,0,0,Q027::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q027,N,Birds,1,Nightingale,nightingale,1,0,1,Q027::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q027,N,Birds,2,Namibeaughs,namibeaughs,0,0,0,Q027::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q027,N,Birds,3,Naked Bird,naked bird,0,0,0,Q027::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q027,N,Birds,4,Nestor,nestor,0,0,0,Q027::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q028,N,Things in a hospital,0,Neuromonitor,neuromonitor,1,0,1,Q028::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q028,N,Things in a hospital,1,Neural Pacemaker,neural pacemaker,1,0,1,Q028::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q028,N,Things in a hospital,2,Nasopharyngoscopy kit,nasopharyngoscopy kit,1,0,1,Q028::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q028,N,Things in a hospital,3,Neurophysiologic monitoring,neurophysiologic monitoring,1,0,1,Q028::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q028,N,Things in a hospital,4,Neuroprosthesis,neuroprosthesis,1,0,1,Q028::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q029,O,Companies,0,Oranj,oranj,0,0,0,Q029::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q029,O,Companies,1,Owen Enterprises,owen enterprises,0,0,0,Q029::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q029,O,Companies,2,Oregon Trail Company,oregon trail company,0,0,0,Q029::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q029,O,Companies,3,Oceanographers International,oceanographers international,0,0,0,Q029::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q029,O,Companies,4,Orion Expeditions,orion expeditions,0,0,0,Q029::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q030,O,Things in the sky,0,Orion's Belt,orion's belt,1,0,1,Q030::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q030,O,Things in the sky,1,Okteid,okteid,0,0,0,Q030::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q030,O,Things in the sky,2,Opalescence,opalescence,0,0,0,Q030::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q030,O,Things in the sky,3,Oort Cloud,oort cloud,1,0,1,Q030::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q030,O,Things in the sky,4,Oort cloud,oort cloud,1,1,0,Q030::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q031,P,Vegetables,0,Purplepod,purplepod,0,0,0,Q031::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q031,P,Vegetables,1,Parsnip,parsnip,1,0,1,Q031::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q031,P,Vegetables,2,Parnle,parnle,0,0,0,Q031::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q031,P,Vegetables,3,Persimon,persimon,0,0,0,Q031::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q031,P,Vegetables,4,Paulownia,paulownia,0,0,0,Q031::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q032,P,Historical figures,0,Pierre Teilhard de Chardin,pierre teilhard de chardin,0,0,0,Q032::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q032,P,Historical figures,1,Pierre Janet,pierre janet,0,0,0,Q032::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q032,P,Historical figures,2,Petrucius Plinius,petrucius plinius,0,0,0,Q032::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q032,P,Historical figures,3,Pelayo de San Román,pelayo de san román,0,0,0,Q032::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q032,P,Historical figures,4,Percival Landon,percival landon,0,0,0,Q032::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q033,Q,Words in English,0,Quipus,quipus,1,0,1,Q033::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q033,Q,Words in English,1,Qabalistic,qabalistic,1,0,1,Q033::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q033,Q,Words in English,2,Quivering,quivering,1,0,1,Q033::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q033,Q,Words in English,3,Quartzite,quartzite,1,0,1,Q033::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q033,Q,Words in English,4,Quadquat,quadquat,0,0,0,Q033::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q034,Q,Fictional characters,0,Quinn Lightfoot,quinn lightfoot,0,0,0,Q034::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q034,Q,Fictional characters,1,Queen Of The Fae,queen of the fae,0,0,0,Q034::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q034,Q,Fictional characters,2,Queen Mab,queen mab,1,0,1,Q034::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q034,Q,Fictional characters,3,Quentin Quire,quentin quire,1,0,1,Q034::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q034,Q,Fictional characters,4,Queen Valore,queen valore,0,0,0,Q034::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q035,R,Songs,0,Ride on The Lightning,ride on the lightning,1,0,1,Q035::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q035,R,Songs,1,Rainbow Rhythms,rainbow rhythms,0,0,0,Q035::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q035,R,Songs,2,Rainy Taxi,rainy taxi,0,0,0,Q035::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q035,R,Songs,3,Rat Race (Randy Newman),rat race (randy newman,0,0,0,Q035::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q035,R,Songs,4,Ravel's Boléro,ravel's boléro,0,0,0,Q035::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q036,R,Tools,0,Racket wrench,racket wrench,0,0,0,Q036::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q036,R,Tools,1,Rhinoceros hammer,rhinoceros hammer,0,0,0,Q036::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q036,R,Tools,2,Rocket Launcher,rocket launcher,0,0,0,Q036::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q036,R,Tools,3,Retouching stand,retouching stand,0,0,0,Q036::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q036,R,Tools,4,Rigel-C,rigel-c,0,0,0,Q036::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q037,S,Animals,0,Sumatran tiger,sumatran tiger,1,0,1,Q037::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q037,S,Animals,1,Slime Auk,slime auk,0,0,0,Q037::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q037,S,Animals,2,Sasquatch,sasquatch,0,0,0,Q037::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q037,S,Animals,3,Siberian Flying Squirrel,siberian flying squirrel,1,0,1,Q037::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q037,S,Animals,4,Snub-nosed monkey,snub-nosed monkey,1,0,1,Q037::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q038,S,Things in an office,0,Statute-of-Remedies binder,statute-of-remedies binder,0,0,0,Q038::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q038,S,Things in an office,1,Sewage treatment system,sewage treatment system,0,0,0,Q038::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q038,S,Things in an office,2,Sounding Board,sounding board,1,0,1,Q038::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q038,S,Things in an office,3,Stapler retriever,stapler retriever,0,0,0,Q038::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q038,S,Things in an office,4,Stair climber,stair climber,0,0,0,Q038::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q039,T,Countries,0,Tuvalu,tuvalu,1,0,1,Q039::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q039,T,Countries,1,Tuvalu,tuvalu,1,0,1,Q039::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q039,T,Countries,2,Togenegro,togenegro,0,0,0,Q039::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q039,T,Countries,3,Tuvalu,tuvalu,1,1,0,Q039::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q039,T,Countries,4,Tongo,tongo,0,0,0,Q039::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q040,T,TV shows,0,Terra Nova,terra nova,1,0,1,Q040::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q040,T,TV shows,1,Taxi,taxi,1,0,1,Q040::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q040,T,TV shows,2,Titans Quest,titans quest,0,0,0,Q040::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q040,T,TV shows,3,Telescope,telescope,0,0,0,Q040::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q040,T,TV shows,4,Temple Grove,temple grove,0,0,0,Q040::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q041,U,U.S. colleges,0,University of Utah College of Osteopathic Medicine,university of utah college of osteopathic medicine,0,0,0,Q041::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q041,U,U.S. colleges,1,University of The Ozarks,university of the ozarks,1,0,1,Q041::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q041,U,U.S. colleges,2,Union University,union university,1,0,1,Q041::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q041,U,U.S. colleges,3,Universite Du Maine,universite du maine,0,0,0,Q041::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q041,U,U.S. colleges,4,University of The District of Columbia,university of the district of columbia,1,0,1,Q041::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q042,U,Things in a garage,0,Umbrella stand,umbrella stand,1,0,1,Q042::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q042,U,Things in a garage,1,Undercarriage hydraulics,undercarriage hydraulics,0,0,0,Q042::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q042,U,Things in a garage,2,Unimodal heater,unimodal heater,0,0,0,Q042::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q042,U,Things in a garage,3,Ultraviolet sterilizer,ultraviolet sterilizer,0,0,0,Q042::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q042,U,Things in a garage,4,Universal humidifier,universal humidifier,1,0,1,Q042::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q043,V,Jobs,0,Vapor recovery operator,vapor recovery operator,1,0,1,Q043::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q043,V,Jobs,1,Vestigial Anthropologist,vestigial anthropologist,0,0,0,Q043::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q043,V,Jobs,2,Vampire Sighting Analyst,vampire sighting analyst,0,0,0,Q043::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q043,V,Jobs,3,Veterinary xenobiologist,veterinary xenobiologist,1,0,1,Q043::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q043,V,Jobs,4,Vesperid Entrapment Specialist,vesperid entrapment specialist,0,0,0,Q043::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q044,V,Things you wear,0,Ventriloquist Mask,ventriloquist mask,0,0,0,Q044::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q044,V,Things you wear,1,Vibrams,vibrams,1,0,1,Q044::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q044,V,Things you wear,2,Valiette,valiette,0,0,0,Q044::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q044,V,Things you wear,3,Vent cover,vent cover,0,0,0,Q044::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q044,V,Things you wear,4,Vibrams,vibrams,1,0,1,Q044::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q045,W,Cities,0,Warmbao,warmbao,0,0,0,Q045::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q045,W,Cities,1,Wellfleet,wellfleet,0,0,0,Q045::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q045,W,Cities,2,Winternitz,winternitz,0,0,0,Q045::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q045,W,Cities,3,Waihi,waihi,0,0,0,Q045::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q045,W,Cities,4,Waco,waco,1,0,1,Q045::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q046,W,Things in a park,0,Welkraut,welkraut,0,0,0,Q046::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q046,W,Things in a park,1,Wrecking ball,wrecking ball,0,0,0,Q046::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q046,W,Things in a park,2,Wrecking ball,wrecking ball,0,0,0,Q046::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q046,W,Things in a park,3,Whippet,whippet,0,0,0,Q046::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q046,W,Things in a park,4,Wren nesting platform,wren nesting platform,1,0,1,Q046::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q047,X,Brands,0,XylemTech,xylemtech,0,0,0,Q047::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q047,X,Brands,1,Xenon,xenon,0,0,0,Q047::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q047,X,Brands,2,Xerxes,xerxes,0,0,0,Q047::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q047,X,Brands,3,Xenex,xenex,1,0,1,Q047::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q047,X,Brands,4,Xynergy,xynergy,0,0,0,Q047::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q048,X,Words in English,0,Xerox,xerox,1,0,1,Q048::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q048,X,Words in English,1,Xenotransplant,xenotransplant,1,0,1,Q048::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q048,X,Words in English,2,Xenodochy,xenodochy,1,0,1,Q048::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q048,X,Words in English,3,Xeriscape,xeriscape,1,0,1,Q048::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q048,X,Words in English,4,Xerophthalmia,xerophthalmia,1,0,1,Q048::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q049,Y,Foods,0,Yorkshire pudding,yorkshire pudding,1,0,1,Q049::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q049,Y,Foods,1,Yuccas,yuccas,1,0,1,Q049::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q049,Y,Foods,2,Yuca,yuca,1,0,1,Q049::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q049,Y,Foods,3,Yorkshire pudding,yorkshire pudding,1,0,1,Q049::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q049,Y,Foods,4,Yam Pudding,yam pudding,1,0,1,Q049::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q050,Y,Things at a party,0,Yogurt ice sculpture,yogurt ice sculpture,0,0,0,Q050::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q050,Y,Things at a party,1,Yurt tent,yurt tent,0,0,0,Q050::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q050,Y,Things at a party,2,Yawarack,yawarack,0,0,0,Q050::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q050,Y,Things at a party,3,Yemenite rug,yemenite rug,0,0,0,Q050::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q050,Y,Things at a party,4,Yowie bag,yowie bag,0,0,0,Q050::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q051,Z,Animals,0,Zoklet,zoklet,0,0,0,Q051::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q051,Z,Animals,1,Zephyrfish,zephyrfish,0,0,0,Q051::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q051,Z,Animals,2,Zephyranthes,zephyranthes,0,0,0,Q051::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q051,Z,Animals,3,Zebrafish,zebrafish,1,0,1,Q051::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q051,Z,Animals,4,Zazafish,zazafish,0,0,0,Q051::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q052,Z,Things in a zoo,0,Zigzagged snake,zigzagged snake,0,0,0,Q052::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q052,Z,Things in a zoo,1,Zenithosaurus,zenithosaurus,0,0,0,Q052::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q052,Z,Things in a zoo,2,Zorillas,zorillas,1,0,1,Q052::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q052,Z,Things in a zoo,3,Zorse,zorse,1,0,1,Q052::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q052,Z,Things in a zoo,4,Ziggurat,ziggurat,0,0,0,Q052::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q053,A,Things in a kitchen,0,Akrasia holder,akrasia holder,0,0,0,Q053::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q053,A,Things in a kitchen,1,Air fryer,air fryer,1,0,1,Q053::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q053,A,Things in a kitchen,2,Antique bread press,antique bread press,1,0,1,Q053::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q053,A,Things in a kitchen,3,Aromatic  potassium carbonate,aromatic potassium carbonate,0,0,0,Q053::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q053,A,Things in a kitchen,4,Anemometer,anemometer,0,0,0,Q053::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q054,B,Singers,0,Barbara Cook,barbara cook,1,0,1,Q054::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q054,B,Singers,1,Betsy Reed,betsy reed,0,0,0,Q054::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q054,B,Singers,2,Barbara Dickson,barbara dickson,0,0,0,Q054::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q054,B,Singers,3,Betty Davis,betty davis,1,0,1,Q054::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q054,B,Singers,4,Beatrice Bailey,beatrice bailey,0,0,0,Q054::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q055,C,Desserts,0,Cranberry Meringue,cranberry meringue,0,0,0,Q055::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q055,C,Desserts,1,Chocolate-covered crickets,chocolate-covered crickets,0,0,0,Q055::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q055,C,Desserts,2,Creme Catalan,creme catalan,1,0,1,Q055::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q055,C,Desserts,3,Coconutz,coconutz,0,0,0,Q055::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q055,C,Desserts,4,Custardtart,custardtart,1,0,1,Q055::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q056,D,Plants,0,Drosophyllum juniperinum,drosophyllum juniperinum,1,0,1,Q056::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q056,D,Plants,1,Devil's Claw,devil's claw,1,0,1,Q056::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q056,D,Plants,2,Dipsace<bos>importana,dipsace<bos>importana,0,0,0,Q056::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q056,D,Plants,3,Datisca procumbens,datisca procumbens,1,0,1,Q056::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q056,D,Plants,4,Dioxydens,dioxydens,0,0,0,Q056::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q057,E,Companies,0,Eldorado Resorts,eldorado resorts,0,0,0,Q057::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q057,E,Companies,1,Ecovacs,ecovacs,1,0,1,Q057::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q057,E,Companies,2,Elysian Capital,elysian capital,1,0,1,Q057::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q057,E,Companies,3,Escorial,escorial,0,0,0,Q057::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q057,E,Companies,4,Ebonite Industries,ebonite industries,0,0,0,Q057::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q058,F,Movie characters,0,Felix Unger,felix unger,1,0,1,Q058::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q058,F,Movie characters,1,Finny The Penguin,finny the penguin,0,0,0,Q058::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q058,F,Movie characters,2,Frankenstein's Monster,frankenstein's monster,1,0,1,Q058::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q058,F,Movie characters,3,Franklin Delano Jones,franklin delano jones,0,0,0,Q058::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q058,F,Movie characters,4,Ferdinand's Frog,ferdinand's frog,0,0,0,Q058::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q059,G,Things in a toolbox,0,graphite grease,graphite grease,1,0,1,Q059::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q059,G,Things in a toolbox,1,Gravitas level gauge,gravitas level gauge,0,0,0,Q059::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q059,G,Things in a toolbox,2,Gauge,gauge,1,0,1,Q059::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q059,G,Things in a toolbox,3,Grain Gauge,grain gauge,0,0,0,Q059::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q059,G,Things in a toolbox,4,Gadget screwdriver,gadget screwdriver,0,0,0,Q059::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q060,H,Countries,0,Heardesh,heardesh,0,0,0,Q060::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q060,H,Countries,1,Haute-Koto,haute-koto,0,0,0,Q060::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q060,H,Countries,2,Haiti,haiti,1,1,0,Q060::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q060,H,Countries,3,Hautang,hautang,0,0,0,Q060::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q060,H,Countries,4,Humayun,humayun,0,0,0,Q060::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q061,I,Musical artists,0,Ike Quebec,ike quebec,0,0,0,Q061::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q061,I,Musical artists,1,Ilsa Van Den Busschere,ilsa van den busschere,0,0,0,Q061::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q061,I,Musical artists,2,Iris De Wolfe,iris de wolfe,0,0,0,Q061::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q061,I,Musical artists,3,Icky & The Boogeymen,icky & the boogeymen,0,0,0,Q061::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q061,I,Musical artists,4,Irene Cara,irene cara,1,0,1,Q061::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q062,J,Things in a refrigerator,0,Jarred lemon juice,jarred lemon juice,1,0,1,Q062::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q062,J,Things in a refrigerator,1,Juice jar,juice jar,1,0,1,Q062::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q062,J,Things in a refrigerator,2,Jack-o'-lantern relish,jack-o'-lantern relish,0,0,0,Q062::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q062,J,Things in a refrigerator,3,Jigger,jigger,0,0,0,Q062::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q062,J,Things in a refrigerator,4,Jupiter,jupiter,0,0,0,Q062::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q063,K,Cities,0,Kota Kinabalu,kota kinabalu,1,0,1,Q063::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q063,K,Cities,1,Katanga,katanga,0,0,0,Q063::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q063,K,Cities,2,Karratha,karratha,1,0,1,Q063::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q063,K,Cities,3,Kratie,kratie,1,0,1,Q063::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q063,K,Cities,4,Ker التشुव,ker,0,0,0,Q063::4
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q064,L,Things in a library,0,Labyrinth screen,labyrinth screen,0,0,0,Q064::0
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q064,L,Things in a library,1,Library lullaby,library lullaby,0,0,0,Q064::1
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q064,L,Things in a library,2,Librarian's log,librarian's log,0,0,0,Q064::2
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q064,L,Things in a library,3,Ligature,ligature,0,0,0,Q064::3
+part3_selfplay_outputs/self_obscure_20_gemma_Player_2_Obscure.csv,self_obscure_20_gemma_Player_2_Obscure,Q064,L,Things in a library,4,Lepidoptera index,lepidoptera index,0,0,0,Q064::4

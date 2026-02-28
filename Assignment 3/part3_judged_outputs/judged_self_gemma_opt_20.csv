@@ -1,0 +1,641 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q001,A,Animals,0,Aardvark,aardvark,1,0,1,Q001::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q001,A,Animals,1,Anteater,anteater,1,0,1,Q001::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q001,A,Animals,2,Albatross,albatross,1,0,1,Q001::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q001,A,Animals,3,Ants,ants,1,0,1,Q001::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q001,A,Animals,4,Armadillo,armadillo,1,0,1,Q001::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q002,A,Jobs,0,accountant,accountant,1,0,1,Q002::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q002,A,Jobs,1,Actuary,actuary,1,0,1,Q002::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q002,A,Jobs,2,Acupuncturist,acupuncturist,1,0,1,Q002::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q002,A,Jobs,3,Accountant,accountant,1,0,1,Q002::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q002,A,Jobs,4,AerobaticInstructor,aerobaticinstructor,0,0,0,Q002::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q003,B,Fruits,0,banana,banana,1,0,1,Q003::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q003,B,Fruits,1,Blackberries,blackberries,1,0,1,Q003::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q003,B,Fruits,2,Banana,banana,1,1,0,Q003::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q003,B,Fruits,3,Blueberry,blueberry,1,0,1,Q003::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q003,B,Fruits,4,bananas,bananas,1,0,1,Q003::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q004,B,Things that are red,0,Baseball,baseball,0,0,0,Q004::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q004,B,Things that are red,1,Basketball,basketball,0,0,0,Q004::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q004,B,Things that are red,2,Beanbag,beanbag,0,0,0,Q004::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q004,B,Things that are red,3,Baseball,baseball,0,0,0,Q004::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q004,B,Things that are red,4,Beanbag,beanbag,0,0,0,Q004::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q005,C,Countries,0,Cambodia,cambodia,1,0,1,Q005::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q005,C,Countries,1,Cameroon,cameroon,1,1,0,Q005::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q005,C,Countries,2,Cuba,cuba,1,0,1,Q005::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q005,C,Countries,3,Cameroon,cameroon,1,1,0,Q005::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q005,C,Countries,4,Cambodia,cambodia,1,0,1,Q005::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q006,C,Board games,0,Chess,chess,1,0,1,Q006::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q006,C,Board games,1,Candyland,candyland,1,0,1,Q006::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q006,C,Board games,2,Chess,chess,1,0,1,Q006::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q006,C,Board games,3,Checkers,checkers,1,0,1,Q006::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q006,C,Board games,4,Carcassonne,carcassonne,1,0,1,Q006::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q007,D,Musical instruments,0,Drums,drums,1,1,0,Q007::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q007,D,Musical instruments,1,D mandolin,d mandolin,0,0,0,Q007::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q007,D,Musical instruments,2,Didjeridoo,didjeridoo,1,0,1,Q007::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q007,D,Musical instruments,3,Drums,drums,1,0,1,Q007::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q007,D,Musical instruments,4,Didgeridoo,didgeridoo,1,1,0,Q007::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q008,D,Things in a bathroom,0,Drawer,drawer,1,0,1,Q008::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q008,D,Things in a bathroom,1,Drainer,drainer,1,0,1,Q008::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q008,D,Things in a bathroom,2,Doorway,doorway,0,0,0,Q008::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q008,D,Things in a bathroom,3,Toothbrush,toothbrush,0,0,0,Q008::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q008,D,Things in a bathroom,4,Toothbrush,toothbrush,0,0,0,Q008::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q009,E,Sports,0,e-sports,e-sports,1,0,1,Q009::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q009,E,Sports,3,equestrian,equestrian,1,1,0,Q009::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q009,E,Sports,4,Equestrian,equestrian,1,1,0,Q009::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q010,E,Movie titles,0,Eragon,eragon,1,1,0,Q010::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q010,E,Movie titles,1,Edward Scissorhands,edward scissorhands,1,0,1,Q010::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q010,E,Movie titles,2,E.T.  the extraterrestrial,e.t. the extraterrestrial,1,0,1,Q010::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q010,E,Movie titles,3,Edward Scissorhands,edward scissorhands,1,1,0,Q010::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q010,E,Movie titles,4,E.T. the Extra-Terrestrial,e.t. the extra-terrestrial,1,0,1,Q010::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q011,F,Fish,0,Fluke,fluke,1,0,1,Q011::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q011,F,Fish,1,Fluke,fluke,1,0,1,Q011::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q011,F,Fish,2,Fantail,fantail,0,0,0,Q011::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q011,F,Fish,3,Filefish,filefish,1,0,1,Q011::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q011,F,Fish,4,Fantail,fantail,0,0,0,Q011::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q012,F,Things in a backpack,0,flashlight,flashlight,1,0,1,Q012::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q012,F,Things in a backpack,1,Flashlight,flashlight,1,0,1,Q012::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q012,F,Things in a backpack,2,Folders,folders,1,0,1,Q012::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q012,F,Things in a backpack,3,Fanny pack,fanny pack,0,0,0,Q012::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q012,F,Things in a backpack,4,folder,folder,1,0,1,Q012::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q014,G,Foods,0,Gummy worms,gummy worms,1,0,1,Q014::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q014,G,Foods,1,grapefruit,grapefruit,1,1,0,Q014::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q014,G,Foods,2,Gazpacho,gazpacho,1,0,1,Q014::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q014,G,Foods,3,Gumbo,gumbo,1,0,1,Q014::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q014,G,Foods,4,Grapes,grapes,1,0,1,Q014::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q015,H,Famous scientists,0,Heroin,heroin,0,0,0,Q015::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q015,H,Famous scientists,1,Herod,herod,0,0,0,Q015::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q015,H,Famous scientists,2,Herschel,herschel,0,0,0,Q015::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q015,H,Famous scientists,3,Henry Moseley,henry moseley,1,0,1,Q015::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q015,H,Famous scientists,4,Hans Christian Anderson,hans christian anderson,0,0,0,Q015::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q016,H,Things at the beach,0,Hulahoop,hulahoop,1,0,1,Q016::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q016,H,Things at the beach,1,Hotel,hotel,0,0,0,Q016::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q016,H,Things at the beach,2,Harbor,harbor,0,0,0,Q016::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q016,H,Things at the beach,3,Hydrant,hydrant,0,0,0,Q016::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q016,H,Things at the beach,4,Hammock,hammock,1,0,1,Q016::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q017,I,Cities,0,Istanbul,istanbul,1,1,0,Q017::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q017,I,Cities,1,Istanbul,istanbul,1,1,0,Q017::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q017,I,Cities,2,Istanbul,istanbul,1,0,1,Q017::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q017,I,Cities,3,Istanbul,istanbul,1,1,0,Q017::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q017,I,Cities,4,Indianapolis,indianapolis,1,0,1,Q017::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q018,I,Things in a classroom,0,Indicator,indicator,1,0,1,Q018::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q018,I,Things in a classroom,1,Ink dispenser,ink dispenser,1,0,1,Q018::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q018,I,Things in a classroom,2,Inspector,inspector,0,0,0,Q018::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q018,I,Things in a classroom,3,Inspector,inspector,0,0,0,Q018::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q018,I,Things in a classroom,4,impresora,impresora,1,1,0,Q018::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q019,J,Car brands,0,Jeep,jeep,1,0,1,Q019::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q019,J,Car brands,2,jaguar,jaguar,1,0,1,Q019::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q019,J,Car brands,3,jaguar,jaguar,1,1,0,Q019::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q019,J,Car brands,4,Jaguar,jaguar,1,1,0,Q019::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q020,J,Video game titles,0,Jak and Daxter,jak and daxter,1,0,1,Q020::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q020,J,Video game titles,1,Jet Set Radio,jet set radio,1,0,1,Q020::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q020,J,Video game titles,2,Jak and Daxter,jak and daxter,1,1,0,Q020::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q020,J,Video game titles,3,jackbox party packs,jackbox party packs,0,0,0,Q020::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q020,J,Video game titles,4,jackalsandapes,jackalsandapes,0,0,0,Q020::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q021,K,Superheroes,0,Knightfall,knightfall,0,0,0,Q021::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q021,K,Superheroes,1,Kilowatts,kilowatts,0,0,0,Q021::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q021,K,Superheroes,2,Knull,knull,0,0,0,Q021::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q021,K,Superheroes,3,Kraven,kraven,1,0,1,Q021::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q021,K,Superheroes,4,Karacter,karacter,0,0,0,Q021::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q022,K,Things in a grocery store,0,Kale,kale,1,0,1,Q022::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q022,K,Things in a grocery store,1,Kaleidoscope,kaleidoscope,0,0,0,Q022::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q022,K,Things in a grocery store,2,Kidney beans,kidney beans,1,0,1,Q022::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q022,K,Things in a grocery store,3,Ketchup,ketchup,1,0,1,Q022::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q022,K,Things in a grocery store,4,Kale,kale,1,0,1,Q022::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q023,L,Dog breeds,0,Labrador,labrador,1,0,1,Q023::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q023,L,Dog breeds,1,Labrador,labrador,1,0,1,Q023::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q023,L,Dog breeds,2,Labrador,labrador,1,0,1,Q023::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q023,L,Dog breeds,3,Labrador,labrador,1,0,1,Q023::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q023,L,Dog breeds,4,Labrador,labrador,1,1,0,Q023::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q024,L,Books,0,Leaves of Glass,leaves of glass,0,0,0,Q024::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q024,L,Books,1,Leavetakings,leavetakings,1,0,1,Q024::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q024,L,Books,2,LeavesOfEarth,leavesofearth,0,0,0,Q024::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q024,L,Books,3,Leave me Alone,leave me alone,0,0,0,Q024::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q024,L,Books,4,little women,little women,1,0,1,Q024::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q025,M,Languages,0,Mandarin,mandarin,1,0,1,Q025::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q025,M,Languages,1,Maori,maori,1,0,1,Q025::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q025,M,Languages,2,Marathi,marathi,1,0,1,Q025::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q025,M,Languages,3,Mandarin,mandarin,1,1,0,Q025::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q025,M,Languages,4,Maltese,maltese,1,0,1,Q025::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q026,M,Clothing items,0,Man's,man's,0,0,0,Q026::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q026,M,Clothing items,1,Mule,mule,1,0,1,Q026::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q026,M,Clothing items,2,Mule,mule,1,0,1,Q026::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q026,M,Clothing items,3,Mittens,mittens,1,0,1,Q026::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q026,M,Clothing items,4,sobretudo,sobretudo,1,0,1,Q026::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q027,N,Birds,0,Northern Flicker,northern flicker,1,0,1,Q027::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q027,N,Birds,1,Nighthawk,nighthawk,1,0,1,Q027::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q027,N,Birds,2,Nightingale,nightingale,1,1,0,Q027::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q027,N,Birds,3,Nightingale,nightingale,1,0,1,Q027::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q027,N,Birds,4,Nightingale,nightingale,1,1,0,Q027::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q028,N,Things in a hospital,0,NURSE,nurse,1,0,1,Q028::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q028,N,Things in a hospital,1,Neon,neon,0,0,0,Q028::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q028,N,Things in a hospital,2,Nightlight,nightlight,0,0,0,Q028::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q028,N,Things in a hospital,3,Nephron,nephron,0,0,0,Q028::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q028,N,Things in a hospital,4,Notebook,notebook,0,0,0,Q028::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q029,O,Companies,0,Oracle,oracle,1,0,1,Q029::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q029,O,Companies,1,Old Navy,old navy,1,0,1,Q029::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q029,O,Companies,2,Oberkommandant,oberkommandant,0,0,0,Q029::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q029,O,Companies,3,Olapic,olapic,1,0,1,Q029::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q029,O,Companies,4,Oriental Trading Company,oriental trading company,1,0,1,Q029::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q030,O,Things in the sky,0,Observatory,observatory,1,0,1,Q030::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q030,O,Things in the sky,1,Ozone,ozone,0,0,0,Q030::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q030,O,Things in the sky,2,Oort Cloud,oort cloud,1,0,1,Q030::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q030,O,Things in the sky,3,Oceans,oceans,0,0,0,Q030::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q030,O,Things in the sky,4,Ozone,ozone,0,0,0,Q030::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q031,P,Vegetables,0,Pumpkin,pumpkin,1,0,1,Q031::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q031,P,Vegetables,1,Potatoes,potatoes,1,0,1,Q031::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q031,P,Vegetables,2,Parsnip,parsnip,1,0,1,Q031::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q031,P,Vegetables,3,Peppers,peppers,1,0,1,Q031::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q031,P,Vegetables,4,Parsnip,parsnip,1,0,1,Q031::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q032,P,Historical figures,0,Parrish,parrish,0,0,0,Q032::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q032,P,Historical figures,1,Pollack,pollack,0,0,0,Q032::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q032,P,Historical figures,2,pershing,pershing,1,0,1,Q032::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q032,P,Historical figures,3,Pericles,pericles,1,0,1,Q032::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q032,P,Historical figures,4,poleon,poleon,0,0,0,Q032::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q033,Q,Words in English,0,Qualicum,qualicum,0,0,0,Q033::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q033,Q,Words in English,1,Queue,queue,1,0,1,Q033::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q033,Q,Words in English,2,Quarantine,quarantine,1,0,1,Q033::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q033,Q,Words in English,3,Quinoa,quinoa,1,0,1,Q033::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q033,Q,Words in English,4,Quarter,quarter,1,0,1,Q033::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q034,Q,Fictional characters,0,Queen,queen,0,0,0,Q034::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q034,Q,Fictional characters,1,Queenie,queenie,1,0,1,Q034::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q034,Q,Fictional characters,2,queen  of hearts,queen of hearts,1,0,1,Q034::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q034,Q,Fictional characters,3,Queen,queen,0,0,0,Q034::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q034,Q,Fictional characters,4,Queen elizabeth,queen elizabeth,0,0,0,Q034::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q035,R,Songs,0,Rapture,rapture,0,0,0,Q035::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q035,R,Songs,1,Riverdance,riverdance,0,0,0,Q035::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q035,R,Songs,2,Rocketman,rocketman,1,0,1,Q035::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q035,R,Songs,3,Radioactive,radioactive,1,0,1,Q035::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q035,R,Songs,4,Rocket Man,rocket man,1,0,1,Q035::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q036,R,Tools,0,Reels,reels,0,0,0,Q036::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q036,R,Tools,1,Rammer,rammer,1,0,1,Q036::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q036,R,Tools,2,Revolver,revolver,0,0,0,Q036::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q036,R,Tools,3,Router,router,1,0,1,Q036::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q036,R,Tools,4,Ratchet,ratchet,1,0,1,Q036::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q037,S,Animals,0,Snake,snake,1,0,1,Q037::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q037,S,Animals,1,Snake,snake,1,1,0,Q037::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q037,S,Animals,2,Snapper,snapper,1,0,1,Q037::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q037,S,Animals,3,Salamander,salamander,1,0,1,Q037::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q037,S,Animals,4,Seal,seal,1,0,1,Q037::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q038,S,Things in an office,2,Stapler,stapler,1,1,0,Q038::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q038,S,Things in an office,4,stapler,stapler,1,1,0,Q038::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q039,T,Countries,0,Thailand,thailand,1,0,1,Q039::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q039,T,Countries,1,Turkey,turkey,1,0,1,Q039::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q039,T,Countries,2,Thailand,thailand,1,1,0,Q039::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q039,T,Countries,3,Tanzania,tanzania,1,0,1,Q039::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q039,T,Countries,4,Thailand,thailand,1,0,1,Q039::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q040,T,TV shows,0,That 70s show,that 70s show,1,0,1,Q040::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q040,T,TV shows,1,the walking dead,the walking dead,1,0,1,Q040::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q040,T,TV shows,2,The Walking Dead,the walking dead,1,0,1,Q040::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q040,T,TV shows,3,The twilight zone,the twilight zone,1,0,1,Q040::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q040,T,TV shows,4,The Walking Dead,the walking dead,1,0,1,Q040::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q041,U,U.S. colleges,0,Ucla,ucla,1,0,1,Q041::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q041,U,U.S. colleges,1,University of utah,university of utah,1,1,0,Q041::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q041,U,U.S. colleges,2,University of Utah,university of utah,1,1,0,Q041::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q041,U,U.S. colleges,3,UNIVERSITY OF UTAH,university of utah,1,0,1,Q041::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q041,U,U.S. colleges,4,University utah,university utah,1,0,1,Q041::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q042,U,Things in a garage,0,Upholstery,upholstery,0,0,0,Q042::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q042,U,Things in a garage,1,Utility,utility,1,0,1,Q042::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q042,U,Things in a garage,2,Unicycle,unicycle,1,0,1,Q042::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q042,U,Things in a garage,3,Unicycle,unicycle,1,1,0,Q042::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q042,U,Things in a garage,4,Umbrella,umbrella,0,0,0,Q042::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q043,V,Jobs,0,Vandal,vandal,0,0,0,Q043::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q043,V,Jobs,1,Validator,validator,1,0,1,Q043::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q043,V,Jobs,2,Veterinarian,veterinarian,1,0,1,Q043::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q043,V,Jobs,3,Vandalism,vandalism,0,0,0,Q043::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q043,V,Jobs,4,Video Game Designer,video game designer,1,0,1,Q043::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q044,V,Things you wear,0,Vest,vest,1,0,1,Q044::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q044,V,Things you wear,1,Vibrams,vibrams,1,0,1,Q044::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q044,V,Things you wear,2,Valentino shoes,valentino shoes,1,0,1,Q044::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q044,V,Things you wear,3,Vans shoes,vans shoes,1,0,1,Q044::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q044,V,Things you wear,4,Vests,vests,1,0,1,Q044::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q045,W,Cities,0,Warsaw,warsaw,1,1,0,Q045::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q045,W,Cities,1,Wellington,wellington,1,1,0,Q045::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q045,W,Cities,2,Warsaw,warsaw,1,1,0,Q045::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q045,W,Cities,3,Warsaw,warsaw,1,1,0,Q045::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q045,W,Cities,4,Windhoek,windhoek,1,0,1,Q045::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q046,W,Things in a park,0,Willow tree,willow tree,1,0,1,Q046::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q046,W,Things in a park,1,Waterworks,waterworks,1,0,1,Q046::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q046,W,Things in a park,2,Swingset,swingset,0,0,0,Q046::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q046,W,Things in a park,3,Waterfountain,waterfountain,1,0,1,Q046::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q046,W,Things in a park,4,Walking path,walking path,1,0,1,Q046::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q047,X,Brands,0,XEROX,xerox,1,0,1,Q047::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q047,X,Brands,1,Xerox,xerox,1,0,1,Q047::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q047,X,Brands,2,Xerox,xerox,1,1,0,Q047::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q047,X,Brands,3,Xerox,xerox,1,1,0,Q047::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q047,X,Brands,4,Xbox,xbox,1,0,1,Q047::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q048,X,Words in English,0,Xerox,xerox,1,0,1,Q048::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q048,X,Words in English,1,xenial,xenial,1,0,1,Q048::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q048,X,Words in English,2,Xerox,xerox,1,0,1,Q048::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q048,X,Words in English,3,Xenon,xenon,1,1,0,Q048::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q048,X,Words in English,4,xenon,xenon,1,1,0,Q048::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q049,Y,Foods,1,Yeast,yeast,1,0,1,Q049::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q049,Y,Foods,2,yogurt,yogurt,1,1,0,Q049::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q049,Y,Foods,3,yam,yam,1,0,1,Q049::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q049,Y,Foods,4,Yorkshire pudding,yorkshire pudding,1,0,1,Q049::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q050,Y,Things at a party,0,yammering,yammering,0,0,0,Q050::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q050,Y,Things at a party,1,Yarn,yarn,0,0,0,Q050::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q050,Y,Things at a party,2,Yoyo,yoyo,1,0,1,Q050::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q050,Y,Things at a party,3,Yogurt,yogurt,0,0,0,Q050::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q050,Y,Things at a party,4,Yodeling,yodeling,0,0,0,Q050::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q051,Z,Animals,1,Zephyr,zephyr,0,0,0,Q051::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q051,Z,Animals,2,Zebra,zebra,1,1,0,Q051::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q052,Z,Things in a zoo,0,zebra,zebra,1,1,0,Q052::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q052,Z,Things in a zoo,1,Zebras,zebras,1,0,1,Q052::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q052,Z,Things in a zoo,2,zebra,zebra,1,1,0,Q052::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q052,Z,Things in a zoo,3,Zebra,zebra,1,0,1,Q052::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q052,Z,Things in a zoo,4,Zebras,zebras,1,0,1,Q052::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q053,A,Things in a kitchen,0,Apron,apron,1,0,1,Q053::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q053,A,Things in a kitchen,1,Apple,apple,0,0,0,Q053::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q053,A,Things in a kitchen,2,Anchor,anchor,0,0,0,Q053::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q053,A,Things in a kitchen,3,Agitator,agitator,1,0,1,Q053::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q053,A,Things in a kitchen,4,A knife,a knife,0,0,0,Q053::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q054,B,Singers,0,beyoncé,beyonc,0,0,0,Q054::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q054,B,Singers,1,Beyonce,beyonce,1,0,1,Q054::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q054,B,Singers,2,Billie,billie,1,0,1,Q054::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q054,B,Singers,3,barry white,barry white,1,0,1,Q054::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q054,B,Singers,4,Barbra Streisand,barbra streisand,1,0,1,Q054::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q055,C,Desserts,0,Custard,custard,1,0,1,Q055::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q055,C,Desserts,1,cookie,cookie,1,0,1,Q055::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q055,C,Desserts,2,Cookie,cookie,1,0,1,Q055::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q055,C,Desserts,3,Chocolate,chocolate,1,0,1,Q055::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q055,C,Desserts,4,Cheesecake,cheesecake,1,0,1,Q055::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q056,D,Plants,0,Durian,durian,1,0,1,Q056::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q056,D,Plants,1,Datura,datura,1,0,1,Q056::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q056,D,Plants,2,DANDELION,dandelion,1,0,1,Q056::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q056,D,Plants,3,Dandelion,dandelion,1,1,0,Q056::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q056,D,Plants,4,Daikon,daikon,1,1,0,Q056::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q057,E,Companies,0,Expedia,expedia,1,0,1,Q057::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q057,E,Companies,1,eharmony,eharmony,1,0,1,Q057::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q057,E,Companies,2,ebay,ebay,1,1,0,Q057::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q057,E,Companies,3,ebay,ebay,1,0,1,Q057::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q057,E,Companies,4,ebay,ebay,1,0,1,Q057::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q058,F,Movie characters,0,Freddy Krueger,freddy krueger,1,0,1,Q058::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q058,F,Movie characters,1,Florence Pugh,florence pugh,0,0,0,Q058::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q058,F,Movie characters,2,Forrest,forrest,1,0,1,Q058::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q058,F,Movie characters,3,Frodo Baggins,frodo baggins,1,0,1,Q058::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q058,F,Movie characters,4,Fight club,fight club,0,0,0,Q058::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q059,G,Things in a toolbox,0,Grapplinghook,grapplinghook,1,0,1,Q059::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q059,G,Things in a toolbox,1,Gauge,gauge,1,0,1,Q059::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q059,G,Things in a toolbox,2,Grizzly wrench,grizzly wrench,0,0,0,Q059::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q059,G,Things in a toolbox,3,Grip,grip,0,0,0,Q059::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q059,G,Things in a toolbox,4,Grip,grip,0,0,0,Q059::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q060,H,Countries,0,Haiti,haiti,1,0,1,Q060::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q060,H,Countries,1,Haiti,haiti,1,0,1,Q060::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q060,H,Countries,2,Honduras,honduras,1,0,1,Q060::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q060,H,Countries,3,Haiti,haiti,1,1,0,Q060::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q060,H,Countries,4,Haiti,haiti,1,0,1,Q060::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q061,I,Musical artists,0,Indigo Girls,indigo girls,1,0,1,Q061::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q061,I,Musical artists,1,Iris Reyes,iris reyes,0,0,0,Q061::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q061,I,Musical artists,2,Iggy,iggy,1,0,1,Q061::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q061,I,Musical artists,3,Indigo girls,indigo girls,1,0,1,Q061::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q061,I,Musical artists,4,Irene,irene,0,0,0,Q061::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q062,J,Things in a refrigerator,0,Jell y,jell y,1,0,1,Q062::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q062,J,Things in a refrigerator,1,Jello,jello,1,1,0,Q062::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q062,J,Things in a refrigerator,2,Jelly beans,jelly beans,0,0,0,Q062::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q062,J,Things in a refrigerator,3,Juice,juice,1,0,1,Q062::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q062,J,Things in a refrigerator,4,Jarred olives,jarred olives,1,0,1,Q062::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q063,K,Cities,0,Kabul,kabul,1,0,1,Q063::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q063,K,Cities,1,Kathmandu,kathmandu,1,0,1,Q063::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q063,K,Cities,2,Katmandu,katmandu,1,0,1,Q063::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q063,K,Cities,3,Kabul,kabul,1,1,0,Q063::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q063,K,Cities,4,Kazan,kazan,1,0,1,Q063::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q064,L,Things in a library,0,library lantern,library lantern,0,0,0,Q064::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q064,L,Things in a library,1,Librarian,librarian,1,0,1,Q064::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q064,L,Things in a library,2,Lawyers,lawyers,0,0,0,Q064::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q064,L,Things in a library,3,Lending collection,lending collection,1,0,1,Q064::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,self_opt_20_gemma_Player_1,Q064,L,Things in a library,4,Leases,leases,0,0,0,Q064::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q001,A,Animals,0,Ape,ape,1,0,1,Q001::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q001,A,Animals,1,Aardvark,aardvark,1,0,1,Q001::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q001,A,Animals,2,Alpaca,alpaca,1,0,1,Q001::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q001,A,Animals,3,Alpaca,alpaca,1,0,1,Q001::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q001,A,Animals,4,Alligator,alligator,1,0,1,Q001::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q002,A,Jobs,0,Architect,architect,1,0,1,Q002::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q002,A,Jobs,1,Astronomer,astronomer,1,0,1,Q002::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q002,A,Jobs,2,Astronaut,astronaut,1,0,1,Q002::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q002,A,Jobs,3,Astronaut,astronaut,1,0,1,Q002::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q002,A,Jobs,4,Architect,architect,1,0,1,Q002::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q003,B,Fruits,0,Blueberry,blueberry,1,0,1,Q003::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q003,B,Fruits,1,Blackberry,blackberry,1,0,1,Q003::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q003,B,Fruits,2,Banana,banana,1,1,0,Q003::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q003,B,Fruits,3,Banana,banana,1,0,1,Q003::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q003,B,Fruits,4,Blackberry,blackberry,1,0,1,Q003::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q004,B,Things that are red,0,Barbecue,barbecue,0,0,0,Q004::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q004,B,Things that are red,1,banana,banana,0,0,0,Q004::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q004,B,Things that are red,2,Ball,ball,0,0,0,Q004::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q004,B,Things that are red,3,banana,banana,0,0,0,Q004::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q004,B,Things that are red,4,Beret,beret,0,0,0,Q004::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q005,C,Countries,0,China,china,1,0,1,Q005::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q005,C,Countries,1,Cameroon,cameroon,1,1,0,Q005::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q005,C,Countries,2,Cameroon,cameroon,1,0,1,Q005::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q005,C,Countries,3,Cameroon,cameroon,1,1,0,Q005::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q005,C,Countries,4,Cameroon,cameroon,1,0,1,Q005::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q006,C,Board games,0,Cluedo,cluedo,1,0,1,Q006::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q006,C,Board games,1,Cluedo,cluedo,1,0,1,Q006::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q006,C,Board games,2,Clue,clue,1,0,1,Q006::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q006,C,Board games,3,Chess,chess,1,0,1,Q006::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q006,C,Board games,4,CandyLand,candyland,1,0,1,Q006::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q007,D,Musical instruments,0,Drums,drums,1,1,0,Q007::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q007,D,Musical instruments,1,Doublas,doublas,0,0,0,Q007::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q007,D,Musical instruments,2,Darimba,darimba,0,0,0,Q007::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q007,D,Musical instruments,3,Didjeridoo,didjeridoo,1,0,1,Q007::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q007,D,Musical instruments,4,Didgeridoo,didgeridoo,1,1,0,Q007::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q008,D,Things in a bathroom,0,drainage,drainage,0,0,0,Q008::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q008,D,Things in a bathroom,1,Disposable,disposable,0,0,0,Q008::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q008,D,Things in a bathroom,2,Drain,drain,1,0,1,Q008::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q008,D,Things in a bathroom,3,Drainer,drainer,1,0,1,Q008::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q008,D,Things in a bathroom,4,Drain,drain,1,0,1,Q008::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q009,E,Sports,0,equestrian,equestrian,1,0,1,Q009::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q009,E,Sports,2,Equestrian,equestrian,1,1,0,Q009::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q009,E,Sports,3,Equestrian,equestrian,1,1,0,Q009::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q009,E,Sports,4,equestrian,equestrian,1,1,0,Q009::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q010,E,Movie titles,0,Eragon,eragon,1,1,0,Q010::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q010,E,Movie titles,1,Eternal sunshine of the spotless mind,eternal sunshine of the spotless mind,1,0,1,Q010::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q010,E,Movie titles,2,Edward Scissorhands,edward scissorhands,1,0,1,Q010::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q010,E,Movie titles,3,Edward Scissorhands,edward scissorhands,1,1,0,Q010::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q010,E,Movie titles,4,Eragon,eragon,1,0,1,Q010::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q011,F,Fish,0,Fishes,fishes,0,0,0,Q011::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q011,F,Fish,1,Fantail,fantail,0,0,0,Q011::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q011,F,Fish,2,Fugu,fugu,1,0,1,Q011::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q011,F,Fish,3,Fluke,fluke,1,0,1,Q011::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q011,F,Fish,4,Flounder,flounder,1,0,1,Q011::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q012,F,Things in a backpack,0,Frisbee,frisbee,1,0,1,Q012::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q012,F,Things in a backpack,1,Fanny,fanny,0,0,0,Q012::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q012,F,Things in a backpack,2,Fanny pack,fanny pack,0,0,0,Q012::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q012,F,Things in a backpack,3,Fanny,fanny,0,0,0,Q012::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q012,F,Things in a backpack,4,Flashlight,flashlight,1,0,1,Q012::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q013,G,U.S. states,2,Georgia,georgia,1,1,0,Q013::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q013,G,U.S. states,3,Georgia,georgia,1,1,0,Q013::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q013,G,U.S. states,4,Georgia,georgia,1,1,0,Q013::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q014,G,Foods,0,Grape,grape,1,0,1,Q014::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q014,G,Foods,1,Grapefruit,grapefruit,1,1,0,Q014::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q014,G,Foods,2,Gummi bears,gummi bears,1,0,1,Q014::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q014,G,Foods,3,Gourmet,gourmet,0,0,0,Q014::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q014,G,Foods,4,Gourmet popcorn,gourmet popcorn,1,0,1,Q014::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q015,H,Famous scientists,0,Henrietta L. Webb,henrietta l. webb,0,0,0,Q015::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q015,H,Famous scientists,1,Hegel,hegel,0,0,0,Q015::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q015,H,Famous scientists,2,Higgs,higgs,1,0,1,Q015::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q015,H,Famous scientists,3,Hershel Hertzsprung,hershel hertzsprung,0,0,0,Q015::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q015,H,Famous scientists,4,Herostratus,herostratus,0,0,0,Q015::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q016,H,Things at the beach,0,Hobnob,hobnob,0,0,0,Q016::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q016,H,Things at the beach,1,Hemisphere,hemisphere,0,0,0,Q016::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q016,H,Things at the beach,2,Hose,hose,1,0,1,Q016::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q016,H,Things at the beach,3,Horseshoe,horseshoe,0,0,0,Q016::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q016,H,Things at the beach,4,Humbrella,humbrella,0,0,0,Q016::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q017,I,Cities,0,Istanbul,istanbul,1,1,0,Q017::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q017,I,Cities,1,Istanbul,istanbul,1,1,0,Q017::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q017,I,Cities,2,Iceland,iceland,0,0,0,Q017::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q017,I,Cities,3,Istanbul,istanbul,1,1,0,Q017::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q017,I,Cities,4,Istanbul,istanbul,1,0,1,Q017::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q018,I,Things in a classroom,0,Interactive whiteboard,interactive whiteboard,1,0,1,Q018::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q018,I,Things in a classroom,1,Inspector,inspector,0,0,0,Q018::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q018,I,Things in a classroom,2,i pad,i pad,1,0,1,Q018::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q018,I,Things in a classroom,3,Inspecting light,inspecting light,0,0,0,Q018::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q018,I,Things in a classroom,4,impresora,impresora,1,1,0,Q018::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q019,J,Car brands,0,Jaguar,jaguar,1,0,1,Q019::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q019,J,Car brands,2,Jeep,jeep,1,0,1,Q019::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q019,J,Car brands,3,jaguar,jaguar,1,1,0,Q019::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q019,J,Car brands,4,jaguar,jaguar,1,1,0,Q019::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q020,J,Video game titles,0,JetSetRadio,jetsetradio,1,0,1,Q020::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q020,J,Video game titles,1,jetpack joe,jetpack joe,0,0,0,Q020::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q020,J,Video game titles,2,Jak And Daxter,jak and daxter,1,1,0,Q020::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q020,J,Video game titles,3,Just Dance,just dance,1,0,1,Q020::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q020,J,Video game titles,4,jetset radio,jetset radio,1,0,1,Q020::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q021,K,Superheroes,0,Kilgharrah,kilgharrah,0,0,0,Q021::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q021,K,Superheroes,1,Katana,katana,0,0,0,Q021::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q021,K,Superheroes,2,Ka-Zar,ka-zar,1,0,1,Q021::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q021,K,Superheroes,3,Katanan,katanan,0,0,0,Q021::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q021,K,Superheroes,4,Kilow,kilow,0,0,0,Q021::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q022,K,Things in a grocery store,0,Kidney beans,kidney beans,1,0,1,Q022::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q022,K,Things in a grocery store,1,Kiwi,kiwi,1,0,1,Q022::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q022,K,Things in a grocery store,2,Kernel,kernel,1,0,1,Q022::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q022,K,Things in a grocery store,3,Kool Aid,kool aid,1,0,1,Q022::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q022,K,Things in a grocery store,4,Keto bread,keto bread,1,0,1,Q022::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q023,L,Dog breeds,0,Lakeland Terrier,lakeland terrier,1,0,1,Q023::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q023,L,Dog breeds,1,Lhasa Apso,lhasa apso,1,0,1,Q023::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q023,L,Dog breeds,2,LhasaAiredale,lhasaairedale,0,0,0,Q023::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q023,L,Dog breeds,3,LhasaApso,lhasaapso,1,0,1,Q023::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q023,L,Dog breeds,4,labrador,labrador,1,1,0,Q023::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q024,L,Books,0,Love letters,love letters,0,0,0,Q024::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q024,L,Books,1,LeavingNormal,leavingnormal,0,0,0,Q024::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q024,L,Books,2,Life's library,life's library,0,0,0,Q024::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q024,L,Books,3,Leaves,leaves,0,0,0,Q024::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q024,L,Books,4,laughter in writing,laughter in writing,0,0,0,Q024::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q025,M,Languages,0,Malay,malay,1,0,1,Q025::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q025,M,Languages,1,Malay,malay,1,0,1,Q025::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q025,M,Languages,2,Mandarin,mandarin,1,0,1,Q025::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q025,M,Languages,3,Mandarin,mandarin,1,1,0,Q025::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q025,M,Languages,4,Mandarin,mandarin,1,0,1,Q025::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q026,M,Clothing items,0,Monkeysuit,monkeysuit,0,0,0,Q026::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q026,M,Clothing items,1,Manners,manners,0,0,0,Q026::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q026,M,Clothing items,2,Mitts,mitts,1,0,1,Q026::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q026,M,Clothing items,3,Matches,matches,0,0,0,Q026::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q026,M,Clothing items,4,Matches,matches,0,0,0,Q026::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q027,N,Birds,0,Nightingale,nightingale,1,0,1,Q027::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q027,N,Birds,1,Nightingale,nightingale,1,0,1,Q027::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q027,N,Birds,2,Nightingale,nightingale,1,1,0,Q027::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q027,N,Birds,3,Northern cardinal,northern cardinal,1,0,1,Q027::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q027,N,Birds,4,Nightingale,nightingale,1,1,0,Q027::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q028,N,Things in a hospital,0,Nectar,nectar,0,0,0,Q028::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q028,N,Things in a hospital,1,Nursery,nursery,1,0,1,Q028::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q028,N,Things in a hospital,2,Neo,neo,0,0,0,Q028::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q028,N,Things in a hospital,3,Nurse,nurse,1,0,1,Q028::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q028,N,Things in a hospital,4,Needle,needle,1,0,1,Q028::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q029,O,Companies,0,Oriental Trading Company,oriental trading company,1,0,1,Q029::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q029,O,Companies,1,Olapic,olapic,1,0,1,Q029::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q029,O,Companies,2,Old Republic,old republic,1,0,1,Q029::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q029,O,Companies,3,Oculus,oculus,1,0,1,Q029::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q029,O,Companies,4,OtterBox,otterbox,1,0,1,Q029::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q030,O,Things in the sky,0,Oceans,oceans,0,0,0,Q030::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q030,O,Things in the sky,1,OCEAN,ocean,0,0,0,Q030::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q030,O,Things in the sky,2,Orion,orion,1,0,1,Q030::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q030,O,Things in the sky,3,Orion,orion,1,0,1,Q030::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q030,O,Things in the sky,4,OCEAN,ocean,0,0,0,Q030::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q031,P,Vegetables,0,Parsnips,parsnips,1,0,1,Q031::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q031,P,Vegetables,1,Parsnip,parsnip,1,0,1,Q031::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q031,P,Vegetables,2,Potatoes,potatoes,1,0,1,Q031::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q031,P,Vegetables,3,Parsnips,parsnips,1,0,1,Q031::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q031,P,Vegetables,4,Pumpkin,pumpkin,1,0,1,Q031::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q032,P,Historical figures,0,Pol Pot,pol pot,1,0,1,Q032::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q032,P,Historical figures,1,Pericles,pericles,1,0,1,Q032::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q032,P,Historical figures,2,Napoleon Bonaparte,napoleon bonaparte,1,0,1,Q032::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q032,P,Historical figures,3,pershing,pershing,1,0,1,Q032::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q032,P,Historical figures,4,patton,patton,1,0,1,Q032::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q033,Q,Words in English,0,quantum,quantum,1,0,1,Q033::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q033,Q,Words in English,1,Quartz,quartz,1,0,1,Q033::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q033,Q,Words in English,2,Qualifier,qualifier,1,0,1,Q033::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q033,Q,Words in English,3,Quick,quick,1,0,1,Q033::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q033,Q,Words in English,4,Quadrille,quadrille,1,0,1,Q033::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q034,Q,Fictional characters,0,QuentinTarantino,quentintarantino,0,0,0,Q034::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q034,Q,Fictional characters,1,Quill,quill,0,0,0,Q034::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q034,Q,Fictional characters,2,queen elisabeth,queen elisabeth,0,0,0,Q034::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q034,Q,Fictional characters,3,queen,queen,0,0,0,Q034::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q034,Q,Fictional characters,4,Quentin Tarantino,quentin tarantino,0,0,0,Q034::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q035,R,Songs,0,Red Rover,red rover,0,0,0,Q035::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q035,R,Songs,1,Redneck Jamboree,redneck jamboree,0,0,0,Q035::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q035,R,Songs,2,Ring Of Fire,ring of fire,1,0,1,Q035::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q035,R,Songs,3,Redbone,redbone,1,0,1,Q035::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q035,R,Songs,4,Rockaroundtheclock,rockaroundtheclock,0,0,0,Q035::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q036,R,Tools,0,Reciprocating,reciprocating,1,0,1,Q036::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q036,R,Tools,1,Reciprocating,reciprocating,1,0,1,Q036::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q036,R,Tools,2,Rack,rack,0,0,0,Q036::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q036,R,Tools,3,Reaper,reaper,1,0,1,Q036::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q036,R,Tools,4,Remote  control,remote control,0,0,0,Q036::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q037,S,Animals,0,Sloth,sloth,1,0,1,Q037::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q037,S,Animals,1,snake,snake,1,1,0,Q037::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q037,S,Animals,2,Snake,snake,1,0,1,Q037::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q037,S,Animals,3,Seal,seal,1,0,1,Q037::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q037,S,Animals,4,Seahorse,seahorse,1,0,1,Q037::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q038,S,Things in an office,2,Stapler,stapler,1,1,0,Q038::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q038,S,Things in an office,4,stapler,stapler,1,1,0,Q038::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q039,T,Countries,0,Tanzania,tanzania,1,0,1,Q039::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q039,T,Countries,1,Thailand,thailand,1,0,1,Q039::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q039,T,Countries,2,Thailand,thailand,1,1,0,Q039::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q039,T,Countries,3,Thailand,thailand,1,0,1,Q039::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q039,T,Countries,4,Tanzania,tanzania,1,0,1,Q039::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q040,T,TV shows,0,the reclaimeds,the reclaimeds,0,0,0,Q040::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q040,T,TV shows,1,The 100,the 100,1,0,1,Q040::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q040,T,TV shows,2,Theitspas,theitspas,0,0,0,Q040::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q040,T,TV shows,3,This is us,this is us,0,0,0,Q040::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q040,T,TV shows,4,Theitman,theitman,0,0,0,Q040::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q041,U,U.S. colleges,0,university of utah,university of utah,1,0,1,Q041::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q041,U,U.S. colleges,1,UNIVERSITY OF UTAH,university of utah,1,1,0,Q041::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q041,U,U.S. colleges,2,university of utah,university of utah,1,1,0,Q041::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q041,U,U.S. colleges,3,Utica,utica,1,0,1,Q041::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q041,U,U.S. colleges,4,Utica,utica,1,0,1,Q041::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q042,U,Things in a garage,0,Unibit,unibit,0,0,0,Q042::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q042,U,Things in a garage,1,Unicycle,unicycle,1,0,1,Q042::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q042,U,Things in a garage,2,Utility,utility,1,0,1,Q042::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q042,U,Things in a garage,3,Unicycle,unicycle,1,1,0,Q042::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q042,U,Things in a garage,4,Upright,upright,0,0,0,Q042::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q043,V,Jobs,0,Veterinarian,veterinarian,1,0,1,Q043::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q043,V,Jobs,1,Validation Analyst,validation analyst,1,0,1,Q043::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q043,V,Jobs,2,Voyager,voyager,0,0,0,Q043::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q043,V,Jobs,3,Veterinarian,veterinarian,1,0,1,Q043::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q043,V,Jobs,4,Video Editor,video editor,1,0,1,Q043::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q044,V,Things you wear,0,Vintage Vest,vintage vest,1,0,1,Q044::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q044,V,Things you wear,1,Vests,vests,1,0,1,Q044::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q044,V,Things you wear,2,Vibram shoes,vibram shoes,1,0,1,Q044::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q044,V,Things you wear,3,Valves,valves,0,0,0,Q044::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q044,V,Things you wear,4,Vest,vest,1,0,1,Q044::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q045,W,Cities,0,Warsaw,warsaw,1,1,0,Q045::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q045,W,Cities,1,Wellington,wellington,1,1,0,Q045::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q045,W,Cities,2,Warsaw,warsaw,1,1,0,Q045::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q045,W,Cities,3,Warsaw,warsaw,1,1,0,Q045::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q045,W,Cities,4,Warehouse,warehouse,0,0,0,Q045::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q046,W,Things in a park,0,Water fountain,water fountain,1,0,1,Q046::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q046,W,Things in a park,1,Wedgewood,wedgewood,0,0,0,Q046::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q046,W,Things in a park,2,Welltree,welltree,0,0,0,Q046::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q046,W,Things in a park,3,Water fountain,water fountain,1,0,1,Q046::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q046,W,Things in a park,4,Wellcome sign,wellcome sign,0,0,0,Q046::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q047,X,Brands,0,Xscape,xscape,0,0,0,Q047::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q047,X,Brands,1,XACTO,xacto,1,0,1,Q047::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q047,X,Brands,2,Xerox,xerox,1,1,0,Q047::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q047,X,Brands,3,Xerox,xerox,1,1,0,Q047::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q047,X,Brands,4,Xerox,xerox,1,0,1,Q047::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q048,X,Words in English,0,Xenon,xenon,1,0,1,Q048::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q048,X,Words in English,1,Xanthos,xanthos,1,0,1,Q048::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q048,X,Words in English,2,Xenon,xenon,1,0,1,Q048::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q048,X,Words in English,3,xenon,xenon,1,1,0,Q048::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q048,X,Words in English,4,xenon,xenon,1,1,0,Q048::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q049,Y,Foods,1,Yellow Squash,yellow squash,1,0,1,Q049::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q049,Y,Foods,2,Yogurt,yogurt,1,1,0,Q049::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q049,Y,Foods,3,yogurt,yogurt,1,0,1,Q049::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q049,Y,Foods,4,Yogurt,yogurt,1,0,1,Q049::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q050,Y,Things at a party,0,Yogurt,yogurt,0,0,0,Q050::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q050,Y,Things at a party,1,Yard,yard,0,0,0,Q050::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q050,Y,Things at a party,2,Yarn,yarn,0,0,0,Q050::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q050,Y,Things at a party,3,yam,yam,0,0,0,Q050::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q050,Y,Things at a party,4,Yorkshire pudding,yorkshire pudding,0,0,0,Q050::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q051,Z,Animals,1,Zebra,zebra,1,0,1,Q051::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q051,Z,Animals,2,Zebra,zebra,1,1,0,Q051::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q051,Z,Animals,3,Zebra,zebra,1,1,0,Q051::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q051,Z,Animals,4,Zebra,zebra,1,1,0,Q051::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q052,Z,Things in a zoo,0,Zebra,zebra,1,1,0,Q052::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q052,Z,Things in a zoo,1,Zebra,zebra,1,0,1,Q052::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q052,Z,Things in a zoo,2,Zebra,zebra,1,1,0,Q052::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q052,Z,Things in a zoo,3,Zephyr,zephyr,0,0,0,Q052::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q052,Z,Things in a zoo,4,Zeppelin,zeppelin,0,0,0,Q052::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q053,A,Things in a kitchen,0,Asparagus,asparagus,1,0,1,Q053::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q053,A,Things in a kitchen,1,Apron,apron,1,0,1,Q053::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q053,A,Things in a kitchen,2,Blender,blender,1,0,1,Q053::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q053,A,Things in a kitchen,3,Toaster,toaster,1,0,1,Q053::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q053,A,Things in a kitchen,4,Apple,apple,0,0,0,Q053::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q054,B,Singers,0,Barbara Streisand,barbara streisand,1,0,1,Q054::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q054,B,Singers,1,Barbara Streisand,barbara streisand,1,0,1,Q054::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q054,B,Singers,2,barbra streisand,barbra streisand,1,0,1,Q054::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q054,B,Singers,3,Barbra Streisand,barbra streisand,1,0,1,Q054::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q054,B,Singers,4,Billie,billie,1,0,1,Q054::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q055,C,Desserts,0,chowcake,chowcake,0,0,0,Q055::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q055,C,Desserts,1,cheesecake,cheesecake,1,0,1,Q055::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q055,C,Desserts,2,cheesecake,cheesecake,1,0,1,Q055::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q055,C,Desserts,3,Cookie,cookie,1,0,1,Q055::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q055,C,Desserts,4,Cookies,cookies,1,0,1,Q055::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q056,D,Plants,0,Daffodil,daffodil,1,0,1,Q056::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q056,D,Plants,1,Daffodil,daffodil,1,0,1,Q056::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q056,D,Plants,2,Dogwood,dogwood,1,0,1,Q056::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q056,D,Plants,3,Dandelion,dandelion,1,1,0,Q056::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q056,D,Plants,4,Daikon,daikon,1,1,0,Q056::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q057,E,Companies,0,Ericsson,ericsson,1,0,1,Q057::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q057,E,Companies,1,Ericsson,ericsson,1,0,1,Q057::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q057,E,Companies,2,ebay,ebay,1,1,0,Q057::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q057,E,Companies,3,Expedia,expedia,1,0,1,Q057::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q057,E,Companies,4,ericsson,ericsson,1,0,1,Q057::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q058,F,Movie characters,0,Forrest,forrest,1,0,1,Q058::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q058,F,Movie characters,1,Ferris Bueller,ferris bueller,1,0,1,Q058::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q058,F,Movie characters,2,FINN,finn,0,0,0,Q058::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q058,F,Movie characters,3,fiorella,fiorella,0,0,0,Q058::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q058,F,Movie characters,4,Finley,finley,0,0,0,Q058::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q059,G,Things in a toolbox,0,Grabber,grabber,0,0,0,Q059::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q059,G,Things in a toolbox,1,Grinder,grinder,1,0,1,Q059::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q059,G,Things in a toolbox,2,Grease Gun,grease gun,1,0,1,Q059::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q059,G,Things in a toolbox,3,Grease gun,grease gun,1,0,1,Q059::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q059,G,Things in a toolbox,4,Grease gun,grease gun,1,0,1,Q059::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q060,H,Countries,0,Hungary,hungary,1,0,1,Q060::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q060,H,Countries,1,Honduras,honduras,1,0,1,Q060::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q060,H,Countries,2,Hungary,hungary,1,0,1,Q060::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q060,H,Countries,3,Haiti,haiti,1,1,0,Q060::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q060,H,Countries,4,Honduras,honduras,1,0,1,Q060::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q061,I,Musical artists,0,Ironik,ironik,0,0,0,Q061::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q061,I,Musical artists,1,Imagine Dragons,imagine dragons,0,0,0,Q061::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q061,I,Musical artists,2,Irisapena,irisapena,0,0,0,Q061::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q061,I,Musical artists,3,Indiana Jones,indiana jones,0,0,0,Q061::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q061,I,Musical artists,4,Imagine Dragons,imagine dragons,0,0,0,Q061::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q062,J,Things in a refrigerator,0,Jello,jello,1,0,1,Q062::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q062,J,Things in a refrigerator,1,Jello,jello,1,1,0,Q062::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q062,J,Things in a refrigerator,2,Jellyfish,jellyfish,0,0,0,Q062::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q062,J,Things in a refrigerator,3,Yogurt,yogurt,1,0,1,Q062::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q062,J,Things in a refrigerator,4,Jar,jar,1,0,1,Q062::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q063,K,Cities,0,Kathmandu,kathmandu,1,0,1,Q063::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q063,K,Cities,1,Karachi,karachi,1,0,1,Q063::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q063,K,Cities,2,Karachi,karachi,1,0,1,Q063::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q063,K,Cities,3,Kabul,kabul,1,1,0,Q063::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q063,K,Cities,4,Karachi,karachi,1,0,1,Q063::4
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q064,L,Things in a library,0,Library,library,0,0,0,Q064::0
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q064,L,Things in a library,1,Lamp,lamp,0,0,0,Q064::1
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q064,L,Things in a library,2,Lamp,lamp,0,0,0,Q064::2
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q064,L,Things in a library,3,Librarian,librarian,1,0,1,Q064::3
+part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,self_opt_20_gemma_Player_2,Q064,L,Things in a library,4,lexicon,lexicon,1,0,1,Q064::4

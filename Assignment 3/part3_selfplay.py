@@ -1,24 +1,28 @@
 """
 This script completes answer generation logic for an Ollama model to follow for 
-Assignment 3, Part 2 (self-play) for S&DS 5350, Social Algorithms.
+Assignment 3, Part 3 (self-play) for S&DS 5350, Social Algorithms.
 
 Notes:
     - Arguments for answer generation are specified as global parameters
-    - Three scenarios for answer generation:
+    - Three scenarios for answer generation (same combinations as Part 2):
         - Temperature of 0.9, original prompt 
         - Temperature of 2.0, original prompt
         - Temperature of 2.0, obscure prompt 
     - assignment3_starter.py script is part of the command line argument
-        - Line 124/125 in assignment3_starter.py: timeout=60 works
+        - Line 124/125 in assignment3_starter.py: changed timeout=60 to 
+          timeout=300
     - Run Script in Terminal: 
-        & "C:\Program Files\Python39\python.exe" part2_selfplay.py 
+        & "C:\Program Files\Python39\python.exe" part3_selfplay.py 
 
 Author:
     Cailey Bobadilla
 
 AI Acknowledgement:
-    I used Gemini 3 Pro in this script. My main use was adjusting my code to 
-    work with asyncio for parallel processing purposes on the Yale GPU.
+    I used Gemini 3 Pro and Claude Sonnet 4.6 in this script. My main use for
+    Gemini 3 Pro was for adjusting my code to work with asyncio for parallel 
+    processing purposes on the Yale GPU. My main use for Claude Sonnet 4.6 was 
+    for debugging, specifically increasing the timeout time for tasks called to
+    Ollama in assignment3_starter.py. 
 """
 
 import subprocess
@@ -32,12 +36,18 @@ QUESTIONS_CSV = "scattergories_questions.csv"
 # Define server's Python path
 PYTHON_PATH = r"C:\Program Files\Python39\python.exe"
 
-# Set global parameters for player 1 and player 2 answer generation (same model)
-MODEL_NAME = "qwen2.5:7b"
+# Set global parameters for answer generation
 ROUNDS = "5"
-# Number of tasks that can run simultaneously (2 players for each temperature 
-# and prompt)
-MAX_WORKERS = 6  
+# Number of tasks that can run simultaneously (3 scenarios per model)
+MAX_WORKERS = 3  
+
+# Specify the 3 local models to test
+# NOTE: A dictionary mapping is used to map the full model names to shorter ones
+MODELS = {
+    "qwen2.5:7b": "qwen", 
+    "llama3.2:3b": "llama", 
+    "gemma2:2b": "gemma"
+}
 
 
 # Create prompt template for both the original and obscure prompts
@@ -88,7 +98,7 @@ async def run_generate(cmd: list):
 
 async def main():
     # Make sure the output directory exists
-    os.makedirs("part2_selfplay_outputs", exist_ok=True)
+    os.makedirs("part3_selfplay_outputs", exist_ok=True)
     
     # Semaphore limits how many tasks can run at once
     semaphore = asyncio.Semaphore(MAX_WORKERS)
@@ -97,38 +107,40 @@ async def main():
     print(f"Starting generation for {len(SCENARIOS)} scenarios.")
     print(f"Total files to generate: {sum(len(s['players']) for s in SCENARIOS)}")
 
-    # Iterate through all pairs of scenarios and players to build all commands
-    for scenario in SCENARIOS:
-        for player in scenario['players']:
-            # Create a file name for the output
-            out_file = (
-                f"part2_selfplay_outputs/{scenario['label']}_{player}.csv"
-            )
-            
-            # Create command line arguments for the current temperature and 
-            # player
-            cmd = [
-                PYTHON_PATH, STARTER_SCRIPT, "generate-answers",
-                "--model", MODEL_NAME,
-                "--temperature", scenario['temp'],
-                "--rounds", ROUNDS,
-                "--player-id", f"{player}_{scenario['label']}",
-                "--prompt-file", scenario['prompt_file'],   
-                "--questions-csv", QUESTIONS_CSV,
-                "--out", out_file
-            ]
+    # Iterate through all pairs of scenarios, models, and players
+    for model, short_name in MODELS.items():    
+        for scenario in SCENARIOS:
+            for player in scenario['players']:
+                # Create a file name for the output
+                out_file = (
+                    f"part3_selfplay_outputs/self_{scenario['label']}_"
+                    f"{short_name}_{player}.csv"
+                )
+                
+                # Create command line arguments for the current temperature and 
+                # player
+                cmd = [
+                    PYTHON_PATH, STARTER_SCRIPT, "generate-answers",
+                    "--model", model,
+                    "--temperature", scenario['temp'],
+                    "--rounds", ROUNDS,
+                    "--player-id", f"{short_name}_{player}_{scenario['label']}",
+                    "--prompt-file", scenario['prompt_file'],   
+                    "--questions-csv", QUESTIONS_CSV,
+                    "--out", out_file
+                ]
 
-            # Wrapper to respect the semaphore limit
-            async def sem_task(c=cmd):
-                async with semaphore:
-                    await run_generate(c)
+                # Wrapper to respect the semaphore limit
+                async def sem_task(c=cmd):
+                    async with semaphore:
+                        await run_generate(c)
 
-            tasks.append(sem_task())
+                tasks.append(sem_task())
 
     # Run everything concurrently
     await asyncio.gather(*tasks)
 
-    print("Finished generating Part 2 files.")
+    print("Finished generating Part 3 self-play files.")
 
 
 if __name__ == "__main__":

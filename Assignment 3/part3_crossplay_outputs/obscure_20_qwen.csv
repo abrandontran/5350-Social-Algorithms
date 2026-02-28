@@ -1,0 +1,321 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Albatross,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q001,A,Animals,1,Aardvark,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q001,A,Animals,2,Alakazanga,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q001,A,Animals,3,Aardvark,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q001,A,Animals,4,Axolotl,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q002,A,Jobs,0,Alabaster cutter,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q002,A,Jobs,1,Alabaster carver,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q002,A,Jobs,2,Ale-wife,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q002,A,Jobs,3,Apothecary,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q002,A,Jobs,4,Apothecary,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q003,B,Fruits,0,Biluochun,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q003,B,Fruits,1,Banzoika,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q003,B,Fruits,2,Bacaba,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q003,B,Fruits,3,Buchu Berry,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q003,B,Fruits,4,Bromelia fruit,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,0,Blood-orange blossom,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,1,Blood orange,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,2,Blood orchid,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,3,Bloodworm,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,4,Bloodberry,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q005,C,Countries,0,Comoros,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q005,C,Countries,1,Comoros,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q005,C,Countries,2,Cocos (Keeling) Islands,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q005,C,Countries,3,Cyclades,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q005,C,Countries,4,Comoros,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q006,C,Board games,0,Centervention,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q006,C,Board games,1,Camaraderie Quest,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q006,C,Board games,2,Clan Castles,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q006,C,Board games,3,Clockwork Diplomacy,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q006,C,Board games,4,Chang Kang-Kuo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,0,Didgeridoo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,1,Didgeridoo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,2,Didgeridoo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,3,Didgeridoo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,4,Didgeridoo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,0,dishcloth,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,1,Doorstop,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,2,DivingHelmet,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,3,Dew cleaner,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,4,doorstop,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q009,E,Sports,0,Escalator Polo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q009,E,Sports,1,Epispasmia racing,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q009,E,Sports,2,Epistaxisologia,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q009,E,Sports,3,"Equestrianismane>"").",qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q009,E,Sports,4,Escalator Polo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,0,Echoes of Earth,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,1,Eli芡汁小子,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,2,Eerie Eyelessness,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,3,Exodus: Tale of the Exodus Boys,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,4,Exotica,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q011,F,Fish,0,Frillfish,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q011,F,Fish,1,Flacucho,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q011,F,Fish,2,Fangtooth,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q011,F,Fish,3,Fangtooth,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q011,F,Fish,4,FlounderspecificallytheBigscalesflounder,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,0,frustration-crystal-amulet,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,1,friction strip,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,2,foldedファンタジー Origami fox,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,3,Fernet瓶,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,4,Feather笔触 Feather Pen,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,0,Georgia Gulf States University,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,1,Georgia,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,2,Georgia Gulf States Univ,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,3,Georgia Gazetteettes,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,4,Guam,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q014,G,Foods,0,Gruyère cheese,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q014,G,Foods,1,Geldermilm,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q014,G,Foods,2,Gelatinous worm grilled treat,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q014,G,Foods,3,Gruyère,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q014,G,Foods,4,Gyros Leaf,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,0,Heinrich Wilhelm Emil Herrick,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,1,Henrietta Leubacqz,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,2,Heinrich Barkhausen,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,3,Henrietta Hutton,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,4,Henrietta_LEHDE,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,0,Hammerhead sharkjaw sculpture,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,1,Hermit crab habitat,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,2,Hurricane debris hut,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,3,海蜇,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,4,Haikyo wreckage,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q017,I,Cities,0,Iwaki,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q017,I,Cities,1,Ixtapa-Zihuatanejo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q017,I,Cities,2,Inverness,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q017,I,Cities,3,Iquique,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q017,I,Cities,4,Invercargill,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,0,Intercom,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,1,Interrupter coil,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,2,IvoryQPushButton,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,3,Ivoryombine,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,4,Intertropical Convergence Zone Indicator Board,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q019,J,Car brands,0,Jaguar,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q019,J,Car brands,1,Jowett,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q019,J,Car brands,2,Jaguar,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q019,J,Car brands,3,Jensen,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q019,J,Car brands,4,Jaguar,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,0,Jailbreak Mercenaries,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,1,Jagaruvud,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,2,Jaws of Victory Cycle Racing,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,3,Jazz Jackstration,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,4,Jamestown Jungle Jumpers,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,0,Krakkenbreaker,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,1,Krakken,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,2,Klystron Man,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,3,Krakoosa,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,4,Kryptonite Kid,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,0,Kaffir Lime Leaves,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,1,Kombucha,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,2,Kombu seaweed,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,3,Kaffir Lime Leaves,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,4,Kelp fertilizer,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,0,Lagotto Romagnolo,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,1,Lhasa Apso,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,2,Loxbridge Spaniel,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,3,Laekelrador,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,4,Livestock Guardian Dog Lomax,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q024,L,Books,0,Lullaby and {?>,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q024,L,Books,1,Leviathan Wanes,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q024,L,Books,2,Lampedusa's The Leopard,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q024,L,Books,3,Leviathan Wakes,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q024,L,Books,4,Leisure Studies: An Interdisciplinary Approach,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q025,M,Languages,0,Mbyá语言,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q025,M,Languages,1,Mundéshikaféti,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q025,M,Languages,2,Mok阴阳语,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q025,M,Languages,3,Munda,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q025,M,Languages,4,Mbabuiabic,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,0,马uin手套,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,1,Monokine,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,2,Mooncake wrapper,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,3,Meryl streplette,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,4,MerylStrip,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q027,N,Birds,0,Nectarinia,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q027,N,Birds,1,Niltava,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q027,N,Birds,2,Nighthawk,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q027,N,Birds,3,Nighthawk,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q027,N,Birds,4,Ninox noctivaga,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,0,Neonatal thermoregulator,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,1,Necropsy锯液,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,2,Necropsy scalpel,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,3,Neostigmineneedle,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,4,Neutron moderator,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q029,O,Companies,0,Orcutt Lithium,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q029,O,Companies,1,Ophidian Productions,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q029,O,Companies,2,Oxbridge Laboratories,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q029,O,Companies,3,Oreochromis Productions,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q029,O,Companies,4,Optoma,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,0,Oort cloud,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,1,Oort cloud,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,2,Oort cloud,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,3,Oort cloud,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,4,Orbicularium,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,0,Pochubaya,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,1,Pruellyt,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,2,Pruellia pedunculifera,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,3,Pochaironi,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,4,Parsnipleaf,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,0,Pope Joan,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,1,Punicus Priscus,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,2,Ptolemy.LoggerFactory,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,3,Pope Formosus,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,4,Ptolemy.LoggerFactory,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,0,Quinzhee,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,1,Quarklessly,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,2,Quinzhee,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,3,Quintuplet,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,4,Quagmire,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,0,Quimby Quilligwen,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,1,Quetzalcoatl from Aztec mythology interpreted as a fictional character in alternate,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,2,Quicksilver Quill Quentin,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,3,Quicksilver from Marvel Comics,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,4,Quintessential Quill Quixote,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q035,R,Songs,0,Rainbow Connection,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q035,R,Songs,1,Rainbow Connection,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q035,R,Songs,2,Rakatziki,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q035,R,Songs,3,Rachtelestic,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q035,R,Songs,4,Rain Tree Woman,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q036,R,Tools,0,Radon remediation device,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q036,R,Tools,1,Rapier,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q036,R,Tools,2,Rarotonga stone sundial,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q036,R,Tools,3,Rattleback,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q036,R,Tools,4,Raku kiln,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q037,S,Animals,0,Sasquatch,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q037,S,Animals,1,Sluggor,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q037,S,Animals,2,Slothbear,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q037,S,Animals,3,Slender-tailed binturong,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q037,S,Animals,4,Slabird,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,0,Spider plant,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,1,Spider plant,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,2,Speckled Eraser,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,3,Secretaries' statue collection,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,4,Scottish Fold statue,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q039,T,Countries,0,Tuvalu,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q039,T,Countries,1,Tunisia,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q039,T,Countries,2,Tonga,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q039,T,Countries,3,Tonguistan,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q039,T,Countries,4,Tungusic peoples territory,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q040,T,TV shows,0,The Twilight Zone,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q040,T,TV shows,1,Twin Town,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q040,T,TV shows,2,Twin Town,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q040,T,TV shows,3,Twin Peaks,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q040,T,TV shows,4,Twin Peaks: Fire Walk With Me,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,0,University of the Pacific,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,1,University of Utah Uintah Basin,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,2,University of Utah Distance Education,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,3,University of Saint Thomas,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,4,University of the Pacific,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,0,umbilical cord storage container,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,1,unobtanium样本,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,2,umpire}_${ taboo_word}_figure,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,3,Unicellular,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,4,Urethral_sound,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q043,V,Jobs,0,Ventriloquist,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q043,V,Jobs,1,Venture capitalist,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q043,V,Jobs,2,Ventriloquist,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q043,V,Jobs,3,Ventriloquist,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q043,V,Jobs,4,Ventriloquist,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,0,vexilliferous vestigial valgus vibromassage vest,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,1,vexillibrarian's vestigial violet gloves,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,2,veiligne,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,3,vamocil cufflinks,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,4,veneer veneer,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q045,W,Cities,0,Woburn,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q045,W,Cities,1,Walsall,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q045,W,Cities,2,Wodonga,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q045,W,Cities,3,Wondewèrene,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q045,W,Cities,4,"Whittier, Alaska",qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,0,Willow fungus,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,1,Willowlicted Winding Wall,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,2,Wisteria Leaf,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,3,Wisteriaすことなり木,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,4,Willow dragonfly,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q047,X,Brands,0,Xylobank,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q047,X,Brands,1,Xylosębik,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q047,X,Brands,2,Xyron,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q047,X,Brands,3,Xylogix,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q047,X,Brands,4,Xylophone Brands,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q048,X,Words in English,0,Xylophygial,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q048,X,Words in English,1,Xylophone,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q048,X,Words in English,2,Xylography,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q048,X,Words in English,3,Xylography,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q048,X,Words in English,4,Xylography,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q049,Y,Foods,0,Yerba mate,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q049,Y,Foods,1,Yuzu marmalade,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q049,Y,Foods,2,Yuzu marmalade,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q049,Y,Foods,3,Yuzu zest,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q049,Y,Foods,4,Yarrowroot,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,0,Ylang-ylangflower bouquet,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,1,Yetchmarkttournament,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,2,Yacht-themed piñata,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,3,Yellowed photograph,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,4,YuzuReactDOM,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q051,Z,Animals,0,Zorilla,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q051,Z,Animals,1,Zorilla,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q051,Z,Animals,2,Zorilla,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q051,Z,Animals,3,Zorilla,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q051,Z,Animals,4,Zorilla,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,0,Zookeeperadge,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,1,Zookeeper-specialized Vaccine,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,2,Zorilla,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,3,Zookeeper-specialized Gecko Powder,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,4,Zookeeperiqueta,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,0,藻类凝胶,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,1,Aluminous ashtray,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,2,alfafa种子粉,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,3,藻类罐头,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,4,apple-shaped aluminum foil,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q054,B,Singers,0,Bununz,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q054,B,Singers,1,Björk Goldberg,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q054,B,Singers,2,Bauhaus,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q054,B,Singers,3,Barenaked Ladies,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q054,B,Singers,4,Bauhaus,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q055,C,Desserts,0,CustardappleCream,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q055,C,Desserts,1,Caramelized Cashew Cluster Cake,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q055,C,Desserts,2,Custard Cream Cracker Topping,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q055,C,Desserts,3,CarobClusterCookies,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q055,C,Desserts,4,Carob Cluster Cake,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q056,D,Plants,0,Dragon fruit,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q056,D,Plants,1,Dragonfruit,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q056,D,Plants,2,"Datura,"");",qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q056,D,Plants,3,Dioscorea.MMilitaris,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q056,D,Plants,4,Dragonatum,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q057,E,Companies,0,Enwave,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q057,E,Companies,1,Ennik Instruments,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q057,E,Companies,2,Electrotek Concepts,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q057,E,Companies,3,Ecto Genetics,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q057,E,Companies,4,Eucalyptus Oil Exports,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,0,Fomprocx,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,1,Franti from Triceratops,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,2,Friz Freleng,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,3,Fellix Flinchsworth,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,4,Freida Seligman from Fellini's Twist,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,0,Grommet,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,1,gasper cylinder,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,2,Grommet incarcerator,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,3,grease whip,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,4,glandubar washer,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q060,H,Countries,0,Helwan,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q060,H,Countries,1,Haiti,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q060,H,Countries,2,Hongi,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q060,H,Countries,3,Heard Isle,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q060,H,Countries,4,Heard Island and McDonald Islands,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,0,Ida Tarbell,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,1,Iannis Xenakis,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,2,Idelbrad,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,3,Iva Batanos,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,4,Imogen Heap,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,0,Jellyfish jar,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,1,Jellied Eel Sauce,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,2,Jello intestines,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,3,Jellyfruit,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,4,Jellied Eel Sauce,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q063,K,Cities,0,Kinsale,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q063,K,Cities,1,Kummulkulu,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q063,K,Cities,2,Kaitou Town,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q063,K,Cities,3,Kermel-Kerhuon,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q063,K,Cities,4,Kvarntorp,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,0,Lute,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,1,Licheneriad,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,2,Leporaceous slab,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,3,Linen catalogs,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,4,Librarian's ledger,qwen2.5:7b,qwen_obscure_20,2.0,40,baseline

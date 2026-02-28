@@ -1,0 +1,321 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Albatross,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q001,A,Animals,1,Alpaca,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q001,A,Animals,2,Alpaca,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q001,A,Animals,3,Alpaca,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q001,A,Animals,4,Albatross,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q002,A,Jobs,0,Architect,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q002,A,Jobs,1,Accountant,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q002,A,Jobs,2,Apple,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q002,A,Jobs,3,architect,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q002,A,Jobs,4,Accountant,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q003,B,Fruits,0,Banana,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q003,B,Fruits,1,Banana,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q003,B,Fruits,2,Banana,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q003,B,Fruits,3,Banana,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q003,B,Fruits,4,Banana,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q004,B,Things that are red,0,Berry,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q004,B,Things that are red,1,Berries,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q004,B,Things that are red,2,Berries,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q004,B,Things that are red,3,Berries,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q004,B,Things that are red,4,Berries,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q005,C,Countries,0,Canada,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q005,C,Countries,1,Canada,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q005,C,Countries,2,Canada,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q005,C,Countries,3,Canada,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q005,C,Countries,4,Canada,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q006,C,Board games,0,Clue,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q006,C,Board games,1,Chess,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q006,C,Board games,2,Clue,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q006,C,Board games,3,Chess,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q006,C,Board games,4,Clue,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q007,D,Musical instruments,0,Didgeridoo,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q007,D,Musical instruments,1,Didgeridoo,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q007,D,Musical instruments,2,drum,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q007,D,Musical instruments,3,Drum,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q007,D,Musical instruments,4,drum,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,0,dish soap,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,1,Door,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,2,detergent,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,3,door,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q008,D,Things in a bathroom,4,door,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q009,E,Sports,0,Equestrian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q009,E,Sports,1,Equestrian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q009,E,Sports,2,Equestrian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q009,E,Sports,3,Equestrian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q009,E,Sports,4,Equestrian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q010,E,Movie titles,0,EasyA,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q010,E,Movie titles,1,Eat Pray Love,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q010,E,Movie titles,2,Eternal Sunshine Of The Spotless Mind,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q010,E,Movie titles,3,Eternal Sunshine of the Spotless Mind,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q010,E,Movie titles,4,Eternal Sunshine of the Spotless Mind,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q011,F,Fish,0,Flounder,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q011,F,Fish,1,Flounder,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q011,F,Fish,2,Flounder,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q011,F,Fish,3,Flounder,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q011,F,Fish,4,Flounder,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,0,flashlight,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,1,flashlight,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,2,flashlight,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,3,flashlight,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q012,F,Things in a backpack,4,flashlight,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q013,G,U.S. states,0,Georgia,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q013,G,U.S. states,1,Georgia,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q013,G,U.S. states,2,Georgia,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q013,G,U.S. states,3,Georgia,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q013,G,U.S. states,4,Georgia,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q014,G,Foods,0,Grapefruit,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q014,G,Foods,1,Grilled Cheese,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q014,G,Foods,2,Grapes,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q014,G,Foods,3,Grapes,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q014,G,Foods,4,Granny Smith Apple,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q015,H,Famous scientists,0,Hawking,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q015,H,Famous scientists,1,Huygens,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q015,H,Famous scientists,2,Hershel Henriquez,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q015,H,Famous scientists,3,Hertz,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q015,H,Famous scientists,4,Hawking,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q016,H,Things at the beach,0,hat,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q016,H,Things at the beach,1,hat,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q016,H,Things at the beach,2,Hoverboard,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q016,H,Things at the beach,3,hat,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q016,H,Things at the beach,4,hat,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q017,I,Cities,0,Istanbul,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q017,I,Cities,1,Istanbul,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q017,I,Cities,2,Istanbul,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q017,I,Cities,3,Istanbul,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q017,I,Cities,4,Istanbul,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,0,Interboard,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,1,iPad,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,2,interior,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,3,Intercom,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q018,I,Things in a classroom,4,Ipad,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q019,J,Car brands,0,Jeep,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q019,J,Car brands,1,Jaguar,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q019,J,Car brands,2,Jaguar,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q019,J,Car brands,3,Jeep,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q019,J,Car brands,4,Jaguar,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q020,J,Video game titles,0,Joust,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q020,J,Video game titles,1,Just Cause 3,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q020,J,Video game titles,2,Just Cause,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q020,J,Video game titles,3,Just Cause,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q020,J,Video game titles,4,Jungle Speed,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q021,K,Superheroes,0,Kraken,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q021,K,Superheroes,1,Kratos,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q021,K,Superheroes,2,Katarn,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q021,K,Superheroes,3,Kratos,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q021,K,Superheroes,4,Kraven,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,0,kiwi,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,1,kiwi,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,2,kiwi,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,3,ketchup,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q022,K,Things in a grocery store,4,ketchup,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q023,L,Dog breeds,0,Labrador Retriever,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q023,L,Dog breeds,1,Labrador Retrievers,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q023,L,Dog breeds,2,Labrador Retriever,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q023,L,Dog breeds,3,Labradoodle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q023,L,Dog breeds,4,Labradoodle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q024,L,Books,0,Lord Of The Rings,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q024,L,Books,1,Lord_of_the_Rings,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q024,L,Books,2,Lord_of_the_Rings,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q024,L,Books,3,Lord Of The Rings,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q024,L,Books,4,Lord_of_the_Rings,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q025,M,Languages,0,Mandarin,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q025,M,Languages,1,Mandarin,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q025,M,Languages,2,Mandarin,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q025,M,Languages,3,Mandarin,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q025,M,Languages,4,Mandarin,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q026,M,Clothing items,0,Μonian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q026,M,Clothing items,1,Mittens,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q026,M,Clothing items,2,mugler belt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q026,M,Clothing items,3,Mugler,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q026,M,Clothing items,4,Mittens,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q027,N,Birds,0,Nightingale,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q027,N,Birds,1,Nightjar,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q027,N,Birds,2,Nitrogenous,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q027,N,Birds,3,nightingale,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q027,N,Birds,4,Nightjar,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,0,nurse,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,1,nurse,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,2,nurse,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,3,nurse,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q028,N,Things in a hospital,4,Nurse,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q029,O,Companies,0,Oracle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q029,O,Companies,1,Oracle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q029,O,Companies,2,Office Depot,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q029,O,Companies,3,Oracle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q029,O,Companies,4,Office Depot,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q030,O,Things in the sky,0,Ostrich,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q030,O,Things in the sky,1,Clouds,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q030,O,Things in the sky,2,Orbiting satellite,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q030,O,Things in the sky,3,Owl,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q030,O,Things in the sky,4,Orion,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q031,P,Vegetables,0,"Pepperoni (Note: This is actually a meat product, but since specific",qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q031,P,Vegetables,1,Parsnips,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q031,P,Vegetables,2,Peas,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q031,P,Vegetables,3,Peas,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q031,P,Vegetables,4,Parsnip,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q032,P,Historical figures,0,Plato,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q032,P,Historical figures,1,Plato,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q032,P,Historical figures,2,Plato,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q032,P,Historical figures,3,Plato,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q032,P,Historical figures,4,Plato,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q033,Q,Words in English,0,Quill,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q033,Q,Words in English,1,Quaint,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q033,Q,Words in English,2,Quilt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q033,Q,Words in English,3,Quill,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q033,Q,Words in English,4,Quill,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,0,Quasimodo,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,1,Quasimodo,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,2,Quasimodo,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,3,Quasimodo,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q034,Q,Fictional characters,4,Quasimodo,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q035,R,Songs,0,Roxanne,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q035,R,Songs,1,Raindrops Keep Fallin' On My Head,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q035,R,Songs,2,Rock With You,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q035,R,Songs,3,Raindrops Keep Fallin' On My Head,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q035,R,Songs,4,Rocky Top,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q036,R,Tools,0,rake,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q036,R,Tools,1,rake,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q036,R,Tools,2,rubber,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q036,R,Tools,3,ruler,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q036,R,Tools,4,rake,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q037,S,Animals,0,Snake,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q037,S,Animals,1,Squirrel,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q037,S,Animals,2,Snail,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q037,S,Animals,3,Squirrel,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q037,S,Animals,4,Squirrel,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q038,S,Things in an office,0,stapler,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q038,S,Things in an office,1,Sofa,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q038,S,Things in an office,2,stapler,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q038,S,Things in an office,3,stapler,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q038,S,Things in an office,4,stapler,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q039,T,Countries,0,Tanzania,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q039,T,Countries,1,Turkey,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q039,T,Countries,2,Tanzania,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q039,T,Countries,3,Turkey,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q039,T,Countries,4,Tonga,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q040,T,TV shows,0,The Twilight Zone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q040,T,TV shows,1,The Twilight Zone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q040,T,TV shows,2,The Price Is Right,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q040,T,TV shows,3,Twilight Zone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q040,T,TV shows,4,The Price Is Right,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,0,University_of_Utah,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,1,University_of_Utah,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,2,University_of_Utah,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,3,University Of Utah,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q041,U,U.S. colleges,4,University of Utah,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q042,U,Things in a garage,0,unicycle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q042,U,Things in a garage,1,umbrella,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q042,U,Things in a garage,2,umbrella,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q042,U,Things in a garage,3,umpire,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q042,U,Things in a garage,4,umbrella,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q043,V,Jobs,0,Ventura,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q043,V,Jobs,1,Victoria Beckham,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q043,V,Jobs,2,Veterinarian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q043,V,Jobs,3,Vince,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q043,V,Jobs,4,Vegetable,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q044,V,Things you wear,0,vest,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q044,V,Things you wear,1,veil,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q044,V,Things you wear,2,vest,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q044,V,Things you wear,3,vest,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q044,V,Things you wear,4,vest,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q045,W,Cities,0,Washington,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q045,W,Cities,1,Warsaw,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q045,W,Cities,2,Washington,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q045,W,Cities,3,Washington,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q045,W,Cities,4,Washington,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q046,W,Things in a park,0,wristwatch,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q046,W,Things in a park,1,Wristwatch,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q046,W,Things in a park,2,wristwatch,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q046,W,Things in a park,3,swing,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q046,W,Things in a park,4,Wristwatch,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q047,X,Brands,0,Xbox,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q047,X,Brands,1,Xbox,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q047,X,Brands,2,Xbox,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q047,X,Brands,3,Xbox,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q047,X,Brands,4,Xbox,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q048,X,Words in English,0,Xylophone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q048,X,Words in English,1,Xylophone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q048,X,Words in English,2,Xylophone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q048,X,Words in English,3,Xylophone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q048,X,Words in English,4,Xylophone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q049,Y,Foods,0,Yorkshire pudding,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q049,Y,Foods,1,Yogurt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q049,Y,Foods,2,Yogurt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q049,Y,Foods,3,Yogurt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q049,Y,Foods,4,Yogurt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q050,Y,Things at a party,0,yogurt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q050,Y,Things at a party,1,Yogurt,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q050,Y,Things at a party,2,yankee candle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q050,Y,Things at a party,3,yankee candle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q050,Y,Things at a party,4,yankee candle,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q051,Z,Animals,0,Zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q051,Z,Animals,1,Zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q051,Z,Animals,2,Zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q051,Z,Animals,3,Zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q051,Z,Animals,4,Zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,0,zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,1,zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,2,zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,3,zebra,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q052,Z,Things in a zoo,4,zookeeper,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,0,apple,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,1,apple,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,2,apple,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,3,apple,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q053,A,Things in a kitchen,4,apple,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q054,B,Singers,0,Beyoncé,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q054,B,Singers,1,Beyoncé,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q054,B,Singers,2,Britney Spears,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q054,B,Singers,3,Britney Spears,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q054,B,Singers,4,Bon Jovi,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q055,C,Desserts,0,ChocolateChipCookie,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q055,C,Desserts,1,ChocolateChipCookie,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q055,C,Desserts,2,ChocolateChipCookie,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q055,C,Desserts,3,ChocolateChipCookie,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q055,C,Desserts,4,ChocolateChipCookie,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q056,D,Plants,0,Dragonfruit,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q056,D,Plants,1,Durian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q056,D,Plants,2,Daisy,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q056,D,Plants,3,Dandelion,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q056,D,Plants,4,Durian,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q057,E,Companies,0,Ebay,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q057,E,Companies,1,Ebay,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q057,E,Companies,2,Ebay,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q057,E,Companies,3,Etsy,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q057,E,Companies,4,Ebay,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q058,F,Movie characters,0,Frodo Baggins,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q058,F,Movie characters,1,Fred Flintstone,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q058,F,Movie characters,2,Frodo Baggins,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q058,F,Movie characters,3,Fast Frank,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q058,F,Movie characters,4,Finding Nemo character:法兰奇,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,0,gasket,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,1,hammer,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,2,gear,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,3,gear,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q059,G,Things in a toolbox,4,hammer,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q060,H,Countries,0,Haiti,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q060,H,Countries,1,Honduras,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q060,H,Countries,2,Honduras,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q060,H,Countries,3,Haiti,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q060,H,Countries,4,Haiti,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q061,I,Musical artists,0,Ian Dury,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q061,I,Musical artists,1,Iron Maiden,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q061,I,Musical artists,2,Iron Maiden,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q061,I,Musical artists,3,Iron Maiden,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q061,I,Musical artists,4,Iron Maiden,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,0,jelly,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,1,juice,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,2,jelly,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,3,juice,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q062,J,Things in a refrigerator,4,juice,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q063,K,Cities,0,Knoxville,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q063,K,Cities,1,Knoxville,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q063,K,Cities,2,Knoxville,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q063,K,Cities,3,Knoxville,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q063,K,Cities,4,Knoxville,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q064,L,Things in a library,0,Lamp,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q064,L,Things in a library,1,lamp,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q064,L,Things in a library,2,Lamp,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q064,L,Things in a library,3,lamp,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline
+Q064,L,Things in a library,4,Lamp,qwen2.5:7b,qwen_Player_1_default_09,0.9,40,baseline

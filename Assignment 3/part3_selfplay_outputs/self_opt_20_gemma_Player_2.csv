@@ -1,0 +1,321 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Ape,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q001,A,Animals,1,Aardvark,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q001,A,Animals,2,Alpaca,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q001,A,Animals,3,Alpaca,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q001,A,Animals,4,Alligator,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q002,A,Jobs,0,Architect,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q002,A,Jobs,1,Astronomer,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q002,A,Jobs,2,Astronaut,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q002,A,Jobs,3,Astronaut,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q002,A,Jobs,4,Architect,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q003,B,Fruits,0,Blueberry,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q003,B,Fruits,1,Blackberry,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q003,B,Fruits,2,Banana,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q003,B,Fruits,3,Banana,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q003,B,Fruits,4,Blackberry,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q004,B,Things that are red,0,Barbecue,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q004,B,Things that are red,1,banana,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q004,B,Things that are red,2,Ball,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q004,B,Things that are red,3,banana,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q004,B,Things that are red,4,Beret,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q005,C,Countries,0,China,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q005,C,Countries,1,Cameroon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q005,C,Countries,2,Cameroon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q005,C,Countries,3,Cameroon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q005,C,Countries,4,Cameroon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q006,C,Board games,0,Cluedo,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q006,C,Board games,1,Cluedo,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q006,C,Board games,2,Clue,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q006,C,Board games,3,Chess,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q006,C,Board games,4,CandyLand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,0,Drums,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,1,Doublas,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,2,Darimba,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,3,Didjeridoo,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q007,D,Musical instruments,4,Didgeridoo,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,0,drainage,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,1,Disposable,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,2,Drain,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,3,Drainer,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q008,D,Things in a bathroom,4,Drain,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q009,E,Sports,0,equestrian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q009,E,Sports,1,Equestrian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q009,E,Sports,2,Equestrian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q009,E,Sports,3,Equestrian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q009,E,Sports,4,equestrian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q010,E,Movie titles,0,Eragon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q010,E,Movie titles,1,Eternal sunshine of the spotless mind,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q010,E,Movie titles,2,Edward Scissorhands,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q010,E,Movie titles,3,Edward Scissorhands,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q010,E,Movie titles,4,Eragon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q011,F,Fish,0,Fishes,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q011,F,Fish,1,Fantail,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q011,F,Fish,2,Fugu,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q011,F,Fish,3,Fluke,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q011,F,Fish,4,Flounder,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,0,Frisbee,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,1,Fanny,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,2,Fanny pack,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,3,Fanny,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q012,F,Things in a backpack,4,Flashlight,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q013,G,U.S. states,0,Georgia,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q013,G,U.S. states,1,Georgia,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q013,G,U.S. states,2,Georgia,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q013,G,U.S. states,3,Georgia,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q013,G,U.S. states,4,Georgia,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q014,G,Foods,0,Grape,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q014,G,Foods,1,Grapefruit,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q014,G,Foods,2,Gummi bears,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q014,G,Foods,3,Gourmet,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q014,G,Foods,4,Gourmet popcorn,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,0,Henrietta L. Webb,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,1,Hegel,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,2,Higgs,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,3,Hershel Hertzsprung,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q015,H,Famous scientists,4,Herostratus,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,0,Hobnob,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,1,Hemisphere,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,2,Hose,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,3,Horseshoe,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q016,H,Things at the beach,4,Humbrella,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q017,I,Cities,0,Istanbul,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q017,I,Cities,1,Istanbul,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q017,I,Cities,2,Iceland,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q017,I,Cities,3,Istanbul,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q017,I,Cities,4,Istanbul,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,0,Interactive whiteboard,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,1,Inspector,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,2,i pad,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,3,Inspecting light,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q018,I,Things in a classroom,4,impresora,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q019,J,Car brands,0,Jaguar,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q019,J,Car brands,1,Jaguar,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q019,J,Car brands,2,Jeep,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q019,J,Car brands,3,jaguar,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q019,J,Car brands,4,jaguar,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q020,J,Video game titles,0,JetSetRadio,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q020,J,Video game titles,1,jetpack joe,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q020,J,Video game titles,2,Jak And Daxter,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q020,J,Video game titles,3,Just Dance,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q020,J,Video game titles,4,jetset radio,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q021,K,Superheroes,0,Kilgharrah,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q021,K,Superheroes,1,Katana,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q021,K,Superheroes,2,Ka-Zar,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q021,K,Superheroes,3,Katanan,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q021,K,Superheroes,4,Kilow,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,0,Kidney beans,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,1,Kiwi,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,2,Kernel,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,3,Kool Aid,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q022,K,Things in a grocery store,4,Keto bread,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,0,Lakeland Terrier,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,1,Lhasa Apso,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,2,LhasaAiredale,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,3,LhasaApso,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q023,L,Dog breeds,4,labrador,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q024,L,Books,0,Love letters,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q024,L,Books,1,LeavingNormal,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q024,L,Books,2,Life's library,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q024,L,Books,3,Leaves,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q024,L,Books,4,laughter in writing,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q025,M,Languages,0,Malay,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q025,M,Languages,1,Malay,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q025,M,Languages,2,Mandarin,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q025,M,Languages,3,Mandarin,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q025,M,Languages,4,Mandarin,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q026,M,Clothing items,0,Monkeysuit,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q026,M,Clothing items,1,Manners,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q026,M,Clothing items,2,Mitts,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q026,M,Clothing items,3,Matches,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q026,M,Clothing items,4,Matches,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q027,N,Birds,0,Nightingale,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q027,N,Birds,1,Nightingale,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q027,N,Birds,2,Nightingale,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q027,N,Birds,3,Northern cardinal,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q027,N,Birds,4,Nightingale,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,0,Nectar,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,1,Nursery,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,2,Neo,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,3,Nurse,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q028,N,Things in a hospital,4,Needle,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q029,O,Companies,0,Oriental Trading Company,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q029,O,Companies,1,Olapic,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q029,O,Companies,2,Old Republic,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q029,O,Companies,3,Oculus,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q029,O,Companies,4,OtterBox,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,0,Oceans,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,1,OCEAN,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,2,Orion,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,3,Orion,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q030,O,Things in the sky,4,OCEAN,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q031,P,Vegetables,0,Parsnips,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q031,P,Vegetables,1,Parsnip,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q031,P,Vegetables,2,Potatoes,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q031,P,Vegetables,3,Parsnips,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q031,P,Vegetables,4,Pumpkin,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q032,P,Historical figures,0,Pol Pot,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q032,P,Historical figures,1,Pericles,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q032,P,Historical figures,2,Napoleon Bonaparte,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q032,P,Historical figures,3,pershing,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q032,P,Historical figures,4,patton,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q033,Q,Words in English,0,quantum,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q033,Q,Words in English,1,Quartz,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q033,Q,Words in English,2,Qualifier,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q033,Q,Words in English,3,Quick,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q033,Q,Words in English,4,Quadrille,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,0,QuentinTarantino,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,1,Quill,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,2,queen elisabeth,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,3,queen,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q034,Q,Fictional characters,4,Quentin Tarantino,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q035,R,Songs,0,Red Rover,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q035,R,Songs,1,Redneck Jamboree,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q035,R,Songs,2,Ring Of Fire,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q035,R,Songs,3,Redbone,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q035,R,Songs,4,Rockaroundtheclock,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q036,R,Tools,0,Reciprocating,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q036,R,Tools,1,Reciprocating,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q036,R,Tools,2,Rack,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q036,R,Tools,3,Reaper,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q036,R,Tools,4,Remote  control,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q037,S,Animals,0,Sloth,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q037,S,Animals,1,snake,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q037,S,Animals,2,Snake,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q037,S,Animals,3,Seal,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q037,S,Animals,4,Seahorse,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q038,S,Things in an office,0,Stapler,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q038,S,Things in an office,1,Stapler,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q038,S,Things in an office,2,Stapler,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q038,S,Things in an office,3,stapler,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q038,S,Things in an office,4,stapler,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q039,T,Countries,0,Tanzania,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q039,T,Countries,1,Thailand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q039,T,Countries,2,Thailand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q039,T,Countries,3,Thailand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q039,T,Countries,4,Tanzania,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q040,T,TV shows,0,the reclaimeds,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q040,T,TV shows,1,The 100,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q040,T,TV shows,2,Theitspas,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q040,T,TV shows,3,This is us,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q040,T,TV shows,4,Theitman,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,0,university of utah,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,1,UNIVERSITY OF UTAH,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,2,university of utah,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,3,Utica,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q041,U,U.S. colleges,4,Utica,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,0,Unibit,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,1,Unicycle,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,2,Utility,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,3,Unicycle,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q042,U,Things in a garage,4,Upright,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q043,V,Jobs,0,Veterinarian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q043,V,Jobs,1,Validation Analyst,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q043,V,Jobs,2,Voyager,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q043,V,Jobs,3,Veterinarian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q043,V,Jobs,4,Video Editor,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q044,V,Things you wear,0,Vintage Vest,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q044,V,Things you wear,1,Vests,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q044,V,Things you wear,2,Vibram shoes,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q044,V,Things you wear,3,Valves,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q044,V,Things you wear,4,Vest,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q045,W,Cities,0,Warsaw,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q045,W,Cities,1,Wellington,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q045,W,Cities,2,Warsaw,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q045,W,Cities,3,Warsaw,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q045,W,Cities,4,Warehouse,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q046,W,Things in a park,0,Water fountain,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q046,W,Things in a park,1,Wedgewood,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q046,W,Things in a park,2,Welltree,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q046,W,Things in a park,3,Water fountain,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q046,W,Things in a park,4,Wellcome sign,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q047,X,Brands,0,Xscape,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q047,X,Brands,1,XACTO,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q047,X,Brands,2,Xerox,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q047,X,Brands,3,Xerox,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q047,X,Brands,4,Xerox,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q048,X,Words in English,0,Xenon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q048,X,Words in English,1,Xanthos,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q048,X,Words in English,2,Xenon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q048,X,Words in English,3,xenon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q048,X,Words in English,4,xenon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q049,Y,Foods,0,Yogurt,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q049,Y,Foods,1,Yellow Squash,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q049,Y,Foods,2,Yogurt,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q049,Y,Foods,3,yogurt,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q049,Y,Foods,4,Yogurt,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,0,Yogurt,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,1,Yard,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,2,Yarn,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,3,yam,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q050,Y,Things at a party,4,Yorkshire pudding,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q051,Z,Animals,0,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q051,Z,Animals,1,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q051,Z,Animals,2,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q051,Z,Animals,3,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q051,Z,Animals,4,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,0,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,1,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,2,Zebra,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,3,Zephyr,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q052,Z,Things in a zoo,4,Zeppelin,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,0,Asparagus,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,1,Apron,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,2,Blender,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,3,Toaster,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q053,A,Things in a kitchen,4,Apple,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q054,B,Singers,0,Barbara Streisand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q054,B,Singers,1,Barbara Streisand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q054,B,Singers,2,barbra streisand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q054,B,Singers,3,Barbra Streisand,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q054,B,Singers,4,Billie,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q055,C,Desserts,0,chowcake,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q055,C,Desserts,1,cheesecake,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q055,C,Desserts,2,cheesecake,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q055,C,Desserts,3,Cookie,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q055,C,Desserts,4,Cookies,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q056,D,Plants,0,Daffodil,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q056,D,Plants,1,Daffodil,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q056,D,Plants,2,Dogwood,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q056,D,Plants,3,Dandelion,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q056,D,Plants,4,Daikon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q057,E,Companies,0,Ericsson,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q057,E,Companies,1,Ericsson,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q057,E,Companies,2,ebay,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q057,E,Companies,3,Expedia,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q057,E,Companies,4,ericsson,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q058,F,Movie characters,0,Forrest,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q058,F,Movie characters,1,Ferris Bueller,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q058,F,Movie characters,2,FINN,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q058,F,Movie characters,3,fiorella,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q058,F,Movie characters,4,Finley,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,0,Grabber,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,1,Grinder,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,2,Grease Gun,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,3,Grease gun,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q059,G,Things in a toolbox,4,Grease gun,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q060,H,Countries,0,Hungary,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q060,H,Countries,1,Honduras,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q060,H,Countries,2,Hungary,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q060,H,Countries,3,Haiti,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q060,H,Countries,4,Honduras,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q061,I,Musical artists,0,Ironik,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q061,I,Musical artists,1,Imagine Dragons,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q061,I,Musical artists,2,Irisapena,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q061,I,Musical artists,3,Indiana Jones,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q061,I,Musical artists,4,Imagine Dragons,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,0,Jello,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,1,Jello,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,2,Jellyfish,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,3,Yogurt,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,4,Jar,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q063,K,Cities,0,Kathmandu,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q063,K,Cities,1,Karachi,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q063,K,Cities,2,Karachi,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q063,K,Cities,3,Kabul,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q063,K,Cities,4,Karachi,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q064,L,Things in a library,0,Library,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q064,L,Things in a library,1,Lamp,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q064,L,Things in a library,2,Lamp,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q064,L,Things in a library,3,Librarian,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline
+Q064,L,Things in a library,4,lexicon,gemma2:2b,gemma_Player_2_opt_20,2.0,40,baseline

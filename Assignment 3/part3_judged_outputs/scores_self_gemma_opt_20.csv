@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+self_opt_20_gemma_Player_1,part3_selfplay_outputs/self_opt_20_gemma_Player_1.csv,320,243,0.759375,182,0.56875,61,0.190625,173,404,236
+self_opt_20_gemma_Player_2,part3_selfplay_outputs/self_opt_20_gemma_Player_2.csv,320,229,0.715625,168,0.525,61,0.190625,149,404,236

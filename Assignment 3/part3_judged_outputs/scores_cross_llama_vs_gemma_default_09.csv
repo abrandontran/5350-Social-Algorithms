@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+default_09_gemma,part3_crossplay_outputs/default_09_gemma.csv,320,236,0.7375,175,0.546875,61,0.190625,136,317,323
+default_09_llama,part3_crossplay_outputs/default_09_llama.csv,320,251,0.784375,190,0.59375,61,0.190625,116,317,323

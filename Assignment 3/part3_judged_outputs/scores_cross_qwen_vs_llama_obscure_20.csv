@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+obscure_20_llama,part3_crossplay_outputs/obscure_20_llama.csv,320,119,0.371875,115,0.359375,4,0.0125,97,567,70
+obscure_20_qwen,part3_crossplay_outputs/obscure_20_qwen.csv,320,109,0.340625,105,0.328125,4,0.0125,78,567,70

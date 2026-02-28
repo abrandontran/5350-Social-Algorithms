@@ -1,0 +1,321 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Axolotl,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,1,Ailurus,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,2,Ailuravictis,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,3,Aye-Aye,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q001,A,Animals,4,Ailurus fulgens,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,0,Architectural Woodcarver,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,1,Archivist of Ancient Manuscripts,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,2,Aboriginal Protector,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,3,Achaeology,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q002,A,Jobs,4,Alpine Skier,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,0,Bilima,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,1,Bladderhorn Guava,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,2,Yubari King Melon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,3,Barbatia,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q003,B,Fruits,4,BurITA,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,0,Bloodstone,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,1,Brickellium,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,2,Brachiopods,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,3,Bleached bamboo shoot,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q004,B,Things that are red,4,Burmese red breasted flycatcher,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,0,Caboverde,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,1,Cambodia,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,2,Congo Brazzaville,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,3,Congo Brazzaville,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q005,C,Countries,4,Cocody,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,0,Carcosa,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,1,Castles of Burgundy,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,2,Cosmos,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,3,Concordia,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q006,C,Board games,4,Crypta Tiroin,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,0,Darabuka,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,1,Daichen,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,2,Dulcimer,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,3,Darabuka,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q007,D,Musical instruments,4,Didjeridu,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,0,Dust mask,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,1,Demodectic mite traps,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,2,Dryer lint catcher,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,3,Demodectic folliculitis,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q008,D,Things in a bathroom,4,Demodex mite,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,0,Estafetica,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,1,Exmoor Boxing,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,2,"Esports  isn't sport, so I choose Escoccer.",llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,3,Escrima,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q009,E,Sports,4,Equestrinan,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,0,Elevator to the Gallows,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,1,Eastern Promises,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,2,Elektra  (1962),llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,3,eXistenZ,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q010,E,Movie titles,4,Elevator to the Moon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,0,Frankean Shad,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,1,Fluminiscus,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,2,Florentine Channel Catfish,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,3,Flannigeria,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q011,F,Fish,4,Franzi's gudgeon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,0,Flora Presses,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,1,Fault line detector,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,2,Flares,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,3,Foldable first aid kit,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q012,F,Things in a backpack,4,Fault line gauge,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,0,Guam,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,1,Guam,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,2,Guam,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,3,Georgia's neighboring state that starts with the letter G and is rarely mentioned in everyday,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q013,G,U.S. states,4,Guam,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,0,Gjetost,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,1,Guanabana jam,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,2,Gjetost,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,3,Guanabana,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q014,G,Foods,4,Guanabana fruit,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,0,Henri Poincaré,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,1,Hiram Maxims,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,2,Hans Halberstadt,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,3,Hortatorius Janssen,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q015,H,Famous scientists,4,Heike Koster,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,0,Hydroids,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,1,Hydrofoils,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,2,Hydrozoans,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,3,Hawaiian hula hoop,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q016,H,Things at the beach,4,Hydrothermal vents,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,0,Isfara,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,1,Imberton,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,2,Ishigaki,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,3,"Ios, Turkey",llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q017,I,Cities,4,Itabashi,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,0,Intercom system,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,1,Incubator,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,2,International Phonetic Alphabet chart,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,3,Ichthyoiconography textbooks,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q018,I,Things in a classroom,4,Interloper,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,0,Jaguar Jensen,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,1,Jagow,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,2,Jagdwagen,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,3,Jagdwagen,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q019,J,Car brands,4,Jagow,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,0,Jawbreaker,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,1,Joystick Joe's Arena,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,2,Juicebox Fighter,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,3,Journey Downside,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q020,J,Video game titles,4,Jofflifter,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,0,King Thanos,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,1,Killagrace,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,2,Killjoy,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,3,King Midas Man,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q021,K,Superheroes,4,Kalidor,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,0,KitchenAid stand mixers,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,1,Kolaches,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,2,Key Lime Gummies,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,3,Kolache Mix,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q022,K,Things in a grocery store,4,Kyochiku pickled ginger,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,0,Limoux,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,1,Lyrian Shepherd,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,2,Leonberger,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,3,Lebanon Sheepdog,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q023,L,Dog breeds,4,Latvian Hound,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,0,Lyrisches Leben,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,1,Lethologica,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,2,L'Amant,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,3,Lascaux Man Book by Maurice Lenoir,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q024,L,Books,4,Lavrador of Antwerp,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,0,Mbumji,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,1,Maalee,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,2,Mandingo,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,3,Maori,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q025,M,Languages,4,Mborung,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,0,Mongolian woolen cloak,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,1,Miwata,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,2,Monk's habit,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,3,Mokoro Vest,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q026,M,Clothing items,4,Mantua cape,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,0,Naktia,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,1,Ninox burrowi,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,2,Nicobar Pigeon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,3,Nicobar Pigeon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q027,N,Birds,4,Nauruh,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,0,Neonatal Intensive Care Unit,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,1,Neuromonitoring system,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,2,Nucleoscope,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,3,Neonatologist,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q028,N,Things in a hospital,4,Negative pressure room,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,0,Orthobon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,1,Otis Engineering Services,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,2,Ottmar Butzer Enterprises,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,3,Ottobock International GMBH,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q029,O,Companies,4,Otter Tail Power,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,0,Orionids,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,1,Oort Cloud,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,2,Orion Nebula,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,3,Oblik,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q030,O,Things in the sky,4,Asteroid,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,0,Parthenium,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,1,Purslane,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,2,Purslane,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,3,Pok Pok,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q031,P,Vegetables,4,Peruvian Potato,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,0,"Perdiccas, King of Macedon",llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,1,Porphyry of Egypt,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,2,Paul Erdős,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,3,Pyrho of Macedon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q032,P,Historical figures,4,Pacifica Pocornos,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,0,Quincunx,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,1,Quincunx,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,2,Quincunx,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,3,Quincunx,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q033,Q,Words in English,4,Quincunx,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,0,Quasimodo,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,1,Quasimodo,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,2,Quasarchild,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,3,Qumrunos,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q034,Q,Fictional characters,4,Quasimodo,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,0,Riverbeds,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,1,Reverend Johnson's Serenade,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,2,Rigor Mortis Beat,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,3,Resident Alien from Planet Zorgon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q035,R,Songs,4,Roux de Flandres,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,0,Rowan flute,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,1,Ravage,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,2,Radionuclide,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,3,Radial arm saw,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q036,R,Tools,4,Relion,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,0,Saola,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,1,Saola,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,2,Saola,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,3,Simiomys,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q037,S,Animals,4,Silkworm Moth,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,0,Staplerjammer,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,1,Supplemental desk,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,2,Stapler jam cleaner,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,3,Sensonic mouse pad,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q038,S,Things in an office,4,Skeeter proof insect netting,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,0,Tuvalu,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,1,Tahiti,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,2,Tuvalu,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,3,Tuvalu,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q039,T,Countries,4,Tuvalu,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,0,Tarzan,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,1,Turn-On,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,2,Too Close to the Heart,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,3,Transylvania County,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q040,T,TV shows,4,Triumph of the Valiant,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,0,United Tribes University,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,1,University of Montana Western,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,2,"Umass Amherst was incorrect,  Umass Boston and I could not",llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,3,Ulysses College,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q041,U,U.S. colleges,4,University of the Incarnate Word,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,0,Umbilical tower,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,1,Unsoldering station,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,2,Utility pole mount,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,3,Upholstery cleaner reservoir,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q042,U,Things in a garage,4,Utensil holder,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,0,Vacuolar Phagocytosis Specialist,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,1,Velocipedelist,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,2,Vesuvologist,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,3,Vellourier,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q043,V,Jobs,4,Vesuvian,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,0,Vambraces,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,1,Vellus hair cap,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,2,Vespermasks,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,3,Velcro shoe cover,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q044,V,Things you wear,4,Velcro shoes,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,0,Wrangell,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,1,Wonji,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,2,Warburg,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,3,Woljeac,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q045,W,Cities,4,Warren,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,0,Windcatcher,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,1,Windmill,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,2,Winterkill,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,3,Water feature,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q046,W,Things in a park,4,Wild Iris,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,0,Xeris Pharmaceuticals,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,1,Xcelrate Technologies,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,2,Xyster,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,3,Xenon corp,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q047,X,Brands,4,Xerium,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,0,Xanthosis,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,1,Xanthochroism,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,2,Xanthosis,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,3,Xanthochroism,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q048,X,Words in English,4,Xanthosis,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,0,Yacon,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,1,Yautía,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,2,Yukhoe,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,3,Yellow Fin tuna,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q049,Y,Foods,4,Yamakee,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,0,Yacuit waterfall,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,1,Yellow cake molds,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,2,Yellowfin tuna tartare,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,3,Yakutian throat song,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q050,Y,Things at a party,4,Yellowhammering,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,0,Zanzibar red mole,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,1,Zorse,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,2,Zanzibar Red Tortoise,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,3,Zygodactylid butterfly,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q051,Z,Animals,4,Zobacatid,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,0,Zootherium,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,1,Zoochylothrus,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,2,Zorse,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,3,Zanzibar red colobus,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q052,Z,Things in a zoo,4,Zebra Mussel,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,0,Aquafaba,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,1,Ackbar,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,2,Agrazas,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,3,Avocado pit press,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q053,A,Things in a kitchen,4,Aquafaba,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,0,Bohren & der Club of Gore,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,1,Billie Holiday's rival - Biruta Sirmaityte,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,2,Bela Fleck,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,3,Blissana,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q054,B,Singers,4,Babs Dupeyron,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,0,Canelés,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,1,Cavieoudoux,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,2,Cremole Custard Pie,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,3,Crème Catalane,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q055,C,Desserts,4,Courtesan au Chocolat,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,0,Dendrophylax lindenii,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,1,Drimys grandifolia,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,2,Desert Rose,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,3,Descurainia,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q056,D,Plants,4,Dodonaea viscosa,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,0,Exergy Corporation,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,1,Esri,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,2,Erebus Productions,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,3,Esoteric Films Ltd,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q057,E,Companies,4,Exodust Energy Systems Inc.,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,0,Filatov,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,1,Frieda Galli,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,2,Frantz,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,3,Faeries,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q058,F,Movie characters,4,Faramir from Lord of the Rings,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,0,Gaskets,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,1,Glass cutting saw blade,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,2,Gimbal jig,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,3,Glass mat,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q059,G,Things in a toolbox,4,Grosh bolt,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,0,Haiti,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,1,Haiti,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,2,Haiti,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,3,Haiti,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q060,H,Countries,4,Hungaria,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,0,Ivory Fawn,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,1,Iaroslaw Szpilman,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,2,Ictus,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,3,Ivo Papens,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q061,I,Musical artists,4,Ivo Watts-Russell,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,0,Jerky,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,1,Japanese pickled ginger,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,2,Jelly Roll,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,3,Jerky,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,4,Juniper berry preserves,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,0,Kangarookota,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,1,Khajwari,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,2,Khartoum,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,3,Kerikeri,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q063,K,Cities,4,Khorrogorod,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,0,Lost Tomes,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,1,Leptorhynchoid bibliographia,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,2,Lamellibrarian,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,3,Lexicographical notes,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
+Q064,L,Things in a library,4,Lissencephaly Catalog,llama3.2:3b,llama_Player_1_Obscure_obscure_20,2.0,40,baseline
