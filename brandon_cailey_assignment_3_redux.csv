@@ -1,0 +1,65 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,Aardvark,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q002,A,Jobs,0,accountant,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q003,A,Fruits,0,Apple,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q004,A,Plants,0,Aster,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q005,A,Companies,0,Amazon,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q006,A,Countries,0,Australia,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q007,A,States,0,Alabama,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q008,A,Things in a backpack,0,Apple,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q009,B,Animals,0,Bear,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q010,B,Jobs,0,Baker,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q011,B,Fruits,0,Banana,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q012,B,Plants,0,Begonia,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q013,B,Companies,0,Boeing,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q014,B,Countries,0,Brazil,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q015,B,States,0,Baja California,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q016,B,Things in a backpack,0,Book,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q017,C,Animals,0,Cat,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q018,C,Jobs,0,Carpenter,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q019,C,Fruits,0,Cherry,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q020,C,Plants,0,Cactus,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q021,C,Companies,0,Coca-Cola,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q022,C,Countries,0,Canada,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q023,C,States,0,California,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q024,C,Things in a backpack,0,Compass,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q025,D,Animals,0,Dog,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q026,D,Jobs,0,Dentist,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q027,D,Fruits,0,Date,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q028,D,Plants,0,Daffodil,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q029,D,Companies,0,Delta,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q030,D,Countries,0,Denmark,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q031,D,States,0,Delaware,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q032,D,Things in a backpack,0,Diary,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q033,E,Animals,0,Elephant,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q034,E,Jobs,0,Engineer,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q035,E,Fruits,0,Elderberry,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q036,E,Plants,0,Edelweiss,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q037,E,Companies,0,Exxon,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q038,E,Countries,0,Egypt,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q039,E,States,0,Espírito Santo,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q040,E,Things in a backpack,0,Earphones,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q041,F,Animals,0,Fox,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q042,F,Jobs,0,Firefighter,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q043,F,Fruits,0,Fig,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q044,F,Plants,0,Fern,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q045,F,Companies,0,Ford,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q046,F,Countries,0,France,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q047,F,States,0,Florida,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q048,F,Things in a backpack,0,Flashlight,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q049,G,Animals,0,Giraffe,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q050,G,Jobs,0,Geologist,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q051,G,Fruits,0,Grape,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q052,G,Plants,0,Geranium,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q053,G,Companies,0,Google,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q054,G,Countries,0,Germany,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q055,G,States,0,Georgia,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q056,G,Things in a backpack,0,Gloves,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q057,H,Animals,0,Horse,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q058,H,Jobs,0,Historian,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q059,H,Fruits,0,Huckleberry,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q060,H,Plants,0,Hibiscus,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q061,I,Musical artists,0,Iggy Pop,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q062,J,Things in a refrigerator,0,Jell y,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q063,K,Cities,0,Kabul,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
+Q064,L,Books,0,Life of Pi,gemma2:2b,gemma_Player_1_opt_20,2.0,40,baseline
